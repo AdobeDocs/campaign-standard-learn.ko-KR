@@ -9,9 +9,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 96cc4e9c52ed122e8c6fbbc7cd91f38c4ad98333
+source-git-commit: 6aa25917e32ca40af73ef33fbfd51c2b14902b04
 workflow-type: tm+mt
-source-wordcount: '528'
+source-wordcount: '522'
 ht-degree: 6%
 
 ---
@@ -83,7 +83,6 @@ ht-degree: 6%
       + [이메일 및 스팸 방지 분석 미리 보기](/help/designing-content/email-designer/preview-your-email.md)
       + [기존 컨텐츠 작업](/help/designing-content/email-designer/working-with-existing-content.md)
       + [Adobe Dreamweaver를 사용하여 컨텐츠 제작](/help/designing-content/email-designer/dreamweaver-integration.md)
-      + [Creative Cloud SDK를 사용하여 이미지 편집](/help/designing-content/email-designer/adobe-creative-cloud-sdk-integration.md)
    + [거래 이메일에서 제품 목록 구성](/help/designing-content/product-listings-in-transactional-email.md)
 + 프로세스 및 데이터 관리 {#managing-processes-and-data}
    + [워크플로우 만들기](/help/managing-processes-and-data/create-workflow.md)

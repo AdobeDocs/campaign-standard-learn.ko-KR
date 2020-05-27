@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
+source-git-commit: 58fd8bec8adfca14188ea66423c107a14253834e
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -39,4 +39,3 @@ ht-degree: 0%
 * [이메일 미리 보기](/help/designing-content/email-designer/preview-your-email.md)
 * [기존 컨텐츠 작업](/help/designing-content/email-designer/working-with-existing-content.md)
 * [Adobe Dreamweaver를 사용하여 컨텐츠 제작](/help/designing-content/email-designer/dreamweaver-integration.md)
-* [Adobe Creative Cloud SDK를 사용하여 이미지 편집](/help/designing-content/email-designer/adobe-creative-cloud-sdk-integration.md)

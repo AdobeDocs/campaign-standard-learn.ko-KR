@@ -9,9 +9,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 6aa25917e32ca40af73ef33fbfd51c2b14902b04
+source-git-commit: b6d8914043194c7589859d919c3a62c0035b5497
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '488'
 ht-degree: 6%
 
 ---
@@ -99,17 +99,6 @@ ht-degree: 6%
 + 개발 {#developing}
    + Custom Resources {#custom-resources-develop}
       + [사용자 지정 리소스 만들기](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
-+ 통합 {#integrating}
-   + Microsoft Dynamics 365 커넥터 {#microsoft-dynamics365-connector}
-      + [소개](/help/integrating/microsoft-dynamics-365-connector/introduction.md)
-      + [단일 사인온(SSO)](/help/integrating/microsoft-dynamics-365-connector/single-sign-on.md)
-      + [미러 페이지 URL 지원](/help/integrating/microsoft-dynamics-365-connector/mirror-page-url.md)
-      + [Microsoft Dynamics 365 구성](/help/integrating/microsoft-dynamics-365-connector/configure-microsoft-dynamics-365.md)
-      + [Adobe IO 구성](/help/integrating/microsoft-dynamics-365-connector/configure-adobe-io.md)
-      + [Unifi 구성 - 소개](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-introduction.md)
-      + [Unifi 작업 - 개요](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-jobs-overview.md)
-      + [통일 업무 - 수신 및 수신](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-jobs-ingress-egress.md)
-      + [통합 - 운영 및 모니터링](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-operalization-and-monitoring.md)
 + 관리 {#administrating}
    + [사용자 액세스 권한 관리](/help/administrating/managing-user-access-rights.md)
    + 컨트롤 패널 {#control-panel}

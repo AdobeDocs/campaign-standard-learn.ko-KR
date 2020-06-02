@@ -4,14 +4,15 @@ description: 이 비디오에서는 프로필 대체 기능을 사용하여 이�
 feature: Email
 topics: Channels
 kt: 4667
+MPCID: 32368
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: 786db4341c6fa2bc40a2d3aea51c31d44ca0df08
 workflow-type: tm+mt
 source-wordcount: '178'
-ht-degree: 6%
+ht-degree: 7%
 
 ---
 
@@ -30,7 +31,7 @@ ht-degree: 6%
 >
 >이 기능을 사용하면 프로필 개인 정보를 외부 이메일 주소로 보낼 수 있습니다. Campaign Standard에서 개인 정보 요청(GDPR 및 CPA)을 실행하면 외부에서 해당 요청이 실행되지 않습니다.
 
-## 추가 리소스
+## 추가 자료
 
 * [대상 프로필을 사용하여 메시지 테스트(설명서)](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
 * [A/B 테스트 이메일 디자인](/help/communication-channels/email/a-b-testing.md)

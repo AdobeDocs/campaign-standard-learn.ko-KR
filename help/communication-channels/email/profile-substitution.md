@@ -4,12 +4,12 @@ description: 이 비디오에서는 프로필 대체 기능을 사용하여 이�
 feature: Email
 topics: Channels
 kt: 4667
-thumbnail: 32368
+thumbnail: 32368.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 7a945efd6bd8fad28c89c71b8fc19c764f216be8
+source-git-commit: f04ac773029bf15ff445bf1c506a4234cf5060bb
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 7%

@@ -2,28 +2,28 @@
 title: 'UI 시작하기 '
 description: 이 비디오에서는 Adobe Campaign Standard 사용자 인터페이스와 주요 기능 및 핵심 기능에 대한 개요를 제공합니다.
 feature: User Interface
-topics: null
+topics: Getting started
 kt: 3882
+thumbnail: docs-campaign.png
 doc-type: feature video
 activity: understand
-team: WWFRE
+team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 617b150131cf24a6cf3e55933046a4dd0a339edc
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 0%
+source-wordcount: '81'
+ht-degree: 8%
 
 ---
 
 
 # UI 시작하기
 
-이 비디오에서는 Adobe Campaign Standard에 대한 개요를 알 수 있습니다.
-
-다음 작업을 수행할 수 있습니다.
-
-* Adobe Campaign Standard의 주요 기능 및 핵심 기능 이해
-* 시스템 내에서 탐색하는 방법
-* 홈 페이지 메뉴 이해
+이 비디오에서는 Adobe Campaign Standard 사용자 인터페이스에 대한 개요를 보고 주요 기능과 핵심 기능을 탐색하는 방법을 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/18469?quality=12)
+
+## 추가 자료
+
+* [인터페이스 기본 정보](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/discovering-the-interface/about-the-interface.html)
+* [인터페이스 설명](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/discovering-the-interface/interface-description.html)

@@ -1,6 +1,6 @@
 ---
 title: 컨트롤 패널 촬영 문제
-description: 제어판에서는 SFTP 저장소를 인스턴스와 허용 목록 IP 주소별로 모니터링하고 관리할 수 있습니다.
+description: 제어판에서는 SFTP 저장소를 인스턴스별로 모니터링 및 관리하고 목록 IP 주소를 허용합니다.
 feature: Control Panel
 topics: null
 kt: 2938
@@ -8,10 +8,10 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
 workflow-type: tm+mt
-source-wordcount: '335'
-ht-degree: 0%
+source-wordcount: '336'
+ht-degree: 1%
 
 ---
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 
 SFTP 서버에 연결하려면 다음이 필요합니다.
 
-* [!UICONTROL Whitelisting] SFTP 서버에 연결하는 IP 주소
+* [!UICONTROL allow listing] SFTP 서버에 연결하는 IP 주소
 * Adobe Campaign에 등록해야 하는 개인/공개 키 쌍
 * SFTP 서버에 직접 연결하는 경우 SFTP 클라이언트 소프트웨어도 필요합니다
 

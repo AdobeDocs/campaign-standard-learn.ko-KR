@@ -7,12 +7,12 @@ solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#reco
 tutorials-title: 튜토리얼
 tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 getting-started-title: 설명서
-getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html
+getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: a75ff01a4b3e4550ead4612407e101bef8df3aba
+source-git-commit: 837aeb12ed95929b291c25097a9e91e34fa5d4a6
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 6%
+source-wordcount: '495'
+ht-degree: 9%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 6%
    + [워크플로우 만들기](/help/managing-processes-and-data/create-workflow.md)
    + [보고 소개](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Adobe Campaign을 사용한 모바일 마케팅](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
-   + [Adobe Campaign을 통한 성장](/help/getting-started/growing-with-adobe-campaign.md)
+   + [Adobe Campaign을 통해 성장](/help/getting-started/growing-with-adobe-campaign.md)
 + 프로필 및 대상자 {#profiles-and-audiences}
    + [프로필 및 대상 만들기 - 개요](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [프로필 만들기](/help/profiles-and-audiences/creating-a-profile.md)
@@ -42,7 +42,7 @@ ht-degree: 6%
    + 대상 대상(베타){#audience-destinations}
       + [개요](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
       + [통합 세그먼트 빌더를 사용하여 새 대상 만들기](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-      + [워크플로우에서 Adobe Experience Platform 고객 활성화](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+      + [워크플로우에서 Adobe Experience Platform 대상 활성화](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [타깃팅 차원 변경](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + 소통 채널 {#communication-channels}
    + 이메일 {#email}
@@ -67,7 +67,7 @@ ht-degree: 6%
          + [인앱 메시지 소개](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [이벤트 구성](/help/communication-channels/mobile/in-app/configure-events.md)
          + [인앱 메시지 브로드캐스트](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md)
-         + [캠페인 프로필을 기반으로 사용자 타깃팅](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)
+         + [캠페인 프로필에 기반한 Target 사용자](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)
          + [워크플로우 내에서 인앱 전달 만들기](/help/communication-channels/mobile/in-app/in-app-activity.md)
          + [인앱 전달 보고서](/help/communication-channels/mobile/in-app/in-app-reporting.md)
       + [Adobe Experience Platform SDK를 사용하여 모바일 애플리케이션 구성](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
@@ -104,13 +104,14 @@ ht-degree: 6%
    + [사용자 액세스 권한 관리](/help/administrating/managing-user-access-rights.md)
    + 컨트롤 패널 {#control-panel}
       + [제어판 개요](/help/administrating/control-panel/control-panel-overview.md)
-      + [서버 용량 모니터링, 허용 IP 주소, SSH 키 추가](/help/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
+      + [서버 용량 모니터링, IP 주소 나열 허용 및 SSH 키 추가](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
       + [SSH 키 생성](/help/administrating/control-panel/generate-ssh-key.md)
       + [SFTP 서버에 연결](/help/administrating/control-panel/connect-to-sftp-server.md)
       + [하위 도메인 위임](/help/administrating/control-panel/subdomain-delegation.md)
       + [SSL 인증서 추가](/help/administrating/control-panel/adding-ssl-certificates.md)
       + [SSL 인증서 관리](/help/administrating/control-panel/managing-ssl-certificates.md)
       + [Google TXT 레코드 관리](/help/administrating/control-panel/google-txt-record-management.md)
+      + [GPG 키 생성 및 설치](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)
       + [문제 사격](/help/administrating/control-panel/trouble-shooting.md)
    + Adobe Experience Platform 데이터 커넥터 {adobe-experience-platform-data-connector}
       + [Adobe Experience Platform 데이터 커넥터 이해](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)

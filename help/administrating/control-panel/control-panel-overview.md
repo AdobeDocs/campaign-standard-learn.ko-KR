@@ -1,6 +1,6 @@
 ---
 title: 컨트롤 패널
-description: 제어판에서는 SFTP 저장소를 인스턴스와 허용 목록 IP 주소별로 모니터링하고 관리할 수 있습니다.
+description: 제어판에서는 SFTP 저장소를 인스턴스별로 모니터링 및 관리하고 목록 IP 주소를 허용합니다.
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: 4bbe44e592085428d0eaa588aa5e773c925ce3bb
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '361'
 ht-degree: 5%
 
 ---
@@ -18,7 +18,11 @@ ht-degree: 5%
 
 # [!UICONTROL Control Panel] {#control-panel}
 
-Adobe Campaign 관리자는 이 [!UICONTROL Control Panel] 를 통해 주요 자산을 모니터링하고 SFTP 저장 공간을 인스턴스별로 관리하거나 허용 목록 IP 주소를 관리하는 등의 관리 작업을 수행할 수 있습니다.
+>[!NOTE]
+>
+>&#39;[!UICONTROL whitelist]&#39; 및 &#39;[!UICONTROL blacklist]&#39;라는 용어가 Adobe Campaign 설명서에서 &#39;[!UICONTROL allow list]&#39;및 &#39;[!UICONTROL block list]&#39;로 대체되었습니다. 이러한 용어 중 일부는 제품 UI, 옵션 이름, 내부 코드 및 자습서 비디오에 여전히 존재할 수 있습니다. 향후 제어판 릴리스에서 대체됩니다.
+
+Adobe Campaign 관리자는 이 [!UICONTROL Control Panel] 를 통해 주요 자산을 모니터링하고 인스턴스 또는 [!UICONTROL allow list] IP 주소별 SFTP 저장소 관리와 같은 관리 작업을 수행할 수 있습니다.
 
 ## 액세스 [!UICONTROL Control Panel]
 
@@ -55,25 +59,34 @@ Adobe Campaign 관리자는 이 [!UICONTROL Control Panel] 를 통해 주요 자
 ## 제어판 자습서
 
 * **SFTP 서버 관리**
-   <br>
-   *서버 용량 모니터링, 허용 목록 IP 주소, SSH 키 추가 방법*
 
-   * [서버 용량 모니터링, 허용 IP 주소, SSH 키 추가](/help/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
+   *서버 용량을 모니터링하고, 목록 IP 주소를 허용하고, SSH 키를 추가하는 방법을 알아봅니다.*
+
+   * [서버 용량 모니터링, IP 주소 나열 허용 및 SSH 키 추가](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
    * [SSH 키 생성](/help/administrating/control-panel/generate-ssh-key.md)
    * [SFTP 서버에 연결](/help/administrating/control-panel/connect-to-sftp-server.md)
-* **[하위 도메인 위임](/help/administrating/control-panel/subdomain-delegation.md)**   <br>
+* **[하위 도메인 위임](/help/administrating/control-panel/subdomain-delegation.md)**
+
    *하위 도메인을 Adobe Campaign에 완전히 위임하는 방법 살펴보기*
-* **[SSL 인증서 추가](/help/administrating/control-panel/adding-ssl-certificates.md)**   <br>
+* **[SSL 인증서 추가](/help/administrating/control-panel/adding-ssl-certificates.md)**
+
    *하위 도메인 보안을 위해 SSL 인증서를 추가하는 방법에 대해 알아보십시오.*
-* **[SSL 인증서 관리](/help/administrating/control-panel/managing-ssl-certificates.md)**   <br>
+* **[SSL 인증서 관리](/help/administrating/control-panel/managing-ssl-certificates.md)**
+
    *하위 도메인의 SSL 인증서 상태 및 요청 갱신을 확인하는 방법을 알아봅니다.*
-* **[Google TXT 레코드 관리](/help/administrating/control-panel/google-txt-record-management.md)**   <br>
+* **[Google TXT 레코드 관리](/help/administrating/control-panel/google-txt-record-management.md)**
+
    *캠페인 제어판을 통해 GMAIL 주소로 이메일을 전송하는 데 사용되는 모든 하위 도메인에 Google TXT 사이트 확인 레코드를 추가하는 방법을 알아봅니다.*
 
-* **[문제 사격](/help/administrating/control-panel/trouble-shooting.md)**   <br>
+* **[GPG 키 생성 및 설치](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+
+   *지정된 인스턴스에 새 공개/비공개 GPG 키 쌍을 생성 및 설치하는 방법과 Adobe Campaign 인스턴스에 공개 키를 가져와 설치하는 방법을 알아봅니다.*
+
+* **[문제 사격](/help/administrating/control-panel/trouble-shooting.md)**
+
    *제어판 문제 해결 방법 이해*
 
 ## 추가 자료
 
-* [[!UICONTROL 제어판 도움말 센터]](https://docs.adobe.com/content/help/ko-KR/control-panel/using/control-panel-home.html)
+* [제어판 도움말 센터](https://docs.adobe.com/content/help/ko-KR/control-panel/using/control-panel-home.html)
 

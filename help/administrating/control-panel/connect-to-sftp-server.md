@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ SFTP 관리에 액세스하고 SFTP 서버에 연결하는 방법을 알아봅�
 
 SFTP 서버에 연결하려면 다음이 필요합니다.
 
-* [!!UICONTROL] SFTP 서버에 연결할 IP 주소 허용
+* [!!UICONTROL을 사용하면] SFTP 서버에 연결할 IP 주소를 나열할 수 있습니다
 * Adobe Campaign에 등록해야 하는 개인/공개 키 쌍
 * SFTP 서버에 직접 연결하는 경우 SFTP 클라이언트 소프트웨어도 필요합니다
 

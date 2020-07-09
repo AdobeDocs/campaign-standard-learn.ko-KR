@@ -9,10 +9,10 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 837aeb12ed95929b291c25097a9e91e34fa5d4a6
+source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '495'
-ht-degree: 9%
+source-wordcount: '514'
+ht-degree: 8%
 
 ---
 
@@ -111,7 +111,11 @@ ht-degree: 9%
       + [SSL 인증서 추가](/help/administrating/control-panel/adding-ssl-certificates.md)
       + [SSL 인증서 관리](/help/administrating/control-panel/managing-ssl-certificates.md)
       + [Google TXT 레코드 관리](/help/administrating/control-panel/google-txt-record-management.md)
-      + [GPG 키 생성 및 설치](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)
+      + GPG 키 관리 {#gpg-key-management}
+         + [GPG 키 관리 - 개요](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
+         + [데이터 암호화에 대한 GPG 키 생성 및 설치](/help/administrating/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+         + [GPG 키를 사용하여 데이터 암호화](/help/administrating/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+         + [데이터 암호 해독](/help/administrating/control-panel/gpg-key-management/decrypting-data.md)
       + [문제 사격](/help/administrating/control-panel/trouble-shooting.md)
    + Adobe Experience Platform 데이터 커넥터 {adobe-experience-platform-data-connector}
       + [Adobe Experience Platform 데이터 커넥터 이해](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)

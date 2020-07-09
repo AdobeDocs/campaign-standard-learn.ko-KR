@@ -1,6 +1,6 @@
 ---
 title: 컨트롤 패널
-description: 제어판에서는 SFTP 저장소를 인스턴스별로 모니터링 및 관리하고 목록 IP 주소를 허용합니다.
+description: 제어판에서는 인스턴스 및 허용 목록 IP 주소별로 SFTP 저장소를 모니터링하고 관리할 수 있습니다.
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 4bbe44e592085428d0eaa588aa5e773c925ce3bb
+source-git-commit: db20c4e6aeb10dc04a6c4556fefaa8cd18366c44
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '386'
 ht-degree: 5%
 
 ---
@@ -60,7 +60,7 @@ Adobe Campaign 관리자는 이 [!UICONTROL Control Panel] 를 통해 주요 자
 
 * **SFTP 서버 관리**
 
-   *서버 용량을 모니터링하고, 목록 IP 주소를 허용하고, SSH 키를 추가하는 방법을 알아봅니다.*
+   *서버 용량, 허용 목록 IP 주소를 모니터링하고 SSH 키를 추가하는 방법을 알아봅니다.*
 
    * [서버 용량 모니터링, IP 주소 나열 허용 및 SSH 키 추가](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
    * [SSH 키 생성](/help/administrating/control-panel/generate-ssh-key.md)
@@ -78,9 +78,13 @@ Adobe Campaign 관리자는 이 [!UICONTROL Control Panel] 를 통해 주요 자
 
    *캠페인 제어판을 통해 GMAIL 주소로 이메일을 전송하는 데 사용되는 모든 하위 도메인에 Google TXT 사이트 확인 레코드를 추가하는 방법을 알아봅니다.*
 
-* **[GPG 키 생성 및 설치](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+* **GPG 키 관리**
 
-   *지정된 인스턴스에 새 공개/비공개 GPG 키 쌍을 생성 및 설치하는 방법과 Adobe Campaign 인스턴스에 공개 키를 가져와 설치하는 방법을 알아봅니다.*
+   *아웃바운드 데이터의 암호화를 위해 지정된 캠페인 인스턴스에 공개/비공개 키 쌍을 생성 및 설치하고 인바운드 데이터의 암호 해독을 위해 캠페인 인스턴스에 공개 키를 가져와 설치하는 방법을 알아봅니다.*
+
+   * [데이터 암호화에 대한 GPG 키 생성 및 설치](./gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+   * [GPG 키를 사용하여 데이터 암호화](./gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+   * [데이터 암호 해독](./gpg-key-management/decrypting-data.md)
 
 * **[문제 사격](/help/administrating/control-panel/trouble-shooting.md)**
 

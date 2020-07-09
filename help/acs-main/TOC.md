@@ -9,9 +9,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
+source-git-commit: 7f43a2a89428bc3b087ebb40a65d610bd9eb3f5b
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '503'
 ht-degree: 8%
 
 ---
@@ -57,7 +57,6 @@ ht-degree: 8%
    + 모바일 {#mobile}
       + SMS{#sms}
          + [SMS 전달 만들기](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [다국어 이메일 및 SMS 전달 만들기](/help/communication-channels/create-multilingual-deliveries.md)
          + [기존 이메일, SMS 전달 또는 템플릿을 다국어 버전으로 변환](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + Push Notifications {#push}
          + [푸시 알림 만들기](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
@@ -87,7 +86,6 @@ ht-degree: 8%
    + [거래 이메일에서 제품 목록 구성](/help/designing-content/product-listings-in-transactional-email.md)
 + 프로세스 및 데이터 관리 {#managing-processes-and-data}
    + [워크플로우 만들기](/help/managing-processes-and-data/create-workflow.md)
-   + [워크플로우를 통해 프로필 가져오기](/help/managing-processes-and-data/importing-profiles.md)
    + Execution Activities {#execution-activities}
       + [외부 신호 활동](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Data Management Activities {#data-management-activities}

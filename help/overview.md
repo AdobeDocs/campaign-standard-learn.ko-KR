@@ -3,9 +3,9 @@ title: Adobe Campaign Standard 자습서 - 개요
 description: Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적인 캠페인 운영, 실시간 상호 작용 관리 및 크로스 채널 실행 환경을 제공합니다. 이 사용자 안내서에는 Adobe Campaign Standard의 다양한 기능과 기능에 대한 비디오 및 자습서가 포함되어 있습니다.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: dc7295c80b8c4ef3d641baf885d50ee55d4f5197
+source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '308'
 ht-degree: 4%
 
 ---
@@ -17,9 +17,9 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 ## 새로운 기능
 
-* **[제어판 - GPG 키 생성 및 설치](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+* **[GPG 키 관리](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *지정된 인스턴스에 새 공개/비공개 GPG 키 쌍을 생성 및 설치하는 방법과 Adobe Campaign 인스턴스에 공개 키를 가져와 설치하는 방법을 알아봅니다.*
+   *아웃바운드 데이터의 암호화를 위해 지정된 캠페인 인스턴스에 공개/비공개 키 쌍을 생성 및 설치하고 인바운드 데이터의 암호 해독을 위해 캠페인 인스턴스에 공개 키를 가져와 설치하는 방법을 알아봅니다.*
 
 * **[외부 API 활동](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
 

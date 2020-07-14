@@ -1,6 +1,6 @@
 ---
 title: 이벤트 구성
-description: 'Adobe Campaign Standard(ACS) 이벤트에서 인앱 메시지를 구성할 때 메시지가 표시되도록 트리거할 사용자 시작 작업을 정의합니다. '
+description: 'Adobe Campaign Standard(ACS) 이벤트에서 인앱 메시지를 구성할 때 메시지가 표시되도록 트리거하는 사용자 시작 작업을 정의합니다. '
 feature: In-App
 topics: Mobile
 kt: 2548
@@ -10,8 +10,8 @@ team: TM
 translation-type: tm+mt
 source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
 workflow-type: tm+mt
-source-wordcount: '222'
-ht-degree: 0%
+source-wordcount: '220'
+ht-degree: 1%
 
 ---
 
@@ -59,8 +59,8 @@ Adobe Campaign [!UICONTROL events] 에서 구성해야 합니다. 다음 비디�
 
 >[!NOTE]
 >
->[!UICONTROL Analytics events] Adobe Analytics 라이선스가 필요합니다. 구성된 [[!DNL Analytics] 확장](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) 프로그램이 있고 [Analytics를 앱에](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)추가하면 ACS의 [!UICONTROL In-App] 구성에서 이러한 이벤트를 사용할 수 있게 됩니다.
+>[!UICONTROL Analytics events] Adobe Analytics 라이선스가 필요합니다. 익스텐션을 구성하고 [[!DNL Analytics] Analytics을 앱에](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) 추가하면 [ACS의](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)구성에서 이러한 이벤트를 사용할 수 [!UICONTROL In-App] 있게 됩니다.
 
-## 추가 리소스
+## 추가 자료
 
 * [라이프사이클 지표 활성화(설명서)](https://aep-sdks.gitbook.io/docs/getting-started/initialize-the-sdk#enable-lifecycle-metrics)

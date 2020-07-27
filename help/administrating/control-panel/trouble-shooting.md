@@ -8,15 +8,15 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
+source-git-commit: 2f0527f3d9e2248eea68079e00855cce7a96fce4
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '327'
 ht-degree: 1%
 
 ---
 
 
-# [!UICONTROL Campaign 컨트롤 패널}을(를) 촬영하는 동안 문제가 발생했습니다.
+# 문제 [!UICONTROL Control Panel]
 
 Campaign 컨트롤 패널 사용 시 문제를 해결하는 방법을 알아봅니다.
 

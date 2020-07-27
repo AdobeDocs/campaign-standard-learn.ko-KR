@@ -1,6 +1,6 @@
 ---
-title: 컨트롤 패널 촬영 문제
-description: 제어판에서는 SFTP 저장소를 인스턴스별로 모니터링 및 관리하고 목록 IP 주소를 허용합니다.
+title: Campaign 컨트롤 패널을 촬영하는 데 문제가 있습니다.
+description: Campaign 컨트롤 패널을 사용하면 인스턴스 및 허용 목록 IP 주소별로 SFTP 저장소를 모니터링하고 관리할 수 있습니다.
 feature: Control Panel
 topics: null
 kt: 2938
@@ -10,15 +10,15 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '330'
 ht-degree: 1%
 
 ---
 
 
-# [!UICONTROL Control Panel}을(를) 촬영하는 동안 문제가 발생했습니다.
+# [!UICONTROL Campaign 컨트롤 패널}을(를) 촬영하는 동안 문제가 발생했습니다.
 
-제어판 사용 시 문제를 해결하는 방법을 알아봅니다.
+Campaign 컨트롤 패널 사용 시 문제를 해결하는 방법을 알아봅니다.
 
 ## 로그인 및 홈 페이지
 
@@ -55,8 +55,8 @@ ht-degree: 1%
 
 ### 유용한 설명서
 
-* [[!UICONTROL 제어판]](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
-* [[!UICONTROL 제어판]에 대한 권한 관리](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
+* [Discover the [!UICONTROL Control Panel]](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
+* [에 대한 권한 관리 [!UICONTROL Control Panel]](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
 
 ## SFTP 서버에 연결 설정(클라이언트 또는 API)
 

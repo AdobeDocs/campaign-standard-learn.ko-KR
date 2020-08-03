@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## 기존 HTML 콘텐츠가 호환되도록 만들기 {#making-existing-html-content-compatible}
 
-이메일 디자이너는 특정 태깅을 필요로 하며, 이를 적용하여 표준 HTML 컨텐츠를 Adobe Campaign에 완벽하게 호환되고 편집할 수 있도록 해야 합니다.
+이메일 디자이너는 표준 HTML 컨텐츠를 Adobe Campaign에 업로드하여 완전히 호환되고 편집할 수 있도록 적용해야 하는 특정 태깅을 필요로 합니다.
 
 다음 링크에서 자세한 설명서를 찾을 수 있습니다.
 

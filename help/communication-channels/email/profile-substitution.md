@@ -4,7 +4,7 @@ description: 이 비디오에서는 프로필 대체 기능을 사용하여 이�
 feature: Email
 topics: Channels
 kt: 4667
-thumbnail: 32368.jpg
+thumbnail: 32368
 doc-type: feature video
 activity: use
 team: TM
@@ -29,7 +29,7 @@ ht-degree: 7%
 
 >[!IMPORTANT]
 >
->이 기능을 사용하면 프로필 개인 정보를 외부 이메일 주소로 보낼 수 있습니다. Campaign Standard에서 개인 정보 요청(GDPR 및 CPA)을 실행하면 외부에서 해당 요청이 실행되지 않습니다.
+>이 기능을 사용하면 프로필 개인 정보를 외부 이메일 주소로 보낼 수 있습니다. Campaign Standard에서 개인 정보 요청(GDPR 및 CPA)을 실행하면 해당 요청이 외부에서 실행되지 않습니다.
 
 ## 추가 자료
 

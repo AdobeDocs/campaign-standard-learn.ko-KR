@@ -10,13 +10,13 @@ team: PM
 translation-type: tm+mt
 source-git-commit: 2f0527f3d9e2248eea68079e00855cce7a96fce4
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '330'
 ht-degree: 1%
 
 ---
 
 
-# 문제 [!UICONTROL Control Panel]
+# [!UICONTROL Campaign 컨트롤 패널}을(를) 촬영하는 동안 문제가 발생했습니다.
 
 Campaign 컨트롤 패널 사용 시 문제를 해결하는 방법을 알아봅니다.
 
@@ -24,7 +24,7 @@ Campaign 컨트롤 패널 사용 시 문제를 해결하는 방법을 알아봅�
 
 로그인 및 홈 페이지에서 발생하는 문제
 
-### 증상: Adobe Experience Cloud에 로그인할 수 없습니다.
+### 증상: Adobe Experience Cloud에 로그인할 수 없음
 
 **방법:**
 사용자가 [!DNL IMS Org ID] (xxx)을 찾아야 합니다. 관리자는 관리할 각 인스턴스에 [!UICONTROL product profile] 사용자를 추가해야 [!DNL “Campaign-xxx-Admins”] 합니다. 사용자가 모든 인스턴스의 관리자인 경우에도 사용자를 다른 이름으로 추가해야 할 수 있습니다 *[!UICONTROL user]*.

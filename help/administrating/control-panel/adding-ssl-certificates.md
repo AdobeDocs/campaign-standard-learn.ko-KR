@@ -1,6 +1,6 @@
 ---
 title: SSL 인증서 추가
-description: Adobe Campaign 제어판을 사용하면 하위 도메인 보안을 위해 SSL 인증서를 추가할 수 있습니다.
+description: Adobe Campaign Campaign 컨트롤 패널을 사용하면 하위 도메인 보안을 위해 SSL 인증서를 추가할 수 있습니다.
 feature: Control Panel
 topics: null
 kt: 4219
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
@@ -57,7 +57,7 @@ SSL 인증서를 가져온 후에는 보안을 설정하려는 하위 도메인�
 
 *SSL 인증서 설치(01분 25초)*
 
-## 추가 리소스
+## 추가 자료
 
 * [하위 도메인 위임](/help/administrating/control-panel/subdomain-delegation.md)
-* [하위 도메인 및 인증서 - 설명서](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+* [하위 도메인 및 인증서 - 설명서](https://docs.adobe.com/content/help/ko-KR/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)

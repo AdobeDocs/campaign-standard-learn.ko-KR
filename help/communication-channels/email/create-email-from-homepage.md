@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23721?quality=12)
 
-## 추가 리소스
+## 추가 자료
 
 * [워크플로우를 통해 이메일 만들기 및 보내기](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
 * [이메일 만들기(설명서)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-an-email.html)

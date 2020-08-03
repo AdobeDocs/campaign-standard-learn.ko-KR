@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
@@ -24,6 +24,6 @@ Adobe Campaign의 [!UICONTROL A/B Test] 기능을 사용하면 2-3개의 이메�
 
 >[!VIDEO](https://video.tv.adobe.com/v/18480?quality=12)
 
-## 추가 리소스
+## 추가 자료
 
 * [A/B 테스트 이메일 디자인](https://docs.adobe.com/help/en/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html)

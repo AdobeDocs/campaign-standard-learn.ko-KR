@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '53'
-ht-degree: 13%
+ht-degree: 16%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 13%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23021?quality=12)
 
-## 추가 리소스
+## 추가 자료
 
 * [동적 보고서 만들기](/help/reporting/creating-a-dynamic-report.md)
 * [사용자 지정 프로필 속성을 사용하여 동적 보고서 만들기](/help/reporting/custom-profile-attributes-dynamic-reports.md)

@@ -1,6 +1,6 @@
 ---
 title: '인앱 메시지 브로드캐스트 '
-description: Adobe Campaign Standard(ACS)를 사용하여 모바일 앱의 모든 사용자를 타깃팅할 수 있는 인앱 메시지 템플릿
+description: 인앱 브로드캐스트 메시지 템플릿을 사용하면 ACS(Adobe Campaign Standard)을 통해 모바일 앱의 모든 사용자를 타깃팅할 수 있습니다
 feature: In-App
 topics: Mobile
 kt: 2497
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -28,7 +28,7 @@ Adobe Campaign에 프로필 정보가 있는지 여부에 관계없이 모바일
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12)
 *In-App 브로드캐스트 메시지 만들기[!UICONTROL SDKV5 Mobile property]*
 
-## 추가 리소스
+## 추가 자료
 
 * [인앱 메시지 준비 및 보내기(설명서)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html)
 * [인앱 메시지 사용자 지정(설명서)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html)

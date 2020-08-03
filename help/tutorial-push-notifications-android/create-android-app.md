@@ -1,6 +1,6 @@
 ---
 title: 1단계 - Android 앱 만들기 및 Firebase 클라우드 메시지 사용을 위한 구성
-description: 이 부분에서는 Adobe Campaign Standard에서 보낸 [!UICONTROL 푸시 알림]을 수신할 [!DNL Android] 앱을 만듭니다. 푸시 알림을 수신하려면 앱을 Google의 [!DNL Firebase Cloud Service]에 등록해야 합니다.
+description: 이 부분에서는 Adobe Campaign Standard [!DNL Android] App to receive [!UICONTROL Push notifications] 에서 컨텐츠를 만들 것입니다. 푸시 알림을 수신하려면 앱을 Google에 등록해야 합니다 [!DNL Firebase Cloud Service].
 feature: Push
 topics: Mobile
 kt: 4825
@@ -10,7 +10,7 @@ team: TM
 translation-type: tm+mt
 source-git-commit: afe1ae6c8d73b7b776e0eec327fa16db76c23ce1
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '316'
 ht-degree: 1%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # 1단계 - 앱 [!DNL Android] 만들기 및 [!DNL Firebase Cloud Messaging]
 
-이 부분에서는 Adobe Campaign Standard에서 [!DNL Android] [!UICONTROL Push notifications] 보낸 수신용 앱을 만듭니다. 푸시 알림을 수신하려면 앱을 Google에 등록해야 합니다 [!DNL Firebase Cloud Service].
+이 부분에서 Adobe Campaign Standard에서 보낸 [!DNL Android] 앱을 [!UICONTROL Push notifications] 수신하게 됩니다. 푸시 알림을 수신하려면 앱을 Google에 등록해야 합니다 [!DNL Firebase Cloud Service].
 
 1. 계정에 [!DNL Firebase] 로그인합니다.
 
@@ -42,13 +42,13 @@ ht-degree: 1%
    ![android-project-structure](assets/android-project-structure.PNG)
 
 8. 클릭 **[!UICONTROL Tools]** > **[!UICONTROL Firebase].**(프로젝트를[!DNL Firebase]
-9. 클릭 **[!UICONTROL Set up Firebase Cloud Messaging].**
+9. **[!UICONTROL Set up Firebase Cloud Messaging]을 클릭합니다.**
 
    ![설치 파이어베이스](assets/android-project-firebase-messaging.PNG)
 
-10. 클릭 **[!UICONTROL Connect to Firebase].**
+10. **[!UICONTROL Connect to Firebase]을 클릭합니다.**
 11. 앱이 Firebase에 연결되면 을 클릭합니다 **[!UICONTROL Add FCM to your app].**
-12. 클릭 **[!UICONTROL Accept Changes].**
+12. **[!UICONTROL Accept Changes]을 클릭합니다.**
 
    앱에 FCM을 추가하는 경우 프로젝트를 변경하려면 마법사에 권한이 있어야 합니다.
 
@@ -58,7 +58,7 @@ ht-degree: 1%
 
 ![[!DNL fcm-successfull]](assets/android-firebase-success.PNG)
 
-[프로젝트가 [!DNL Firebase]콘솔에 나열되는지 확인하십시오.](https://console.firebase.google.com/)
+[프로젝트가 콘솔 내에 [!DNL Firebase ]나열되는지 확인합니다.](https://console.firebase.google.com/)
 
 ## 설정 [!UICONTROL Push Channel] 구성
 
@@ -83,4 +83,4 @@ ht-degree: 1%
 
 ![push-channel-settings](assets/push-channel-settings.PNG)
 
-요약하자면, Adobe는 이 [!DNL Android App] 를 제작하고 [!DNL Android App] 와 연결시켰습니다 [!DNL Firebase]. 그런 다음 Adobe Campaign Standard의 모바일 앱에 [!DNL Android App] [!DNL Android] 앱의 서버 키를 붙여넣어 Adobe Campaign의 모바일 앱을 연결했습니다.
+요약하자면, Adobe는 이 [!DNL Android App] 를 제작하고 [!DNL Android App] 와 연결시켰습니다 [!DNL Firebase]. 그런 다음 Adobe Campaign Standard의 모바일 앱에 앱의 서버 키 [!DNL Android App] 를 붙여넣어 Adobe Campaign의 [!DNL Android] 모바일 앱을 연결했습니다.

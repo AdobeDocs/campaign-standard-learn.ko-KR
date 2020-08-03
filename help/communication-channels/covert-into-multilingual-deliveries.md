@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23251?quality=12)
 
-## 추가 리소스
+## 추가 자료
 
 * [다국어 이메일 만들기(설명서)](https://helpx.adobe.com/campaign/standard/channels/using/creating-a-multilingual-email.html)

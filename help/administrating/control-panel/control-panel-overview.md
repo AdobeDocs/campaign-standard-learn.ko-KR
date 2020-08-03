@@ -1,6 +1,6 @@
 ---
 title: 컨트롤 패널
-description: 제어판에서는 인스턴스 및 허용 목록 IP 주소별로 SFTP 저장소를 모니터링하고 관리할 수 있습니다.
+description: Campaign 컨트롤 패널을 사용하면 인스턴스 및 허용 목록 IP 주소별로 SFTP 저장소를 모니터링하고 관리할 수 있습니다.
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -20,13 +20,13 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->&#39;[!UICONTROL whitelist]&#39; 및 &#39;[!UICONTROL blacklist]&#39;라는 용어가 Adobe Campaign 설명서에서 &#39;[!UICONTROL allow list]&#39;및 &#39;[!UICONTROL block list]&#39;로 대체되었습니다. 이러한 용어 중 일부는 제품 UI, 옵션 이름, 내부 코드 및 자습서 비디오에 여전히 존재할 수 있습니다. 향후 제어판 릴리스에서 대체됩니다.
+>&#39;[!UICONTROL whitelist]&#39; 및 &#39;[!UICONTROL blacklist]&#39;라는 용어가 Adobe Campaign 설명서에서 &#39;[!UICONTROL allow list]&#39;및 &#39;[!UICONTROL block list]&#39;로 대체되었습니다. 이러한 용어 중 일부는 제품 UI, 옵션 이름, 내부 코드 및 자습서 비디오에 여전히 존재할 수 있습니다. 향후 Campaign 컨트롤 패널 릴리스에서 교체될 예정입니다.
 
 Adobe Campaign 관리자는 이 [!UICONTROL Control Panel] 를 통해 주요 자산을 모니터링하고 인스턴스 또는 [!UICONTROL allow list] IP 주소별 SFTP 저장소 관리와 같은 관리 작업을 수행할 수 있습니다.
 
 ## 액세스 [!UICONTROL Control Panel]
 
-제어판에 액세스하려면 Experience Cloud 홈으로 이동합니다. [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+Campaign 컨트롤 패널에 액세스하려면 Experience Cloud 홈으로 이동합니다. [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
@@ -56,7 +56,7 @@ Adobe Campaign 관리자는 이 [!UICONTROL Control Panel] 를 통해 주요 자
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 *제품 프로필 &quot;[!UICONTROL Administrators]&quot;에 관리자를 추가하여 사용할 수 있는 방법[!UICONTROL Control Panel](01:03분)*
 
-## 제어판 자습서
+## Campaign 컨트롤 패널 Tutorials
 
 * **SFTP 서버 관리**
 
@@ -76,7 +76,7 @@ Adobe Campaign 관리자는 이 [!UICONTROL Control Panel] 를 통해 주요 자
    *하위 도메인의 SSL 인증서 상태 및 요청 갱신을 확인하는 방법을 알아봅니다.*
 * **[Google TXT 레코드 관리](/help/administrating/control-panel/google-txt-record-management.md)**
 
-   *캠페인 제어판을 통해 GMAIL 주소로 이메일을 전송하는 데 사용되는 모든 하위 도메인에 Google TXT 사이트 확인 레코드를 추가하는 방법을 알아봅니다.*
+   *캠페인 Campaign 컨트롤 패널을 통해 GMAIL 주소로 이메일을 전송하는 데 사용되는 모든 하위 도메인에 Google TXT 사이트 확인 레코드를 추가하는 방법을 알아봅니다.*
 
 * **GPG 키 관리**
 
@@ -88,9 +88,9 @@ Adobe Campaign 관리자는 이 [!UICONTROL Control Panel] 를 통해 주요 자
 
 * **[문제 사격](/help/administrating/control-panel/trouble-shooting.md)**
 
-   *제어판 문제 해결 방법 이해*
+   *Campaign 컨트롤 패널 문제 해결 방법 이해*
 
 ## 추가 자료
 
-* [제어판 도움말 센터](https://docs.adobe.com/content/help/ko-KR/control-panel/using/control-panel-home.html)
+* [Campaign 컨트롤 패널 도움말 센터](https://docs.adobe.com/content/help/ko-KR/control-panel/using/control-panel-home.html)
 

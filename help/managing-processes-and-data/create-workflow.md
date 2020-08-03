@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -29,6 +29,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23937?quality=12)
 
-## 추가 리소스
+## 추가 자료
 
 * [워크플로우 및 데이터 관리 정보](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/about-workflows-and-data-management/discovering-workflows.html)

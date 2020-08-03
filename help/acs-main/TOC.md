@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: Adobe Campaign Standard 자습서
+user-guide-title: Adobe Campaign Standard Tutorials
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
@@ -11,7 +11,7 @@ getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-standard
 translation-type: tm+mt
 source-git-commit: 7f43a2a89428bc3b087ebb40a65d610bd9eb3f5b
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '529'
 ht-degree: 8%
 
 ---
@@ -37,7 +37,7 @@ ht-degree: 8%
    + [프로필 및 대상 만들기 - 개요](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [프로필 만들기](/help/profiles-and-audiences/creating-a-profile.md)
    + [테스트 프로필 만들기](/help/profiles-and-audiences/test-profiles.md)
-   + [워크플로우를 통해 프로파일 가져오기](/help/managing-processes-and-data/importing-profiles.md)
+   + [워크플로우를 통해 프로필 가져오기](/help/managing-processes-and-data/importing-profiles.md)
    + [서비스 및 구독 관리](/help/managing-processes-and-data/services-and-subscriptions.md)
    + 대상 대상(베타){#audience-destinations}
       + [개요](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
@@ -57,6 +57,7 @@ ht-degree: 8%
    + 모바일 {#mobile}
       + SMS{#sms}
          + [SMS 전달 만들기](/help/communication-channels/mobile/sms/sms-delivery.md)
+         + [다국어 이메일 또는 SMS 전달](/help/communication-channels/create-multilingual-deliveries.md)
          + [기존 이메일, SMS 전달 또는 템플릿을 다국어 버전으로 변환](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + Push Notifications {#push}
          + [푸시 알림 만들기](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
@@ -82,10 +83,11 @@ ht-degree: 8%
       + [모바일 보기 구성](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [이메일 및 스팸 방지 분석 미리 보기](/help/designing-content/email-designer/preview-your-email.md)
       + [기존 컨텐츠 작업](/help/designing-content/email-designer/working-with-existing-content.md)
-      + [Adobe Dreamweaver를 사용하여 컨텐츠 제작](/help/designing-content/email-designer/dreamweaver-integration.md)
+      + [Adobe Dreamweaver을 사용하여 컨텐츠 만들기](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [거래 이메일에서 제품 목록 구성](/help/designing-content/product-listings-in-transactional-email.md)
 + 프로세스 및 데이터 관리 {#managing-processes-and-data}
    + [워크플로우 만들기](/help/managing-processes-and-data/create-workflow.md)
+   + [워크플로우를 통해 프로필 가져오기](/help/managing-processes-and-data/importing-profiles.md)
    + Execution Activities {#execution-activities}
       + [외부 신호 활동](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Data Management Activities {#data-management-activities}
@@ -101,7 +103,7 @@ ht-degree: 8%
 + 관리 {#administrating}
    + [사용자 액세스 권한 관리](/help/administrating/managing-user-access-rights.md)
    + 컨트롤 패널 {#control-panel}
-      + [제어판 개요](/help/administrating/control-panel/control-panel-overview.md)
+      + [Campaign 컨트롤 패널 개요](/help/administrating/control-panel/control-panel-overview.md)
       + [서버 용량 모니터링, IP 주소 나열 허용 및 SSH 키 추가](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
       + [SSH 키 생성](/help/administrating/control-panel/generate-ssh-key.md)
       + [SFTP 서버에 연결](/help/administrating/control-panel/connect-to-sftp-server.md)
@@ -131,3 +133,5 @@ ht-degree: 8%
    + [개인 정보 요청에 대한 사용자 지정 리소스 수정](/help/privacy/custom-resources-for-privacy-requests.md)
    + [개인 정보 요청 수동 생성 및 추적](/help/privacy/create-and-track-privacy-requests.md)
    + [개인 정보 요청 실행](/help/privacy/execute-privacy-requests.md)
++ [Adobe Campaign 제공 능력 우수 사례 가이드](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
+

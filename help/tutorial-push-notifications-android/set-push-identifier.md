@@ -88,7 +88,7 @@ MobileCore.lifecyclePause();
 
 * 녹색 화살표를 클릭하여 앱을 실행하거나 선택합니다 **[!DNL Run->Run'app']**.
 * 에뮬레이터가 [!DNL Android] 시작되어야 하며 [!DNL "Hello World" ]텍스트가 포함된 앱이 실행 중인 것을 볼 수 있습니다.
-* 창을 [!DNL logcat] 엽니다. &quot;[!DNL Got]&quot;를 검색합니다. 아래와 같이 로그로 [!DNL Firebase] 보낸 토큰을 확인해야 합니다. &quot;[!DNL Got token]&quot; 뒤의 긴 문자열은 Adobe Campaign [!DNL pushidentifier ]으로 전송되는 문자열입니다.
+* 창을 [!DNL logcat] 엽니다. &quot;[!DNL Got]&quot;를 검색합니다. 아래와 같이 로그로 [!DNL Firebase] 보낸 토큰을 확인해야 합니다. &quot;[!DNL Got token]&quot; 뒤에 오는 긴 문자열은 Adobe Campaign [!DNL pushidentifier ]로 전송되는 문자열입니다.
 
 ![logcat token](assets/logcat-got-token.PNG)
 
@@ -100,4 +100,5 @@ Adobe Campaign Standard 인스턴스에 로그인합니다.
 ![모바일 애플리케이션 구독자](assets/mobile-application-subscribers.PNG)
 
 >[참고]
+>
 >더 이상 진행하기 전에 여기 STOP [!UICONTROL Mobile Application Subscribers] 탭에 등록 토큰이 표시되지 않는 경우

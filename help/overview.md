@@ -1,11 +1,11 @@
 ---
-title: Adobe Campaign Standard 자습서 - 개요
+title: Adobe Campaign Standard Tutorials - 개요
 description: Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적인 캠페인 운영, 실시간 상호 작용 관리 및 크로스 채널 실행 환경을 제공합니다. 이 사용자 안내서에는 Adobe Campaign Standard의 다양한 기능과 기능에 대한 비디오 및 자습서가 포함되어 있습니다.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
 source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '280'
 ht-degree: 4%
 
 ---
@@ -24,10 +24,6 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 * **[외부 API 활동](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
 
    *외부 API 활동을 사용하여 워크플로우를 구성하고 실행하는 방법을 알아봅니다.*
-
-* **[프로필 대체 - 타깃팅된 프로필을 사용하여 이메일 메시지 테스트](/help/communication-channels/email/profile-substitution.md)**
-
-   *프로필에서 받게 될 메시지의 정확한 표현을 사용하여 검토용 자료를 보내는 방법을 알아봅니다.*
 
 ## 직원 선택
 

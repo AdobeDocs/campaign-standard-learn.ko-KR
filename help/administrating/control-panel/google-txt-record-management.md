@@ -1,6 +1,6 @@
 ---
 title: Google TXT 레코드 관리
-description: 캠페인 제어판을 통해 GMAIL 주소로 이메일을 전송하는 데 사용되는 모든 하위 도메인에 Google TXT 사이트 확인 레코드를 추가할 수 있습니다.
+description: 캠페인 Campaign 컨트롤 패널을 통해 GMAIL 주소로 이메일을 전송하는 데 사용되는 모든 하위 도메인에 Google TXT 사이트 확인 레코드를 추가할 수 있습니다.
 feature: Google TXT record management
 topics: Control Panel
 kt: 4744

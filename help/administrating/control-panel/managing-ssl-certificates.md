@@ -1,6 +1,6 @@
 ---
 title: SSL 인증서 관리
-description: 제어판을 사용하면 Adobe Campaign에 위임한 하위 도메인을 관리할 수 있습니다. 하위 도메인을 보고 인증서 갱신을 요청할 수 있습니다.
+description: Campaign 컨트롤 패널을 사용하면 Adobe Campaign에 위임한 하위 도메인을 관리할 수 있습니다. 하위 도메인을 보고 인증서 갱신을 요청할 수 있습니다.
 feature: Control Panel
 topics: null
 kt: 3379
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # SSL 인증서 관리
 
-제어판을 사용하면 Adobe Campaign에 위임한 하위 도메인을 관리할 수 있습니다. 하위 도메인을 보고 인증서 갱신을 요청할 수 있습니다.
+Campaign 컨트롤 패널을 사용하면 Adobe Campaign에 위임한 하위 도메인을 관리할 수 있습니다. 하위 도메인을 보고 인증서 갱신을 요청할 수 있습니다.
 
 ## 액세스 [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
 

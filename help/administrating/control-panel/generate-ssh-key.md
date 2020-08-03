@@ -1,6 +1,6 @@
 ---
 title: SSH 키 생성
-description: Adobe Campaign 제어판에 SSH 키를 추가할 수 있어야 합니다. 아래 비디오에서는 터미널을 사용하여 SSH 키를 생성하는 방법에 대해 설명합니다.
+description: Adobe Campaign Campaign 컨트롤 패널에 SSH 키를 추가할 수 있어야 합니다. 아래 비디오에서는 터미널을 사용하여 SSH 키를 생성하는 방법에 대해 설명합니다.
 feature: Control Panel
 topics: null
 kt: 2923

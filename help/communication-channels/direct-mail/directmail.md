@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
 workflow-type: tm+mt
 source-wordcount: '144'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -30,6 +30,6 @@ ht-degree: 0%
 
 ![워크플로우 이미지](/help/assets/direct_mail_examplewf.png)
 
-## 추가 리소스
+## 추가 자료
 
 * [DM 정보](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)

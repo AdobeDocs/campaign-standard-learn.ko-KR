@@ -1,6 +1,6 @@
 ---
 title: 'GPG 키를 사용하여 데이터 암호화 '
-description: 제어판에 설치된 GPG 키를 사용하여 데이터를 내보내는 방법을 알아봅니다.
+description: Campaign 컨트롤 패널에 설치된 GPG 키를 사용하여 데이터를 내보내는 방법을 알아봅니다.
 feature: Control Panel
 topics: GPG key Management
 kt: 5688
@@ -19,7 +19,7 @@ ht-degree: 3%
 
 # GPG 키를 사용하여 데이터 암호화
 
-제어판에 설치된 GPG 키를 사용하여 데이터를 내보내는 방법을 알아봅니다.
+Campaign 컨트롤 패널에 설치된 GPG 키를 사용하여 데이터를 내보내는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36380?quality=12)
 

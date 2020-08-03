@@ -20,7 +20,7 @@ ht-degree: 0%
 
 이메일 [!UICONTROL Email Designer] 을 사용하면 단일 코드 행을 스크립팅하지 않고도 개인화된 이메일을 빠르고 손쉽게 만들 수 있습니다. 이메일 컨텐츠와 이메일 컨텐츠 템플릿을 만들 수 있습니다. 간단한 이메일, 트랜잭션 이메일, A/B 테스트 이메일, 다국어 이메일 및 반복 이메일과 호환됩니다.
 
-이 비디오에서는 Adobe Campaign Standard의 기능 및 사용에 대한 수준 높은 개요를 제공합니다 [!UICONTROL Email Designer].
+이 비디오에서는 Adobe Campaign Standard의 기능 및 사용에 대한 고급 개요를 제공합니다 [!UICONTROL Email Designer].
 
 >[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12)
 
@@ -38,4 +38,4 @@ ht-degree: 0%
 * [모바일 보기 구성](/help/designing-content/email-designer/configure-the-mobile-view.md)
 * [이메일 미리 보기](/help/designing-content/email-designer/preview-your-email.md)
 * [기존 컨텐츠 작업](/help/designing-content/email-designer/working-with-existing-content.md)
-* [Adobe Dreamweaver를 사용하여 컨텐츠 제작](/help/designing-content/email-designer/dreamweaver-integration.md)
+* [Adobe Dreamweaver을 사용하여 컨텐츠 만들기](/help/designing-content/email-designer/dreamweaver-integration.md)

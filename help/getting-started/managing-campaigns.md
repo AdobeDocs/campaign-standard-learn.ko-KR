@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -22,6 +22,6 @@ Adobe Campaign을 사용하면 다양한 유형의 활동을 만들고 관리할
 
 >[!VIDEO](https://video.tv.adobe.com/v/24672?quality=12)
 
-## 추가 리소스
+## 추가 자료
 
 * [프로그램 및 캠페인](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html)

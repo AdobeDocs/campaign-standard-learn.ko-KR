@@ -1,6 +1,6 @@
 ---
 title: Adobe Campaign Standard(ACS)를 통한 개인정보 보호 요청 - 개요
-description: 자습서에서는 ACS(Adobe Campaign Standard) 인터페이스를 통해 개인 정보 생성을 요청하는 방법을 설명합니다.
+description: 이 자습서에서는 ACS(Adobe Campaign Standard) 인터페이스를 통해 개인 정보 생성을 요청하는 방법을 설명합니다.
 feature: GDPR, CCAP
 topic: Privacy
 kt: 1480
@@ -16,15 +16,15 @@ ht-degree: 1%
 ---
 
 
-# Adobe Campaign Standard 사용자 인터페이스를 통한 개인 정보 요청
+# Adobe Campaign Standard 사용자 인터페이스를 통한 개인 정보 보호 요청
 
-Adobe Campaign은 개인 정보 액세스 및 GDPR(General Data Protection Regulation) 및 CPPA(California Consumer Privacy Act)와 같은 개인 정보 보호 법률에 따라 PII 데이터의 삭제 요청을 수행하는 세 가지 방법을 데이터 관리자에게 제공합니다.
+Adobe Campaign은 GDPR(General Data Protection Regulation) 및 CPPA(California Consumer Privacy Act)와 같은 개인 정보 보호 법률에 따라 개인 정보 액세스를 수행하고 PII 데이터의 삭제 요청을 수행하는 세 가지 방법을 데이터 관리자에게 제공합니다.
 
-* **개인정보 보호 핵심 서비스 통합을 통해:** 모든 Experience Cloud 솔루션으로 푸시된 개인 정보 요청 [!UICONTROL Privacy Service] 은 전용 워크플로우를 통해 Campaign에서 자동으로 처리됩니다. 개인정보 보호 코어 서비스에서 개인정보 보호 요청을 만드는 방법에 대해 알아보려면 [Adobe Experience Platform Privacy Service](https://adobe.io/apis/cloudplatform/gdpr.html) 을 참조하십시오.
+* **개인정보 보호 핵심 서비스 통합을 통해:** 모든 Experience Cloud 솔루션으로 푸시된 개인 정보 요청 [!UICONTROL Privacy Service] 은 전용 워크플로우를 통해 Campaign에서 자동으로 처리됩니다. 개인정보 보호 코어 서비스에서 개인정보 보호 요청을 만드는 방법에 대해 [알아보려면 Adobe Experience Platform](https://adobe.io/apis/cloudplatform/gdpr.html) 개인정보 보호 서비스를 참조하십시오.
 
 * **API를 통해:** Adobe Campaign은 REST를 사용하여 개인 정보 요청의 자동 처리를 허용하는 API를 제공합니다.
 
-* **Adobe Campaign 인터페이스를 통해 다음을 수행합니다.** 각 개인 정보 보호 요청에 대해 데이터 관리자는 Adobe Campaign에서 새로운 개인 정보 보호 요청을 만듭니다
+* **Adobe Campaign 인터페이스를 통해** 각 개인 정보 보호 요청에 대해 데이터 관리자는 Adobe Campaign에서 새로운 개인 정보 보호 요청을 만듭니다
 
 >[!NOTE]
 >
@@ -54,5 +54,5 @@ Adobe Campaign은 개인 정보 액세스 및 GDPR(General Data Protection Regul
 
 * [캠페인에 대한 일반 개인 정보 보호 지침](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)
 * [ACS용 CCPA](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa)
-* [Adobe Experience Platform Privacy Service](https://adobe.io/apis/cloudplatform/gdpr.html)
+* [Adobe Experience Platform 개인 정보 보호 서비스](https://adobe.io/apis/cloudplatform/gdpr.html)
 * [Adobe Campaign Standard REST API 설명서](https://final-docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#privacy-management)

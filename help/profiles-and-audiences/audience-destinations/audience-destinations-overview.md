@@ -27,17 +27,17 @@ ht-degree: 1%
 >이 기능을 구현하려는 [!UICONTROL Adobe Customer Support] 경우 연락하십시오.
 
 
-이 자습서에서는 Adobe Campaign Standard의 마케팅 캠페인에 대해 Adobe Experience Platform의 중앙 집중식 및 통합 프로필 데이터를 활용하는 방법을 설명합니다.
+이 자습서에서는 Adobe Experience Platform의 중앙 집중식 및 통합 프로필 데이터를 Adobe Campaign Standard의 마케팅 캠페인에 활용하는 방법을 설명합니다.
 
-Adobe Campaign Standard 내 [!UICONTROL Audiences] 모듈에서는 실시간 고객 프로필에 있는 [Adobe Experience Platform 데이터 서비스](https://www.adobe.io/apis/experienceplatform/home/services.html) 데이터를 사용하여 세그먼트를 만들 수 [있습니다](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html).
+Adobe Campaign Standard 내의 [!UICONTROL Audiences] 모듈에서는 실시간 고객 프로필에 있는 [Adobe Experience Platform - 데이터 서비스](https://www.adobe.io/apis/experienceplatform/home/services.html) 데이터를 사용하여 세그먼트를 만들 수 [있습니다](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html).
 
 다음 비디오 자습서는 다양한 단계를 안내합니다.
 
 1. [통합 세그먼트 빌더를 사용하여 새 대상 만들기](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 2. [마케팅 워크플로우에서 AEP 대상자 활성화](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-3. [Platform 대상에 대한 게재의 타깃팅 차원 변경](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+3. [플랫폼 대상에 대한 게재의 타깃팅 차원 변경](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 
 ## 추가 자료
 
-*[Adobe Experience Platform 데이터 커넥터 이해](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+*Adobe Experience Platform 데이터 커넥터[이해](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
 

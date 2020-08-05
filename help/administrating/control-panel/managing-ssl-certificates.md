@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Campaign 컨트롤 패널을 사용하면 Adobe Campaign에 위임한 하위 도메인을 관리할 수 있습니다. 하위 도메인을 보고 인증서 갱신을 요청할 수 있습니다.
 
-## 액세스 [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
+## [!UICONTROL Control Panel] 액세스[!UICONTROL Subdomain Management]
 
 In [!UICONTROL Subdomain Management] 에 액세스하려면 다음 [!UICONTROL Control Panel]으로 이동합니다.
 

@@ -1,5 +1,5 @@
 ---
-title: Adobe Campaign으로 성장
+title: Adobe Campaign과 함께 성장
 description: 이 비디오에서는 진정한 크로스채널 통합 작업의 다음 단계를 집중적으로 살펴봅니다.
 feature: null
 topics: null
@@ -16,7 +16,7 @@ ht-degree: 0%
 ---
 
 
-# Adobe Campaign으로 성장
+# Adobe Campaign과 함께 성장
 
 이 비디오에서는 진정한 크로스채널 통합 작업의 다음 단계를 집중적으로 살펴봅니다.
 

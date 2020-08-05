@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # 3단계 - 모바일 앱에 익스텐션 등록
 
-이 부분에서는 사용자 프로필, ID, 라이프사이클 및 신호 확장을 등록할 코드를 추가합니다. 이러한 익스텐션은 일부입니다 [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). 또한 아래 코드와 같이 Adobe Campaign Standard 확장자를 등록해야 합니다.
+이 부분에서는 사용자 프로필, ID, 라이프사이클 및 신호 확장을 등록할 코드를 추가합니다. 이러한 익스텐션은 일부입니다 [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). 또한 아래 코드와 같이 Adobe Campaign Standard 익스텐션을 등록해야 합니다.
 
 스튜디오에서 프로젝트를 [!DNL Android] 엽니다. 패키지 명령문의 첫 번째 줄을 **제외한 MainApp의 전체 코드를 삭제합니다**.
 

@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 18%
+ht-degree: 19%
 
 ---
 
@@ -24,7 +24,7 @@ Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdoma
 >
 >이 사이트의 하위 도메인 위임 [!UICONTROL Control Panel] 은 1월 말까지 베타에서 사용할 수 있으며 자주 업데이트되고 예고 없이 수정될 수 있습니다.
 
-## 액세스 [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
+## [!UICONTROL Control Panel] 액세스[!UICONTROL Subdomain Management]
 
 [[!UICONTROL Subdomain Management] in]에 액세스하려면 [!UICONTROL Control Panel]이동:
 

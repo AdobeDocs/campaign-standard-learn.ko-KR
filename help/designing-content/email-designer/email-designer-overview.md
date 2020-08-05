@@ -20,7 +20,7 @@ ht-degree: 0%
 
 이메일 [!UICONTROL Email Designer] 을 사용하면 단일 코드 행을 스크립팅하지 않고도 개인화된 이메일을 빠르고 손쉽게 만들 수 있습니다. 이메일 컨텐츠와 이메일 컨텐츠 템플릿을 만들 수 있습니다. 간단한 이메일, 트랜잭션 이메일, A/B 테스트 이메일, 다국어 이메일 및 반복 이메일과 호환됩니다.
 
-이 비디오에서는 Adobe Campaign Standard의 기능 및 사용에 대한 고급 개요를 제공합니다 [!UICONTROL Email Designer].
+이 비디오에서는 Adobe Campaign Standard의 기능 및 사용에 대한 높은 수준의 개요를 제공합니다 [!UICONTROL Email Designer].
 
 >[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12)
 

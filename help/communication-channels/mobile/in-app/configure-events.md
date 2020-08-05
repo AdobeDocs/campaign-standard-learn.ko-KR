@@ -37,7 +37,7 @@ Adobe Campaign [!UICONTROL events] 에서 구성해야 합니다. 다음 비디�
 
 ## [!UICONTROL Life Cycle events]  {#life-cycle-events}
 
-[!UICONTROL Lifecycle events] 간편하게 사용할 수 있습니다 [!UICONTROL events]. 다음 [!UICONTROL events] 을 사용할 수 있습니다.
+[!UICONTROL Lifecycle events] 간편하게 사용할 수 있습니다 [!UICONTROL events]. The following [!UICONTROL events] are available:
 
 * [!UICONTROL launched]
 * [!UICONTROL upgraded]
@@ -59,7 +59,7 @@ Adobe Campaign [!UICONTROL events] 에서 구성해야 합니다. 다음 비디�
 
 >[!NOTE]
 >
->[!UICONTROL Analytics events] Adobe Analytics 라이선스가 필요합니다. 익스텐션을 구성하고 [[!DNL Analytics] Analytics을 앱에](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) 추가하면 [ACS의](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)구성에서 이러한 이벤트를 사용할 수 [!UICONTROL In-App] 있게 됩니다.
+>[!UICONTROL Analytics events] Adobe Analytics 라이선스가 필요합니다. 익스텐션이 [[!DNL Analytics] 구성되고](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) Analytics를 앱에 [추가한](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)경우, 이러한 이벤트는 ACS의 [!UICONTROL In-App] 구성에서 사용할 수 있게 됩니다.
 
 ## 추가 자료
 

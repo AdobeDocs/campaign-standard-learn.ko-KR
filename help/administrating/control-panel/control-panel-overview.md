@@ -20,11 +20,11 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->&#39;[!UICONTROL whitelist]&#39; 및 &#39;[!UICONTROL blacklist]&#39;라는 용어가 Adobe Campaign 설명서에서 &#39;[!UICONTROL allow list]&#39;및 &#39;[!UICONTROL block list]&#39;로 대체되었습니다. 이러한 용어 중 일부는 제품 UI, 옵션 이름, 내부 코드 및 자습서 비디오에 여전히 존재할 수 있습니다. 향후 Campaign 컨트롤 패널 릴리스에서 교체될 예정입니다.
+>&#39;[!UICONTROL whitelist]&#39; 및 &#39;[!UICONTROL blacklist]&#39;라는 용어가 Adobe Campaign의 설명서에서 &#39;[!UICONTROL allow list]&#39;및 &#39;[!UICONTROL block list]&#39;로 대체되었습니다. 이러한 용어 중 일부는 제품 UI, 옵션 이름, 내부 코드 및 자습서 비디오에 여전히 존재할 수 있습니다. 향후 Campaign 컨트롤 패널 릴리스에서 교체될 예정입니다.
 
-Adobe Campaign 관리자는 이 [!UICONTROL Control Panel] 를 통해 주요 자산을 모니터링하고 인스턴스 또는 [!UICONTROL allow list] IP 주소별 SFTP 저장소 관리와 같은 관리 작업을 수행할 수 있습니다.
+이 [!UICONTROL Control Panel] 를 통해 Adobe Campaign 관리자는 주요 자산을 모니터링하고 인스턴스 또는 [!UICONTROL allow list] IP 주소별 SFTP 저장소 관리와 같은 관리 작업을 수행할 수 있습니다.
 
-## 액세스 [!UICONTROL Control Panel]
+## [!UICONTROL Control Panel] 액세스
 
 Campaign 컨트롤 패널에 액세스하려면 Experience Cloud 홈으로 이동합니다. [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 

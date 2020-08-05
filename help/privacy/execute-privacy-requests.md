@@ -25,4 +25,4 @@ Adobe Campaign에서 개인 정보 요청은 워크플로우에 의해 실행됩
 ## 추가 자료
 
 * [캠페인에 대한 일반 개인 정보 보호 지침](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)
-* [Adobe Campaign Standard용 CPA](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa)
+* [CCPA for Adobe Campaign Standard](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa)

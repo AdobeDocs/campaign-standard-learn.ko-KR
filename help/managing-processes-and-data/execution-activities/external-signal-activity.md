@@ -1,6 +1,6 @@
 ---
 title: 외부 신호 활동 - 매개 변수를 사용하여 워크플로우 호출
-description: 외부 신호 활동은 동일한 고객 여정의 일부인 다른 프로세스를 다양한 워크플로우로 구성하고 조정하는 데 사용됩니다. 따라서 다른 워크플로우에서 워크플로우를 시작할 수 있으므로 복잡한 고객 여정을 지원할 수 있고 문제가 발생하는 경우 보다 효과적으로 모니터링하고 대응할 수 있습니다.
+description: 외부 신호 활동은 동일한 고객 여정의 일부인 다른 프로세스를 다양한 워크플로우로 구성하고 조정하는 데 사용됩니다. 한 워크플로우를 다른 워크플로우에서 시작할 수 있게 하여 더 복잡한 고객 여정을 지원하는 동시에 문제가 발생하는 경우 보다 효과적으로 모니터링하고 대응할 수 있습니다.
 feature: External Signal Activity
 topics: Workflows
 kt: 2750
@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
 source-wordcount: '332'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
 
 # [!UICONTROL External Signal activity ]- 매개 변수를 사용한 워크플로우 호출
 
-이 [!UICONTROL External Signal activity] 는 동일한 고객 여정의 일부이며 다양한 워크플로우로 다른 프로세스를 구성하고 조정하는 데 사용됩니다. 따라서 다른 워크플로우에서 워크플로우를 시작할 수 있으므로 복잡한 고객 여정을 지원할 수 있고 문제가 발생하는 경우 보다 효과적으로 모니터링하고 대응할 수 있습니다.
+The [!UICONTROL External Signal activity] is used to organize and orchestrate different processes that are part of the same customer journey into different workflows. 한 워크플로우를 다른 워크플로우에서 시작할 수 있게 하여 더 복잡한 고객 여정을 지원하는 동시에 문제가 발생하는 경우 보다 효과적으로 모니터링하고 대응할 수 있습니다.
 
 ACS 19.2에서는 워크플로우를 [!UICONTROL External Signal activity] 호출할 수 있을 뿐만 아니라, 매개 변수를 워크플로우에 전달(타깃팅할 대상 이름, 가져올 파일 이름, 메시지 컨텐츠의 일부 등)할 수 있습니다. 외부 시스템과 통합하기 위한 다른 워크플로우 또는 REST API 호출의 워크플로우에 연결할 수 있습니다.
 

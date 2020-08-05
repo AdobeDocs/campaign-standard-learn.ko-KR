@@ -13,14 +13,14 @@ translation-type: tm+mt
 source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
 workflow-type: tm+mt
 source-wordcount: '204'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
 
 # 워크플로우 내에서 [!UICONTROL In-App] 배달 만들기
 
-인앱 전달 활동은 일반적으로 동일한 워크플로우에서 계산된 타겟 대상자에게 [!UICONTROL In-App] 메시지 전송을 자동화하는 데 사용됩니다.
+The In-App delivery activity is generally used to automate sending an [!UICONTROL In-App] message to a target audience calculated in the same workflow.
 
 받는 사람은 쿼리, 교차점 등과 같은 타깃팅 활동을 통해 동일한 워크플로에서 활동의 업스트림으로 정의됩니다.
 

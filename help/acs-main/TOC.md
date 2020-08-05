@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: 7f43a2a89428bc3b087ebb40a65d610bd9eb3f5b
 workflow-type: tm+mt
 source-wordcount: '529'
-ht-degree: 8%
+ht-degree: 11%
 
 ---
 
@@ -32,21 +32,21 @@ ht-degree: 8%
    + [워크플로우 만들기](/help/managing-processes-and-data/create-workflow.md)
    + [보고 소개](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Adobe Campaign을 사용한 모바일 마케팅](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
-   + [Adobe Campaign을 통해 성장](/help/getting-started/growing-with-adobe-campaign.md)
+   + [Adobe Campaign과 함께 성장](/help/getting-started/growing-with-adobe-campaign.md)
 + 프로필 및 대상자 {#profiles-and-audiences}
    + [프로필 및 대상 만들기 - 개요](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [프로필 만들기](/help/profiles-and-audiences/creating-a-profile.md)
    + [테스트 프로필 만들기](/help/profiles-and-audiences/test-profiles.md)
    + [워크플로우를 통해 프로필 가져오기](/help/managing-processes-and-data/importing-profiles.md)
    + [서비스 및 구독 관리](/help/managing-processes-and-data/services-and-subscriptions.md)
-   + 대상 대상(베타){#audience-destinations}
+   + Audience Destinations (BETA){#audience-destinations}
       + [개요](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
       + [통합 세그먼트 빌더를 사용하여 새 대상 만들기](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-      + [워크플로우에서 Adobe Experience Platform 대상 활성화](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+      + [워크플로우에서 Adobe Experience Platform 고객 활성화](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [타깃팅 차원 변경](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + 소통 채널 {#communication-channels}
    + 이메일 {#email}
-      + [이메일 만들기](/help/communication-channels/email/create-email-from-homepage.md)
+      + [전자 메일 만들기](/help/communication-channels/email/create-email-from-homepage.md)
       + [테스트 보내기, 준비 및 이메일 보내기](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [다국어 이메일 또는 SMS 전달](/help/communication-channels/create-multilingual-deliveries.md)
       + [기존 이메일, SMS 전달 또는 템플릿을 다국어 버전으로 변환](/help/communication-channels/covert-into-multilingual-deliveries.md)
@@ -77,7 +77,7 @@ ht-degree: 8%
       + [랜딩 페이지 테스트 및 게시](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
       + [랜딩 페이지 템플릿 구성](/help/communication-channels/landing-pages/landing-page-configure-templates.md)
 + 컨텐츠 디자인 및 개인화 {#designing-content}
-   + Email Designer{#email-designer}
+   + 이메일 디자이너{#email-designer}
       + [개요](/help/designing-content/email-designer/email-designer-overview.md)
       + [이메일 컨텐츠 템플릿 소개](/help/designing-content/email-designer/email-content-templates.md)
       + [모바일 보기 구성](/help/designing-content/email-designer/configure-the-mobile-view.md)
@@ -124,7 +124,7 @@ ht-degree: 8%
       + [시드 테이블 데이터 매핑](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [데이터 매핑 수정](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
       + [데이터 수집 작업 상태 확인](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
-   + 분류 규칙{#typology-rules}
+   + Typology Rules{#typology-rules}
       + 피로 관리{#fatigue-management}
          + [피로 규칙 만들기](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
 + 개인 정보 {#privacy}
@@ -133,5 +133,5 @@ ht-degree: 8%
    + [개인 정보 요청에 대한 사용자 지정 리소스 수정](/help/privacy/custom-resources-for-privacy-requests.md)
    + [개인 정보 요청 수동 생성 및 추적](/help/privacy/create-and-track-privacy-requests.md)
    + [개인 정보 요청 실행](/help/privacy/execute-privacy-requests.md)
-+ [Adobe Campaign 제공 능력 우수 사례 가이드](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
++ [Adobe Campaign 전달 능력 우수 사례 가이드](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
 

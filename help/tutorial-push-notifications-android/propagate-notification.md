@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # 알림을 보낼 서비스 추가
 
-이 부분에서는 Adobe Campaign에서 수신한 메시지를 [!DNL Android Notification Manager] [!DNL Notification manager] 가 발생하는 이벤트를 사용자에게 알리는 데 사용됩니다.
+이 부분에서는, Adobe는 Adobe Campaign에서 수신한 메시지를 [!DNL Android Notification Manager] [!DNL Notification manager] 가 발생하는 이벤트를 사용자에게 알리는 데 사용됩니다.
 이 방법으로 사용자에게 백그라운드에서 어떤 일이 발생했음을 알립니다.
 
 * 론치 [!DNL Android Studio]

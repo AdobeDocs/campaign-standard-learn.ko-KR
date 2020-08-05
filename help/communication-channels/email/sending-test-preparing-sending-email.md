@@ -1,6 +1,6 @@
 ---
 title: 테스트 보내기, 준비 및 이메일 보내기
-description: '이 비디오에서는 테스트 이메일을 전송하고 ACS(Adobe Campaign Standard)으로 이메일 배달을 준비하여 전송하는 방법을 설명합니다. '
+description: '이 비디오에서는 테스트 이메일을 전송하고 ACS(Adobe Campaign Standard)으로 이메일 배달을 준비하고 전송하는 방법을 설명합니다. '
 feature: Email
 topics: null
 kt: 1812
@@ -18,7 +18,7 @@ ht-degree: 2%
 
 # 테스트 보내기, 준비 및 이메일 보내기
 
-이 비디오에서는 테스트 이메일을 전송하고 ACS(Adobe Campaign Standard)으로 이메일 배달을 준비하여 전송하는 방법을 설명합니다.
+이 비디오에서는 테스트 이메일을 전송하고 ACS(Adobe Campaign Standard)으로 이메일 배달을 준비하고 전송하는 방법을 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24013/)
 

@@ -1,5 +1,5 @@
 ---
-title: 워크플로우에서 Adobe Experience Platform 대상 활성화
+title: 워크플로우에서 Adobe Experience Platform 고객 활성화
 description: 이 비디오에서는 '대상자 읽기' 활동을 사용하여 워크플로우 내에서 데이터 서비스 쿼리 대상을 활성화하는 방법을 설명합니다.
 feature: Audience Destinations
 topics: ACOP
@@ -16,7 +16,7 @@ ht-degree: 1%
 ---
 
 
-# 마케팅 워크플로우의 워크플로우에서 Adobe Experience Platform 대상 [!UICONTROL Adobe Experience Platform Audiences] 을 활성화합니다.
+# 마케팅 워크플로우에서 Adobe Experience Platform 대상 활성화 [!UICONTROL Adobe Experience Platform Audiences] 를 참조하십시오.
 
 >[!NOTE]
 >
@@ -38,5 +38,5 @@ ht-degree: 1%
 비디오 리소스:
 
 * [통합 세그먼트 빌더를 사용하여 Adobe Campaign Standard에서 새 대상 만들기](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [Platform 대상에 대한 게재의 타깃팅 차원 변경](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+* [플랫폼 대상에 대한 게재의 타깃팅 차원 변경](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 

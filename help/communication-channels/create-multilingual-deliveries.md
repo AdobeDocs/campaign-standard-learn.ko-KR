@@ -1,6 +1,6 @@
 ---
 title: 다국어 이메일 또는 SMS 전달
-description: ACS(Adobe Campaign Standard)을 사용하면 다국어 캠페인을 전송하는 번거로운 작업을 간소화할 수 있습니다. 프로필 기본 언어를 기반으로 이메일 또는 SMS를 보낼 수 있도록 여러 언어를 지원하는 이메일 전달 및 SMS 전달도 설정할 수 있습니다. 비디오에서 나타난 접근 방식은 SMS 전달뿐만 아니라 이메일에도 모두 적용됩니다.
+description: Adobe Campaign Standard(ACS)를 사용하면 다국어 캠페인을 전송하는 번거로운 작업을 간소화할 수 있습니다. 프로필 기본 언어를 기반으로 이메일 또는 SMS를 보낼 수 있도록 여러 언어를 지원하는 이메일 전달 및 SMS 전달도 설정할 수 있습니다. 비디오에서 나타난 접근 방식은 SMS 전달뿐만 아니라 이메일에도 모두 적용됩니다.
 feature: Multi-lingual Deliveries
 topics: Mobile Channel, Email Channel
 kt: 1277

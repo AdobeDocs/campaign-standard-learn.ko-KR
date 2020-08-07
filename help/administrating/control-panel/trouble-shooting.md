@@ -10,13 +10,13 @@ team: PM
 translation-type: tm+mt
 source-git-commit: 2f0527f3d9e2248eea68079e00855cce7a96fce4
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 99%
+source-wordcount: '330'
+ht-degree: 100%
 
 ---
 
 
-# 문제 [!UICONTROL Control Panel]
+# Campaign 컨트롤 패널의 문제 해결
 
 Campaign 컨트롤 패널 사용 시 문제를 해결하는 방법을 배웁니다.
 

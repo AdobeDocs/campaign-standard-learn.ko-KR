@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: db20c4e6aeb10dc04a6c4556fefaa8cd18366c44
+source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '364'
 ht-degree: 100%
 
 ---
@@ -71,9 +71,7 @@ Campaign 컨트롤 패널에 액세스하려면 다음의 Experience Cloud 홈�
 * **[SSL 인증서 추가](/help/administrating/control-panel/adding-ssl-certificates.md)**
 
    *하위 도메인 보안을 위해 SSL 인증서를 추가하는 방법에 대해 배웁니다.*
-* **[SSL 인증서 관리](/help/administrating/control-panel/managing-ssl-certificates.md)**
 
-   *하위 도메인의 SSL 인증서 상태 및 요청 갱신을 확인하는 방법을 배웁니다.*
 * **[Google TXT 레코드 관리](/help/administrating/control-panel/google-txt-record-management.md)**
 
    *Campaign 컨트롤 패널을 통해 Gmail 주소로 전자 메일을 보내는 데 사용되는 모든 하위 도메인에 Google TXT 사이트 확인 레코드를 추가하는 방법을 배웁니다.*

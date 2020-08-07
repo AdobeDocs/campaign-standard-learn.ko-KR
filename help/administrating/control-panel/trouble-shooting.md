@@ -1,5 +1,5 @@
 ---
-title: Campaign 컨트롤 패널을 촬영하는 데 문제가 있습니다.
+title: Campaign 컨트롤 패널의 문제 해결
 description: Campaign 컨트롤 패널을 사용하면 인스턴스 및 허용 목록 IP 주소별로 SFTP 저장소를 모니터링하고 관리할 수 있습니다.
 feature: Control Panel
 topics: null
@@ -10,40 +10,40 @@ team: PM
 translation-type: tm+mt
 source-git-commit: 2f0527f3d9e2248eea68079e00855cce7a96fce4
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 1%
+source-wordcount: '327'
+ht-degree: 99%
 
 ---
 
 
-# [!UICONTROL Campaign 컨트롤 패널}을(를) 촬영하는 동안 문제가 발생했습니다.
+# 문제 [!UICONTROL Control Panel]
 
-Campaign 컨트롤 패널 사용 시 문제를 해결하는 방법을 알아봅니다.
+Campaign 컨트롤 패널 사용 시 문제를 해결하는 방법을 배웁니다.
 
-## 로그인 및 홈 페이지
+## 로그인 및 홈페이지
 
-로그인 및 홈 페이지에서 발생하는 문제
+로그인 및 홈페이지에서 발생하는 문제
 
-### 증상: Adobe Experience Cloud에 로그인할 수 없음
+### 증상: Adobe Experience Cloud에 로그인 불가
 
 **방법:**
-사용자가 [!DNL IMS Org ID] (xxx)을 찾아야 합니다. 관리자는 관리할 각 인스턴스에 [!UICONTROL product profile] 사용자를 추가해야 [!DNL “Campaign-xxx-Admins”] 합니다. 사용자가 모든 인스턴스의 관리자인 경우에도 사용자를 다른 이름으로 추가해야 할 수 있습니다 *[!UICONTROL user]*.
+사용자가 [!DNL IMS Org ID] (xxx)를 찾아야 합니다. 관리자는 관리할 각 인스턴스에 대해 사용자를 [!UICONTROL product profile] [!DNL “Campaign-xxx-Admins”]에 추가해야 합니다. 사용자가 모든 인스턴스의 관리자인 경우에도 사용자를 *[!UICONTROL user]*(으)로 추가해야 할 수 있습니다.
 
-### 증상: 액세스할 수 [!UICONTROL Adobe Experience Cloud Home] 있는 링크 [!UICONTROL Control Panel] 는 사용자에게 표시되지 않습니다.
+### 증상: [!UICONTROL Adobe Experience Cloud Home] (으)로 액세스하는 [!UICONTROL Control Panel] 에 있는 링크가 사용자에게 표시되지 않음
 
 **원인:**
-사용자는 [!UICONTROL product profile] `Campaign-xxx-Administrators/Admin`
+사용자는 [!UICONTROL product profile] `Campaign-xxx-Administrators/Admin`의 사용자로 추가되기 전에는 링크를 볼 수 없음
 
 **방법:**
-관리자는 관리할 각 인스턴스에 [!UICONTROL product profile] 사용자를 추가해야 *[!DNL Campaign-xxx-Admins]* 합니다. 사용자가 모든 인스턴스의 관리자인 경우에도 사용자를 다른 이름으로 추가해야 할 수 있습니다 *[!UICONTROL user]*.
+관리자는 관리할 각 인스턴스에 대해 사용자를 [!UICONTROL product profile] *[!DNL Campaign-xxx-Admins]*&#x200B;에 추가해야 합니다. 사용자가 모든 인스턴스의 관리자인 경우에도 사용자를 *[!UICONTROL user]*(으)로 추가해야 할 수 있습니다.
 
-### 증상: 인스턴스가 [!UICONTROL Control Panel]
+### 증상: 인스턴스가 [!UICONTROL Control Panel]에 나열되지 않음
 
 **원인:**
-누락된 인스턴스에 대해 *[!UICONTROL user]* 제품 프로필 `!DNL Campaign-xxx-Administrators/Admin` 으로 사용자가 추가되어야 합니다.
+누락된 인스턴스에 대해 *[!UICONTROL user]* 제품 프로필 `!DNL Campaign-xxx-Administrators/Admin`으로 사용자가 추가되어야 할 가능성이 높음
 
 **방법:**
-관리자는 관리할 각 인스턴스에 대해 사용자 `Campaign-xxx-Admins` 를 제품 프로필에 추가해야 합니다. 사용자가 모든 인스턴스의 관리자인 경우에도 사용자를 다른 이름으로 추가해야 할 수 있습니다 *[!UICONTROL user]*.
+관리자는 관리할 각 인스턴스에 대해 사용자를 제품 프로필 `Campaign-xxx-Admins`에 추가해야 합니다. 사용자가 모든 인스턴스의 관리자인 경우에도 사용자를 *[!UICONTROL user]*(으)로 추가해야 할 수 있습니다.
 
 ### 유용한 비디오
 
@@ -51,12 +51,12 @@ Campaign 컨트롤 패널 사용 시 문제를 해결하는 방법을 알아봅�
 *확인[!DNL IMS Org ID](00:26분)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*관리자를 사용할 수 있도록[!UICONTROL product profile]관리자에게 추가하는 방법(*[!DNL administrators]*1분[!UICONTROL Control Panel]3초)*
+*관리자를 사용할 수 있도록[!UICONTROL product profile]*[!DNL administrators]*에 추가하는 방법[!UICONTROL Control Panel](01:03분)*
 
 ### 유용한 설명서
 
-* [Discover the [!UICONTROL Control Panel]](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
-* [에 대한 권한 관리 [!UICONTROL Control Panel]](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
+* [ [!UICONTROL Control Panel]를 검색}](https://docs.adobe.com/content/help/ko-KR/control-panel/using/control-panel-home.html)
+* [ [!UICONTROL Control Panel]](https://docs.adobe.com/content/help/ko-KR/control-panel/using/control-panel-home.html)에 대한 권한 관리
 
 ## SFTP 서버에 연결 설정(클라이언트 또는 API)
 
@@ -68,5 +68,5 @@ SFTP 서버에 연결하려면 다음이 필요합니다.
 
 ### 유용한 설명서
 
-* [SFTP 서버에 로그인](https://helpx.adobe.com/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
+* [SFTP 서버에 로그인](https://docs.adobe.com/content/help/ko-KR/control-panel/using/control-panel-home.html#LoggingintoyourSFTPserver)
 

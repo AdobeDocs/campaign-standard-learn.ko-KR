@@ -4,7 +4,7 @@ description: 이 비디오에서는 프로필 대체 기능을 사용하여 이�
 feature: Email
 topics: Channels
 kt: 4667
-thumbnail: 32368.jpg
+thumbnail: 32368
 doc-type: feature video
 activity: use
 team: TM

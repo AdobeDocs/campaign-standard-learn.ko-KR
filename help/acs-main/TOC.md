@@ -9,10 +9,10 @@ tutorials-url: https://docs.adobe.com/content/help/ko-KR/campaign-standard-learn
 getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 7f43a2a89428bc3b087ebb40a65d610bd9eb3f5b
+source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
 workflow-type: tm+mt
-source-wordcount: '529'
-ht-degree: 91%
+source-wordcount: '500'
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 91%
    + [프로필 및 대상자 만들기 - 개요](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [프로필 만들기](/help/profiles-and-audiences/creating-a-profile.md)
    + [테스트 프로필 만들기](/help/profiles-and-audiences/test-profiles.md)
-   + [워크플로우를 통해 프로필 가져오기](/help/managing-processes-and-data/importing-profiles.md)
+   + [워크플로우로 프로필 가져오기](/help/managing-processes-and-data/importing-profiles.md)
    + [서비스 및 구독 관리](/help/managing-processes-and-data/services-and-subscriptions.md)
    + 대상자 대상(베타){#audience-destinations}
       + [개요](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
@@ -49,7 +49,7 @@ ht-degree: 91%
       + [이메일 만들기](/help/communication-channels/email/create-email-from-homepage.md)
       + [테스트 보내기, 준비 및 이메일 보내기](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [다국어 이메일 또는 SMS 게재 만들기](/help/communication-channels/create-multilingual-deliveries.md)
-      + [기존 이메일, SMS 전달 또는 템플릿을 다국어 버전으로 변환](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [기존 이메일, SMS 게재 또는 템플릿을 다국어로 변환](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [A/B 테스트](/help/communication-channels/email/a-b-testing.md)
       + [타겟팅된 프로필을 사용하여 이메일 메시지 테스트](/help/communication-channels/email/profile-substitution.md)
       + [이메일 게재 및 보고서 검토](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
@@ -57,8 +57,7 @@ ht-degree: 91%
    + 모바일 {#mobile}
       + SMS{#sms}
          + [SMS 게재 만들기](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [다국어 이메일 또는 SMS 게재 만들기](/help/communication-channels/create-multilingual-deliveries.md)
-         + [기존 이메일, SMS 전달 또는 템플릿을 다국어 버전으로 변환](/help/communication-channels/covert-into-multilingual-deliveries.md)
+         + [기존 이메일, SMS 게재 또는 템플릿을 다국어로 변환](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + 푸시 알림 {#push}
          + [푸시 알림 만들기](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [다국어 푸시 알림 만들기](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -87,7 +86,6 @@ ht-degree: 91%
    + [트랜잭션 이메일에서 제품 목록 구성](/help/designing-content/product-listings-in-transactional-email.md)
 + 프로세스 및 데이터 관리 {#managing-processes-and-data}
    + [워크플로우 만들기](/help/managing-processes-and-data/create-workflow.md)
-   + [워크플로우를 통해 프로필 가져오기](/help/managing-processes-and-data/importing-profiles.md)
    + 실행 활동{#execution-activities}
       + [외부 신호 활동](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + 데이터 관리 활동 {#data-management-activities}
@@ -109,7 +107,6 @@ ht-degree: 91%
       + [SFTP 서버에 연결](/help/administrating/control-panel/connect-to-sftp-server.md)
       + [하위 도메인 위임](/help/administrating/control-panel/subdomain-delegation.md)
       + [SSL 인증서 추가](/help/administrating/control-panel/adding-ssl-certificates.md)
-      + [SSL 인증서 관리](/help/administrating/control-panel/managing-ssl-certificates.md)
       + [Google TXT 레코드 관리](/help/administrating/control-panel/google-txt-record-management.md)
       + GPG 키 관리 {#gpg-key-management}
          + [GPG 키 관리 - 개요](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
@@ -133,5 +130,3 @@ ht-degree: 91%
    + [개인 정보 요청에 대한 사용자 지정 리소스 수정](/help/privacy/custom-resources-for-privacy-requests.md)
    + [개인 정보 요청 수동으로 만들기 및 추적](/help/privacy/create-and-track-privacy-requests.md)
    + [개인 정보 요청 실행](/help/privacy/execute-privacy-requests.md)
-+ [Adobe Campaign 전달 능력 우수 사례 가이드](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
-

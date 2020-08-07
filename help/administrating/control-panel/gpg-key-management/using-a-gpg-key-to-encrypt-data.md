@@ -1,6 +1,6 @@
 ---
 title: 'GPG 키를 사용하여 데이터 암호화 '
-description: Campaign 컨트롤 패널에 설치된 GPG 키를 사용하여 데이터를 내보내는 방법을 알아봅니다.
+description: Campaign 컨트롤 패널에 설치된 GPG 키를 사용하여 데이터를 내보내는 방법을 배웁니다.
 feature: Control Panel
 topics: GPG key Management
 kt: 5688
@@ -12,18 +12,18 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
 # GPG 키를 사용하여 데이터 암호화
 
-Campaign 컨트롤 패널에 설치된 GPG 키를 사용하여 데이터를 내보내는 방법을 알아봅니다.
+Campaign 컨트롤 패널에 설치된 GPG 키를 사용하여 데이터를 내보내는 방법을 배웁니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36380?quality=12)
 
 ## 추가 자료
 
 * [GPG 키 관리(비디오)](./gpg-key-management-overview.md)
-* [GPG 키 관리(설명서)](https://docs.adobe.com/content/help/en/control-panel/using/instances-settings/gpg-keys-management.html)
+* [GPG 키 관리(설명서)](https://docs.adobe.com/content/help/ko-KR/control-panel/using/instances-settings/gpg-keys-management.html)

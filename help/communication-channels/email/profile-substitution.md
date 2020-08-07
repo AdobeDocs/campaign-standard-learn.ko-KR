@@ -1,10 +1,10 @@
 ---
-title: 프로필 대체 - 타깃팅된 프로필을 사용하여 이메일 메시지 테스트
+title: 프로필 대체 - 타겟팅된 프로필을 사용하여 이메일 메시지 테스트
 description: 이 비디오에서는 프로필 대체 기능을 사용하여 이메일 메시지를 테스트하는 방법을 설명합니다.
 feature: Email
 topics: Channels
 kt: 4667
-thumbnail: 32368
+thumbnail: 32368.jpg
 doc-type: feature video
 activity: use
 team: TM
@@ -12,20 +12,20 @@ translation-type: tm+mt
 source-git-commit: f04ac773029bf15ff445bf1c506a4234cf5060bb
 workflow-type: tm+mt
 source-wordcount: '178'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
 
 # [!UICONTROL Profile Substitution] - 타겟팅된 프로필을 사용하여 이메일 메시지 테스트
 
-이 비디오에서는 이메일 메시지를 사용하여 테스트하는 방법을 설명합니다 [!UICONTROL Profile Substitution]. 다음은 사용 사례입니다.
+이 비디오에서는 [!UICONTROL Profile Substitution]을(를) 사용하여 이메일 메시지를 테스트하는 방법을 설명합니다. . 다음의 사용 사례를 다룹니다.
 
-개인화된 이메일 뉴스레터를 발송한다고 가정합니다. 그러나 Newsletter를 발송하기 전에 동료는 Newsletter를 검토하고 교정본을 요청했습니다. 타깃팅된 프로필에서 받은 메시지의 정확한 표현을 보낼 수 있으므로 이 기능을 사용하여 증명 자료를 보낼 수 있습니다. [!UICONTROL Profile Substitution]
+개인화된 이메일 뉴스레터를 발송한다고 가정합니다. 하지만 뉴스레터를 발송하기 전에 동료가 뉴스레터를 검토하려고 증명을 요청했습니다. 타겟팅된 프로필에서 받은 메시지의 정확한 표시를 보낼 수 있으므로 [!UICONTROL Profile Substitution] 기능을 사용하여 증명을 보낼 수 있습니다. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/32368?quality=12)
 
-자세한 내용은 자세한 [제품 설명서를 참조하십시오](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html).
+자세한 내용은 자세한 [제품 설명서](https://docs.adobe.com/content/help/ko-KR/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)를 참조하십시오.
 
 >[!IMPORTANT]
 >
@@ -33,6 +33,6 @@ ht-degree: 7%
 
 ## 추가 자료
 
-* [대상 프로필을 사용하여 메시지 테스트(설명서)](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
+* [대상 프로필을 사용하여 메시지 테스트(설명서)](https://docs.adobe.com/content/help/ko-KR/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
 * [A/B 테스트 이메일 디자인](/help/communication-channels/email/a-b-testing.md)
 * [테스트 보내기, 준비 및 이메일 보내기](/help/communication-channels/email/sending-test-preparing-sending-email.md)

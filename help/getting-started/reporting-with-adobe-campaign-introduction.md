@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
@@ -26,4 +26,4 @@ ht-degree: 3%
 
 * [동적 보고서 만들기](/help/reporting/creating-a-dynamic-report.md)
 * [사용자 지정 프로필 속성을 사용하여 동적 보고서 만들기](/help/reporting/custom-profile-attributes-dynamic-reports.md)
-* [워크플로우 세그먼트를 기반으로 보고서 만들기](/help/reporting/report-on-workflow-segments.md)
+* [워크플로우 세그먼트 기반 보고서 만들기](/help/reporting/report-on-workflow-segments.md)

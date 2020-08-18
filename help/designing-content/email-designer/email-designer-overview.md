@@ -3,15 +3,15 @@ title: 이메일 디자이너 개요
 description: 이 비디오에서는 이메일 디자이너의 일반 기능과 이메일을 처음부터 디자인하는 방법에 대해 설명합니다. 이 페이지에는 Adobe Campaign 이메일 디자이너에게 사용할 수 있는 모든 기능 비디오가 나열됩니다
 feature: Email Designer
 topics: Content Creation
-kt: 2391
+kt: null
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 58fd8bec8adfca14188ea66423c107a14253834e
+source-git-commit: d4819df4d0ed07955881cd157ec4caf7da847e96
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 0%
+source-wordcount: '137'
+ht-degree: 10%
 
 ---
 
@@ -24,18 +24,13 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12)
 
-## 시작하기 [!UICONTROL Email Designer]
-
-이 비디오에서는 이메일의 일반 기능 [!UICONTROL Email Designer] 과 처음부터 이메일을 디자인하는 방법을 설명합니다.
-
->[!VIDEO](https://video.tv.adobe.com/v/25912?quality=12)
-
-## 튜토리얼
+## 자습서
 
 다음과 같은 자세한 자습서를 사용할 수 있습니다.
 
+* [이메일 디자이너 시작하기](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
 * [컨텐츠 템플릿](/help/designing-content/email-designer/email-content-templates.md)
 * [모바일 보기 구성](/help/designing-content/email-designer/configure-the-mobile-view.md)
 * [이메일 미리 보기](/help/designing-content/email-designer/preview-your-email.md)
-* [기존 컨텐츠 작업](/help/designing-content/email-designer/working-with-existing-content.md)
-* [Adobe Dreamweaver을 사용하여 컨텐츠 만들기](/help/designing-content/email-designer/dreamweaver-integration.md)
+* [기존 콘텐츠로 작업](/help/designing-content/email-designer/working-with-existing-content.md)
+* [Adobe Dreamweaver를 사용하여 콘텐츠 제작](/help/designing-content/email-designer/dreamweaver-integration.md)

@@ -9,10 +9,10 @@ tutorials-url: https://docs.adobe.com/content/help/ko-KR/campaign-standard-learn
 getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
+source-git-commit: 32d62f94862f72b43b4e3982b0a754c855d6faac
 workflow-type: tm+mt
-source-wordcount: '500'
-ht-degree: 100%
+source-wordcount: '513'
+ht-degree: 97%
 
 ---
 
@@ -29,6 +29,7 @@ ht-degree: 100%
    + [계층 구조 및 마케팅 활동 살펴보기](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [캠페인 관리](/help/getting-started/managing-campaigns.md)
    + [프로필 및 대상자 이해](/help/getting-started/understanding-profiles-and-audiences.md)
+   + [작성 및 이메일](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [워크플로우 만들기](/help/managing-processes-and-data/create-workflow.md)
    + [보고 소개](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Adobe Campaign으로 모바일 마케팅](/help/getting-started/mobile-marketing-with-adobe-campaign.md)

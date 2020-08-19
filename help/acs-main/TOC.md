@@ -9,10 +9,10 @@ tutorials-url: https://docs.adobe.com/content/help/ko-KR/campaign-standard-learn
 getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 32d62f94862f72b43b4e3982b0a754c855d6faac
+source-git-commit: d4819df4d0ed07955881cd157ec4caf7da847e96
 workflow-type: tm+mt
-source-wordcount: '513'
-ht-degree: 97%
+source-wordcount: '519'
+ht-degree: 96%
 
 ---
 
@@ -79,7 +79,7 @@ ht-degree: 97%
 + 콘텐츠 디자인 및 개인화 {#designing-content}
    + 이메일 디자이너{#email-designer}
       + [개요](/help/designing-content/email-designer/email-designer-overview.md)
-      + [시작하기 Email Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+      + [이메일 디자이너 시작하기](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [이메일 콘텐츠 템플릿 소개](/help/designing-content/email-designer/email-content-templates.md)
       + [모바일 보기 구성](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [이메일 및 스팸 방지 분석 미리 보기](/help/designing-content/email-designer/preview-your-email.md)

@@ -79,6 +79,7 @@ ht-degree: 97%
 + 콘텐츠 디자인 및 개인화 {#designing-content}
    + 이메일 디자이너{#email-designer}
       + [개요](/help/designing-content/email-designer/email-designer-overview.md)
+      + [시작하기 Email Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [이메일 콘텐츠 템플릿 소개](/help/designing-content/email-designer/email-content-templates.md)
       + [모바일 보기 구성](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [이메일 및 스팸 방지 분석 미리 보기](/help/designing-content/email-designer/preview-your-email.md)

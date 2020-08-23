@@ -1,5 +1,5 @@
 ---
-title: 거래 이메일에서 제품 목록 구성
+title: 트랜잭션 이메일에서 제품 목록 구성
 description: 이 비디오에서는 Adobe Campaign Standard(ACS)의 트랜잭션 이메일에서 제품 목록을 구성하는 데 필요한 단계를 설명합니다.
 feature: Transactional Emails
 topics: Content Creation
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
+source-git-commit: bbe5f985ae791f55e94c7369fbf1aefcfd9d2b76
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 1%
+source-wordcount: '174'
+ht-degree: 4%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 다음 비디오에서는 구성하는 데 필요한 단계를 설명합니다 [!UICONTROL product listings][!UICONTROL transactional emails].
 
->[참고]
+>[!NOTE]
 >
 >이 기능을 현재 비디오 내에서 루프라고 합니다.
 
@@ -38,7 +38,7 @@ ht-degree: 1%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25916?quality=12)
 
-## 추가 자료
+## 추가 리소스
 
 * [트랜잭션 메시지에서 제품 목록 사용(설명서)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/transactional-messaging/event-transactional-messages.html#using-product-listings-in-a-transactional-message)
 * [데이터 컬렉션 정의(설명서)](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/configuring-channels/configuring-transactional-messaging.html#defining-data-collections)

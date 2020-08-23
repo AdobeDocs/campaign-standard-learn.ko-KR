@@ -8,9 +8,9 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
+source-git-commit: bbe5f985ae791f55e94c7369fbf1aefcfd9d2b76
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -99,5 +99,6 @@ Adobe Campaign Standard 인스턴스에 로그인합니다.
 
 ![모바일 애플리케이션 구독자](assets/mobile-application-subscribers.PNG)
 
->[참고]
+>[!NOTE]
+>
 >더 이상 진행하기 전에 여기 STOP [!UICONTROL Mobile Application Subscribers] 탭에 등록 토큰이 표시되지 않는 경우

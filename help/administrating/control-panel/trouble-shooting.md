@@ -8,15 +8,15 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 2f0527f3d9e2248eea68079e00855cce7a96fce4
+source-git-commit: 2fd2e62663f4b09ce7afc6387b53e194fbcafde8
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 100%
+source-wordcount: '327'
+ht-degree: 99%
 
 ---
 
 
-# Campaign 컨트롤 패널의 문제 해결
+# 문제 [!UICONTROL Control Panel]
 
 Campaign 컨트롤 패널 사용 시 문제를 해결하는 방법을 배웁니다.
 
@@ -40,7 +40,7 @@ Campaign 컨트롤 패널 사용 시 문제를 해결하는 방법을 배웁니�
 ### 증상: 인스턴스가 [!UICONTROL Control Panel]에 나열되지 않음
 
 **원인:**
-누락된 인스턴스에 대해 *[!UICONTROL user]* 제품 프로필 `!DNL Campaign-xxx-Administrators/Admin`으로 사용자가 추가되어야 할 가능성이 높음
+누락된 인스턴스에 대해 *[!UICONTROL user]* 제품 프로필 `Campaign-xxx-Administrators/Admin`으로 사용자가 추가되어야 할 가능성이 높음
 
 **방법:**
 관리자는 관리할 각 인스턴스에 대해 사용자를 제품 프로필 `Campaign-xxx-Admins`에 추가해야 합니다. 사용자가 모든 인스턴스의 관리자인 경우에도 사용자를 *[!UICONTROL user]*(으)로 추가해야 할 수 있습니다.
@@ -55,14 +55,14 @@ Campaign 컨트롤 패널 사용 시 문제를 해결하는 방법을 배웁니�
 
 ### 유용한 설명서
 
-* [ [!UICONTROL Control Panel]를 검색](https://docs.adobe.com/content/help/ko-KR/control-panel/using/control-panel-home.html)
-* [ [!UICONTROL Control Panel]](https://docs.adobe.com/content/help/ko-KR/control-panel/using/control-panel-home.html)에 대한 권한 관리
+* [ [!UICONTROL Control Panel]를 검색}](https://helpx.adobe.com/kr/campaign/kb/control-panel-overview.html)
+* [ [!UICONTROL Control Panel]](https://helpx.adobe.com/kr/campaign/kb/control-panel-access.html)에 대한 권한 관리
 
 ## SFTP 서버에 연결 설정(클라이언트 또는 API)
 
 SFTP 서버에 연결하려면 다음이 필요합니다.
 
-* [!UICONTROL allow listing] SFTP 서버에 연결하는 IP 주소
+* [!UICONTROL allow listing] SFTP 서버에 연결할 IP 주소
 * Adobe Campaign에 등록해야 하는 개인/공개 키 쌍
 * SFTP 서버에 직접 연결하는 경우 SFTP 클라이언트 소프트웨어도 필요합니다
 

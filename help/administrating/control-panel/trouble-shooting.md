@@ -55,7 +55,7 @@ Campaign 컨트롤 패널 사용 시 문제를 해결하는 방법을 배웁니�
 
 ### 유용한 설명서
 
-* [ [!UICONTROL Control Panel]를 검색}](https://helpx.adobe.com/kr/campaign/kb/control-panel-overview.html)
+* [ [!UICONTROL Control Panel]를 검색](https://helpx.adobe.com/kr/campaign/kb/control-panel-overview.html)
 * [ [!UICONTROL Control Panel]](https://helpx.adobe.com/kr/campaign/kb/control-panel-access.html)에 대한 권한 관리
 
 ## SFTP 서버에 연결 설정(클라이언트 또는 API)

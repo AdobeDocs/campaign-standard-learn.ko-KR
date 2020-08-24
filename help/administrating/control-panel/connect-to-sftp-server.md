@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
+source-git-commit: c72943b6e3209156b6f17679bae4d303fa766224
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '163'
 ht-degree: 100%
 
 ---
@@ -33,11 +33,11 @@ Campaign 컨트롤 패널에서 SFTP 관리에 액세스하려면 다음 위치�
 
 SFTP 서버에 연결하려면 다음이 필요합니다.
 
-* [!!UICONTROL을 사용하면] SFTP 서버에 연결할 IP 주소를 나열할 수 있습니다
+* [!UICONTROL allow listing] SFTP 서버에 연결할 IP 주소
 * Adobe Campaign에 등록해야 하는 개인/공개 키 쌍
 * SFTP 서버에 직접 연결하는 경우 SFTP 클라이언트 소프트웨어도 필요합니다
 
 이 비디오에서는 Campaign 컨트롤 패널에 저장한 키로 클라이언트 SFTP 애플리케이션을 사용하여 SFTP 서버에 연결하는 방법을 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27263?quality=12)
-*SFTP 서버에 연결(02:04분)*
+*SFTP 서버에 연결(02:04)*

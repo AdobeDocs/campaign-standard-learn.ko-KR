@@ -8,8 +8,9 @@ tutorials-title: 자습서
 tutorials-url: https://docs.adobe.com/content/help/ko-KR/campaign-standard-learn/tutorials/overview.html
 getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-standard/using/campaign-standard-home.html
+type: Tutorial
 translation-type: tm+mt
-source-git-commit: d4819df4d0ed07955881cd157ec4caf7da847e96
+source-git-commit: 5d176b2df0da17dd66c6b2990b9da051296fd508
 workflow-type: tm+mt
 source-wordcount: '519'
 ht-degree: 96%
@@ -112,7 +113,7 @@ ht-degree: 96%
       + [Google TXT 레코드 관리](/help/administrating/control-panel/google-txt-record-management.md)
       + GPG 키 관리 {#gpg-key-management}
          + [GPG 키 관리 - 개요](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
-         + [데이터 암호화를 위한 GPG 키 생성 및 설치](/help/administrating/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+         + [데이터 암호화에 대한 GPG 키 생성 및 설치](/help/administrating/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
          + [GPG 키를 사용하여 데이터 암호화](/help/administrating/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
          + [데이터 암호 해독](/help/administrating/control-panel/gpg-key-management/decrypting-data.md)
       + [문제 해결](/help/administrating/control-panel/trouble-shooting.md)

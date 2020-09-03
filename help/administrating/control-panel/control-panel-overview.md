@@ -46,7 +46,7 @@ Campaign 컨트롤 패널에 액세스하려면 다음의 Experience Cloud 홈�
 자신의 [!DNL IMS org ID]을(를) 알아야 합니다. 다음 비디오에서는 인스턴스의 [!DNL IMS org ID]을(를) 찾을 수 있는 위치를 설명합니다 .
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*확인[!DNL IMS Org ID](00:26분)*
+*확인[!DNL IMS Org ID] (00:26분)*
 
 ### 관리자 권한
 
@@ -54,7 +54,7 @@ Campaign 컨트롤 패널에 액세스하려면 다음의 Experience Cloud 홈�
 다음 비디오에서는 Campaign 인스턴스에 관리자를 추가하는 방법을 설명합니다
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*제품 프로필 &quot;[!UICONTROL Administrators]&quot;에 관리자를 추가하여 사용할 수 있는 방법[!UICONTROL Control Panel](01:03분)*
+*제품 프로필 &quot;[!UICONTROL Administrators]&quot;에 관리자를 추가하여 사용할 수 있는 방법[!UICONTROL Control Panel] (01:03분)*
 
 ## Campaign 컨트롤 패널 자습서
 

@@ -11,10 +11,10 @@ getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 94c15068a733b95a41201cd2a451d2adea4b9c29
+source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
 workflow-type: tm+mt
-source-wordcount: '519'
-ht-degree: 96%
+source-wordcount: '536'
+ht-degree: 93%
 
 ---
 
@@ -51,12 +51,16 @@ ht-degree: 96%
    + 이메일 {#email}
       + [이메일 만들기](/help/communication-channels/email/create-email-from-homepage.md)
       + [테스트 보내기, 준비 및 이메일 보내기](/help/communication-channels/email/sending-test-preparing-sending-email.md)
-      + [다국어 이메일 또는 SMS 게재 만들기](/help/communication-channels/create-multilingual-deliveries.md)
-      + [기존 이메일, SMS 게재 또는 템플릿을 다국어로 변환](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [A/B 테스트](/help/communication-channels/email/a-b-testing.md)
       + [타겟팅된 프로필을 사용하여 이메일 메시지 테스트](/help/communication-channels/email/profile-substitution.md)
+      + [게재에 제어 그룹 추가](/help/communication-channels/email/control-groups.md)
+      + [다국어 이메일 또는 SMS 게재 만들기](/help/communication-channels/create-multilingual-deliveries.md)
+      + [기존 이메일, SMS 게재 또는 템플릿을 다국어로 변환](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [이메일 게재 및 보고서 검토](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [워크플로우를 통해 이메일 만들기 및 보내기](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
+      + AI 기반의 이메일 {#journey-ai}
+         + [예측 전송 시간 최적화](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
+         + [예측 참여 점수 지정](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + 모바일 {#mobile}
       + SMS{#sms}
          + [SMS 게재 만들기](/help/communication-channels/mobile/sms/sms-delivery.md)

@@ -11,10 +11,10 @@ getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
+source-git-commit: bbbfc6d235cd2224ac14a31fbc52142d7481b144
 workflow-type: tm+mt
-source-wordcount: '536'
-ht-degree: 92%
+source-wordcount: '540'
+ht-degree: 89%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 92%
    + [프로필 및 대상 만들기 - 개요](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [프로필 만들기](/help/profiles-and-audiences/creating-a-profile.md)
    + [테스트 프로필 만들기](/help/profiles-and-audiences/test-profiles.md)
-   + [워크플로우로 프로필 가져오기](/help/managing-processes-and-data/importing-profiles.md)
+   + [워크플로우를 통해 프로필 가져오기](/help/managing-processes-and-data/importing-profiles.md)
    + [서비스 및 구독 관리](/help/managing-processes-and-data/services-and-subscriptions.md)
    + 대상자 대상(베타){#audience-destinations}
       + [개요](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
@@ -64,7 +64,6 @@ ht-degree: 92%
    + 모바일 {#mobile}
       + SMS{#sms}
          + [SMS 게재 만들기](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [기존 이메일, SMS 게재 또는 템플릿을 다국어로 변환](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + 푸시 알림 {#push}
          + [푸시 알림 만들기](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [다국어 푸시 알림 만들기](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -138,3 +137,5 @@ ht-degree: 92%
    + [개인 정보 요청에 대한 사용자 지정 리소스 수정](/help/privacy/custom-resources-for-privacy-requests.md)
    + [개인 정보 요청 수동으로 만들기 및 추적](/help/privacy/create-and-track-privacy-requests.md)
    + [개인 정보 요청 실행](/help/privacy/execute-privacy-requests.md)
++ [Adobe Campaign 전달 능력 우수 사례 가이드](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
+

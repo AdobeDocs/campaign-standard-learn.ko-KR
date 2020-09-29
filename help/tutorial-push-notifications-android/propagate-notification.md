@@ -8,9 +8,9 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
+source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,10 @@ ht-degree: 0%
 * 패키지 폴더([!DNL com.example.acspushtutorial])를 마우스 오른쪽 단추로 클릭하고 [!DNL New ->Java Class]
 * 이 클래스의 이름을 지정하고 *[!DNL MyService]* 확장되는지 확인하십시오. [!DNL FirebaseMessagingService]
 * 이 클래스에 메서드를 *[!DNL sendNotification]* 만듭니다. 이 방식에서는 [!DNL NotificationCompat.Builder] 개체를 사용하여 알림의 내용과 채널을 설정해야 합니다. 알림이 나타나도록 하려면 전화 [!DNL NotificationManagerCompat.notify()]를 걸어 알림과 그 결과에 대한 고유한 ID를 전달합니다 [!DNL NotificationCompat.Builder.build()].
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```java
 package com.example.pushmessaging;
@@ -91,6 +95,10 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 ## 수정 [!DNL AndroidManifest.xml]
 
 만든 서비스를 추가합니다 [!DNL AndroidManifest.xml]. 결승전은 아래와 [!DNL AndroidManifest.xml] 같아야 합니다.
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>

@@ -11,10 +11,10 @@ getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
+source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
 source-wordcount: '536'
-ht-degree: 93%
+ht-degree: 92%
 
 ---
 
@@ -31,13 +31,13 @@ ht-degree: 93%
    + [계층 구조 및 마케팅 활동 살펴보기](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [캠페인 관리](/help/getting-started/managing-campaigns.md)
    + [프로필 및 대상자 이해](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [작성 및 이메일](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
+   + [이메일 만들기](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [워크플로우 만들기](/help/managing-processes-and-data/create-workflow.md)
    + [보고 소개](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Adobe Campaign으로 모바일 마케팅](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Adobe Campaign과 함께 성장](/help/getting-started/growing-with-adobe-campaign.md)
 + 프로필 및 대상자 {#profiles-and-audiences}
-   + [프로필 및 대상자 만들기 - 개요](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
+   + [프로필 및 대상 만들기 - 개요](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [프로필 만들기](/help/profiles-and-audiences/creating-a-profile.md)
    + [테스트 프로필 만들기](/help/profiles-and-audiences/test-profiles.md)
    + [워크플로우로 프로필 가져오기](/help/managing-processes-and-data/importing-profiles.md)

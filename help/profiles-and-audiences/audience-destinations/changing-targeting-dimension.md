@@ -1,5 +1,5 @@
 ---
-title: 타깃팅 차원 변경
+title: 타겟팅 차원 변경
 description: 이 비디오는 Adobe Campaign Standard의 기본 프로필 테이블 외부에 있는 플랫폼 대상에 대한 게재의 타깃팅 차원을 변경하는 방법에 대해 설명합니다.
 feature: Audience Destinations
 topics: ACOP
@@ -8,15 +8,15 @@ doc-type: feature video
 activity: using
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# 타깃팅 차원 변경 [!UICONTROL Platform Audience]
+# 타겟팅 차원 변경 [!UICONTROL Platform Audience]
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ ht-degree: 4%
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12)
 
-## 추가 자료
+## 추가 리소스
 
 설명서:
 
@@ -38,5 +38,5 @@ ht-degree: 4%
 
 비디오 리소스:
 
-* [통합 세그먼트 빌더를 사용하여 새 대상 만들기](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [통합 세그먼트 빌더를 사용하여 새 대상자 만들기](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [마케팅 워크플로우에서 Adobe Experience Platform 고객 활성화](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)

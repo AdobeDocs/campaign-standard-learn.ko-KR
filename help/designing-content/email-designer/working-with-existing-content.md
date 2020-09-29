@@ -1,22 +1,22 @@
 ---
-title: 기존 컨텐츠 작업
+title: 기존 콘텐츠로 작업
 description: 이 비디오에서는 웹 사이트에서 크리에이티브 컨텐츠를 신속하게 검색하고 이메일 디자이너에 로드하는 방법을 설명합니다.
 feature: Email Designer
 topics: Content Creation
-kt: 1453
+kt: 6295
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: a0943a06cad4c53f35713c733bcedf5eef0df93f
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 
-# 기존 컨텐츠 작업{#working-with-existing-content}
+# 기존 콘텐츠로 작업{#working-with-existing-content}
 
 ## URL에서 콘텐트 가져오기
 

@@ -8,10 +8,10 @@ doc-type: feature video
 activity: using
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -33,11 +33,11 @@ Adobe Campaign Standard 내의 [!UICONTROL Audiences] 모듈에서는 실시간 
 
 다음 비디오 자습서는 다양한 단계를 안내합니다.
 
-1. [통합 세그먼트 빌더를 사용하여 새 대상 만들기](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+1. [통합 세그먼트 빌더를 사용하여 새 대상자 만들기](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 2. [마케팅 워크플로우에서 AEP 대상자 활성화](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
 3. [플랫폼 대상에 대한 게재의 타깃팅 차원 변경](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 
-## 추가 자료
+## 추가 리소스
 
-*Adobe Experience Platform 데이터 커넥터[이해](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+*[Adobe Experience Platform 데이터 커넥터 이해](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
 

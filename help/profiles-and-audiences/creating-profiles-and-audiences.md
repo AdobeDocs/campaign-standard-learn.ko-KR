@@ -1,6 +1,6 @@
 ---
 title: 프로필 및 대상 만들기 - 개요
-description: 이 비디오에서는 기존 프로필로 이동하는 방법과 Adobe Campaign Standard(ACS)에서 프로필 및 대상을 만드는 방법을 설명합니다.
+description: Adobe Campaign Standard에서 기존 프로파일로 이동하고 프로파일과 고객을 만드는 방법을 알아봅니다.
 feature: Profiles and Audiences
 topics: null
 kt: 3899
@@ -8,9 +8,9 @@ doc-type: feature video
 activity: understand
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '87'
 ht-degree: 4%
 
 ---
@@ -29,7 +29,7 @@ Adobe Campaign은 다음과 같은 두 가지 유형이나 프로파일을 갖�
 
 >[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12)
 
-## 추가 자료
+## 추가 리소스
 
 * [프로필 만들기](/help/profiles-and-audiences/creating-a-profile.md)
 * [테스트 프로필 만들기](/help/profiles-and-audiences/test-profiles.md)

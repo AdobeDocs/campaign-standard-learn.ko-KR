@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: a21fdefdce42ba417ff6b5173d15a0cebe4176ad
+source-git-commit: aa01c2f8fe1560468d0d8f3fae6291bb82f9a21f
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 96%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 96%
 Adobe Campaign [!UICONTROL Control Panel]을(를) 사용하면 하위 도메인을 Adobe Campaign에 완전히 위임할 수 있습니다.
 
 >[!NOTE]
-> [!UICONTROL Control Panel]에서 하위 도메인 위임은 1월 말까지 베타 버전으로 제공될 예정이며
-> 통보 없이 자주 업데이트 및 수정될 수 있습니다.
+>
+>이 사이트의 하위 도메인 위임 [!UICONTROL Control Panel] 은 1월 말까지 베타에서 사용할 수 있으며 자주 업데이트되고 예고 없이 수정될 수 있습니다.
 
 ## [!UICONTROL Control Panel]에 액세스  [!UICONTROL Subdomain Management]
 

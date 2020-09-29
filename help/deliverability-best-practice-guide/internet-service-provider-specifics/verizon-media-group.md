@@ -8,15 +8,15 @@ doc-type: article
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: f797faaf9189f64eb6fc57b84c5e38d4418d5f51
+source-git-commit: f98966913cb4adfcd15b578ea4589ff00798a037
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
 
 
-# [!DNL Verizon Media Group](Yahoo, AOL, Verizon 등)
+# [!DNL Verizon Media Group] (Yahoo, AOL, Verizon 등)
 
 [!DNL Verizon Media Group] 은 일반적으로 대부분의 B2C 목록에 대한 상위 3개 도메인 중 하나입니다. 평판 문제가 생기면 보통 메일이나 대량 메일을 조절하기 때문에 그들은 다소 특이한 행동을 한다.
 

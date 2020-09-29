@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 1%
 >
 > ? 아이콘을 클릭하고 정보를 선택합니다.
 
-## 추가 자료
+## 추가 리소스
 
-* [캠페인에 대한 일반 개인 정보 보호 지침](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)
+* [캠페인에 대한 일반 개인 정보 보호 지침](https://helpx.adobe.com/kr/campaign/kb/campaign-privacy-overview.html)
 * [사용자 지정 리소스 만들기](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)

@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
+source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -23,6 +23,10 @@ ht-degree: 0%
 스튜디오에서 프로젝트를 [!DNL Android] 엽니다. 패키지 명령문의 첫 번째 줄을 **제외한 MainApp의 전체 코드를 삭제합니다**.
 
 MainApp에 다음 코드 붙여넣기
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```java
 import [!DNL android].app.Application;

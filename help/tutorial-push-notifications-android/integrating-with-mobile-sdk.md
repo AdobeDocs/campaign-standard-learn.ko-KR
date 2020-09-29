@@ -8,9 +8,9 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
+source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,10 @@ ht-degree: 0%
 
 * 폴더를 [!DNL Gradle Scripts] 확장합니다. 모듈 [!DNL build.gradle] 을 두 번 클릭합니다. 파일의 종속성 섹션에 다음 종속성을 [!DNL build.gradle] 붙여 넣습니다. 이제 [!DNL build.gradle] 파일은 아래와 같습니다
 
+<!--
+Removed `{.line-numbers}` below
+-->
+
 ```java
 implementation 'com.adobe.marketing.mobile:campaign:1.+'
 implementation 'com.adobe.marketing.mobile:userprofile:1.+'
@@ -41,12 +45,20 @@ implementation 'com.adobe.marketing.mobile:sdk-core:1.+'
 
 AndroidManifest.xml *을* 열고 매니페스트 요소 뒤에 응용 프로그램 요소 앞에 다음 2줄을 붙여 넣습니다. 이를 통해 앱이 외부 세계와 통신할 수 있습니다
 
+<!--
+Removed `{.line-numbers}` below
+-->
+
 ```xml
 <uses-permission android:name="android.permission.INTERNET" />
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 ```
 
 응용 프로그램 요소의 다음 줄[!DNL android:name=".MainApp"]을 복사사용자 [!DNL AndroidManifest.xml]저장 [!DNL AndroidManifest.xml] 은 다음과 같아야 합니다
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>

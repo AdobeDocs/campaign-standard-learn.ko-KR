@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
+source-git-commit: b8f093b8e95a451bbf50ce7aca6ca4db35e3a324
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 8%
+ht-degree: 15%
 
 ---
 
@@ -28,7 +28,7 @@ In-App 메시지를 보내거나 Mobile SDK V5를 [!UICONTROL push notifications
 >
 >자세한 [설명서 및 비디오에 사용되는 코드 템플릿 [!UICONTROL Launch]](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html#ConfiguringyourapplicationinLaunch) 에 대해서는 응용 프로그램 구성을 참조하십시오.
 
-## 추가 자료
+## 추가 리소스
 
 * [모바일 속성 설정(Adobe 실행 설명서)](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
 * [Adobe Experience Platform SDK를 사용하여 모바일 애플리케이션 구성(설명서)](https://helpx.adobe.com/kr/campaign/kb/configuring-app-sdk.html)

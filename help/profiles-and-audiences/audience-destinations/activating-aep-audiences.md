@@ -1,5 +1,5 @@
 ---
-title: 워크플로우에서 Adobe Experience Platform 고객 활성화
+title: 워크플로우에서 Adobe Experience Platform 대상자 활성화
 description: 이 비디오에서는 '대상자 읽기' 활동을 사용하여 워크플로우 내에서 데이터 서비스 쿼리 대상을 활성화하는 방법을 설명합니다.
 feature: Audience Destinations
 topics: ACOP
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: using
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 1%
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
 *워크플로우에서 Adobe Experience Platform 대상 활성화(02:37분)*
 
-## 추가 자료
+## 추가 리소스
 
 설명서:
 

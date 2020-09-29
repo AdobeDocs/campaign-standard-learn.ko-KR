@@ -1,5 +1,5 @@
 ---
-title: 통합 세그먼트 빌더를 사용하여 새 대상 만들기
+title: 통합 세그먼트 빌더를 사용하여 새 대상자 만들기
 description: null
 feature: Audience Destinations
 topics: ACOP
@@ -8,15 +8,15 @@ doc-type: feature video
 activity: using
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 
-# 통합 세그먼트 빌더를 사용하여 새 대상 만들기
+# 통합 세그먼트 빌더를 사용하여 새 대상자 만들기
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ Adobe Campaign Standard을 사용하면 Adobe Experience Platform을 사용하�
 
 *통합 세그먼트 빌더를 사용하여 Adobe Campaign Standard에서 새 대상을 만드는 방법(최소 02:47)*
 
-## 추가 자료
+## 추가 리소스
 
 설명서:
 

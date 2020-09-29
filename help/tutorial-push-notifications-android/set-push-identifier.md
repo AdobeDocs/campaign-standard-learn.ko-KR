@@ -8,9 +8,9 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: bbe5f985ae791f55e94c7369fbf1aefcfd9d2b76
+source-git-commit: aa01c2f8fe1560468d0d8f3fae6291bb82f9a21f
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,10 @@ ht-degree: 0%
 프로젝트에서 [!DNL Android ]스튜디오 열기 패키지 명령문의 첫 번째 줄을 [!DNL MainActivity] 제외한 전체 코드를 삭제합니다 ****.
 
 다음 코드를 붙여넣습니다 [!DNL MainActivity].
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```java
 import androidx.annotation.NonNull;

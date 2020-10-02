@@ -11,10 +11,10 @@ getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: b28cbfdbc4edd00bc0f8cf58e2ea7fb35016e83e
+source-git-commit: a7eeaf46d27110384c7ddb143927f3a4ed06e2eb
 workflow-type: tm+mt
 source-wordcount: '526'
-ht-degree: 91%
+ht-degree: 98%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 91%
    + [계층 구조 및 마케팅 활동 살펴보기](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [캠페인 관리](/help/getting-started/managing-campaigns.md)
    + [프로필 및 대상자 이해](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [이메일 만들기](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
+   + [이메일 만들기](https://docs.adobe.com/content/help/ko-KR/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [워크플로우 만들기](/help/managing-processes-and-data/create-workflow.md)
    + [보고 소개](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Adobe Campaign으로 모바일 마케팅](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
@@ -53,14 +53,14 @@ ht-degree: 91%
       + [테스트 보내기, 준비 및 이메일 보내기](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [A/B 테스트](/help/communication-channels/email/a-b-testing.md)
       + [타겟팅된 프로필을 사용하여 이메일 메시지 테스트](/help/communication-channels/email/profile-substitution.md)
-      + [게재에 제어 그룹 추가](/help/communication-channels/email/control-groups.md)
+      + [게재에 컨트롤 그룹 추가](/help/communication-channels/email/control-groups.md)
       + [다국어 이메일 또는 SMS 게재 만들기](/help/communication-channels/create-multilingual-deliveries.md)
       + [기존 이메일, SMS 게재 또는 템플릿을 다국어로 변환](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [이메일 게재 및 보고서 검토](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [워크플로우를 통해 이메일 만들기 및 보내기](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-      + AI 기반의 이메일 {#journey-ai}
+      + AI 기반 이메일 {#journey-ai}
          + [예측 전송 시간 최적화](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
-         + [예측 참여 점수 지정](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
+         + [예측 참여 점수 책정](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + 모바일 {#mobile}
       + SMS{#sms}
          + [SMS 게재 만들기](/help/communication-channels/mobile/sms/sms-delivery.md)
@@ -84,7 +84,7 @@ ht-degree: 91%
 + 콘텐츠 디자인 및 개인화 {#designing-content}
    + 이메일 디자이너{#email-designer}
       + [개요](/help/designing-content/email-designer/email-designer-overview.md)
-      + [이메일 디자이너 시작하기](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+      + [이메일 디자이너 시작](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [이메일 콘텐츠 템플릿 소개](/help/designing-content/email-designer/email-content-templates.md)
       + [모바일 보기 구성](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [이메일 및 스팸 방지 분석 미리 보기](/help/designing-content/email-designer/preview-your-email.md)
@@ -137,4 +137,3 @@ ht-degree: 91%
    + [개인 정보 요청에 대한 사용자 지정 리소스 수정](/help/privacy/custom-resources-for-privacy-requests.md)
    + [개인 정보 요청 수동으로 만들기 및 추적](/help/privacy/create-and-track-privacy-requests.md)
    + [개인 정보 요청 실행](/help/privacy/execute-privacy-requests.md)
-

@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: afe1ae6c8d73b7b776e0eec327fa16db76c23ce1
+source-git-commit: cdd78e97f2769503d3d4f26933ccc7f35e9b20b9
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 2%
@@ -41,7 +41,7 @@ ht-degree: 2%
 
    ![android-project-structure](assets/android-project-structure.PNG)
 
-8. 클릭 **[!UICONTROL Tools]** > **[!UICONTROL Firebase].**(프로젝트를[!DNL Firebase]
+8. 클릭 **[!UICONTROL Tools]** > **[!UICONTROL Firebase].** (프로젝트를 [!DNL Firebase]
 9. **[!UICONTROL Set up Firebase Cloud Messaging]을(를) 클릭합니다.**
 
    ![설치 파이어베이스](assets/android-project-firebase-messaging.PNG)
@@ -76,7 +76,7 @@ ht-degree: 2%
 6. Adobe Campaign Standard 인스턴스에 로그인
 7. Click **[!UICONTROL Adobe Campaign]** > **[!UICONTROL Administration]** > **[!UICONTROL Channels]** > **[!UICONTROL Mobile App].**
 8. 적절한 항목을 선택합니다 **[!UICONTROL Mobile Application Property].**
-9. 섹션에서 **[!DNL Android]아이콘&#x200B;**을&#x200B;**[!UICONTROL Push Channel settings]**클릭합니다.
+9. 섹션에서 **[!DNL Android]아이콘** 을 **[!UICONTROL Push Channel settings]** 클릭합니다.
 10. 서버 키 필드에 서버 키를 붙여 넣습니다.
 
 모든 것이 잘 되면 SUCCESS 메시지를 볼 수 있습니다.

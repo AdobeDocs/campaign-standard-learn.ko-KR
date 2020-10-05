@@ -11,10 +11,10 @@ getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: a7eeaf46d27110384c7ddb143927f3a4ed06e2eb
+source-git-commit: bf087838a03c404d3036f0ad9c36f483dff5d4a4
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '548'
+ht-degree: 94%
 
 ---
 
@@ -25,7 +25,6 @@ ht-degree: 0%
 + 시작 {#getting-started}
    + [개요](/help/getting-started/getting-started-overview.md)
    + [Adobe Campaign Standard 소개](/help/getting-started/adobe-campaign-standard-introduction.md)
-   + [기능 개요](/help/getting-started/functional-overview.md)
    + [UI 시작하기](/help/getting-started/getting-started-with-the-ui.md)
    + [목록 구성](/help/getting-started/configure-a-list.md)
    + [계층 구조 및 마케팅 활동 살펴보기](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
@@ -137,3 +136,5 @@ ht-degree: 0%
    + [개인 정보 요청에 대한 사용자 지정 리소스 수정](/help/privacy/custom-resources-for-privacy-requests.md)
    + [개인 정보 요청 수동으로 만들기 및 추적](/help/privacy/create-and-track-privacy-requests.md)
    + [개인 정보 요청 실행](/help/privacy/execute-privacy-requests.md)
++ [Adobe Campaign 전달 능력 우수 사례 가이드](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
++ [컨트롤 패널](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)

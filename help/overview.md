@@ -2,11 +2,11 @@
 title: Adobe Campaign Standard 자습서 - 개요
 description: Adobe Campaign은 크로스 채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스 채널 실행에 대한 환경을 제공합니다. 이 사용 안내서에는 Adobe Campaign Standard의 다양한 기능과 성능에 대한 비디오 및 자습서가 포함되어 있습니다.
 products: SG_CAMPAIGN/STANDARD
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 106645d51da04a8457c73096865329bd0b87381d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '318'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
@@ -17,17 +17,17 @@ Adobe Campaign은 크로스 채널 고객 경험을 디자인할 수 있는 플�
 
 ## 새로운 기능
 
-* **[게재에 제어 그룹 추가](/help/communication-channels/email/control-groups.md)**
+* **[게재에 컨트롤 그룹 추가](/help/communication-channels/email/control-groups.md)**
 
-   *배달 대상을 정의할[!UICONTROL control group]때 만드는 방법을 알아봅니다.*
+   [!UICONTROL control group]게재 대상을 정의할 때 *을(를) 만드는 방법을 알아봅니다.*
 
 * **[예측 전송 시간 최적화](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
 
-   *Adobe Campaign과 고객 여정 AI 모델 간의 데이터를 동기화하는 데 필요한 워크플로우를 파악할 수 있습니다. 개별 프로필 수준에서 전송 시간 점수를 보는 방법 및 전송 시간 공식을 사용하여 이메일 배달을 실행하는 방법을 알아봅니다.*
+   *Adobe Campaign과 여정 AI 모델 간의 데이터를 동기화하는 데 필요한 워크플로우를 파악할 수 있습니다. 개별 프로필 수준에서 참여 점수를 보고, 참여 사용자 타겟팅 및 피로도가 높은 사용자를 알아보기 위해 점수를 사용하고 분류 규칙을 만들어 고객 피로도를 관리하는 방법을 알아봅니다.*
 
-* **[예측 참여 점수 지정](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
+* **[예측 참여 점수 책정](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
 
-   *개별 프로필 수준에서 참여 점수를 보고, 참여 사용자를 타깃팅하고, 피로도가 높은 사용자를 진압하기 위해 점수를 사용하고, 분류 규칙을 만들어 고객 피로도를 관리하는 방법을 알아봅니다.*
+   *개별 프로필 수준에서 참여 점수를 보고, 참여 사용자 타겟팅 및 피로도가 높은 사용자를 알아보기 위해 점수를 사용하고 분류 규칙을 만들어 고객 피로도를 관리하는 방법을 알아봅니다.*
 
 ## 직원 추천
 
@@ -75,6 +75,6 @@ Adobe Campaign은 크로스 채널 고객 경험을 디자인할 수 있는 플�
 </tr>
 </table>
 
-## 추가 자료
+## 추가 리소스
 
 * [설명서](https://docs.adobe.com/content/help/ko-KR/campaign-standard/using/campaign-standard-home.html)

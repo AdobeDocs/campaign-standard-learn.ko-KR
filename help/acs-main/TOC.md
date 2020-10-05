@@ -13,8 +13,8 @@ type: Tutorial
 translation-type: tm+mt
 source-git-commit: a7eeaf46d27110384c7ddb143927f3a4ed06e2eb
 workflow-type: tm+mt
-source-wordcount: '526'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

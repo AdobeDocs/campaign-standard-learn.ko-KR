@@ -10,8 +10,8 @@ team: PM
 translation-type: tm+mt
 source-git-commit: aa01c2f8fe1560468d0d8f3fae6291bb82f9a21f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '120'
+ht-degree: 80%
 
 ---
 
@@ -24,7 +24,7 @@ Adobe Campaign [!UICONTROL Control Panel]을(를) 사용하면 하위 도메인�
 >
 >이 사이트의 하위 도메인 위임 [!UICONTROL Control Panel] 은 1월 말까지 베타에서 사용할 수 있으며 자주 업데이트되고 예고 없이 수정될 수 있습니다.
 
-## [!UICONTROL Control Panel]에 액세스  [!UICONTROL Subdomain Management]
+## [!UICONTROL Control Panel]에 액세스 [!UICONTROL Subdomain Management]
 
 [!UICONTROL Subdomain Management]에 액세스하려면 [!UICONTROL Control Panel]에서 다음 위치로 이동하십시오.
 

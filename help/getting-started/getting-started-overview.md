@@ -8,10 +8,10 @@ doc-type: null
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: a75ff01a4b3e4550ead4612407e101bef8df3aba
+source-git-commit: 4fa09f7aaddffc4ecbcc703e197785e594b6cb65
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 2%
+source-wordcount: '191'
+ht-degree: 38%
 
 ---
 
@@ -25,16 +25,17 @@ Adobe Campaign Standard은 개인화된 고객 경험을 구축하기 위해 온
 Adobe Campaign Standard을 시작하는 데 도움이 되는 자습서 비디오 세트가 있습니다.
 
 * [Adobe Campaign Standard 소개](/help/getting-started/adobe-campaign-standard-introduction.md)
-* [기능 개요](/help/getting-started/functional-overview.md)
 * [UI 시작하기](/help/getting-started/getting-started-with-the-ui.md)
 * [목록 구성](/help/getting-started/configure-a-list.md)
 * [계층 구조 및 마케팅 활동 살펴보기](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
 * [캠페인 관리](/help/getting-started/managing-campaigns.md)
-* [프로파일과 고객 이해](/help/getting-started/understanding-profiles-and-audiences.md)
+* [프로필 및 대상자 이해](/help/getting-started/understanding-profiles-and-audiences.md)
+* [이메일 만들기](https://docs.adobe.com/content/help/ko-KR/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
 * [워크플로우 만들기](/help/managing-processes-and-data/create-workflow.md)
 * [보고 소개](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
-* [Adobe Campaign을 사용한 모바일 마케팅](/help/getting-started/mobile-marketing-with-adobe-campaign.md)*[Adobe Campaign과 함께 성장하십시오.](/help/getting-started/growing-with-adobe-campaign.md)
+* [Adobe Campaign으로 모바일 마케팅](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
+* [Adobe Campaign과 함께 성장](/help/getting-started/growing-with-adobe-campaign.md)
 
-## 추가 자료
+## 추가 리소스
 
 * [설명서 - Adobe Campaign Standard 시작하기](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/about-campaign-standard.html)

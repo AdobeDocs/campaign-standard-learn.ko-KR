@@ -7,16 +7,16 @@ kt: 2938
 doc-type: article
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2fd2e62663f4b09ce7afc6387b53e194fbcafde8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '327'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
 
-# 문제 [!UICONTROL Control Panel]
+# [!UICONTROL Control Panel] 문제 해결
 
 Campaign 컨트롤 패널 사용 시 문제를 해결하는 방법을 배웁니다.
 
@@ -47,16 +47,16 @@ Campaign 컨트롤 패널 사용 시 문제를 해결하는 방법을 배웁니�
 
 ### 유용한 비디오
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=kor)
 *확인[!DNL IMS Org ID](00:26분)*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=kor)
 *관리자를 사용할 수 있도록[!UICONTROL product profile]*[!DNL administrators]*에 추가하는 방법[!UICONTROL Control Panel](01:03분)*
 
 ### 유용한 설명서
 
-* [ [!UICONTROL Control Panel]를 검색](https://helpx.adobe.com/kr/campaign/kb/control-panel-overview.html)
-* [ [!UICONTROL Control Panel]](https://helpx.adobe.com/kr/campaign/kb/control-panel-access.html)에 대한 권한 관리
+* [[!UICONTROL Control Panel]를 검색](https://helpx.adobe.com/kr/campaign/kb/control-panel-overview.html)
+* [[!UICONTROL Control Panel]에 대한 권한 관리](https://helpx.adobe.com/kr/campaign/kb/control-panel-access.html)
 
 ## SFTP 서버에 연결 설정(클라이언트 또는 API)
 

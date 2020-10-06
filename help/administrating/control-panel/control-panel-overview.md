@@ -7,11 +7,11 @@ kt: 4696
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
-workflow-type: ht
-source-wordcount: '364'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: a078367ce8ffece206d3b83bfeefc4df4f8078d6
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -45,16 +45,18 @@ Campaign 컨트롤 패널에 액세스하려면 다음의 Experience Cloud 홈�
 
 자신의 [!DNL IMS org ID]을(를) 알아야 합니다. 다음 비디오에서는 인스턴스의 [!DNL IMS org ID]을(를) 조회할 수 있는 위치를 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=kor)
-*확인[!DNL IMS Org ID](00:26분)*
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+
+*확인[!DNL IMS Org ID](00:26)*
 
 ### 관리자 권한
 
 [!UICONTROL Control Panel]에 액세스하려면 관리자 권한이 필요합니다 .
 다음 비디오에서는 Campaign 인스턴스에 관리자를 추가하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=kor)
-*제품 프로필 &quot;[!UICONTROL Administrators]&quot;에 관리자를 추가하여 사용할 수 있는 방법[!UICONTROL Control Panel](01:03분)*
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+
+*[!UICONTROL Administrators]을(를) 사용하기 위해 제품 프로필 &quot;[!UICONTROL Control Panel]&quot;에 관리자를 추가하는 방법(01:03)*
 
 ## Campaign 컨트롤 패널 자습서
 

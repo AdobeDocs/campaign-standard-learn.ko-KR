@@ -7,11 +7,11 @@ kt: 2938
 doc-type: article
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 2fd2e62663f4b09ce7afc6387b53e194fbcafde8
-workflow-type: ht
-source-wordcount: '327'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 66b8f4b6378eb974dc858b28c0479a9cb5d52a6b
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -47,10 +47,12 @@ Campaign 컨트롤 패널 사용 시 문제를 해결하는 방법을 배웁니�
 
 ### 유용한 비디오
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=kor)
-*확인[!DNL IMS Org ID](00:26분)*
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=kor)
+*확인[!DNL IMS Org ID](00:26)*
+
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+
 *관리자를 사용할 수 있도록[!UICONTROL product profile]*[!DNL administrators]*에 추가하는 방법[!UICONTROL Control Panel](01:03분)*
 
 ### 유용한 설명서

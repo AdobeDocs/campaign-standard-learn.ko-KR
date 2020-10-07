@@ -8,10 +8,10 @@ doc-type: feature video
 activity: using
 team: PM
 translation-type: tm+mt
-source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
+source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '147'
+ht-degree: 7%
 
 ---
 
@@ -27,6 +27,7 @@ ht-degree: 0%
 이 비디오에서는 활동을 사용하여 워크플로우 [!UICONTROL Data Services Query Audience] 내에서 활성화하는 방법을 [!UICONTROL Read Audience] 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
+
 *워크플로우에서 Adobe Experience Platform 대상 활성화(02:37분)*
 
 ## 추가 리소스

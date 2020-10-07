@@ -3,16 +3,17 @@ title: 데이터 암호 해독
 description: 아래 비디오에서는 공개 키를 만들고 데이터 암호를 해독하기 위해 Campaign 인스턴스로 가져오고 설치하는 방법을 설명합니다.
 feature: Control Panel
 topics: null
+audience: administrator
 kt: 5545
 thumbnail: 35753.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: e4cfb5ed1118cda9e545d84e51adb8e5bede324e
+source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

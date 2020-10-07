@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
@@ -26,9 +26,10 @@ Adobe Campaign의 프로필 정보 유무와 상관없이 모바일 앱의 모�
 * 새로운 기능 릴리스에 대한 공지 사항
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12)
+
 *In-App 브로드캐스트 메시지 만들기[!UICONTROL SDKV5 Mobile property]*
 
-## 추가 자료
+## 추가 리소스
 
 * [인앱 메시지 준비 및 보내기(설명서)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html)
 * [인앱 메시지 사용자 지정(설명서)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html)

@@ -12,7 +12,7 @@ getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-standard
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 9e1a79692d12189657e21ea728ace94ff0403840
+source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 83%
@@ -34,8 +34,8 @@ ht-degree: 83%
    + [Google TXT 레코드 관리](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + 인스턴스 설정 {#instance-settings}
    + GPG 키 관리 {#gpg-key-management}
-      + [GPG 키 관리 - 개요](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-      + [데이터 암호화에 대한 GPG 키 생성 및 설치](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-      + [GPG 키를 사용하여 데이터 암호화](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-      + [데이터 암호 해독](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
+   + [GPG 키 관리 - 개요](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
+   + [데이터 암호화에 대한 GPG 키 생성 및 설치](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+   + [GPG 키를 사용하여 데이터 암호화](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+   + [데이터 암호 해독](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + [Campaign 컨트롤 패널 문제 해결](/help/control-panel-tutorials/trouble-shooting.md)

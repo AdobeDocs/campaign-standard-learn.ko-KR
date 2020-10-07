@@ -8,9 +8,9 @@ doc-type: article
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: 7aa32d583ac2ea756945a17634fb477d7b94cb7f
+source-git-commit: 6e4824185b84715d514bf21aace9e57c602e970d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1367'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,8 @@ ht-degree: 0%
 >[!NOTE]
 >
 >바운스는 잘못된 데이터 소스(하드 바운스)나 ISP(소프트 바운스)의 평판 문제를 강조 표시할 수 있으므로 평판 문제의 주요 지표입니다.
-소프트 바운스는 종종 이메일 전송의 일부로서 발생하며, 진정한 전달 능력 문제로 간주하기 전에 재시도 처리 중 문제를 해결할 수 있어야 합니다. 단일 ISP의 경우 소프트 바운스 비율이 30%보다 크고 24시간 이내에 해결되지 않는 경우 Adobe Campaign 제공 컨설턴트에게 관심을 갖는 것이 좋습니다.
+>
+>소프트 바운스는 종종 이메일 전송의 일부로서 발생하며, 진정한 전달 능력 문제로 간주하기 전에 재시도 처리 중 문제를 해결할 수 있어야 합니다. 단일 ISP의 경우 소프트 바운스 비율이 30%보다 크고 24시간 이내에 해결되지 않는 경우 Adobe Campaign 제공 컨설턴트에게 관심을 갖는 것이 좋습니다.
 
 ## 컴플레인
 

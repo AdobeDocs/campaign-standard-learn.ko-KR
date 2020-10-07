@@ -3,12 +3,13 @@ title: 서버 용량 모니터링, IP 주소 나열 허용 및 SSH 키 추가
 description: Campaign 컨트롤 패널을 사용하면 SFTP 저장소를 인스턴스별로 모니터링 및 관리하고 IP 주소를 허용 목록에 추가할 수 있습니다.
 feature: Control Panel
 topics: null
+audience: administrator
 kt: 3266
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 356e9e4b43b0f192782fc28473be87005b9d2921
+source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
 workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 100%

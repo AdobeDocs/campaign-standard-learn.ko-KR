@@ -49,7 +49,7 @@ Campaign 컨트롤 패널 사용 시 문제를 해결하는 방법을 배웁니�
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*확인 [!DNL IMS Org ID](00:26)*
+*확인 [!DNL IMS Org ID] (00:26)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 

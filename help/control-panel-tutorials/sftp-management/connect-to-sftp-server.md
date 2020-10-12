@@ -3,14 +3,14 @@ title: SFTP 서버에 연결
 description: 이 비디오에서는 Campaign 컨트롤 패널에 저장한 키로 클라이언트 SFTP 애플리케이션을 사용하여 SFTP 서버에 연결하는 방법을 설명합니다.
 feature: SFTP Management
 topics: Control Panel
+audience: administrator
 kt: 2924
 thumbnail: 27263.jpg
 doc-type: feature video
-audience: administrator
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cba7384847a4708764a54cddd77af80f3b760dca
+source-git-commit: 0e18e57b68ab324af15cb2ec14f3e2f35f972be2
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 100%

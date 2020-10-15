@@ -11,10 +11,10 @@ getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 370c10f0f3c696ce006c4af8d01c80bafa25b50c
+source-git-commit: 314fa481c3467ba305c242e6c338caad5a836315
 workflow-type: tm+mt
-source-wordcount: '571'
-ht-degree: 94%
+source-wordcount: '492'
+ht-degree: 96%
 
 ---
 
@@ -106,20 +106,7 @@ ht-degree: 94%
       + [사용자 지정 리소스 만들기](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + 관리 {#administrating}
    + [사용자 액세스 권한 관리](/help/administrating/managing-user-access-rights.md)
-   + Campaign 컨트롤 패널 {#control-panel}
-      + [Campaign 컨트롤 패널 개요](/help/administrating/control-panel/control-panel-overview.md)
-      + [서버 용량 모니터링, IP 주소 나열 허용 및 SSH 키 추가](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-      + [SSH 키 생성](/help/administrating/control-panel/generate-ssh-key.md)
-      + [SFTP 서버에 연결](/help/administrating/control-panel/connect-to-sftp-server.md)
-      + [하위 도메인 위임](/help/administrating/control-panel/subdomain-delegation.md)
-      + [SSL 인증서 추가](/help/administrating/control-panel/adding-ssl-certificates.md)
-      + [Google TXT 레코드 관리](/help/administrating/control-panel/google-txt-record-management.md)
-      + GPG 키 관리 {#gpg-key-management}
-         + [GPG 키 관리 - 개요](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
-         + [데이터 암호화에 대한 GPG 키 생성 및 설치](/help/administrating/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-         + [GPG 키를 사용하여 데이터 암호화](/help/administrating/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-         + [데이터 암호 해독](/help/administrating/control-panel/gpg-key-management/decrypting-data.md)
-      + [문제 해결](/help/administrating/control-panel/trouble-shooting.md)
+   + [Campaign 컨트롤 패널] (/help/control-panel-tutorials/control-panel-overview.md)
    + Adobe Experience Platform 데이터 커넥터 {adobe-experience-platform-data-connector}
       + [Adobe Experience Platform 데이터 커넥터 이해](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [사용자 지정 리소스 매핑](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
@@ -136,5 +123,3 @@ ht-degree: 94%
    + [개인 정보 요청에 대한 사용자 지정 리소스 수정](/help/privacy/custom-resources-for-privacy-requests.md)
    + [개인 정보 요청 수동으로 만들기 및 추적](/help/privacy/create-and-track-privacy-requests.md)
    + [개인 정보 요청 실행](/help/privacy/execute-privacy-requests.md)
-+ [Adobe Campaign 전달 능력 우수 사례 가이드](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
-+ [컨트롤 패널](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)

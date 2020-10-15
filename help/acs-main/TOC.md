@@ -1,8 +1,8 @@
 ---
 product: adobe campaign standard
 user-guide-title: Adobe Campaign Standard 자습서
-user-guide-description: Design cross-channel customer experiences and create an environment for visual campaign orchestration, real time interaction management, and cross channel execution.
-breadcrumb-title: Campaign Standard Tutorials
+user-guide-description: 크로스 채널 고객 경험을 설계하고 시각적인 Campaign 통합 운영, 실시간 상호 작용 관리 및 크로스 채널 실행을 위한 환경을 구축할 수 있습니다.
+breadcrumb-title: Campaign Standard 자습서
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: 자습서
@@ -13,8 +13,8 @@ type: Tutorial
 translation-type: tm+mt
 source-git-commit: 370c10f0f3c696ce006c4af8d01c80bafa25b50c
 workflow-type: tm+mt
-source-wordcount: '524'
-ht-degree: 98%
+source-wordcount: '571'
+ht-degree: 94%
 
 ---
 
@@ -136,3 +136,5 @@ ht-degree: 98%
    + [개인 정보 요청에 대한 사용자 지정 리소스 수정](/help/privacy/custom-resources-for-privacy-requests.md)
    + [개인 정보 요청 수동으로 만들기 및 추적](/help/privacy/create-and-track-privacy-requests.md)
    + [개인 정보 요청 실행](/help/privacy/execute-privacy-requests.md)
++ [Adobe Campaign 전달 능력 우수 사례 가이드](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
++ [컨트롤 패널](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)

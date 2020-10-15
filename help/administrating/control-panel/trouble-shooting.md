@@ -8,10 +8,10 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 66b8f4b6378eb974dc858b28c0479a9cb5d52a6b
+source-git-commit: f120eaf237378db3ddd5833930c0222ee028941d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '327'
+ht-degree: 100%
 
 ---
 
@@ -49,11 +49,11 @@ Campaign 컨트롤 패널 사용 시 문제를 해결하는 방법을 배웁니�
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*확인[!DNL IMS Org ID](00:26)*
+*확인 [!DNL IMS Org ID] (00:26)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-*관리자를 사용할 수 있도록[!UICONTROL product profile]*[!DNL administrators]*에 추가하는 방법[!UICONTROL Control Panel](01:03분)*
+*관리자를 사용할 수 있도록 [!UICONTROL product profile]*[!DNL administrators]*에 추가하는 방법[!UICONTROL Control Panel] (01:03분)*
 
 ### 유용한 설명서
 
@@ -68,7 +68,7 @@ SFTP 서버에 연결하려면 다음이 필요합니다.
 * Adobe Campaign에 등록해야 하는 개인/공개 키 쌍
 * SFTP 서버에 직접 연결하는 경우 SFTP 클라이언트 소프트웨어도 필요합니다
 
-### 유용한 설명서
+### 유용한 설명서 {#helpful-docs}
 
 * [SFTP 서버에 로그인](https://docs.adobe.com/content/help/ko-KR/control-panel/using/control-panel-home.html#LoggingintoyourSFTPserver)
 

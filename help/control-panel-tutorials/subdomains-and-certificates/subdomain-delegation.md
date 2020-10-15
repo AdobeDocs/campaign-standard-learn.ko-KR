@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: dd218f7956b3dd487f59424246b81c115829160a
+source-git-commit: f82963aaa1c1673aaa888a79b6aae11c7ee2de59
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '117'
+ht-degree: 80%
 
 ---
 
@@ -41,9 +41,7 @@ Adobe Campaign [!UICONTROL Control Panel]을(를) 사용하면 하위 도메인�
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
 
-*하위 도메인 위임(05:07)*
-
 ## 추가 리소스
 
-* [SSL 인증서 추가](/help/administrating/control-panel/adding-ssl-certificates.md)
+* [SSL 인증서 추가](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
 * [하위 도메인 및 인증서](https://docs.adobe.com/content/help/ko-KR/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)

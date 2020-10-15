@@ -1,6 +1,6 @@
 ---
 title: Android 앱을 사용하여 푸시 알림 시작하기
-description: 이 튜토리얼은 Adobe Campaign에서 푸시 알림을 전송하고 Android 앱에서 이러한 알림을 받는 것과 관련된 단계를 안내합니다.
+description: 이 자습서는 Adobe Campaign에서 푸시 알림을 전송하고 Android 앱에서 이러한 알림을 받는 것과 관련된 단계를 설명합니다.
 feature: Push
 topics: Mobile
 kt: 3846
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 9%
+ht-degree: 33%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 9%
 
 Adobe Campaign을 통해 개인화 및 세그먼트화한 푸시 알림을 iOS 및 Android 모바일 디바이스로 전송할 수 있습니다.
 이러한 메시지는 Experience Cloud Mobile SDK V4 또는 Experience Platform SDK를 활용하여 Adobe Campaign에서 설정한 모바일 애플리케이션에서 수신됩니다.
-이 튜토리얼은 Adobe Campaign에서 푸시 알림을 전송하고 Android 앱에서 이러한 알림을 받는 것과 관련된 단계를 안내합니다.
+이 자습서는 Adobe Campaign에서 푸시 알림을 전송하고 Android 앱에서 이러한 알림을 받는 것과 관련된 단계를 설명합니다.
 
 ## 사전 요구 사항
 

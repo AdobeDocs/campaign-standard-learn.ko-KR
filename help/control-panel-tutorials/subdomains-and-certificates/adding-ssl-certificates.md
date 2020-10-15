@@ -10,7 +10,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
+source-git-commit: f82963aaa1c1673aaa888a79b6aae11c7ee2de59
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 54%
@@ -61,5 +61,5 @@ SSL 인증서를 가져온 후에는 보안을 설정하려는 하위 도메인�
 
 ## 추가 리소스
 
-* [하위 도메인 위임](/help/administrating/control-panel/subdomain-delegation.md)
+* [하위 도메인 위임](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
 * [하위 도메인 및 인증서 - 설명서](https://docs.adobe.com/content/help/ko-KR/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)

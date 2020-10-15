@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: 4fa09f7aaddffc4ecbcc703e197785e594b6cb65
 workflow-type: tm+mt
 source-wordcount: '191'
-ht-degree: 38%
+ht-degree: 67%
 
 ---
 
 
 # Adobe Campaign Standard 시작하기
 
-Adobe Campaign Standard은 개인화된 고객 경험을 구축하기 위해 온라인 및 오프라인 전략을 연계할 수 있는 강력한 크로스채널 캠페인 관리 툴입니다.
+Adobe Campaign은 개인화된 고객 경험을 구축하기 위해 온라인 및 오프라인 전략을 연계할 수 있는 강력한 크로스채널 캠페인 관리 도구입니다..
 
 크로스 채널 캠페인을 작성, 실행 및 추적하는 전체 프로세스를 제어할 수 있을 뿐만 아니라 클라이언트의 프로필, 행동, 선호도 및 요구 사항에 따라 개인화된 메시지를 전송할 수 있습니다. 전체 마케팅 프로세스를 손쉽게 통합, 모델링 및 자동화하고 다른 Adobe 솔루션과 통합할 수 있습니다.
 

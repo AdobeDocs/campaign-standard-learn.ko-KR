@@ -11,10 +11,10 @@ getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: c1717885f4221f2323c8a580c718c17ffd4269e4
+source-git-commit: f25c49f242710f2426f79cc47f46def81dd01cb1
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 97%
+source-wordcount: '497'
+ht-degree: 96%
 
 ---
 
@@ -106,7 +106,7 @@ ht-degree: 97%
       + [사용자 지정 리소스 만들기](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + 관리 {#administrating}
    + [사용자 액세스 권한 관리](/help/administrating/managing-user-access-rights.md)
-   + [컨트롤 패널](/help/control-panel-tutorials/control-panel-overview.md)
+   + [컨트롤 패널](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)
    + Adobe Experience Platform 데이터 커넥터 {adobe-experience-platform-data-connector}
       + [Adobe Experience Platform 데이터 커넥터 이해](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [사용자 지정 리소스 매핑](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)

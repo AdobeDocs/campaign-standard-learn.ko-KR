@@ -14,7 +14,7 @@ translation-type: tm+mt
 source-git-commit: f25c49f242710f2426f79cc47f46def81dd01cb1
 workflow-type: tm+mt
 source-wordcount: '497'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -36,10 +36,10 @@ ht-degree: 96%
    + [Adobe Campaign으로 모바일 마케팅](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Adobe Campaign과 함께 성장](/help/getting-started/growing-with-adobe-campaign.md)
 + 프로필 및 대상자 {#profiles-and-audiences}
-   + [프로필 및 대상 만들기 - 개요](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
+   + [프로필 및 대상자 만들기 - 개요](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [프로필 만들기](/help/profiles-and-audiences/creating-a-profile.md)
    + [테스트 프로필 만들기](/help/profiles-and-audiences/test-profiles.md)
-   + [워크플로우를 통해 프로필 가져오기](/help/managing-processes-and-data/importing-profiles.md)
+   + [워크플로우로 프로필 가져오기](/help/managing-processes-and-data/importing-profiles.md)
    + [서비스 및 구독 관리](/help/managing-processes-and-data/services-and-subscriptions.md)
    + 대상자 대상(베타){#audience-destinations}
       + [개요](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)

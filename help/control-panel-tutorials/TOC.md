@@ -12,10 +12,10 @@ getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-standard
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: d2f63c27e950cffa354c7b4722546afd7c96d05e
+source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 73%
+source-wordcount: '148'
+ht-degree: 68%
 
 ---
 
@@ -30,7 +30,8 @@ ht-degree: 73%
    + [SSH 키 생성](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [SFTP 서버에 연결](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + 하위 도메인 및 인증서 {#subdomains-and-certificates}
-   + [하위 도메인 위임](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [전체 하위 도메인 위임(베타)](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+   + [CNAME(베타)을 사용하여 하위 도메인 위임](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
    + [SSL 인증서 추가](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
    + [Google TXT 레코드 관리](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + 인스턴스 설정 {#instance-settings}

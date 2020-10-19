@@ -1,5 +1,5 @@
 ---
-title: 하위 도메인 위임
+title: 전체 하위 도메인 위임
 description: Adobe Campaign 컨트롤 패널을 사용하면 하위 도메인을 Adobe Campaign에 완전히 위임할 수 있습니다. 이렇게 하려면 아래 단계를 수행합니다.
 feature: Subdomains and certificates
 topics: null
@@ -10,15 +10,15 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: f82963aaa1c1673aaa888a79b6aae11c7ee2de59
+source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '119'
 ht-degree: 80%
 
 ---
 
 
-# 하위 도메인 위임
+# 전체 하위 도메인 위임
 
 Adobe Campaign [!UICONTROL Control Panel]을(를) 사용하면 하위 도메인을 Adobe Campaign에 완전히 위임할 수 있습니다.
 

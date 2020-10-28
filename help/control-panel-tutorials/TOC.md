@@ -11,10 +11,10 @@ getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-standard/using/campaign-standard-home.html
 index: true
 translation-type: tm+mt
-source-git-commit: ab38f860429da19c662bacb68c04d9c166422782
+source-git-commit: 16cd416f567c8177aadd35e03cfa27d0e0478e6b
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 100%
+source-wordcount: '152'
+ht-degree: 98%
 
 ---
 
@@ -39,4 +39,6 @@ ht-degree: 100%
       + [데이터 암호화에 대한 GPG 키 생성 및 설치](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
       + [GPG 키를 사용하여 데이터 암호화](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
       + [데이터 암호 해독](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
++ 성능 모니터링 {#performance-monitoring}
+   + [데이터베이스 모니터링](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)
 + [Campaign 컨트롤 패널 문제 해결](/help/control-panel-tutorials/trouble-shooting.md)

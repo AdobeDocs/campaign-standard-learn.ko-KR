@@ -10,17 +10,17 @@ audience: administrator
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 68324e2e234b3c98e9cc2cd8400a03d272306093
+source-git-commit: da28f90f376f867e861194f828493fc66cc604e4
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 3%
+source-wordcount: '86'
+ht-degree: 2%
 
 ---
 
 
 # 데이터베이스 모니터링
 
-인스턴스의 [!DNL Adobe Campaign] 데이터베이스에는 저장된 모든 에셋, 워크플로우 및 데이터가 포함됩니다 [!DNL Adobe Campaign]. 인스턴스 데이터베이스를 모니터링하므로 최적의 성능을 보장하는 것이 중요합니다.
+모든 캠페인 인스턴스의 자산, 워크플로우 및 데이터는 데이터베이스에 저장됩니다. 용량이 최대 데이터베이스에 도달하면 인스턴스 문제(로그인 불가능, 이메일 전송 등)가 발생할 수 있습니다. 따라서 인스턴스 데이터베이스를 정기적으로 모니터링하여 최적의 성능을 보장하는 것이 중요합니다.
 
 를 사용하여 인스턴스의 데이터베이스 사용을 모니터링하는 방법을 알아봅니다 [!DNL Control Panel].
 

@@ -1,5 +1,5 @@
 ---
-title: Campaign 컨트롤 패널  - 개요
+title: Campaign 컨트롤 패널   - 개요
 description: Adobe Campaign 관리자는 Adobe Campaign 컨트롤 패널을 통해 주요 자산을 모니터링하고 SFTP 저장 공간을 인스턴스별로 관리하거나, GPG 키 또는 하위 도메인 및 인증서를 관리하는 등의 관리 작업을 수행할 수 있습니다.
 feature: Control Panel
 topics: Control Panel
@@ -8,11 +8,11 @@ kt: 4696
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 68324e2e234b3c98e9cc2cd8400a03d272306093
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '209'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ Adobe Campaign 관리자는 Adobe Campaign 컨트롤 패널을 통해 주요 자
 
 * **[데이터베이스 모니터링](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
 
-   *인스턴스의 데이터베이스 사용을 모니터링하는 방법을 알아봅니다.*
+   *인스턴스의 데이터베이스 사용량을 모니터링하는 방법을 알아봅니다.*
 
 * **[CNAME을 사용하여 하위 도메인 위임](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 

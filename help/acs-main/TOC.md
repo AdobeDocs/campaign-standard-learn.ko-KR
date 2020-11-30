@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/ko-KR/campaign-standard-learn
 getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 40cd637d2b80670b6e24047c39300470e4ffe2f1
+source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
 workflow-type: tm+mt
-source-wordcount: '495'
-ht-degree: 98%
+source-wordcount: '502'
+ht-degree: 96%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 98%
    + [캠페인 관리](/help/getting-started/managing-campaigns.md)
    + [프로필 및 대상자 이해](/help/getting-started/understanding-profiles-and-audiences.md)
    + [이메일 만들기](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
-   + [워크플로우 만들기](/help/managing-processes-and-data/create-workflow.md)
+   + [워크플로우 만들기](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/creating-a-workflow.html)
    + [보고 소개](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Adobe Campaign으로 모바일 마케팅](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Adobe Campaign과 함께 성장](/help/getting-started/growing-with-adobe-campaign.md)
@@ -90,7 +90,7 @@ ht-degree: 98%
       + [Adobe Dreamweaver를 사용하여 콘텐츠 제작](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [트랜잭션 이메일에서 제품 목록 구성](/help/designing-content/product-listings-in-transactional-email.md)
 + 프로세스 및 데이터 관리 {#managing-processes-and-data}
-   + [워크플로우 만들기](/help/managing-processes-and-data/create-workflow.md)
+   + [워크플로우 만들기](/help/managing-processes-and-data/creating-a-workflow.md)
    + 실행 활동{#execution-activities}
       + [외부 신호 활동](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + 데이터 관리 활동 {#data-management-activities}

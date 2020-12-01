@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: dc9d084e8be1f0b942c6fd9bbefd7fcd3ded3f2d
+source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Adobe는 마케팅 및 재마케팅 목적으로 고객이 주문한 내용에 �
 
 ## 튜토리얼 시작
 
-[사용자 지정 리소스 만들기](./create-a-custom-resourc.md)
+[사용자 지정 리소스 만들기](./creating-a-custom-resource.md)
 
 ## 추가 리소스
 

@@ -4,11 +4,12 @@ description: DM은 전 세계 마케터에게 여전히 중요한 채널이며 �
 feature: direct mail
 topics: null
 kt: 1430
+thumbnail: 23417.jpg
 doc-type: feature video
 activity: using
 team: TM
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 1%
@@ -30,6 +31,6 @@ ht-degree: 1%
 
 ![워크플로우 이미지](/help/assets/direct_mail_examplewf.png)
 
-## 추가 자료
+## 추가 리소스
 
 * [DM 정보](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)

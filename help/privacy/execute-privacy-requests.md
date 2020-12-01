@@ -4,14 +4,15 @@ description: Adobe Campaign에서 개인 정보 요청은 워크플로우에 의
 feature: GDPR, CCPA
 topic: null
 kt: 1525
+thumbnail: 22770.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 2%
+ht-degree: 30%
 
 ---
 
@@ -22,7 +23,7 @@ Adobe Campaign에서 개인 정보 요청은 워크플로우에 의해 실행됩
 
 >[!VIDEO](https://video.tv.adobe.com/v/22770?quality=12)
 
-## 추가 자료
+## 추가 리소스
 
-* [캠페인에 대한 일반 개인 정보 보호 지침](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)
-* [CCPA for Adobe Campaign Standard](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa)
+* [Campaign에 대한 일반 개인 정보 보호 지침](https://helpx.adobe.com/kr/campaign/kb/campaign-privacy-overview.html)
+* [CCPA for Adobe Campaign Standard](https://helpx.adobe.com/kr/campaign/kb/acs-privacy.html#ccpa)

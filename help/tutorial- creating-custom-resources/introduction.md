@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: eff1f79da6ec345da899af1698e43750c06b103d
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 0%
@@ -50,4 +50,4 @@ Adobe는 마케팅 및 재마케팅 목적으로 고객이 주문한 내용에 �
 
 ## 추가 리소스
 
-[사용자 정의 리소스(문서)](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/global-concepts/custom-resources.html)
+[사용자 정의 리소스(설명서)](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/global-concepts/custom-resources.html)

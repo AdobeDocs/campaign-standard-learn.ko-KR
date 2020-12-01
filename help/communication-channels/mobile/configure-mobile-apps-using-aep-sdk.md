@@ -1,14 +1,15 @@
 ---
 title: Adobe Experience Platform SDK를 사용하여 모바일 애플리케이션 구성
 description: Experience Cloud SDK 응용 프로그램을 사용하여 인앱 메시지 또는 푸시 알림을 전송하려면 모바일 앱을 Adobe Experience Platform Launch에 설정하고 Adobe Campaign에서 구성해야 합니다
-feature: Mobile SDK V5
-topics: Mobile
+feature: mobile SDK
+topics: null
 kt: 2501
+thumbnail: 26224.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: b8f093b8e95a451bbf50ce7aca6ca4db35e3a324
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 15%

@@ -4,14 +4,15 @@ description: '이 비디오에서는 Adobe Campaign Standard에서 A/B 테스트
 feature: A/B Testing
 topics: null
 kt: 3907
+thumbnail: 18480.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 41%
+ht-degree: 47%
 
 ---
 
@@ -24,6 +25,6 @@ The [!UICONTROL A/B Test] functionality in Adobe Campaign allows you to define t
 
 >[!VIDEO](https://video.tv.adobe.com/v/18480?quality=12)
 
-## 추가 자료
+## 추가 리소스
 
 * [A/B 테스트 이메일 디자인](https://docs.adobe.com/help/en/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html)

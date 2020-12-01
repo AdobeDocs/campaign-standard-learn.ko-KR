@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 763c7f51e28d025438f873314cc4fd60b96648ca
+source-git-commit: a52d19279760efed1ed901610f7cbf146c2c54d4
 workflow-type: tm+mt
 source-wordcount: '35'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 ---
 
 
-## 사용자 지정 리소스 만들기
+# 사용자 지정 리소스 만들기
 
 이 비디오에서는 고객이라는 첫 번째 사용자 지정 리소스를 만듭니다.
 

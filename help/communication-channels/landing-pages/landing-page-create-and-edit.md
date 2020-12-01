@@ -4,14 +4,15 @@ description: Adobe Campaign은 고객 정보를 캡처하고, 서비스에 가�
 feature: Landing Pages
 topics: null
 kt: 1808
+thumbnail: 24093.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
@@ -22,6 +23,6 @@ Adobe Campaign을 사용하면 고객 정보를 캡처하고, 서비스에 구�
 
 >[!VIDEO](https://video.tv.adobe.com/v/24093?quality=12)
 
-## 추가 자료
+## 추가 리소스
 
 * [랜딩 페이지 만들기(설명서)](https://docs.campaign.adobe.com/doc/standard/getting_started/en/ACS_CreateLandingPage.html)

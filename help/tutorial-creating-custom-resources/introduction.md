@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a52d19279760efed1ed901610f7cbf146c2c54d4
+source-git-commit: dc9d084e8be1f0b942c6fd9bbefd7fcd3ded3f2d
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -42,11 +42,11 @@ Adobe는 마케팅 및 재마케팅 목적으로 고객이 주문한 내용에 �
 
 이 자습서에서는 다음 방법을 단계별로 설명합니다.
 
-1단계 - [사용자 지정 리소스](./creating-a-custom-resource)만들기 2단계 - [화면 정의](./configuring-a-screen-definition-for-a-custom-resource.md)구성 [3단계 - 사용자](./linking-custom-resources.md)정의 리소스 연결 [4단계 - 사용자 정의 리소스를 데이터로채우기](./populate-custom-resources-with-data.md)
+1단계 - [사용자 지정 리소스](./creating-a-custom-resource.md)만들기 2단계 - [화면 정의](./configuring-a-screen-definition-for-a-custom-resource.md)구성 [3단계 - 사용자](./linking-custom-resources.md)정의 리소스 연결 [4단계 - 사용자 정의 리소스를 데이터로채우기](./populate-custom-resources-with-data.md)
 
 ## 튜토리얼 시작
 
-[사용자 지정 리소스 만들기](./create-a-custom-resource)
+[사용자 지정 리소스 만들기](./create-a-custom-resourc.md)
 
 ## 추가 리소스
 

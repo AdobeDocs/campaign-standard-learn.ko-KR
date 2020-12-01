@@ -4,11 +4,12 @@ description: 이 비디오에서는 모바일용 모든 스타일 옵션을 별�
 feature: Email Designer
 topics: null
 kt: 2423
+thumbnail: 25919.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%

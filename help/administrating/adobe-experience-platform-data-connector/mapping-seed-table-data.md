@@ -4,14 +4,15 @@ description: 시드 데이터를 매핑하는 방법 및 Adobe Experience Platfo
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
 kt: 2900
+thumbnail: 27264.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '92'
+ht-degree: 15%
 
 ---
 

@@ -10,7 +10,7 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: 설명서
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5edcdcd98b00b4f992b9775707f2c555bf051aec
 workflow-type: tm+mt
 source-wordcount: '497'
 ht-degree: 89%
@@ -30,7 +30,7 @@ ht-degree: 89%
    + [캠페인 관리](/help/getting-started/managing-campaigns.md)
    + [프로필 및 대상 이해](/help/getting-started/understanding-profiles-and-audiences.md)
    + [이메일 만들기](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
-   + [워크플로우 만들기](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/creating-a-workflow.html)
+   + [워크플로우 만들기](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html)
    + [보고 소개](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Adobe Campaign으로 모바일 마케팅](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Adobe Campaign과 함께 성장](/help/getting-started/growing-with-adobe-campaign.md)

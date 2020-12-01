@@ -4,14 +4,15 @@ description: 외부 신호 활동은 동일한 고객 여정의 일부인 다른
 feature: External Signal Activity
 topics: Workflows
 kt: 2750
+thumbnail: 27249
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '332'
-ht-degree: 16%
+ht-degree: 19%
 
 ---
 
@@ -27,11 +28,13 @@ ACS 19.2에서는 워크플로우를 [!UICONTROL External Signal activity] 호�
 다음 비디오에서는 필요한 구성 단계를 설명합니다.
 
 1. **CRM(Content Management System)과 같은 외부 시스템에서 외부 매개** 변수를 받을 수 있습니다.
+
    * 외부 신호 활동에서 매개 변수 선언
    * 매개 변수를 정의하고 워크플로 외부 신호 활동을 트리거하도록 API 호출을 구성합니다. API 호출을 구성하는 방법에 대한 자세한 내용은 신호 활동 [트리거를 참조하십시오](https://docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#triggering-a-signal-activity).
 
 1. **외부 매개 변수** (이벤트 변수)를 사용하여 워크플로우를 사용자 정의합니다.
-워크플로우가 트리거되면 매개 변수가 워크플로우의 이벤트 변수에 수집되고 워크플로우 내에서 사용할 수 있습니다. 이벤트 [변수로 사용자 정의할 수 있는 모든 활동에 대한 설명서는](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) 참조하십시오.
+
+   워크플로우가 트리거되면 매개 변수가 워크플로우의 이벤트 변수에 수집되고 워크플로우 내에서 사용할 수 있습니다. 이벤트 [변수로 사용자 정의할 수 있는 모든 활동에 대한 설명서는](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) 참조하십시오.
 
    * 테스트 활동 구성(19.2의 새로운 기능)
    * 대상 읽기 및 이메일 배달 활동 구성
@@ -40,6 +43,6 @@ ACS 19.2에서는 워크플로우를 [!UICONTROL External Signal activity] 호�
 
 >[!VIDEO](https://video.tv.adobe.com/v/27249/?quality=12)
 
-## 추가 자료
+## 추가 리소스
 
-* [외부 신호(설명서)](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
+* [외부 신호(설명서)](https://docs.adobe.com/content/help/ko-KR/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)

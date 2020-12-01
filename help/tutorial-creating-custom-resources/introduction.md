@@ -1,5 +1,5 @@
 ---
-title: 사용자 정의 리소스 만들기
+title: 사용자 정의 리소스 만들기 - 소개
 description: Adobe Campaign Standard은 리소스를 확장하거나 새로운 리소스를 만들 수 있는 기능을 제공합니다. 이 멀티파트 자습서는 사용자 지정 리소스를 만들고 연결하는 데 필요한 단계를 안내합니다.
 feature: Custom Resources
 topics: null
@@ -9,15 +9,15 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 763c7f51e28d025438f873314cc4fd60b96648ca
+source-git-commit: a52d19279760efed1ed901610f7cbf146c2c54d4
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
 
-# 사용자 정의 리소스 &#x200B; 만들기
+# 사용자 정의 리소스 &#x200B; 만들기 - 소개
 
 [!DNL Adobe Campaign] 이 데이터 모델은 서로 다른 리소스를 통해 정의됩니다. [!DNL Campaign] 리소스를 확장하거나 새로운 리소스를 만들 수 있는 기능을 제공합니다.
 

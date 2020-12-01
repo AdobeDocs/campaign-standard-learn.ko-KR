@@ -4,11 +4,12 @@ description: 워크플로우 세그먼트에 대한 보고에서는 동적 보�
 feature: Reporting on Workflow Segments
 topics: Reporting
 kt: 3252
+thumbnail: 28262.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 15%
@@ -24,4 +25,4 @@ ht-degree: 15%
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?quality=12)
 
-자세한 내용은 [설명서를 참조하십시오](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html)
+For more information see the [documentation](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html)

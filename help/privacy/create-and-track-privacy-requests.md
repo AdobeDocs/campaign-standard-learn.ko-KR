@@ -4,19 +4,20 @@ description: Adobe Campaign을 사용하면 GDPR 및 CPA와 같은 개인 정보
 feature: GDPR, CCPA
 topic: null
 kt: 1242
+thumbnail: 29235.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 556bff4c94e16d3a94561dee1ccb311bc003b631
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 1%
+ht-degree: 19%
 
 ---
 
 
-# 개인 정보 요청 수동 생성 및 추적
+# 개인 정보 요청 수동으로 만들기 및 추적
 
 Adobe Campaign을 사용하면 GDPR 및 CPA와 같은 개인 정보 보호 활동을 준수하여 PII 데이터의 액세스 및 삭제 요청을 만들 수 있습니다.
 
@@ -24,7 +25,7 @@ Adobe Campaign을 사용하면 GDPR 및 CPA와 같은 개인 정보 보호 활�
 
 >[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12)
 
-## 추가 자료
+## 추가 리소스
 
-* [캠페인에 대한 일반 개인 정보 보호 지침](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)
-* [ACS용 CCPA](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa)
+* [Campaign에 대한 일반 개인 정보 보호 지침](https://helpx.adobe.com/kr/campaign/kb/campaign-privacy-overview.html)
+* [ACS용 CCPA](https://helpx.adobe.com/kr/campaign/kb/acs-privacy.html#ccpa)

@@ -4,21 +4,22 @@ description: Adobe Campaign을 사용하면 일련의 서비스를 통해 뉴스
 feature: Subscriptions and Services
 topics: null
 kt: 1815
+thumbnail: 24673.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 556bff4c94e16d3a94561dee1ccb311bc003b631
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 27%
+ht-degree: 31%
 
 ---
 
 
-# Manage services and subscriptions{#managing-services-and-subscriptions}
+# 서비스 및 구독 관리{#managing-services-and-subscriptions}
 
-Adobe Campaign을 사용하면 일련의 서비스를 통해 뉴스레터와 크로스채널 커뮤니케이션을 만들고 관리할 수 있습니다. 메시지는 서비스를 구독한 프로필에만 보낼 수 있습니다(옵트인). 메시지를 만들 때 전용 필터를 사용하여 해당 프로필을 확인합니다.
+Adobe Campaign을 사용하면 일련의 서비스를 통해 뉴스레터와 크로스채널 커뮤니케이션을 만들고 관리할 수 있습니다.메시지는 서비스를 구독한 프로필에만 보낼 수 있습니다(옵트인). 메시지를 만들 때 전용 필터를 사용하여 해당 프로필을 확인합니다.
 
 구독 메커니즘을 설정하여 고객에게 이와 같은 서비스(특히 이메일 및 랜딩 페이지)를 구독할 수 있는 기회를 제공할 수 있습니다.
 
@@ -32,7 +33,7 @@ Adobe Campaign을 사용하면 일련의 서비스를 통해 뉴스레터와 크
 
 >[!VIDEO](https://video.tv.adobe.com/v/24673?quality=12)
 
-## 추가 자료
+## 추가 리소스
 
 * [구독 서비스](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html)
 * [서비스 만들기](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/managing-subscriptions/creating-a-service.html)

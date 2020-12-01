@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 763c7f51e28d025438f873314cc4fd60b96648ca
+source-git-commit: a52d19279760efed1ed901610f7cbf146c2c54d4
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 ---
 
 
-## 사용자 지정 리소스에 대한 화면 정의 구성
+# 사용자 지정 리소스에 대한 화면 정의 구성
 
 사용자 지정 리소스에 대한 화면 정의를 구성하는 방법을 알아봅니다.
 

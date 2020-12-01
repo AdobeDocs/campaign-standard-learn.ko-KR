@@ -4,11 +4,12 @@ description: 외부 API 활동은 데이터 관리 활동입니다. 외부 REST 
 feature: External API activity
 topics: null
 kt: 2764
+thumbnail: 28200.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 100%
@@ -31,7 +32,7 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/28200/?quality=12)
 
-*[!UICONTROL External API activity] (06:48분)*
+*[!UICONTROL External API activity](06:48분)*
 
 >[!NOTE]
 >

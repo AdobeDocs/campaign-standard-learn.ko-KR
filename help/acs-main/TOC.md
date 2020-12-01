@@ -6,14 +6,14 @@ breadcrumb-title: Campaign Standard 자습서
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: 자습서
-tutorials-url: https://docs.adobe.com/content/help/ko-KR/campaign-standard-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html
 getting-started-title: 설명서
-getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-standard/using/campaign-standard-home.html
+getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '502'
-ht-degree: 96%
+source-wordcount: '497'
+ht-degree: 89%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 96%
    + [목록 구성](/help/getting-started/configure-a-list.md)
    + [계층 구조 및 마케팅 활동 살펴보기](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [캠페인 관리](/help/getting-started/managing-campaigns.md)
-   + [프로필 및 대상자 이해](/help/getting-started/understanding-profiles-and-audiences.md)
+   + [프로필 및 대상 이해](/help/getting-started/understanding-profiles-and-audiences.md)
    + [이메일 만들기](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [워크플로우 만들기](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/creating-a-workflow.html)
    + [보고 소개](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
@@ -65,7 +65,7 @@ ht-degree: 96%
       + 푸시 알림 {#push}
          + [푸시 알림 만들기](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [다국어 푸시 알림 만들기](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [자습서: Android용 푸시 알림 시작하기](https://docs.adobe.com/content/help/ko-KR/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)
+         + [자습서: Android용 푸시 알림 시작하기](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)
       + 인앱 메시지 {#in-app}
          + [인앱 메시지 소개](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [이벤트 구성](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -100,12 +100,10 @@ ht-degree: 96%
    + [동적 보고서 만들기](/help/reporting/creating-a-dynamic-report.md)
    + [사용자 지정 프로필 속성을 기반으로 보고서 만들기](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [워크플로우 세그먼트 기반 보고서 만들기](/help/reporting/report-on-workflow-segments.md)
-+ 개발 {#developing}
-   + 사용자 지정 리소스 {#custom-resources-develop}
-      + [사용자 지정 리소스 만들기](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + 관리 {#administrating}
    + [사용자 액세스 권한 관리](/help/administrating/managing-user-access-rights.md)
-   + [컨트롤 패널](https://docs.adobe.com/content/help/ko-KR/campaign-standard-learn/control-panel/control-panel-overview.html)
+   + [사용자 지정 리소스 만들기](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html)
+   + [컨트롤 패널](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=ko)
    + Adobe Experience Platform 데이터 커넥터 {adobe-experience-platform-data-connector}
       + [Adobe Experience Platform 데이터 커넥터 이해](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [사용자 지정 리소스 매핑](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)

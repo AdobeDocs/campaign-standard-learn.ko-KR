@@ -4,14 +4,15 @@ description: 'Campaign, Adobe Campaign 홈페이지 또는 마케팅 활동 목�
 feature: Email
 topics: null
 kt: 1807
+thumbnail: 23721.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 45%
+ht-degree: 47%
 
 ---
 
@@ -28,4 +29,4 @@ ht-degree: 45%
 
 * [워크플로우를 통해 이메일 만들기 및 보내기](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
 * [이메일 만들기(설명서)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-an-email.html)
-* [전달 모범 사례](https://helpx.adobe.com/kr/campaign/kb/delivery-best-practices.html)
+* [게재 모범 사례](https://helpx.adobe.com/kr/campaign/kb/delivery-best-practices.html)

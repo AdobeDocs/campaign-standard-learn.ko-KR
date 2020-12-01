@@ -4,14 +4,15 @@ description: 이 비디오에서는 Adobe Campaign의 다른 사용자에게 할
 feature: User Access Rights
 topics: null
 kt: 1814
+thumbnail: 24671.jpg
 doc-type: feature video
 activity: setup
 team: DOCS
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 8%
+ht-degree: 22%
 
 ---
 
@@ -22,6 +23,6 @@ ht-degree: 8%
 
 >[!VIDEO](https://video.tv.adobe.com/v/24671?quality=12)
 
-## 추가 자료
+## 추가 리소스
 
 * [액세스 관리 기본 정보](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/users-and-security/about-access-management.html)

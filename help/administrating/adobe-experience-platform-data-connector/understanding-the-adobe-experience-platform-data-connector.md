@@ -4,11 +4,12 @@ description: Adobe Experience Platform 데이터 커넥터를 사용하면 기�
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
 kt: 2826
+thumbnail: 27304.jpg
 doc-type: feature video
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 10%
@@ -34,7 +35,7 @@ Adobe Experience Platform [!UICONTROL Data Connector] 는 Adobe Campaign Standar
 
 >[!VIDEO](https://video.tv.adobe.com/v/27304?quality=12)
 
-*이 비디오에서는 Adobe Experience Platform에 대한 개요를 제공합니다[!UICONTROL Data Connector](09분 35초).*
+*이 비디오에서는 Adobe Experience Platform에 대한 개요를 제공합니다 [!UICONTROL Data Connector] (09분 35초).*
 
 >[!NOTE]
 >

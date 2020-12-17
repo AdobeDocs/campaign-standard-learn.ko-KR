@@ -1,17 +1,17 @@
 ---
 product: adobe campaign standard
-user-guide-title: Adobe Campaign Standard - 사용자 정의 리소스 만들기 자습서
-user-guide-description: '이 멀티파트 자습서는 사용자 지정 리소스를 만들고 연결하는 데 필요한 단계를 안내합니다. '
-translation-type: tm+mt
+user-guide-title: Adobe Campaign Standard - 사용자 지정 리소스 만들기 튜토리얼
+user-guide-description: '여러 부분으로 된 이 튜토리얼은 사용자 지정 리소스를 만들고 연결하는 데 필요한 단계를 안내합니다. '
+translation-type: ht
 source-git-commit: c12f58e0d63d267cfb955cc477e6ba193a8ad0da
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
-ht-degree: 2%
+ht-degree: 100%
 
 ---
 
 
-# 사용자 정의 리소스 만들기 자습서 {#creating-custom-resources}
+# 사용자 지정 리소스 만들기 튜토리얼 {#creating-custom-resources}
 
 + [소개](./introduction.md)
 + [1단계 - 사용자 지정 리소스 만들기](./creating-a-custom-resource.md)

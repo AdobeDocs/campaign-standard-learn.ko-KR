@@ -7,11 +7,11 @@ kt: null
 doc-type: null
 activity: understand
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '189'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -30,7 +30,7 @@ Adobe Campaign Standard을 시작하는 데 도움이 되는 다음과 같은 �
 * [계층 구조 및 마케팅 활동 살펴보기](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
 * [캠페인 관리](/help/getting-started/managing-campaigns.md)
 * [프로필 및 대상자 이해](/help/getting-started/understanding-profiles-and-audiences.md)
-* [이메일 만들기](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
+* [이메일 만들기](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html?lang=ko)
 * [워크플로우 만들기](/help/managing-processes-and-data/creating-a-workflow.md)
 * [보고 소개](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
 * [Adobe Campaign으로 모바일 마케팅](/help/getting-started/mobile-marketing-with-adobe-campaign.md)

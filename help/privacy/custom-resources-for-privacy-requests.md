@@ -8,9 +8,9 @@ thumbnail: 23326.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '196'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 개인 정보 보호 요청을 처리하기 위해 Adobe Campaign Standard를 설정할 때는 프로필 삭제 시 프로필에 연결된 모든 사용자 지정 데이터가 삭제되도록 해야 합니다. 이 비디오에서는 이 요구 사항을 충족하기 위해 사용자 지정 리소스를 수정하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12&captions=kor)
 
 >[!NOTE]
 >

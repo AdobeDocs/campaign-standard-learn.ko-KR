@@ -8,9 +8,9 @@ thumbnail: 29468.jpg
 doc-type: value video
 activity: understand
 team: PMM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '51'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 이 비디오에서는 모바일 마케팅 전략을 지원할 수 있는 Adobe Campaign Standard 기능을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/29468?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29468?quality=12&captions=kor)
 
 ## 추가 자료
 

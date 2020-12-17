@@ -8,9 +8,9 @@ thumbnail: 29461.jpg
 doc-type: value video
 activity: understand
 team: PMM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 이 비디오에서는 Adobe Campaign Standard의 보고 기능에 대한 개요를 제공합니다
 
->[!VIDEO](https://video.tv.adobe.com/v/29461?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29461?quality=12&captions=kor)
 
 ## 추가 자료
 

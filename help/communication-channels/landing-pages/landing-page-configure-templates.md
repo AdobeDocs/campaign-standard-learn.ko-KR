@@ -16,8 +16,8 @@ ht-degree: 35%
 
 ---
 
-# 구성 [!UICONTROL landing page template]
+# [!UICONTROL landing page template] 구성
 
-이 비디오에서는 템플릿을 구성하는 방법을 [!UICONTROL landing page] 설명합니다.
+이 비디오에서는 [!UICONTROL landing page] 템플릿을 구성하는 방법을 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25200/?quality=12)

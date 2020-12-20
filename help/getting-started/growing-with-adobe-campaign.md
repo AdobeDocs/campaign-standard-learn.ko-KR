@@ -8,9 +8,9 @@ thumbnail: 29460.jpg
 doc-type: value video
 activity: understand
 team: PMM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '32'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 이 비디오에서는 진정한 크로스채널 오케스트레이션의 잠재적인 다음 단계를 중점적으로 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/29460?quality=12&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/29460?quality=12)

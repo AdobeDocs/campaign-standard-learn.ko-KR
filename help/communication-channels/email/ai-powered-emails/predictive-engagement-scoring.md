@@ -8,9 +8,9 @@ thumbnail: 40470.jpg
 doc-type: feature video
 activity: use
 team: ACS
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 
 개별 프로필 수준에서 참여 점수를 보고, 참여 사용자 타겟팅 및 피로도가 높은 사용자를 알아보기 위해 점수를 사용하고 분류 규칙을 만들어 고객 피로도를 관리하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12)
 
 ## 추가 리소스
 
@@ -38,4 +38,4 @@ ht-degree: 100%
 
 설명서:
 
-* [AI 기반의 이메일을 통해 디자인 및 게재 최적화](https://docs.adobe.com/help/ko-KR/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html)
+* [AI 기반 이메일을 통해 디자인 및 게재 최적화](https://docs.adobe.com/help/ko-KR/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html)

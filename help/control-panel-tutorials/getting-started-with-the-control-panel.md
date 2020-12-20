@@ -1,5 +1,5 @@
 ---
-title: Campaign 컨트롤 패널 시작하기
+title: Campaign 컨트롤 패널 시작
 description: 이 문서에서는 Campaign 컨트롤 패널에 액세스하는 방법 및 제어판에서 사용할 수 있는 사전 요구 사항을 설명합니다.
 feature: Control Panel
 topics: Control Panel
@@ -12,19 +12,19 @@ team: TM
 translation-type: tm+mt
 source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '215'
+ht-degree: 65%
 
 ---
 
 
-# Getting started with the [!UICONTROL Control Panel] {#control-panel}
+# [!UICONTROL Control Panel] {#control-panel} 시작하기
 
 >[!NOTE]
 >
 >&#39;[!UICONTROL whitelist]&#39; 및 &#39;[!UICONTROL blacklist]&#39;라는 용어가 Adobe Campaign 설명서에서 &#39;[!UICONTROL allowlist]&#39;및 &#39;[!UICONTROL denylist]&#39;로 대체되었습니다. 이러한 용어 중 일부는 제품 UI, 옵션 이름, 내부 코드 및 자습서 비디오에 여전히 존재할 수 있습니다. 향후 Campaign 컨트롤 패널 릴리스에서 대체될 예정입니다.
 
-The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
+[!UICONTROL Control Panel]을 사용하면 Adobe Campaign 관리자가 키 자산을 모니터링하고 [!DNL SFTP] 저장소를 인스턴스별로 관리하고 [!DNL GPG] 키 또는 [!UICONTROL subdomains] 및 [!UICONTROL certificates]를 관리하는 등의 관리 작업을 수행할 수 있습니다.
 
 이 문서에서는 Campaign 컨트롤 패널에 액세스하는 방법 및 제어판에서 사용할 수 있는 사전 요구 사항을 설명합니다.
 

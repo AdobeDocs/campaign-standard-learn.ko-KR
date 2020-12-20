@@ -1,6 +1,6 @@
 ---
-title: 3단계 - 모바일 앱에 익스텐션 등록
-description: 이 부분에서는 UserProfile, Identity, Lifecycle 및 Signal 확장을 등록하는 코드를 추가합니다.
+title: 3단계 - 모바일 앱에 확장 등록
+description: 이 부분에서는 UserProfile, Identity, Lifecycle 및 Signal 확장을 등록할 코드를 추가합니다.
 feature: Push
 topics: Mobile
 kt: 4827
@@ -16,13 +16,13 @@ ht-degree: 0%
 ---
 
 
-# 3단계 - 모바일 앱에 익스텐션 등록
+# 3단계 - 모바일 앱에 확장 등록
 
-이 부분에서는 사용자 프로필, ID, 라이프사이클 및 신호 확장을 등록할 코드를 추가합니다. 이러한 익스텐션은 일부입니다 [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). 또한 아래 코드와 같이 Adobe Campaign Standard 익스텐션을 등록해야 합니다.
+이 부분에서는 사용자 프로필, ID, 라이프사이클 및 신호 확장을 등록할 코드를 추가합니다. 이러한 확장은 [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core)의 일부입니다. 또한 아래 코드와 같이 Adobe Campaign Standard 익스텐션을 등록해야 합니다.
 
-스튜디오에서 프로젝트를 [!DNL Android] 엽니다. 패키지 명령문의 첫 번째 줄을 **제외한 MainApp의 전체 코드를 삭제합니다**.
+[!DNL Android] 스튜디오에서 프로젝트를 엽니다. 패키지 명령문&#x200B;**의 첫 번째 행을 제외한 MainApp**&#x200B;의 전체 코드를 삭제합니다.
 
-MainApp에 다음 코드 붙여넣기
+다음 코드를 MainApp에 붙여넣기
 
 <!--
 Removed `{.line-numbers}` below
@@ -70,6 +70,6 @@ try{
 }
 ```
 
-32행에서 속성의[!UICONTROL  Launch] 환경 파일 ID를 제공해야 합니다. 속성 [!UICONTROL environment tab] 에서 액세스할 수 [!UICONTROL Launch] 있습니다.
+32행에서[!UICONTROL  Launch] 속성의 환경 파일 ID를 제공해야 합니다. 이 값은 [!UICONTROL Launch] 속성의 [!UICONTROL environment tab]에서 액세스할 수 있습니다.
 
 ![launch-id](assets/launch-id-property.PNG)

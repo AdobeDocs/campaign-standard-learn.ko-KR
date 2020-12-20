@@ -1,6 +1,6 @@
 ---
 title: 사용자 지정 리소스 연결
-description: 두 개의 사용자 지정 리소스를 연결하는 방법을 알아봅니다.
+description: 2개의 사용자 지정 리소스를 연결하는 방법을 알아봅니다.
 feature: custom resources
 topics: null
 kt: 3002
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 # 사용자 지정 리소스 연결
 
-두 개의 사용자 지정 리소스를 연결하는 방법을 알아봅니다.
+2개의 사용자 지정 리소스를 연결하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27712?quality=9)
 
 **다음 단계**
 
-[데이터로 사용자 지정 리소스 채우기](./populate-custom-resources-with-data.md)
+[데이터로 사용자 정의 리소스 채우기](./populate-custom-resources-with-data.md)

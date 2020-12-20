@@ -19,13 +19,13 @@ ht-degree: 18%
 ---
 
 
-# Create an [!UICONTROL In-App] delivery within a workflow
+# 워크플로 내에서 [!UICONTROL In-App] 배달 만들기
 
-The In-App delivery activity is generally used to automate sending an [!UICONTROL In-App] message to a target audience calculated in the same workflow.
+인앱 전달 활동은 일반적으로 동일한 워크플로우에서 계산된 타겟 대상에게 [!UICONTROL In-App] 메시지 전송을 자동화하는 데 사용됩니다.
 
-받는 사람은 쿼리, 교차점 등과 같은 타깃팅 활동을 통해 동일한 워크플로에서 활동의 업스트림으로 정의됩니다.
+수신자는 쿼리, 교차로 등과 같은 타깃팅 활동을 통해 동일한 워크플로우에서 활동의 업스트림으로 정의됩니다.
 
-메시지 준비는 워크플로우 실행 매개 변수에 따라 트리거됩니다. 메시지 대시보드에서 메시지를 보내기 위한 수동 확인을 요청하도록 선택할 수 있습니다(기본적으로 필요). 워크플로우를 수동으로 시작하거나 워크플로우에 스케줄러 활동을 배치하여 실행을 자동화할 수 있습니다.
+메시지 준비는 워크플로우 실행 매개 변수에 따라 트리거됩니다. 메시지 대시보드에서 메시지를 보내기 위한 수동 확인을 요청할 수 있습니다(기본적으로 필수). 워크플로우를 수동으로 시작하거나 워크플로우에 스케줄러 활동을 배치하여 실행을 자동화할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26226?quality=12)
 

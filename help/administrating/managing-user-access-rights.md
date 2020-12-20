@@ -1,6 +1,6 @@
 ---
 title: 사용자 액세스 권한 관리
-description: 이 비디오에서는 Adobe Campaign의 다른 사용자에게 할당된 권한을 정의하고 관리하는 방법을 설명합니다.
+description: 이 비디오에서는 Adobe Campaign에서 다른 사용자에게 할당된 권한을 정의하고 관리하는 방법을 설명합니다.
 feature: User Access Rights
 topics: null
 kt: 1814
@@ -19,7 +19,7 @@ ht-degree: 22%
 
 # 사용자 액세스 권한 관리
 
-이 비디오에서는 Adobe Campaign의 다른 사용자에게 할당된 권한을 정의하고 관리하는 방법을 설명합니다.
+이 비디오에서는 Adobe Campaign에서 다른 사용자에게 할당된 권한을 정의하고 관리하는 방법을 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24671?quality=12)
 

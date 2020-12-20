@@ -8,9 +8,9 @@ thumbnail: 40469.jpg
 doc-type: feature video
 activity: use
 team: ACS
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 
 Adobe Campaign과 여정 AI 모델 간의 데이터를 동기화하는 데 필요한 워크플로우를 파악할 수 있습니다. 개별 프로필 수준에서 전송 시간 점수를 보는 방법 및 전송 시간 수식을 사용하여 이메일 게재 실행 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/40469?quality=12&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/40469?quality=12)
 
 ## 추가 리소스
 

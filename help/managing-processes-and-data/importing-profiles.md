@@ -21,11 +21,11 @@ ht-degree: 10%
 
 파일에서 데이터를 수집하여 처리하고 Adobe Campaign 데이터베이스로 가져올 수 있습니다.
 
-이 비디오에서는 워크플로우의 [!UICONTROL Data Management] 활동을 사용하여 프로필 데이터를 가져오는 방법을 설명합니다.
+이 비디오는 워크플로우에서 [!UICONTROL Data Management] 활동을 사용하여 프로필 데이터를 가져오는 방법에 대해 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24993?quality=12)
 
 ## 추가 리소스
 
-* [단계별 데이터 가져오기 자습서](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/workflow-general-operation/importing-data.html#example--import-workflow-template)
+* [단계별 데이터 단계 가져오기 자습서](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/workflow-general-operation/importing-data.html#example--import-workflow-template)
 * [Adobe Campaign Standard - 프로세스 및 데이터 관리](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/about-workflows-and-data-management/discovering-workflows.html)

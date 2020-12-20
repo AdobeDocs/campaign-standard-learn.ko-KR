@@ -4,7 +4,7 @@ description: 이 비디오에서는 프로필 대체 기능을 사용하여 이�
 feature: Email
 topics: Channels
 kt: 4667
-thumbnail: 32368
+thumbnail: 32368.jpg
 doc-type: feature video
 activity: use
 team: TM
@@ -33,6 +33,6 @@ ht-degree: 100%
 
 ## 추가 자료
 
-* [대상 프로필을 사용하여 메시지 테스트(설명서)](https://docs.adobe.com/content/help/ko-KR/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
+* [대상 프로필을 사용하여 메시지 테스트(설명서)](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
 * [A/B 테스트 이메일 디자인](/help/communication-channels/email/a-b-testing.md)
 * [테스트 보내기, 준비 및 이메일 보내기](/help/communication-channels/email/sending-test-preparing-sending-email.md)

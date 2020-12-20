@@ -12,8 +12,8 @@ team: PM
 translation-type: tm+mt
 source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '107'
+ht-degree: 100%
 
 ---
 

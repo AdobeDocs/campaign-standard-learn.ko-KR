@@ -8,9 +8,9 @@ thumbnail: 18464.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 이 비디오에서는 프로필 및 대상자를 만드는 개념과 방법에 관해 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/18464?quality=12&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/18464?quality=12)
 
 ## 추가 리소스
 

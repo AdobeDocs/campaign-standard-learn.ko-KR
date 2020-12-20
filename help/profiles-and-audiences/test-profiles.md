@@ -27,4 +27,4 @@ ht-degree: 79%
 
 ## 추가 리소스
 
-* [테스트 프로파일 관리 및 증명 전송](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/managing-test-profiles-and-sending-proofs.html)
+* [테스트 프로파일 관리 및 교정물 전송](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/managing-test-profiles-and-sending-proofs.html)

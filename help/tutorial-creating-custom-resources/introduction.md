@@ -8,9 +8,9 @@ thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 100%
 
@@ -38,7 +38,7 @@ ht-degree: 100%
 
 이를 위해 기본 제공 리소스를 확장하고 고유한 사용자 지정 테이블을 추가하여 [!DNL Campaign] 데이터 모델을 보강할 예정입니다. 고객과 주문 테이블을 추가하겠습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
 
 이 튜토리얼에서는 다음을 수행하는 방법을 단계별로 설명합니다.
 

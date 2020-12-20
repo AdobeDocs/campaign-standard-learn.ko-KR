@@ -1,6 +1,6 @@
 ---
 title: 기존 이메일, SMS 게재 또는 템플릿을 다국어로 변환
-description: 이 비디오에서는 기존 이메일, SMS 전달 또는 전달 템플릿을 다국어 버전으로 손쉽게 변환하는 방법을 보여줍니다.
+description: 이 비디오에서는 기존 이메일, SMS 전달 또는 전달 템플릿을 다국어 버전으로 손쉽게 변환하는 방법을 보여 줍니다.
 feature: Multi-lingual Deliveries
 topics: Mobile
 kt: 1703
@@ -19,7 +19,7 @@ ht-degree: 30%
 
 # 기존 이메일, SMS 게재 또는 템플릿을 다국어로 변환
 
-이 비디오에서는 기존 이메일, SMS 전달 또는 전달 템플릿을 다국어 버전으로 손쉽게 변환하는 방법을 보여줍니다.
+이 비디오에서는 기존 이메일, SMS 전달 또는 전달 템플릿을 다국어 버전으로 손쉽게 변환하는 방법을 보여 줍니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23251?quality=12)
 

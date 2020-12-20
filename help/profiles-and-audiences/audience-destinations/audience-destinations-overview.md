@@ -23,14 +23,14 @@ ht-degree: 10%
 
 >[!NOTE]
 >
->이 기능은 현재 베타 버전이며 예고 없이 자주 업데이트되고 수정될 수 있습니다. [!UICONTROL Audience Destinations] 는 Adobe Experience Platform을 기반으로 하며 특정 구성이 필요합니다.
+>이 기능은 현재 베타 버전으로, 사전 통보 없이 자주 업데이트하거나 수정할 수 있습니다. [!UICONTROL Audience Destinations] 는 Adobe Experience Platform을 기반으로 하며 특정 구성이 필요합니다.
 >
->이 기능을 구현하려는 [!UICONTROL Adobe Customer Support] 경우 연락하십시오.
+>이 기능을 구현하려면 [!UICONTROL Adobe Customer Support]에 연락하십시오.
 
 
-이 자습서에서는 Adobe Experience Platform의 중앙 집중식 및 통합 프로필 데이터를 Adobe Campaign Standard의 마케팅 캠페인에 활용하는 방법을 설명합니다.
+이 자습서에서는 Adobe Campaign Standard의 마케팅 캠페인에 대해 Adobe Experience Platform의 중앙 집중식 및 통합 프로필 데이터를 활용하는 방법을 설명합니다.
 
-Adobe Campaign Standard 내의 [!UICONTROL Audiences] 모듈에서는 실시간 고객 프로필에 있는 [Adobe Experience Platform - 데이터 서비스](https://www.adobe.io/apis/experienceplatform/home/services.html) 데이터를 사용하여 세그먼트를 만들 수 [있습니다](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html).
+Adobe Campaign Standard 내의 [!UICONTROL Audiences] 모듈을 사용하면 [실시간 고객 프로필](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html)에 있는 [Adobe Experience Platform - Data Services](https://www.adobe.io/apis/experienceplatform/home/services.html)의 데이터를 사용하여 세그먼트를 만들 수 있습니다.
 
 다음 비디오 자습서는 다양한 단계를 안내합니다.
 

@@ -9,9 +9,9 @@ tutorials-title: 자습서
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ko
 getting-started-title: 설명서
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ko
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 5edcdcd98b00b4f992b9775707f2c555bf051aec
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '497'
 ht-degree: 100%
 

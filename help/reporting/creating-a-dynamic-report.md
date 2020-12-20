@@ -16,9 +16,9 @@ ht-degree: 30%
 ---
 
 
-# 만들기 [!UICONTROL Dynamic Report]{#creating-a-report}
+# [!UICONTROL Dynamic Report]{#creating-a-report} 만들기
 
-Adobe Campaign [!UICONTROL Dynamic Reports] 는 데이터를 탐색할 수 있는 유연한 자유 형식 환경으로 설계되었습니다. 차원, 지표 및 시간 범위를 무제한 분류 및 비교와 결합할 수 있습니다.
+Adobe Campaign의 [!UICONTROL Dynamic Reports]은 데이터를 탐색할 수 있는 유연한 자유 형식 환경으로 설계되었습니다. 차원, 지표 및 시간 범위를 무제한 분류 및 비교와 결합하여 결합할 수 있습니다.
 
 보고서를 만드는 방법을 알아봅니다.
 

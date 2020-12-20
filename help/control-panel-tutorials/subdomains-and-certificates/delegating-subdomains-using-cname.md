@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: fe305d729e8e1c7113ae1c310b3b8177f3cad093
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 22%
+ht-degree: 47%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 22%
 
 >[!IMPORTANT]
 >
-> 하위 도메인 위임을 위해 CNAME을 사용하는 것은 베타 버전이며 예고 없이 자주 업데이트되고 수정될 수 있습니다.
+> 하위 도메인 위임을 위해 CNAME을 사용하는 것은 베타 버전이며 사전 통보 없이 자주 업데이트하거나 수정할 수 있습니다.
 
-이메일 전송을 시작하거나 랜딩 페이지를 Adobe Campaign과 함께 게시하려면 새 하위 도메인을 설정해야 합니다.
+Adobe Campaign에서 이메일 전송을 시작하거나 랜딩 페이지를 게시할 수 있으려면 새 하위 도메인을 설정해야 합니다.
 
 Campaign 컨트롤 패널에서 CNAME을 사용하여 하위 도메인을 설정하고 제출하는 방법을 알아봅니다.
 

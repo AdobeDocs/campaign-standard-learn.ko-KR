@@ -1,6 +1,6 @@
 ---
 title: 인앱 게재 보고서
-description: 인앱 메시징을 사용하면 모바일 애플리케이션 내에서 고객의 실시간 행동에 대한 컨텍스트 기반의 인앱 메시지를 사용자에게 제공할 수 있습니다.
+description: 인앱 메시징을 사용하면 모바일 애플리케이션 내에서 고객의 실시간 행동에 대한 컨텍스트 내 관련 인앱 메시지를 사용자에게 제공할 수 있습니다.
 feature: In-App
 topics: Mobile
 kt: 2558
@@ -16,9 +16,9 @@ ht-degree: 10%
 
 ---
 
-# Report on your [!UICONTROL In-App] delivery {#in-app-message-reporting}
+# [!UICONTROL In-App] 배달 {#in-app-message-reporting}에 대한 보고서
 
-특정 지표를 추가하여 배달 요약에서 [!UICONTROL In-App] 배달 관련 데이터를 검토할 수 [!UICONTROL In-App] 있습니다. 또는 박스 [인앱 보고서를 사용할 수도 있습니다](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html).
+[!UICONTROL In-App] 특정 지표를 추가하여 [!UICONTROL In-App] 배달 관련 데이터를 배달 요약에서 검토할 수 있습니다. 또는 [인앱 보고서](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html)의 상자를 사용할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12)
 

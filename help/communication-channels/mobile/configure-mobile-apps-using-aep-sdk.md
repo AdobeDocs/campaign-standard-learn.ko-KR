@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Platform SDK를 사용하여 모바일 애플리케이션 구성
-description: Experience Cloud SDK 응용 프로그램을 사용하여 인앱 메시지 또는 푸시 알림을 전송하려면 모바일 앱을 Adobe Experience Platform Launch에 설정하고 Adobe Campaign에서 구성해야 합니다
+description: Experience Cloud SDK 응용 프로그램을 사용하여 인앱 메시지 또는 푸시 알림을 전송하려면 모바일 앱을 Adobe Experience Platform Launch에서 설정하고 Adobe Campaign에서 구성해야 합니다
 feature: mobile SDK
 topics: null
 kt: 2501
@@ -17,9 +17,9 @@ ht-degree: 15%
 ---
 
 
-# 모바일 응용 프로그램을 [!UICONTROL Adobe Experience Platform SDK] {#configure-a-mobile-application-using-adobe-experience-platform-sdk}
+# [!UICONTROL Adobe Experience Platform SDK] {#configure-a-mobile-application-using-adobe-experience-platform-sdk}을(를) 사용하여 모바일 응용 프로그램 구성
 
-In-App 메시지를 보내거나 Mobile SDK V5를 [!UICONTROL push notifications] 사용하려면 모바일 앱을 Adobe Campaign에서 설정하고 구성해야 [!UICONTROL Adobe Experience Platform Launch] 합니다.
+Mobile SDK V5를 사용하여 인앱 메시지 또는 [!UICONTROL push notifications]을 보내려면 모바일 앱을 [!UICONTROL Adobe Experience Platform Launch]에서 설정하고 Adobe Campaign에 구성해야 합니다.
 
 아래 비디오에서는 Experience Platform Launch에서 모바일 앱을 구성하는 데 필요한 단계를 보여 줍니다.
 
@@ -27,9 +27,9 @@ In-App 메시지를 보내거나 Mobile SDK V5를 [!UICONTROL push notifications
 
 >[!NOTE]
 >
->자세한 [설명서 및 비디오에 사용되는 코드 템플릿 [!UICONTROL Launch]](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html#ConfiguringyourapplicationinLaunch) 에 대해서는 응용 프로그램 구성을 참조하십시오.
+>자세한 설명서 및 비디오에 사용된 코드 템플릿에 대해서는 [응용 프로그램 구성을 [!UICONTROL Launch]](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html#ConfiguringyourapplicationinLaunch)에서 참조하십시오.
 
 ## 추가 리소스
 
-* [모바일 속성 설정(Adobe 실행 설명서)](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [Adobe Experience Platform SDK를 사용하여 모바일 애플리케이션 구성(설명서)](https://helpx.adobe.com/kr/campaign/kb/configuring-app-sdk.html)
+* [모바일 속성 설정(Adobe 시작 설명서)](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
+* [Adobe Experience Platform SDK를 사용하여 모바일 애플리케이션 구성(설명서)](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html)

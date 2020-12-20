@@ -8,9 +8,9 @@ thumbnail: 40684.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ ht-degree: 100%
 
 [!UICONTROL delivery]을(를) 위한 [!UICONTROL control group] 정의 방법 및 [!UICONTROL delivery]을(를) 보낸 후 [!UICONTROL control group]에 할당된 프로필을 추출하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12)

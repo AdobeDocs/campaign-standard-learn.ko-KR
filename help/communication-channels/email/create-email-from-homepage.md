@@ -20,9 +20,9 @@ ht-degree: 47%
 
 # 이메일 배달 {#create-an-email-delivery} 만들기
 
-캠페인, Adobe Campaign 홈 페이지 또는 [!UICONTROL Marketing Activity] 목록에서 독립형 이메일 배달을 만들 수 있습니다. 또한 워크플로우에서 한 번의 전송과 되풀이되는 이메일을 만들고 보낼 수 있습니다.
+캠페인, Adobe Campaign 홈 페이지 또는 [!UICONTROL Marketing Activity] 목록에서 독립형 이메일 배달을 만들 수 있습니다. 또한 워크플로우에서 한 번 보내기 및 되풀이되는 이메일을 만들고 보낼 수 있습니다.
 
-이 비디오에서는 홈 페이지에서 독립형 이메일 배달을 만드는 방법을 설명합니다.
+이 비디오에서는 홈 페이지에서 독립형 이메일 제공을 만드는 방법을 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23721?quality=12)
 

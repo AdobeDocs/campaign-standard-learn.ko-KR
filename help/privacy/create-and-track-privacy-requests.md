@@ -8,9 +8,9 @@ thumbnail: 29235.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ Adobe Campaign을 사용하면 GDPR 및 CPA와 같은 개인 정보 보호 활�
 
 이 비디오에서는 Adobe Campaign Standard 사용자 인터페이스에서 개인 정보 보호 요청을 수동으로 만들고 변경 사항을 추적하는 방법을 보여줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12&captions=kor)
+>[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12)
 
 ## 추가 리소스
 

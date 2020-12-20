@@ -37,5 +37,5 @@ Adobe Dreamweaver와 통합된 Adobe Campaign Standard을 통해 Dreamweaver 인
 ## 추가 자료
 
 * [Dreamweaver Adobe Campaign 설치 문제 해결](https://helpx.adobe.com/kr/dreamweaver/kb/dreamweaver-campaign-integration-issue.html)
-* [Adobe Dreamweaver 설명서](https://helpx.adobe.com/kr/dreamweaver/using/working-with-dreamweaver-and-campaign.html)
+* [Adobe Dreamweaver 설명서](https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html)
 * [Adobe 앱용 추가 기능 및 확장 설치](https://helpx.adobe.com/kr/creative-cloud/kb/installingextensionsandaddons.html)

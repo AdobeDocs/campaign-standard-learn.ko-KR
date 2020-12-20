@@ -1,6 +1,6 @@
 ---
 title: 워크플로우에서 Adobe Experience Platform 대상자 활성화
-description: 이 비디오에서는 '대상자 읽기' 활동을 사용하여 워크플로우 내에서 데이터 서비스 쿼리 대상을 활성화하는 방법을 설명합니다.
+description: 이 비디오에서는 '대상자 읽기' 활동을 사용하여 워크플로우 내에서 데이터 서비스 쿼리 대상을 활성화하는 방법에 대해 설명합니다.
 feature: Audience Destinations
 topics: ACOP
 kt: 2760
@@ -17,15 +17,15 @@ ht-degree: 7%
 ---
 
 
-# 마케팅 워크플로우에서 Adobe Experience Platform 대상 활성화 [!UICONTROL Adobe Experience Platform Audiences] 를 참조하십시오.
+# 마케팅 워크플로우의 워크플로우 [!UICONTROL Adobe Experience Platform Audiences]에서 Adobe Experience Platform 대상 활성화
 
 >[!NOTE]
 >
->이 기능은 현재 베타 버전이며 예고 없이 자주 업데이트되고 수정될 수 있습니다. [!UICONTROL Audience Destinations] 는 Adobe Experience Platform을 기반으로 하며 특정 구성이 필요합니다.
+>이 기능은 현재 베타 버전으로, 사전 통보 없이 자주 업데이트하거나 수정할 수 있습니다. [!UICONTROL Audience Destinations] 는 Adobe Experience Platform을 기반으로 하며 특정 구성이 필요합니다.
 >
->이 기능을 구현하려는 [!UICONTROL Adobe Customer Support] 경우 연락하십시오.
+>이 기능을 구현하려면 [!UICONTROL Adobe Customer Support]에 연락하십시오.
 
-이 비디오에서는 활동을 사용하여 워크플로우 [!UICONTROL Data Services Query Audience] 내에서 활성화하는 방법을 [!UICONTROL Read Audience] 설명합니다.
+이 비디오에서는 [!UICONTROL Read Audience] 활동을 사용하여 워크플로 내에서 [!UICONTROL Data Services Query Audience]을 활성화하는 방법에 대해 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
 

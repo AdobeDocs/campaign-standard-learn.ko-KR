@@ -1,5 +1,5 @@
 ---
-title: '데이터 수집 작업의 상태 확인 '
+title: '데이터 통합 작업의 상태 확인 '
 description: 상태를 확인하고 데이터 매핑을 수정하는 방법을 알아봅니다.
 feature: Adobe Experience Platform Data Connector
 topics: null
@@ -18,13 +18,13 @@ ht-degree: 9%
 ---
 
 
-# 데이터 수집 작업의 상태 확인
+# 데이터 통합 작업의 상태 확인
 
 >[!NOTE]
 >
->이 기능은 현재 베타 버전이며 예고 없이 자주 업데이트되고 수정될 수 있습니다.
+>이 기능은 현재 베타 버전으로, 사전 통보 없이 자주 업데이트하거나 수정할 수 있습니다.
 >
->이 기능을 구현하려는 [!UICONTROL Adobe Customer Support] 경우 연락하십시오.
+>이 기능을 구현하려면 [!UICONTROL Adobe Customer Support]에 연락하십시오.
 
 데이터 수집 작업의 상태를 확인하는 방법과 데이터가 Adobe Campaign Standard에서 Adobe Experience Platform으로 인제스트되었는지 확인합니다.
 

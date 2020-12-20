@@ -20,11 +20,11 @@ ht-degree: 35%
 
 # SSH 키 생성
 
-SSH 키를 생성하여 SSH에 추가해야 합니다 [!UICONTROL Control Panel].
+[!UICONTROL Control Panel]에 추가할 수 있도록 SSH 키를 생성해야 합니다.
 
 ## SFTP [!UICONTROL Control Panel] 관리 액세스
 
-To access the SFTP Management in [!UICONTROL Control Panel], go to:
+[!UICONTROL Control Panel]에서 SFTP 관리에 액세스하려면 다음 주소로 이동하십시오.
 
 * [Experience Cloud 홈](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]** 카드 > **SFTP** 카드
 

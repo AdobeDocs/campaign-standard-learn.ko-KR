@@ -19,7 +19,7 @@ ht-degree: 34%
 
 # 다국어 푸시 알림 만들기 [!UICONTROL push notification]
 
-Adobe Campaign Standard에서 다국어 창작 방법 [!UICONTROL push notifications] 을 살펴보십시오.
+Adobe Campaign Standard에서 다국어 [!UICONTROL push notifications]을 만드는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23304?quality=12)
 

@@ -1,6 +1,6 @@
 ---
 title: '프로필 만들기 '
-description: 이 비디오에서는 프로필을 만드는 방법 및 Adobe Campaign Standard(ACS)의 대상자에게 프로필을 추가하는 방법을 설명합니다
+description: 이 비디오에서는 프로필을 만드는 방법 및 Adobe Campaign Standard(ACS)에서 대상을 추가하는 방법을 설명합니다.
 feature: Profiles and Audiences
 topic: null
 kt: 1820

@@ -1,7 +1,7 @@
 ---
 title: 외부 신호 활동 - 매개 변수를 사용하여 워크플로우 호출
-description: 외부 신호 활동은 동일한 고객 경로의 일부인 다른 프로세스를 다양한 워크플로우로 구성하고 조정하는 데 사용됩니다. 한 워크플로우를 다른 워크플로우에서 시작할 수 있게 하여 더 복잡한 고객 여정을 지원하는 동시에 문제가 발생하는 경우 보다 효과적으로 모니터링하고 대응할 수 있습니다.
-feature: External Signal Activity
+description: 외부 신호 활동은 동일한 고객 여정의 일부인 다른 프로세스를 다른 워크플로우로 구성하고 조정하는 데 사용됩니다. 한 워크플로우를 다른 워크플로우에서 시작할 수 있게 하여 더 복잡한 고객 여정을 지원하는 동시에 문제가 발생하는 경우 보다 효과적으로 모니터링하고 대응할 수 있습니다.
+feature: 외부 신호 활동
 topics: Workflows
 kt: 2750
 thumbnail: 27249
@@ -9,17 +9,17 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 2237e6a7d6a8c202ea87aeeb4b1e6fa83e1c677c
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 19%
+source-wordcount: '333'
+ht-degree: 17%
 
 ---
 
 
 # [!UICONTROL External Signal activity ]- 매개 변수를 사용한 워크플로우 호출
 
-[!UICONTROL External Signal activity]은 동일한 고객 경로의 일부인 다른 프로세스를 서로 다른 워크플로우로 구성하고 조정하는 데 사용됩니다. 한 워크플로우를 다른 워크플로우에서 시작할 수 있게 하여 더 복잡한 고객 여정을 지원하는 동시에 문제가 발생하는 경우 보다 효과적으로 모니터링하고 대응할 수 있습니다.
+[!UICONTROL External Signal activity]은 동일한 고객 여정의 일부인 다른 프로세스를 다른 워크플로우로 구성하고 조정하는 데 사용됩니다. 한 워크플로우를 다른 워크플로우에서 시작할 수 있게 하여 더 복잡한 고객 여정을 지원하는 동시에 문제가 발생하는 경우 보다 효과적으로 모니터링하고 대응할 수 있습니다.
 
 ACS 19.2에서 [!UICONTROL External Signal activity]은 워크플로우를 호출할 수 있을 뿐만 아니라, 워크플로우에 매개 변수(타깃팅할 대상 이름, 가져올 파일 이름, 메시지 컨텐츠의 일부 등)를 전달할 수 있습니다. 다른 작업 과정 또는 외부 시스템과 통합하기 위한 REST API 호출의 작업 과정으로 이동합니다.
 
@@ -45,4 +45,4 @@ ACS 19.2에서 [!UICONTROL External Signal activity]은 워크플로우를 호�
 
 ## 추가 리소스
 
-* [외부 신호(설명서)](https://docs.adobe.com/content/help/ko-KR/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
+* [외부 신호(설명서)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/calling-workflow-external-parameters/calling-a-workflow-with-external-parameters.html)

@@ -1,7 +1,7 @@
 ---
 product: adobe campaign standard
 user-guide-title: Adobe Campaign 컨트롤 패널 자습서
-user-guide-description: Adobe Campaign 관리자는 Campaign 컨트롤 패널을 통해 주요 자산을 모니터링하고 인스턴스 또는 허용 목록 IP 주소별 SFTP 저장소 관리와 같은 관리 작업을 수행할 수 있습니다.
+user-guide-description: Adobe Campaign 인스턴스의 주요 자산을 모니터링하고 Campaign 컨트롤 패널에서 관리 작업을 수행하는 방법을 알아봅니다.
 breadcrumb-title: Campaign 컨트롤 패널 자습서
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?lang=ko&tag=Campaign+Standard#recommended/solutions/campaign
@@ -11,10 +11,10 @@ getting-started-title: 설명서
 getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-standard/using/campaign-standard-home.html
 index: true
 translation-type: tm+mt
-source-git-commit: 16cd416f567c8177aadd35e03cfa27d0e0478e6b
+source-git-commit: fb724628536b81f1032c557d27e7f4dd655ceeeb
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 100%
+source-wordcount: '142'
+ht-degree: 88%
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 프로필 및 대상자 만들기 - 개요
 description: Adobe Campaign Standard에서 기존 프로필로 이동하고 프로필과 고객을 만드는 방법을 알아봅니다.
-feature: profiles, audiences
+feature: 프로필, 대상
 topics: null
 kt: 3899
 thumbnail: 18463.jpg
@@ -11,8 +11,8 @@ team: WWFRE
 translation-type: tm+mt
 source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 36%
+source-wordcount: '89'
+ht-degree: 35%
 
 ---
 

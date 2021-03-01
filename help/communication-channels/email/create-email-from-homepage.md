@@ -1,8 +1,8 @@
 ---
 title: 이메일 배달 만들기
 description: 'Campaign, Adobe Campaign 홈페이지 또는 마케팅 활동 목록에서 이메일을 생성할 수 있습니다. 또한 작업 과정에서 한 번 전송하고 반복 이메일을 생성할 수도 있습니다. 이 비디오에서는 홈페이지에서 이메일 배달을 만드는 방법을 설명합니다. '
-landing-page-description: This video explains how to create an email delivery from the homepage.
-feature: Email
+landing-page-description: 이 비디오에서는 홈페이지에서 이메일 배달을 만드는 방법을 설명합니다.
+feature: 이메일
 topics: null
 kt: 1807
 thumbnail: 23721.jpg
@@ -12,8 +12,8 @@ team: DOC
 translation-type: tm+mt
 source-git-commit: 8b968e15b78655ff9ae49f812f10683201559722
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 47%
+source-wordcount: '147'
+ht-degree: 52%
 
 ---
 
@@ -30,4 +30,4 @@ ht-degree: 47%
 
 * [워크플로우를 통해 이메일 만들기 및 보내기](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
 * [이메일 만들기(설명서)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-an-email.html)
-* [게재 모범 사례](https://helpx.adobe.com/kr/campaign/kb/delivery-best-practices.html)
+* [게재 모범 사례](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices.html?lang=ko)

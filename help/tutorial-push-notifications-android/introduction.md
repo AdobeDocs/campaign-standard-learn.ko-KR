@@ -1,7 +1,7 @@
 ---
 title: Android 앱으로 푸시 알림 시작하기
 description: 이 튜토리얼에서는 Adobe Campaign에서 푸시 알림을 전송하고 Android 앱에서 이러한 알림을 받는 단계를 설명합니다.
-feature: Push
+feature: 푸시
 topics: Mobile
 kt: 3846
 doc-type: tutorial
@@ -10,7 +10,7 @@ team: TM
 translation-type: tm+mt
 source-git-commit: 8b968e15b78655ff9ae49f812f10683201559722
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '200'
 ht-degree: 41%
 
 ---
@@ -25,7 +25,7 @@ Adobe Campaign을 통해 개인화 및 세그먼트화한 푸시 알림을 iOS �
 ## 사전 요구 사항
 
 * Adobe Campaign Standard Extension으로 론치 속성을 구성해야 합니다. 아래에 나열된 온라인 도움말을 참조하십시오.
-   * [비디오 자습서](https://video.tv.adobe.com/v/26224?quality=12&captions=kor)
+   * [비디오 자습서](https://video.tv.adobe.com/v/26224?quality=12)
    * [설명서](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html)
 
 * Adobe Campaign Standard의 해당 속성 상태가 구성되어 있는지 확인합니다.

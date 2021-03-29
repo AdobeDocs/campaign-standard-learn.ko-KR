@@ -1,17 +1,17 @@
 ---
 title: Adobe Campaign Standard 소개
 description: 이 비디오에서는 Adobe Campaign Standard의 고급 기능을 소개합니다.
-feature: Profiles and Audiences
+feature: 프로필 및 대상자
 topics: null
 kt: 3971
 thumbnail: 29430.jpg
 doc-type: feature video
 activity: understand
 team: PMM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 4fa09f7aaddffc4ecbcc703e197785e594b6cb65
-workflow-type: tm+mt
-source-wordcount: '32'
+workflow-type: ht
+source-wordcount: '35'
 ht-degree: 100%
 
 ---

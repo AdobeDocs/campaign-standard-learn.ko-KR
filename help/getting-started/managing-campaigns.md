@@ -1,17 +1,17 @@
 ---
 title: 캠페인 관리
 description: Adobe Campaign에서는 마케팅 캠페인을 계획하여 다양한 유형의 활동을 만들고 관리할 수 있습니다. 이 비디오에서는 Adobe Campaign에서 캠페인을 만들고 관리하는 방법을 보여줍니다.
-feature: campaigns
+feature: 캠페인
 topics: Getting Started
 kt: 1816
 thumbnail: 24672.jpg
 doc-type: feature video
 activity: USE
 team: DOC
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
-source-wordcount: '99'
+workflow-type: ht
+source-wordcount: '100'
 ht-degree: 100%
 
 ---

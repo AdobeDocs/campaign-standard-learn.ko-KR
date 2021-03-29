@@ -1,17 +1,17 @@
 ---
 title: 보고서 탐색
 description: 이 비디오에서는 이메일 게재에 기본 제공되는 다양한 보고서를 설명합니다.
-feature: Reporting
+feature: 보고
 topics: Getting Started
 kt: 3906
 thumbnail: 23021.jpg
 doc-type: tutorial
 activity: understand
 team: WWFRE
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
-source-wordcount: '53'
+workflow-type: ht
+source-wordcount: '54'
 ht-degree: 100%
 
 ---

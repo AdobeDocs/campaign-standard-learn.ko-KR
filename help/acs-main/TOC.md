@@ -9,11 +9,11 @@ tutorials-title: 자습서
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ko
 getting-started-title: 설명서
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ko
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 46b8e3391e78ac333bad28b5cacceea3969cbb28
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '507'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -56,7 +56,7 @@ ht-degree: 98%
       + [기존 이메일, SMS 게재 또는 템플릿을 다국어로 변환](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [이메일 게재 및 보고서 검토](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [워크플로우를 통해 이메일 만들기 및 보내기](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-      + [제공 가능성 우수 사례 가이드](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
+      + [게재 모범 사례 안내서](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ko)
       + AI 기반 이메일 {#journey-ai}
          + [예측 전송 시간 최적화](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
          + [예측 참여 점수 책정](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)

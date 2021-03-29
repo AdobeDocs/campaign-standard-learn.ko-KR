@@ -1,17 +1,17 @@
 ---
 title: Adobe Campaign Standard의 프로필 및 대상자 이해
 description: 이 비디오에서는 프로필 및 대상자의 개념과 Adobe Campaign Standard에서 프로필 및 대상자를 만드는 방법을 설명합니다.
-feature: profiles, audiences
+feature: 프로필 및 대상자
 topics: null
 kt: 3893
 thumbnail: 18464.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
-source-wordcount: '62'
+workflow-type: ht
+source-wordcount: '64'
 ht-degree: 100%
 
 ---

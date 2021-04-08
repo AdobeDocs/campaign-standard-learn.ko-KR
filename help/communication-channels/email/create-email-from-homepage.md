@@ -1,5 +1,5 @@
 ---
-title: 이메일 배달 만들기
+title: 이메일 게재를 만들기
 description: 'Campaign, Adobe Campaign 홈페이지 또는 마케팅 활동 목록에서 이메일을 생성할 수 있습니다. 또한 작업 과정에서 한 번 전송하고 반복 이메일을 생성할 수도 있습니다. 이 비디오에서는 홈페이지에서 이메일 배달을 만드는 방법을 설명합니다. '
 landing-page-description: 이 비디오에서는 홈페이지에서 이메일 배달을 만드는 방법을 설명합니다.
 feature: 이메일
@@ -13,12 +13,12 @@ translation-type: tm+mt
 source-git-commit: 8b968e15b78655ff9ae49f812f10683201559722
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 52%
+ht-degree: 57%
 
 ---
 
 
-# 이메일 배달 {#create-an-email-delivery} 만들기
+# 이메일 게재를 만들기 {#create-an-email-delivery}
 
 캠페인, Adobe Campaign 홈 페이지 또는 [!UICONTROL Marketing Activity] 목록에서 독립형 이메일 배달을 만들 수 있습니다. 또한 워크플로우에서 한 번 보내기 및 되풀이되는 이메일을 만들고 보낼 수 있습니다.
 

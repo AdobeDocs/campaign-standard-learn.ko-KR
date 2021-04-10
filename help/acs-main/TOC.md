@@ -1,5 +1,4 @@
 ---
-product: adobe campaign standard
 user-guide-title: Adobe Campaign Standard 자습서
 user-guide-description: 크로스 채널 고객 경험을 설계하고 시각적인 Campaign 통합 운영, 실시간 상호 작용 관리 및 크로스 채널 실행을 위한 환경을 구축할 수 있습니다.
 breadcrumb-title: Campaign Standard 자습서
@@ -10,7 +9,7 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: 설명서
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ko
 translation-type: tm+mt
-source-git-commit: d83ef6bcf615f9dc10af800bd6f0ef2aa58a7a45
+source-git-commit: 8b4c60a2950d86074a3057bb8fe6460288da93b6
 workflow-type: tm+mt
 source-wordcount: '517'
 ht-degree: 98%
@@ -101,7 +100,7 @@ ht-degree: 98%
    + [동적 보고서 만들기](/help/reporting/creating-a-dynamic-report.md)
    + [사용자 지정 프로필 속성을 기반으로 보고서 만들기](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [워크플로우 세그먼트 기반 보고서 만들기](/help/reporting/report-on-workflow-segments.md)
-+ 통합
++ 통합 {#integrations}
    + [Adobe Analytics에서 배달 성공 추적](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
 + 관리 {#administrating}
    + [사용자 액세스 권한 관리](/help/administrating/managing-user-access-rights.md)

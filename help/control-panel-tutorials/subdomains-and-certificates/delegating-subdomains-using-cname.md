@@ -1,18 +1,18 @@
 ---
 title: CNAME을 사용하여 하위 도메인 위임
 description: 하위 도메인을 Adobe Campaign에 완전히 위임하는 방법을 알아봅니다.
-feature: Subdomain Delegation
+feature: 하위 도메인 위임
 topics: Control Panel
 kt: 6014
 thumbnail: 326612.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: fe305d729e8e1c7113ae1c310b3b8177f3cad093
-workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 47%
+workflow-type: ht
+source-wordcount: '97'
+ht-degree: 100%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 47%
 
 >[!IMPORTANT]
 >
-> 하위 도메인 위임을 위해 CNAME을 사용하는 것은 베타 버전이며 사전 통보 없이 자주 업데이트하거나 수정할 수 있습니다.
+> 베타 버전에서 CNAME을 사용해 하위 도메인 위임을 할 수 있으며 사전 공지 없이 자주 업데이트 및 수정될 수 있습니다.
 
-Adobe Campaign에서 이메일 전송을 시작하거나 랜딩 페이지를 게시할 수 있으려면 새 하위 도메인을 설정해야 합니다.
+Adobe Campaign에서 이메일 전송을 시작하거나 랜딩 페이지를 게시하려면 새 하위 도메인을 설정해야 합니다.
 
 Campaign 컨트롤 패널에서 CNAME을 사용하여 하위 도메인을 설정하고 제출하는 방법을 알아봅니다.
 
@@ -32,4 +32,4 @@ Campaign 컨트롤 패널에서 CNAME을 사용하여 하위 도메인을 설정
 ## 추가 리소스
 
 * [전체 하위 도메인 위임(비디오)](./subdomain-delegation.md)
-* [새 하위 도메인 설정(설명서)](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html)
+* [새 하위 도메인 설정(설명서)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html?lang=ko#subdomains-and-certificates)

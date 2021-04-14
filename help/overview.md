@@ -2,14 +2,14 @@
 title: Adobe Campaign Standard 자습서 - 개요
 description: Adobe Campaign은 크로스 채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스 채널 실행에 대한 환경을 제공합니다. 이 사용자 안내서에는 Adobe Campaign Standard의 다양한 기능과 성능에 대한 비디오 및 튜토리얼이 포함되어 있습니다.
 products: SG_CAMPAIGN/STANDARD
+exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 translation-type: tm+mt
-source-git-commit: 10fe2451d77a0366ef7885da0426551b1843a1cb
+source-git-commit: 8cc421c50c731cae216aa6efb62077946239d8cb
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 82%
 
 ---
-
 
 # Adobe Campaign Standard - 개요
 

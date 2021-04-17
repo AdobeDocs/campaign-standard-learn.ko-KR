@@ -1,6 +1,6 @@
 ---
 title: 보고 소개
-description: 이 비디오에서는 Adobe Campaign Standard의 보고 기능에 대한 개요를 제공합니다
+description: Adobe Campaign Standard의 보고 기능 이해
 feature: 보고
 topics: null
 kt: 3974
@@ -8,14 +8,16 @@ thumbnail: 29461.jpg
 doc-type: value video
 activity: understand
 team: PMM
-translation-type: ht
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
-source-wordcount: '55'
-ht-degree: 100%
+exl-id: 46978dbc-1716-4fc4-946e-56d703944d25
+role: Business Practitioner, Developer
+level: Beginner
+translation-type: tm+mt
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+workflow-type: tm+mt
+source-wordcount: '49'
+ht-degree: 83%
 
 ---
-
 
 # 보고 소개
 

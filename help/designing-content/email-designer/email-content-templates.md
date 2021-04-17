@@ -1,21 +1,23 @@
 ---
 title: 이메일 콘텐츠 템플릿 소개
-description: Adobe Campaign Standard은 즉시 사용자 정의할 수 있는 응답형 이메일 템플릿 18개를 제공합니다.  이러한 템플릿은 Adobe Campaign Standard용으로 특별히 제작되었으며 조작 및 변경이 용이합니다. 이메일 작성을 위한 탁월한 시작점입니다.
-feature: Email Designer
+description: 이메일 컨텐츠 템플릿을 만드는 방법을 알아봅니다.
+feature: 이메일 디자인
 topics: null
 kt: 1442
 thumbnail: 23106.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: fc01caf7-959a-4f2d-af81-4f695ae45bb8
+role: Business Practitioner, Developer
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 10%
+source-wordcount: '71'
+ht-degree: 14%
 
 ---
-
 
 # 이메일 콘텐츠 템플릿 소개 {#introduction-to-the-email-content-templates}
 

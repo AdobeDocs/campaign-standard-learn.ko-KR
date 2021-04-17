@@ -1,20 +1,22 @@
 ---
 title: 동적 보고서 만들기
 description: 보고서를 만드는 방법을 알아봅니다.
-feature: 동적 보고
+feature: 보고
 kt: 2037
 thumbnail: 25264.jpg
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: a2b93d8b-0d3e-4525-a334-a01701d34d85
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 29%
+source-wordcount: '66'
+ht-degree: 31%
 
 ---
-
 
 # [!UICONTROL Dynamic Report]{#creating-a-report} 만들기
 

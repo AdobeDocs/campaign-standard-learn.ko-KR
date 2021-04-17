@@ -1,21 +1,23 @@
 ---
 title: 푸시 알림 만들기
-description: 'Adobe Campaign Standard(ACS)에서 푸시 알림을 만드는 방법을 알아봅니다. '
-feature: Push
+description: '푸시 알림을 만드는 방법을 알아봅니다. '
+feature: 푸시
 topics: Mobile
 kt: 1401
 thumbnail: 31499.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 7520cb4a-f277-42fa-81be-afb46b21365f
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 11%
+source-wordcount: '158'
+ht-degree: 12%
 
 ---
-
 
 # [!UICONTROL push notification] 만들기
 

@@ -2,20 +2,19 @@
 title: 개인 정보 보호 요청에 대한 ACS(Adobe Campaign Standard)를 설정할 때 사용자 지정 리소스 수정
 description: 개인 정보 보호 요청을 처리하기 위해 ACS(Adobe Campaign Standard)를 설정할 때는 프로필 삭제 시 프로필에 연결된 모든 사용자 지정 데이터가 삭제되도록 해야 합니다. 이 비디오에서는 이 요구 사항을 충족하기 위해 사용자 지정 리소스를 수정하는 방법을 설명합니다.
 feature: GDPR, CCPA
-topic: null
 kt: 1243
 thumbnail: 23326.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
-workflow-type: ht
+exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
+translation-type: tm+mt
+source-git-commit: 569c196b0d94a9bee5010da46003ed7b2a8afefd
+workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 100%
 
 ---
-
 
 # 개인 정보 보호 요청에 대한 사용자 지정 리소스 수정
 

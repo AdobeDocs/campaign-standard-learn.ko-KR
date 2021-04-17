@@ -1,20 +1,22 @@
 ---
 title: 인앱 메시지 소개
-description: Adobe Campaign Standard(ACS) 인앱 메시징 채널을 사용하면 모바일 애플리케이션 내에서 고객의 실시간 행동에 대한 응답으로 사용자에게 문맥과 관련된 인앱 메시지를 제공할 수 있습니다.
-feature: In-App
+description: '"모바일 애플리케이션 내에서 고객의 실시간 행동에 대한 컨텍스트 내 관련 인앱 메시지를 사용자에게 전달하는 방법을 살펴볼 수 있습니다."'
+feature: 앱 내
 topics: Mobile
 kt: 1911
 doc-type: feature video
 activity: use
 team: TM
+exl-id: c51716eb-7239-4fc0-9ccf-9f5f0a5fae65
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '753'
+source-wordcount: '747'
 ht-degree: 21%
 
 ---
-
 
 # [!UICONTROL In-App] 메시지 소개 {#introduction}
 
@@ -55,7 +57,7 @@ ht-degree: 21%
 
    이 메시지 유형을 사용하면 Adobe Campaign에 기존 프로필이 없더라도 모바일 애플리케이션의 모든 사용자(현재 또는 미래)에게 메시지를 보낼 수 있습니다. 따라서 사용자 프로필이 Adobe Campaign에 반드시 존재하지 않으므로 메시지를 사용자 정의할 때는 개인화를 사용할 수 없습니다.
 
-1. 모바일 앱 프로필을 기반으로 모든 사용자를 Target으로 연결
+1. 모바일 앱 프로필을 기반으로 모든 사용자를 Target으로 공유합니다.
 
    이 메시지 유형을 사용하면 Adobe Campaign에 모바일 프로필이 있는 모바일 앱의 알려진 모든 사용자 또는 익명의 사용자를 타겟팅할 수 있습니다. 이 메시지 유형은 개인적이지 않고 민감하지 않은 속성만 사용하여 개인화할 수 있으며 Mobile SDK와 Adobe Campaign의 인앱 메시지 서비스 간에 안전한 핸드셰이크가 필요하지 않습니다. 따라서 개인화 전략은 디바이스와의 상호 작용에서 사용자에 대해 수집한 정보를 바탕으로 합니다. 예: 지난 1주 동안 앱을 5회 이상 실행한 모든 사용자를 타깃팅합니다.
 

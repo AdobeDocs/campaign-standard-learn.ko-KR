@@ -1,21 +1,23 @@
 ---
 title: 다이렉트 메일 만들기
-description: DM은 여전히 전 세계 마케터에게 중요한 채널이며 이제 온라인 채널과 함께 이러한 오프라인 인터랙션을 조정할 수 있습니다. 이메일, 모바일 등 디지털 커뮤니케이션을 지원하는 동일한 엔진을 사용하여 다이렉트 메일러를 개인화할 수 있습니다.
-feature: direct mail
+description: 다이렉트 메일을 만드는 방법을 알아봅니다.
+feature: DM
 topics: null
 kt: 1430
 thumbnail: 23417.jpg
 doc-type: feature video
 activity: using
 team: TM
+exl-id: f54acc7f-4efe-4d7f-89f1-c4ed596a5d9e
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '110'
 ht-degree: 1%
 
 ---
-
 
 # [!UICONTROL Direct Mail] {#create-a-direct-mail} 만들기
 

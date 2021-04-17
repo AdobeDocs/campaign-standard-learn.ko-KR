@@ -1,21 +1,23 @@
 ---
 title: 워크플로우에서 Adobe Experience Platform 대상자 활성화
 description: 이 비디오에서는 '대상자 읽기' 활동을 사용하여 워크플로우 내에서 데이터 서비스 쿼리 대상을 활성화하는 방법에 대해 설명합니다.
-feature: Audience Destinations
+feature: 사람 핵심 서비스 통합
 topics: ACOP
 kt: 2760
 thumbnail: 27647.jpg
 doc-type: feature video
 activity: using
 team: PM
+exl-id: 955d063f-4709-4f56-8f39-f1b838354300
+role: Business Practitioner, Developer
+level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '151'
 ht-degree: 7%
 
 ---
-
 
 # 마케팅 워크플로우의 워크플로우 [!UICONTROL Adobe Experience Platform Audiences]에서 Adobe Experience Platform 대상 활성화
 
@@ -41,4 +43,3 @@ ht-degree: 7%
 
 * [통합 세그먼트 빌더를 사용하여 Adobe Campaign Standard에서 새 대상 만들기](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [플랫폼 대상에 대한 게재의 타깃팅 차원 변경](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
-

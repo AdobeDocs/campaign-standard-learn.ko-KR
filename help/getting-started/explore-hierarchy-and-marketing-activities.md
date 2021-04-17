@@ -1,21 +1,23 @@
 ---
 title: 계층 구조 및 마케팅 활동 살펴보기
-description: 이 비디오에서는 ACS(Adobe Campaign Standard) 내 프로그램 및 캠페인의 계층 구조, 마케팅 프로그램을 만드는 방법 및 프로그램 내에서 마케팅 캠페인을 만드는 방법에 대해 설명합니다.
-feature: 캠페인
+description: '"프로그램 및 캠페인의 계층 구조, 마케팅 프로그램을 만드는 방법 및 프로그램 내에서 마케팅 캠페인을 만드는 방법을 이해합니다."'
+feature: 캠페인, 프로그램
 topics: null
 kt: 3892
 thumbnail: 18465.jpg
 doc-type: feature video
 activity: Understand
 team: WWFRE
-translation-type: ht
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
-source-wordcount: '79'
-ht-degree: 100%
+exl-id: c5804637-804c-473f-80d8-d54263c49a5c
+role: Business Practitioner
+level: Beginner
+translation-type: tm+mt
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+workflow-type: tm+mt
+source-wordcount: '73'
+ht-degree: 65%
 
 ---
-
 
 # 계층 구조 및 마케팅 활동 살펴보기
 

@@ -1,21 +1,23 @@
 ---
 title: 이메일 디자이너 개요
-description: 이 비디오에서는 이메일 디자이너의 일반 기능과 이메일을 처음부터 디자인하는 방법에 대해 설명합니다. 이 페이지에는 Adobe Campaign 이메일 디자이너가 사용할 수 있는 모든 기능 비디오가 나열됩니다
-feature: Email Designer
+description: 이메일 디자이너의 일반적인 기능과 이메일을 처음부터 디자인하는 방법을 이해합니다.
+feature: 이메일 디자인
 topics: Content Creation
 kt: 1402
 thumbnail: 22771.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 17813cda-50a1-406b-b4ae-9267671a6910
+role: Business Practitioner, Developer
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 100%
+source-wordcount: '125'
+ht-degree: 85%
 
 ---
-
 
 # [!UICONTROL Email Designer] 개요
 

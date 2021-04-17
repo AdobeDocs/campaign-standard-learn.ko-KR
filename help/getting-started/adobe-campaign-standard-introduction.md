@@ -1,21 +1,23 @@
 ---
 title: Adobe Campaign Standard 소개
 description: 이 비디오에서는 Adobe Campaign Standard의 고급 기능을 소개합니다.
-feature: 프로필 및 대상자
+feature: 개요
 topics: null
 kt: 3971
 thumbnail: 29430.jpg
 doc-type: feature video
 activity: understand
 team: PMM
-translation-type: ht
-source-git-commit: 4fa09f7aaddffc4ecbcc703e197785e594b6cb65
-workflow-type: ht
-source-wordcount: '35'
+exl-id: 8058722e-27e2-43e2-bf60-e3d99ce90a5d
+role: Business Practitioner, Administrator, Developer
+level: Beginner
+translation-type: tm+mt
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+workflow-type: tm+mt
+source-wordcount: '33'
 ht-degree: 100%
 
 ---
-
 
 # [!UICONTROL Adobe Campaign Standard] 소개
 

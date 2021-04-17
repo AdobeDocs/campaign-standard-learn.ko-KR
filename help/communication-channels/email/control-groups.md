@@ -1,21 +1,23 @@
 ---
 title: 게재에 컨트롤 그룹 추가
 description: 게재하기 위해 컨트롤 그룹 정의 방법 및 게재한 후 컨트롤 그룹에 지정된 프로필을 추출하는 방법을 알아봅니다.
-feature: control groups
+feature: 컨트롤 그룹
 topics: null
 kt: 5060
 thumbnail: 40684.jpg
 doc-type: feature video
 activity: use
 team: PM
+exl-id: 7d799136-a308-422d-8a97-d3ed8fed0c73
+role: Business Practitioner
+level: Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '123'
 ht-degree: 100%
 
 ---
-
 
 # [!UICONTROL control group]에 [!UICONTROL delivery] 추가
 

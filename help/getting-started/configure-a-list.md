@@ -1,21 +1,23 @@
 ---
 title: 목록 구성
-description: '이 비디오에서는 Adobe Campaign Standard에서 표시되는 열, 순서 및 목록 보기의 정렬 순서를 변경하는 방법을 설명합니다.  '
-feature: UI
+description: '"Adobe Campaign Standard에서 표시되는 열, 순서 및 목록 보기의 정렬 순서를 변경할 수 있는 방법을 알아봅니다.  "'
+feature: 개요
 topics: null
 kt: 1821
 thumbnail: 25288.jpg
 doc-type: feature video
 activity: use
 team: DOC
-translation-type: ht
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
-source-wordcount: '55'
-ht-degree: 100%
+exl-id: c5490a49-f4e4-4fe0-8132-1893252a9a4d
+role: Business Practitioner, Administrator, Developer
+level: Beginner
+translation-type: tm+mt
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+workflow-type: tm+mt
+source-wordcount: '53'
+ht-degree: 58%
 
 ---
-
 
 # 목록 구성
 

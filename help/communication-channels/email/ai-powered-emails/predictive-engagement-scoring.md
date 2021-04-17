@@ -1,21 +1,23 @@
 ---
 title: 예측 참여 점수 책정
 description: 개별 프로필 수준에서 참여 점수를 보고, 참여 사용자 타겟팅 및 피로도가 높은 사용자를 알아보기 위해 점수를 사용하고 분류 규칙을 만들어 고객 피로도를 관리하는 방법을 알아봅니다.
-feature: predictive engagement scoring
+feature: 예측 참여 점수
 topics: null
 kt: 6275
 thumbnail: 40470.jpg
 doc-type: feature video
 activity: use
 team: ACS
+exl-id: 7d6634ed-f6b0-4d77-9148-3f2c0e444862
+role: Business Practitoner, Developer, Administrator
+level: Experienced
 translation-type: tm+mt
-source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 100%
+source-wordcount: '218'
+ht-degree: 98%
 
 ---
-
 
 # 예측 참여 점수 책정
 

@@ -1,21 +1,23 @@
 ---
 title: 대상 대상 - 개요
-description: Adobe Campaign Standard(ACS)에서 Adobe Experience Platform(AEP) 대상 활용
-feature: Audience Destinations
+description: Adobe Campaign Standard(ACS)에서 Adobe Experience Platform(AEP) 대상을 활용하는 방법 학습
+feature: 사람 핵심 서비스 통합
 topics: ACOP
 kt: 2755
 thumbnail: null
 doc-type: feature video
 activity: using
 team: TM
+exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
+role: Business Practitioner, Developer
+level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 10%
+source-wordcount: '181'
+ht-degree: 9%
 
 ---
-
 
 # [!UICONTROL Audience Destinations] (베타) - 개요
 
@@ -41,4 +43,3 @@ Adobe Campaign Standard 내의 [!UICONTROL Audiences] 모듈을 사용하면 [�
 ## 추가 리소스
 
 *[Adobe Experience Platform 데이터 커넥터 이해](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
-

@@ -1,21 +1,23 @@
 ---
 title: 외부 신호 활동 - 매개 변수를 사용하여 워크플로우 호출
-description: 외부 신호 활동은 동일한 고객 여정의 일부인 다른 프로세스를 다른 워크플로우로 구성하고 조정하는 데 사용됩니다. 한 워크플로우를 다른 워크플로우에서 시작할 수 있게 하여 더 복잡한 고객 여정을 지원하는 동시에 문제가 발생하는 경우 보다 효과적으로 모니터링하고 대응할 수 있습니다.
-feature: 외부 신호 활동
+description: '"문제를 보다 효과적으로 모니터링하고 응답하면서 보다 복잡한 고객 여정을 지원하는 워크플로우를 다른 워크플로우에서 시작하는 방법을 살펴볼 수 있습니다."'
+feature: 실행 활동
 topics: Workflows
 kt: 2750
 thumbnail: 27249
 doc-type: feature video
 activity: use
 team: TM
+exl-id: d3996185-681c-4906-85f0-0543ab767519
+role: Business Practitioner, Developer
+level: Experienced
 translation-type: tm+mt
-source-git-commit: 2237e6a7d6a8c202ea87aeeb4b1e6fa83e1c677c
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '333'
-ht-degree: 17%
+source-wordcount: '306'
+ht-degree: 9%
 
 ---
-
 
 # [!UICONTROL External Signal activity ]- 매개 변수를 사용한 워크플로우 호출
 

@@ -1,20 +1,22 @@
 ---
 title: Adobe Campaign Standard 시작
 description: 이 비디오에서는 Adobe Campaign Standard 사용자 인터페이스와 주요 기능 및 핵심 기능에 대한 개요를 제공합니다.
-feature: 사용자 인터페이스
+feature: 개요
 topics: null
 kt: null
 doc-type: null
 activity: understand
 team: TM
-translation-type: ht
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
-source-wordcount: '191'
+exl-id: ce78f9ed-b2d4-4166-9f6f-1b9639dbf5ce
+role: Business Practitioner, Administrator, Developer
+level: Beginner
+translation-type: tm+mt
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+workflow-type: tm+mt
+source-wordcount: '190'
 ht-degree: 100%
 
 ---
-
 
 # Adobe Campaign Standard 시작
 

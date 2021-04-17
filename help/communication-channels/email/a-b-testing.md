@@ -1,21 +1,23 @@
 ---
 title: A/B 테스트
-description: '이 비디오에서는 Adobe Campaign Standard에서 A/B 테스트를 구성 및 전송하여 제목 줄을 테스트하는 방법을 설명합니다. '
-feature: A/B Testing
+description: '"제목 줄을 테스트하는 A/B 테스트를 구성 및 전송하는 방법을 알아봅니다. "'
+feature: 'A/B 테스트  '
 topics: null
 kt: 3907
 thumbnail: 18480.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: f1ae414c-6b42-445b-bb33-9a28a3e854fa
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 47%
+source-wordcount: '110'
+ht-degree: 50%
 
 ---
-
 
 # A/B 테스트
 

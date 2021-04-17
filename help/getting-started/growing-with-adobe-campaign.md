@@ -1,21 +1,23 @@
 ---
 title: Adobe Campaign과 함께 성장
-description: 이 비디오에서는 진정한 크로스채널 오케스트레이션의 잠재적인 다음 단계를 중점적으로 설명합니다.
-feature: 다중 채널 오케스트레이션
+description: 진정한 크로스채널 통합 운영에 대한 다음 단계를 파악할 수 있습니다.
+feature: 크로스채널 통합 운영
 topics: null
 kt: 3973
 thumbnail: 29460.jpg
 doc-type: value video
 activity: understand
 team: PMM
-translation-type: ht
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
-source-wordcount: '35'
-ht-degree: 100%
+exl-id: c6c4e1b9-9a5c-4474-84df-adcfa7b42621
+role: Business Practitioner
+level: Beginner
+translation-type: tm+mt
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
+workflow-type: tm+mt
+source-wordcount: '33'
+ht-degree: 60%
 
 ---
-
 
 # Adobe Campaign과 함께 성장
 

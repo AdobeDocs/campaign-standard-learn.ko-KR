@@ -1,21 +1,23 @@
 ---
 title: 서비스 및 구독 관리
-description: Adobe Campaign을 사용하면 일련의 서비스를 통해 뉴스레터와 채널 간 커뮤니케이션을 만들고 관리할 수 있습니다. 이 비디오에서는 Adobe Campaign Standard(ACS)에서 서비스를 만들고 가입을 관리하는 방법을 보여 줍니다.
-feature: Subscriptions and Services
+description: 서비스를 만들고 구독을 관리하는 방법을 알아봅니다.
+feature: 구독
 topics: null
 kt: 1815
 thumbnail: 24673.jpg
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: 2970db2c-b01b-4a7c-9eec-47a530209c24
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 31%
+source-wordcount: '155'
+ht-degree: 36%
 
 ---
-
 
 # 서비스 및 구독 관리{#managing-services-and-subscriptions}
 

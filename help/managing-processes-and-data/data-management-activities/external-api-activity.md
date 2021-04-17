@@ -1,21 +1,23 @@
 ---
 title: 외부 API 활동을 사용하여 워크플로우 구성 및 실행
-description: 외부 API 활동은 데이터 관리 활동입니다. 외부 REST API 엔드포인트를 호출할 수 있습니다. 이 활동의 목적은 타사 시스템의 개인화 데이터를 캠페인으로 가져오는 것입니다.
-feature: External API activity
+description: 외부 REST API 끝점을 호출하여 제3시스템의 개인화 데이터를 캠페인에 가져오는 방법을 알아봅니다.
+feature: 데이터 관리 활동
 topics: null
 kt: 2764
 thumbnail: 28200.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
+role: Business Practitioner, Developer
+level: Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 100%
+source-wordcount: '188'
+ht-degree: 87%
 
 ---
-
 
 # [!UICONTROL External API activity]을(를) 사용하여 워크플로우 구성 및 실행
 
@@ -32,7 +34,7 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/28200/?quality=12)
 
-*[!UICONTROL External API activity] (06:48분)*
+*[!UICONTROL External API activity](06:48분)*
 
 >[!NOTE]
 >
@@ -41,4 +43,3 @@ ht-degree: 100%
 ## 추가 자료
 
 * [외부 API(설명서)](https://docs.adobe.com/content/help/ko-KR/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
-

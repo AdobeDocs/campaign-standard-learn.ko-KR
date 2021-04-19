@@ -1,19 +1,12 @@
 ---
-product: adobe campaign standard
 user-guide-title: Adobe Campaign 컨트롤 패널 튜토리얼
 user-guide-description: Adobe Campaign 인스턴스의 주요 자산을 모니터링하고 Campaign 컨트롤 패널에서 관리 작업을 수행하는 방법에 대해 알아봅니다.
 breadcrumb-title: Campaign 컨트롤 패널 자습서
-solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?lang=ko&tag=Campaign+Standard#recommended/solutions/campaign
-tutorials-title: 자습서
-tutorials-url: https://docs.adobe.com/content/help/ko-KR/campaign-standard-learn/tutorials/overview.html
-getting-started-title: 설명서
-getting-started-url: https://docs.adobe.com/content/help/ko-KR/campaign-standard/using/campaign-standard-home.html
 index: true
-translation-type: ht
-source-git-commit: fb724628536b81f1032c557d27e7f4dd655ceeeb
-workflow-type: ht
-source-wordcount: '142'
+translation-type: tm+mt
+source-git-commit: 0125d22122128037759c65f94e5e90ab4740173f
+workflow-type: tm+mt
+source-wordcount: '114'
 ht-degree: 100%
 
 ---

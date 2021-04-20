@@ -2,7 +2,7 @@
 title: ACS(Adobe Campaign Standard)를 통한 개인 정보 보호 요청 - 개요
 description: 튜토리얼에서는 ACS(Adobe Campaign Standard) 인터페이스를 통해 개인 정보 보호 요청을 만드는 방법을 설명합니다.
 feature: GDPR, CCAP
-topic: 개인 정보
+topic: Privacy
 kt: 1480
 doc-type: feature video
 activity: use

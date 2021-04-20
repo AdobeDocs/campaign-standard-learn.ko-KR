@@ -1,7 +1,7 @@
 ---
 title: 이메일 디자이너 시작
 description: 이메일 디자이너의 일반적인 기능과 이메일을 처음부터 디자인하는 방법을 이해합니다.
-feature: 이메일 디자인
+feature: Email Design
 topics: Content Creation
 kt: 2391
 thumbnail: 25912.jpg

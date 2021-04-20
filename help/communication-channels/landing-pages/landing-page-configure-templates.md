@@ -1,7 +1,7 @@
 ---
 title: 랜딩 페이지 템플릿 구성
 Description: This video explains how to configure Landing Page templates in Adobe Campaign Standard.
-feature: 랜딩 페이지
+feature: Landing Pages
 topics: null
 kt: 1817
 thumbnail: 25200.jpg

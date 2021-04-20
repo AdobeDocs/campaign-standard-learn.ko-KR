@@ -1,7 +1,7 @@
 ---
 title: 목록 구성
 description: '"Adobe Campaign Standard에서 표시되는 열, 순서 및 목록 보기의 정렬 순서를 변경할 수 있는 방법을 알아봅니다.  "'
-feature: 개요
+feature: Overview
 topics: null
 kt: 1821
 thumbnail: 25288.jpg

@@ -1,7 +1,7 @@
 ---
 title: 캠페인 관리
 description: 캠페인을 만들고 관리하는 방법을 알아봅니다.
-feature: '캠페인 '
+feature: Campaigns 
 topics: Getting Started
 kt: 1816
 thumbnail: 24672.jpg

@@ -1,7 +1,7 @@
 ---
 title: 워크플로우로 프로필 가져오기
 description: 워크플로우를 사용하여 프로필 데이터를 가져오는 방법을 알아봅니다.
-feature: 데이터 관리
+feature: Data Management
 topics: null
 kt: 1818
 thumbnail: 24993.jpg

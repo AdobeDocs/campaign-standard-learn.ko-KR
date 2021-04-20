@@ -1,7 +1,7 @@
 ---
 title: '프로필 만들기 '
 description: 프로필을 만드는 방법과 대상을 추가하는 방법을 알아봅니다.
-feature: 프로필, 대상
+feature: Profiles, Audiences
 kt: 1820
 thumbnail: 25277.jpg
 doc-type: feature video

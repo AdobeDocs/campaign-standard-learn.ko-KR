@@ -1,7 +1,7 @@
 ---
 title: 보고서 탐색
 description: 이메일 전달에 즉시 사용할 수 있는 다양한 보고서를 파악합니다.
-feature: 보고
+feature: Reporting
 topics: Getting Started
 kt: 3906
 thumbnail: 23021.jpg

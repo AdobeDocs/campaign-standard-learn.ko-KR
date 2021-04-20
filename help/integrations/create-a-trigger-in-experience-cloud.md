@@ -1,7 +1,7 @@
 ---
 title: Experience Cloud에서 트리거 만들기
 description: Experience Cloud에서 트리거를 구성하는 방법을 알아봅니다.
-feature: 트리거
+feature: Triggers
 topics: Integrations
 kt: 6524
 thumbnail: 332624.jpg

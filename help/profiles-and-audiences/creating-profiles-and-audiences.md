@@ -1,7 +1,7 @@
 ---
 title: 프로필 및 대상자 만들기 - 개요
 description: 기존 프로파일로 이동하고 프로파일과 고객을 만드는 방법을 알아봅니다.
-feature: 프로필, 대상
+feature: Profiles, Audiences
 topics: null
 kt: 3899
 thumbnail: 18463.jpg

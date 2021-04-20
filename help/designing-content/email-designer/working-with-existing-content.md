@@ -1,7 +1,7 @@
 ---
 title: 기존 콘텐츠로 작업
 description: 이 비디오에서는 웹 사이트에서 크리에이티브 컨텐츠를 신속하게 검색하고 이메일 디자이너에 로드하는 방법을 설명합니다.
-feature: 이메일 디자인
+feature: Email Design
 topics: Content Creation
 kt: 6295
 thumbnail: 25926.jpg

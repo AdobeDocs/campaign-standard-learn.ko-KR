@@ -1,7 +1,7 @@
 ---
 title: '"인앱 메시지 브로드캐스트 "'
 description: 브로드캐스트 템플릿을 사용하여 모바일 앱의 모든 사용자를 타깃팅하는 방법을 알아봅니다.
-feature: 앱 내
+feature: In App
 topics: Mobile
 kt: 2497
 thumbnail: 26199.jpg

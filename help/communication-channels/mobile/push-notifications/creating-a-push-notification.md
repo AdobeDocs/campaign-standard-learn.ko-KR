@@ -1,7 +1,7 @@
 ---
 title: 푸시 알림 만들기
 description: '푸시 알림을 만드는 방법을 알아봅니다. '
-feature: 푸시
+feature: Push
 topics: Mobile
 kt: 1401
 thumbnail: 31499.jpg

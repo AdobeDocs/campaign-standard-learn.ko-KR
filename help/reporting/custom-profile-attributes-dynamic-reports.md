@@ -1,7 +1,7 @@
 ---
 title: 사용자 지정 프로필 속성을 기반으로 보고서 만들기
 description: 사용자 지정 프로필 속성을 기반으로 보고서를 만드는 방법을 알아봅니다.
-feature: 보고
+feature: Reporting
 kt: 1444
 thumbnail: 28204.jpg
 doc-type: feature video

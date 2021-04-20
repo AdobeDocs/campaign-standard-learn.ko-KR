@@ -1,7 +1,7 @@
 ---
 title: 워크플로우에서 Adobe Experience Platform 대상자 활성화
 description: 이 비디오에서는 '대상자 읽기' 활동을 사용하여 워크플로우 내에서 데이터 서비스 쿼리 대상을 활성화하는 방법에 대해 설명합니다.
-feature: 사람 핵심 서비스 통합
+feature: People Core Service Integration
 topics: ACOP
 kt: 2760
 thumbnail: 27647.jpg

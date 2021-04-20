@@ -1,7 +1,7 @@
 ---
 title: 예측 전송 시간 최적화
 description: Adobe Campaign과 여정 AI 모델 간의 데이터를 동기화하는 데 필요한 워크플로우를 파악할 수 있습니다. 개별 프로필 수준에서 전송 시간 점수를 보는 방법 및 전송 시간 수식을 사용하여 이메일 게재 실행 방법을 알아봅니다.
-feature: 전송 시간 최적화
+feature: Send Time Optimization
 topics: null
 kt: 6274
 thumbnail: 40469.jpg

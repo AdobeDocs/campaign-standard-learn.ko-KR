@@ -1,7 +1,7 @@
 ---
 title: 테스트 프로필 만들기
 description: 정의된 타깃팅 기준과 일치하지 않는 수신자를 타깃팅하여 수신자 데이터베이스의 부정 사용을 감지하거나 이메일이 받은 편지함에 도착하도록 하는 방법을 알아봅니다.
-feature: 테스트 프로필
+feature: Test Profiles
 kt: 1810
 thumbnail: 24094.jpg
 doc-type: feature video

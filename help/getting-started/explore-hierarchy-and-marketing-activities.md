@@ -1,7 +1,7 @@
 ---
 title: 계층 구조 및 마케팅 활동 살펴보기
 description: '"프로그램 및 캠페인의 계층 구조, 마케팅 프로그램을 만드는 방법 및 프로그램 내에서 마케팅 캠페인을 만드는 방법을 이해합니다."'
-feature: 캠페인, 프로그램
+feature: Campaigns, Programs
 topics: null
 kt: 3892
 thumbnail: 18465.jpg

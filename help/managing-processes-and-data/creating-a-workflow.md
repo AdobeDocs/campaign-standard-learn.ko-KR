@@ -1,7 +1,7 @@
 ---
 title: 워크플로우 만들기
 description: 워크플로우를 만들고 편집하는 방법을 알아봅니다.
-feature: 워크플로우
+feature: Workflows
 topics: null
 kt: 1809
 thumbnail: 23937.jpg

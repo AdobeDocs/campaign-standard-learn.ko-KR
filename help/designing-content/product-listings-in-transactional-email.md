@@ -1,7 +1,7 @@
 ---
 title: 트랜잭션 이메일에서 제품 목록 구성
 description: 거래 이메일에서 제품 목록을 구성하는 데 필요한 단계를 알아봅니다.
-feature: 트랜잭션 메시지, 이메일
+feature: Transactional Messaging, Emails
 topics: Content Creation
 kt: 1728
 thumbnail: 25915

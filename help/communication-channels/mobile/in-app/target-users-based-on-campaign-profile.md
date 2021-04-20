@@ -1,7 +1,7 @@
 ---
 title: Campaign 프로필 기반 대상 사용자
 description: CRM 프로필 속성을 통해 개인화된 메시지를 통해 알려진 모바일 앱 사용자를 타깃팅하는 방법을 알아봅니다.
-feature: 앱 내
+feature: In App
 topics: Channels
 kt: 1796
 thumbnail: 26200.jpg

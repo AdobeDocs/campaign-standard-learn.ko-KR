@@ -1,7 +1,7 @@
 ---
 title: 기존 이메일, SMS 게재 또는 템플릿을 다국어로 변환
 description: '"기존 이메일, SMS 전달 또는 전달 템플릿을 다국어 버전으로 변환하는 방법을 살펴볼 수 있습니다."'
-feature: 이메일, SMS
+feature: Email, SMS
 topics: Mobile
 kt: 1703
 thumbnail: 23251.jpg

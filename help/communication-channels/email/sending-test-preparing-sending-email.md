@@ -1,7 +1,7 @@
 ---
 title: 테스트 보내기, 준비 및 이메일 보내기
 description: '"테스트 이메일을 보낸 다음 이메일 배달을 준비하여 보내는 방법을 알아봅니다. "'
-feature: '이메일  '
+feature: Email  
 topics: null
 kt: 1812
 thumbnail: 24013.jpg

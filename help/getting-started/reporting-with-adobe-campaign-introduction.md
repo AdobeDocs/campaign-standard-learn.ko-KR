@@ -1,7 +1,7 @@
 ---
 title: 보고 소개
 description: Adobe Campaign Standard의 보고 기능 이해
-feature: 보고
+feature: Reporting
 topics: null
 kt: 3974
 thumbnail: 29461.jpg

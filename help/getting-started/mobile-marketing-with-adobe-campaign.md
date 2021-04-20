@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign으로 모바일 마케팅
 description: 모바일 마케팅 전략을 지원할 수 있는 Adobe Campaign Standard 기능을 파악할 수 있습니다.
-feature: SMS, 푸시, 인앱
+feature: SMS, Push, In-App
 topics: null
 kt: 3976
 thumbnail: 29468.jpg

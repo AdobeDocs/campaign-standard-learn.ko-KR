@@ -2,7 +2,7 @@
 title: Adobe Analytics에서 배달 성공 추적
 description: Campaign Standard 및 Analytics 통합을 구성하는 방법을 알아봅니다. Campaign Standard에서 받은 데이터와 사용할 수 있는 KPI를 사용하여 Analytics에서 보고서를 작성하는 방법을 이해합니다.
 product: adobe analytics, campaign
-feature: 응용 프로그램 설정
+feature: Application Settings
 topics: Integrations
 role: Administrator
 level: Intermediate

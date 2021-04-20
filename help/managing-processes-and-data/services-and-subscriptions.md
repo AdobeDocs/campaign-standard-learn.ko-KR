@@ -1,7 +1,7 @@
 ---
 title: 서비스 및 구독 관리
 description: 서비스를 만들고 구독을 관리하는 방법을 알아봅니다.
-feature: 구독
+feature: Subscriptions
 topics: null
 kt: 1815
 thumbnail: 24673.jpg

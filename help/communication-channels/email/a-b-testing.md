@@ -1,7 +1,7 @@
 ---
 title: A/B 테스트
 description: '"제목 줄을 테스트하는 A/B 테스트를 구성 및 전송하는 방법을 알아봅니다. "'
-feature: 'A/B 테스트  '
+feature: A/B Testing  
 topics: null
 kt: 3907
 thumbnail: 18480.jpg

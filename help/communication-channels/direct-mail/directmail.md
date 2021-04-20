@@ -1,7 +1,7 @@
 ---
 title: 다이렉트 메일 만들기
 description: 다이렉트 메일을 만드는 방법을 알아봅니다.
-feature: DM
+feature: Direct Mail
 topics: null
 kt: 1430
 thumbnail: 23417.jpg

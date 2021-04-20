@@ -1,7 +1,7 @@
 ---
 title: 타겟팅 차원 변경
 description: 이 비디오에서는 Adobe Campaign Standard의 기본 프로필 테이블 외부에 있는 플랫폼 대상에 대한 게재의 타깃팅 차원을 변경하는 방법을 설명합니다.
-feature: 사람 핵심 서비스 통합
+feature: People Core Service Integration
 topics: ACOP
 kt: 3739
 thumbnail: 30151.jpg

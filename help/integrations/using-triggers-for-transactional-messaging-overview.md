@@ -1,7 +1,7 @@
 ---
 title: 트랜잭션 메시지 트리거 사용 - 개요
 description: 트랜잭션 메시징에 대한 트리거를 구성하고 사용하는 방법에 대해 알아봅니다.
-feature: 트리거
+feature: Triggers
 topics: Integrations
 kt: 6525
 doc-type: article

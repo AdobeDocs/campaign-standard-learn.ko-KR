@@ -1,7 +1,7 @@
 ---
 title: 동적 보고서 만들기
 description: 보고서를 만드는 방법을 알아봅니다.
-feature: 보고
+feature: Reporting
 kt: 2037
 thumbnail: 25264.jpg
 doc-type: feature video

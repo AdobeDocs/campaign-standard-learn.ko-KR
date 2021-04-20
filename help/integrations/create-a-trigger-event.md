@@ -1,7 +1,7 @@
 ---
 title: Campaign Standard에서 트리거 만들기
 description: Campaign Standard에서 트리거 이벤트를 만드는 방법을 알아봅니다.
-feature: 트리거
+feature: Triggers
 topics: Integrations
 kt: 7470
 thumbnail: 332625.jpg

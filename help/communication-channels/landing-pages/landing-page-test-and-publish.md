@@ -1,7 +1,7 @@
 ---
 title: 랜딩 페이지 테스트 및 게시
 description: Adobe Campaign Standard에 내장된 랜딩 페이지를 테스트하고 이를 게시하는 방법을 알아봅니다.
-feature: 랜딩 페이지
+feature: Landing Pages
 topics: null
 kt: 1813
 thumbnail: 24992.jpg

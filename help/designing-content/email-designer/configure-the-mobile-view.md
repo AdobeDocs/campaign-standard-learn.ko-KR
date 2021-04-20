@@ -1,7 +1,7 @@
 ---
 title: 이메일 디자이너에서 모바일 보기 구성
 description: '"모바일용 모든 스타일 옵션을 개별적으로 편집하여 이메일의 반응형 디자인을 세밀하게 조정하는 방법을 살펴봅니다."'
-feature: 이메일 디자인
+feature: Email Design
 topics: null
 kt: 2423
 thumbnail: 25919.jpg

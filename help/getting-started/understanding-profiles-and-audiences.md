@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign Standard의 프로필 및 대상 이해
 description: 프로파일과 고객의 개념을 파악하고 프로파일과 고객을 만드는 방법을 학습합니다.
-feature: 프로필, 대상
+feature: Profiles, Audiences
 topics: null
 kt: 3893
 thumbnail: 18464.jpg

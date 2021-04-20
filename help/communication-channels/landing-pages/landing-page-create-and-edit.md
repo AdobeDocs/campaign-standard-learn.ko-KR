@@ -1,7 +1,7 @@
 ---
 title: 랜딩 페이지 만들기 및 편집
 description: '"Adobe Campaign Standard에서 랜딩 페이지를 만들고, 편집하고, 테스트할 수 있는 방법을 알아봅니다."'
-feature: 랜딩 페이지
+feature: Landing Pages
 topics: null
 kt: 1808
 thumbnail: 24093.jpg

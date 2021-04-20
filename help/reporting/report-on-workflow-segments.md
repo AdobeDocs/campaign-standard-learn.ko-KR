@@ -1,7 +1,7 @@
 ---
 title: 워크플로우 세그먼트 기반 보고서 만들기
 description: 워크플로우 세그먼트에 대한 보고에서는 동적 보고에서 워크플로우 세그먼트 코드를 추가하는 기능을 제공합니다.
-feature: 보고
+feature: Reporting
 topics: Reporting
 kt: 3252
 thumbnail: 28262.jpg

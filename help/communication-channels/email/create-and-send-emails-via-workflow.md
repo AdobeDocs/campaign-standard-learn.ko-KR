@@ -1,7 +1,7 @@
 ---
 title: 워크플로우를 통해 이메일 만들기 및 보내기
 description: '홈 페이지에서 일회성 이메일 배달을 만드는 방법을 알아봅니다. '
-feature: 이메일
+feature: Email
 topics: null
 kt: 4319
 thumbnail: 31465.jpg

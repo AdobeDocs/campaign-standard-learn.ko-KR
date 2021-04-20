@@ -1,7 +1,7 @@
 ---
 title: 다국어 이메일 또는 SMS 전달 만들기
 description: '다국어 캠페인을 전송하는 번거로운 작업을 간소화하는 방법을 살펴볼 수 있습니다. '
-feature: 이메일, SMS
+feature: Email, SMS
 topics: Mobile Channel, Email Channel
 kt: 1277
 thumbnail: 23252

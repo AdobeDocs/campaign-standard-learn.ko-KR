@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign과 함께 성장
 description: 진정한 크로스채널 통합 운영에 대한 다음 단계를 파악할 수 있습니다.
-feature: 크로스채널 통합 운영
+feature: Cross Channel Orchestration
 topics: null
 kt: 3973
 thumbnail: 29460.jpg

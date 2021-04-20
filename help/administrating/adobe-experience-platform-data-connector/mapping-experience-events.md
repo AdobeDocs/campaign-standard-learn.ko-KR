@@ -1,7 +1,7 @@
 ---
 title: Experience 이벤트 매핑
 description: Adobe Experience Platform(AEP)에서 경험 이벤트를 매핑하는 방법 알아보기
-feature: Adobe Experience Platform 데이터 커넥터
+feature: Adobe Experience Platform Data Connector
 topics: null
 kt: 2832
 thumbnail: 27265.jpg

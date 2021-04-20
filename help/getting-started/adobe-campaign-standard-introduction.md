@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign Standard 소개
 description: 이 비디오에서는 Adobe Campaign Standard의 고급 기능을 소개합니다.
-feature: 개요
+feature: Overview
 topics: null
 kt: 3971
 thumbnail: 29430.jpg

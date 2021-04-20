@@ -1,7 +1,7 @@
 ---
 title: 이벤트 구성
 description: '"이벤트가 사용자가 시작한 작업을 통해 인앱 메시지가 표시되는 것을 트리거하는 방법을 이해합니다. "'
-feature: 앱 내
+feature: In App
 topics: Mobile
 kt: 2548
 thumbnail: 26245.jpg

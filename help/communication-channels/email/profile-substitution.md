@@ -1,7 +1,7 @@
 ---
 title: 프로필 대체 - 타겟팅된 프로필을 사용하여 이메일 메시지 테스트
 description: 프로필 대체 기능을 사용하여 이메일 메시지를 테스트하는 방법을 알아봅니다.
-feature: '이메일  '
+feature: Email  
 topics: Channels
 kt: 4667
 thumbnail: 32368.jpg

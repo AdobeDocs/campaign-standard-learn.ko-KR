@@ -1,6 +1,6 @@
 ---
 title: 통합 세그먼트 빌더를 사용하여 새 대상자 만들기
-feature: 사람 핵심 서비스 통합
+feature: People Core Service Integration
 topics: ACOP
 kt: 2754
 thumbnail: 27638.jpg

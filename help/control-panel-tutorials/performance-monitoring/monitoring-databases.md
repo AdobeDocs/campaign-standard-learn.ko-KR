@@ -1,7 +1,7 @@
 ---
 title: 데이터베이스 모니터링
 description: 인스턴스의 데이터베이스 사용량을 모니터링하는 방법을 알아봅니다.
-feature: 데이터베이스 모니터링
+feature: Database Monitoring
 topics: Control Panel
 kt: 6433
 thumbnail: 327175.jpg

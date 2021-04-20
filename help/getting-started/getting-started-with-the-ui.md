@@ -1,7 +1,7 @@
 ---
 title: 'UI 시작하기 '
 description: 이 비디오에서는 Adobe Campaign Standard 사용자 인터페이스와 주요 기능 및 핵심 기능에 대한 개요를 제공합니다.
-feature: 개요
+feature: Overview
 topics: Getting started
 kt: 3882
 thumbnail: acs-ui-get-started.png

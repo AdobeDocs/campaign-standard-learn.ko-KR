@@ -1,7 +1,7 @@
 ---
 title: 이메일 콘텐츠 템플릿 소개
 description: 이메일 컨텐츠 템플릿을 만드는 방법을 알아봅니다.
-feature: 이메일 디자인
+feature: Email Design
 topics: null
 kt: 1442
 thumbnail: 23106.jpg

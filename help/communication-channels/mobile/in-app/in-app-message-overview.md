@@ -1,7 +1,7 @@
 ---
 title: 인앱 메시지 소개
 description: '"모바일 애플리케이션 내에서 고객의 실시간 행동에 대한 컨텍스트 내 관련 인앱 메시지를 사용자에게 전달하는 방법을 살펴볼 수 있습니다."'
-feature: 앱 내
+feature: In App
 topics: Mobile
 kt: 1911
 doc-type: feature video

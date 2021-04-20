@@ -1,7 +1,7 @@
 ---
 title: Adobe Experience Platform SDK를 사용하여 모바일 애플리케이션 구성
 description: Adobe Experience Platform Launch에서 모바일 앱을 설정하는 방법과 Adobe Campaign에서 모바일 앱을 구성하는 방법을 알아봅니다.
-feature: 앱, 푸시, 채널 구성, 모바일 SDK 통합
+feature: In App, Push, Channel Configuration, Mobile SDK Integration
 topics: null
 kt: 2501
 thumbnail: 26224.jpg

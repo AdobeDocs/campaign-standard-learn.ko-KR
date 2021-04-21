@@ -1,22 +1,21 @@
 ---
 title: Campaign 컨트롤 패널 시작
 description: 이 문서에서는 Campaign 컨트롤 패널에 액세스하는 방법 및 제어판에서 사용할 수 있는 사전 요구 사항을 설명합니다.
-feature: Control Panel
-topics: Control Panel
+feature: Campaign 컨트롤 패널
 audience: administrator
 kt: 6385
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
+exl-id: 3626c012-e2f7-4480-aca0-97d7c7ce9a95
 translation-type: tm+mt
-source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '217'
 ht-degree: 65%
 
 ---
-
 
 # [!UICONTROL Control Panel] {#control-panel} 시작하기
 
@@ -61,4 +60,3 @@ Campaign 컨트롤 패널에 액세스하려면 다음의 Experience Cloud 홈�
 ## 추가 리소스
 
 * [Campaign 컨트롤 패널 도움말 센터](https://docs.adobe.com/content/help/ko-KR/control-panel/using/control-panel-home.html)
-

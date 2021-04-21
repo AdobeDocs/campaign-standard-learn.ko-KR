@@ -1,8 +1,7 @@
 ---
 title: 외부 신호 활동 - 매개 변수를 사용하여 워크플로우 호출
-description: '"문제를 보다 효과적으로 모니터링하고 응답하면서 보다 복잡한 고객 여정을 지원하는 워크플로우를 다른 워크플로우에서 시작하는 방법을 살펴볼 수 있습니다."'
-feature: Execution Activity
-topics: Workflows
+description: 문제를 효과적으로 모니터링하고 응답하면서 보다 복잡한 고객 여정을 지원하는 워크플로우를 다른 워크플로우에서 시작하는 방법을 살펴봅니다.
+feature: 실행 활동
 kt: 2750
 thumbnail: 27249
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: d3996185-681c-4906-85f0-0543ab767519
 role: Business Practitioner, Developer
 level: Experienced
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 9%

@@ -1,17 +1,17 @@
 ---
 title: 5단계 - 알림 전파
 description: 이 부분에서 Android 알림 관리자를 사용하여 Adobe Campaign로부터 받은 메시지를 전파합니다.Firebase
-feature: Push
-topics: Mobile
+feature: 푸시
 kt: 4829
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: b0e01224-4ddc-4999-b8c6-794e49245428
 translation-type: tm+mt
-source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 1%
+source-wordcount: '155'
+ht-degree: 2%
 
 ---
 

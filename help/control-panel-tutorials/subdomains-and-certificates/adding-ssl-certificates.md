@@ -1,22 +1,21 @@
 ---
 title: SSL 인증서 추가
 description: Adobe Campaign 컨트롤 패널을 사용하면 하위 도메인 보안을 위해 SSL 인증서를 추가할 수 있습니다.
-feature: Control Panel
-topics: null
+feature: Campaign 컨트롤 패널
 audience: administrator
 kt: 4219
 thumbnail: 31317.jpg
 doc-type: feature video
 activity: use
 team: PM
+exl-id: b46d9186-07db-4225-8dd7-3f3452aa7a1b
 translation-type: tm+mt
-source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 52%
+source-wordcount: '196'
+ht-degree: 55%
 
 ---
-
 
 # SSL 인증서 추가
 

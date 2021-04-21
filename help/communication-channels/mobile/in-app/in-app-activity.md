@@ -3,8 +3,7 @@ title: 워크플로우 내에서 인앱 게재 만들기
 seo-title: 워크플로우 내에서 N 인앱 배달 만들기
 description: '"인앱 전달 활동을 사용하여 워크플로우에서 계산된 타겟 고객에게 인앱 메시지 전송을 자동화하는 방법을 알아보십시오."'
 seo-description: 인앱 전달 활동은 일반적으로 동일한 워크플로우에서 계산된 대상 대상에게 인앱 메시지 전송을 자동화하는 데 사용됩니다.
-feature: In App
-topics: Mobile
+feature: 앱 내
 kt: 2500
 thumbnail: 26226.jpg
 doc-type: feature video
@@ -14,7 +13,7 @@ exl-id: 9d5b1769-9f04-45d0-bbce-38cd33c65bb0
 role: Business Practitioner, Developer
 level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 17%

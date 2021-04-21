@@ -1,8 +1,7 @@
 ---
 title: 인앱 메시지 소개
-description: '"모바일 애플리케이션 내에서 고객의 실시간 행동에 대한 컨텍스트 내 관련 인앱 메시지를 사용자에게 전달하는 방법을 살펴볼 수 있습니다."'
-feature: In App
-topics: Mobile
+description: 모바일 애플리케이션 내에서 고객의 실시간 행동에 대한 컨텍스트 내 연관성 있는 인앱 메시지를 사용자에게 전달하는 방법을 살펴볼 수 있습니다.
+feature: 앱 내
 kt: 1911
 doc-type: feature video
 activity: use
@@ -11,7 +10,7 @@ exl-id: c51716eb-7239-4fc0-9ccf-9f5f0a5fae65
 role: Business Practitioner
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '747'
 ht-degree: 21%

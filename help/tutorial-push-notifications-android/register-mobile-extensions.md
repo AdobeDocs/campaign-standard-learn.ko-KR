@@ -1,20 +1,19 @@
 ---
 title: 3단계 - 모바일 앱에 확장 등록
 description: 이 부분에서는 UserProfile, Identity, Lifecycle 및 Signal 확장을 등록할 코드를 추가합니다.
-feature: Push
-topics: Mobile
+feature: 푸시
 kt: 4827
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
 translation-type: tm+mt
-source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 0%
+source-wordcount: '123'
+ht-degree: 12%
 
 ---
-
 
 # 3단계 - 모바일 앱에 확장 등록
 

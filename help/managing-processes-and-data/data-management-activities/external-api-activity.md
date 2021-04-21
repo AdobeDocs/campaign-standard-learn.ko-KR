@@ -1,8 +1,7 @@
 ---
 title: 외부 API 활동을 사용하여 워크플로우 구성 및 실행
 description: 외부 REST API 끝점을 호출하여 제3시스템의 개인화 데이터를 캠페인에 가져오는 방법을 알아봅니다.
-feature: Data Management Activity
-topics: null
+feature: 데이터 관리 활동
 kt: 2764
 thumbnail: 28200.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
 role: Business Practitioner, Developer
 level: Experienced
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 87%

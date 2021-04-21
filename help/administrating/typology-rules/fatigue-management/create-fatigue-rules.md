@@ -1,21 +1,20 @@
 ---
 title: 피로 규칙 만들기
 description: 이 비디오에서는 유형 규칙을 설정하는 방법을 보여 줍니다.
-feature: Fatigue Management
-topics: null
+feature: 피로 관리
 kt: 3446
 thumbnail: 28450.jpg
 doc-type: feature video
 activity: setup
 team: TM
+exl-id: fd75ce71-8131-4cba-b766-e68f59ebcbf9
 translation-type: tm+mt
-source-git-commit: cce6520619b68bde6a00531ac1931dca90a6b3dc
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 25%
+source-wordcount: '94'
+ht-degree: 26%
 
 ---
-
 
 # [!UICONTROL fatigue rules] 만들기
 

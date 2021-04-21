@@ -1,8 +1,7 @@
 ---
 title: 이메일 및 스팸 방지 분석 미리 보기
 description: '"이메일과 스팸 방지 분석을 미리 보는 방법을 알아봅니다."'
-feature: Email Design
-topics: null
+feature: 이메일 디자인
 kt: 2393
 thumbnail: 25921.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: 45c6fc1b-1276-4f21-97f6-1af3929e0514
 role: Business Practitioner, Developer
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '38'
 ht-degree: 36%

@@ -1,22 +1,21 @@
 ---
 title: 서버 용량 모니터링
 description: SFTP 서버의 저장소 용량을 모니터링하는 방법을 알아봅니다.
-feature: SFTP Management
-topics: Control Panel
+feature: Campaign 컨트롤 패널
 audience: administrator
 kt: 6239
 thumbnail: 27270.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 432a1af6-22de-41ff-b733-e086ee14ab7a
 translation-type: tm+mt
-source-git-commit: 1a108846158bfaf8f9efd1b7a78f652c0d3f3211
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 56%
+source-wordcount: '85'
+ht-degree: 57%
 
 ---
-
 
 # 서버 용량 모니터링
 

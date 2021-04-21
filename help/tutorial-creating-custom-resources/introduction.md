@@ -1,21 +1,20 @@
 ---
 title: 사용자 지정 리소스 만들기 - 소개
 description: Adobe Campaign Standard는 리소스를 확장하거나 새 리소스를 만드는 기능을 제공합니다. 여러 부분으로 된 이 튜토리얼은 사용자 지정 리소스를 만들고 연결하는 데 필요한 단계를 안내합니다.
-feature: Custom Resources
-topics: null
+feature: '사용자 지정 리소스 '
 kt: 2999
 thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
-workflow-type: ht
+exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
+translation-type: tm+mt
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+workflow-type: tm+mt
 source-wordcount: '235'
 ht-degree: 100%
 
 ---
-
 
 # 사용자 지정 리소스 &#x200B; 만들기 - 소개
 

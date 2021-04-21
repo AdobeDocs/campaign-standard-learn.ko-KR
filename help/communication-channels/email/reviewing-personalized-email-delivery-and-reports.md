@@ -1,8 +1,7 @@
 ---
 title: 이메일 게재 및 보고서 검토
 description: 개인화된 이메일 전달을 검토하고 Adobe Campaign Standard에서 제공하는 다양한 보고서를 살펴볼 수 있습니다.
-feature: Reporting
-topics: null
+feature: 보고
 kt: 3904
 thumbnail: 21389.jpg
 doc-type: tutorial
@@ -12,7 +11,7 @@ exl-id: 629ba991-4e5c-419f-a32c-c632445afaf1
 role: Business Practitioner
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 23%

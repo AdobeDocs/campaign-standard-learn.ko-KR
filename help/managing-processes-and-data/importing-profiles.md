@@ -1,8 +1,7 @@
 ---
 title: 워크플로우로 프로필 가져오기
 description: 워크플로우를 사용하여 프로필 데이터를 가져오는 방법을 알아봅니다.
-feature: Data Management
-topics: null
+feature: 데이터 관리
 kt: 1818
 thumbnail: 24993.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: 4d9ce24e-cd01-4b81-8aee-58c58ef2f286
 role: Business Practitioner, Developer, Administrator
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 13%

@@ -1,22 +1,21 @@
 ---
 title: 데이터베이스 모니터링
 description: 인스턴스의 데이터베이스 사용량을 모니터링하는 방법을 알아봅니다.
-feature: Database Monitoring
-topics: Control Panel
+feature: Campaign 컨트롤 패널
 kt: 6433
 thumbnail: 327175.jpg
 doc-type: feature video
 audience: administrator
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: da28f90f376f867e861194f828493fc66cc604e4
-workflow-type: ht
+exl-id: a0e56349-4296-4309-8698-bf3c48eb6c58
+translation-type: tm+mt
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 100%
 
 ---
-
 
 # 데이터베이스 모니터링
 

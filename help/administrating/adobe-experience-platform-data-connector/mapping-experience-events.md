@@ -1,21 +1,20 @@
 ---
 title: Experience 이벤트 매핑
 description: Adobe Experience Platform(AEP)에서 경험 이벤트를 매핑하는 방법 알아보기
-feature: Adobe Experience Platform Data Connector
-topics: null
+feature: Adobe Experience Platform 데이터 커넥터
 kt: 2832
 thumbnail: 27265.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 45c4e120-99c7-495d-aa71-3b4f223cc120
 translation-type: tm+mt
-source-git-commit: 469bb62991b768929e75b360d93d1cef9a9f3d9a
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 17%
 
 ---
-
 
 # [!UICONTROL Experience Events] 매핑
 
@@ -33,4 +32,3 @@ Adobe Experience Platform(AEP)에서 [!UICONTROL Experience Events]을 매핑하
 
 * [매핑 정의](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
 * [매핑 활성화](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)
-

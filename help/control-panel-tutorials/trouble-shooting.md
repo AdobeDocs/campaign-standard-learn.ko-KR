@@ -1,20 +1,19 @@
 ---
 title: Campaign 컨트롤 패널의 문제 해결
 description: Campaign 컨트롤 패널을 사용하면 인스턴스 및 허용 목록 IP 주소별로 SFTP 저장소를 모니터링하고 관리할 수 있습니다.
-feature: Control Panel
-topics: null
+feature: Campaign 컨트롤 패널
 kt: 2938
 doc-type: article
 activity: use
 team: PM
+exl-id: f546f791-a69b-4586-abfa-3e626b8feb17
 translation-type: tm+mt
-source-git-commit: f120eaf237378db3ddd5833930c0222ee028941d
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '329'
 ht-degree: 100%
 
 ---
-
 
 # [!UICONTROL Control Panel] 문제 해결
 
@@ -71,4 +70,3 @@ SFTP 서버에 연결하려면 다음이 필요합니다.
 ### 유용한 설명서 {#helpful-docs}
 
 * [SFTP 서버에 로그인](https://docs.adobe.com/content/help/ko-KR/control-panel/using/control-panel-home.html#LoggingintoyourSFTPserver)
-

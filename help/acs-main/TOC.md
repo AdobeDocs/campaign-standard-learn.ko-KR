@@ -9,9 +9,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: 설명서
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ko
 translation-type: tm+mt
-source-git-commit: c8d9a7c79bb9fe8882ac390cc0f0fec7cffa82da
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '545'
 ht-degree: 93%
 
 ---
@@ -21,7 +21,6 @@ ht-degree: 93%
 
 + [개요](/help/overview.md)
 + 시작 {#getting-started}
-   + [개요](/help/getting-started/getting-started-overview.md)
    + [Adobe Campaign Standard 소개](/help/getting-started/adobe-campaign-standard-introduction.md)
    + [UI 시작](/help/getting-started/getting-started-with-the-ui.md)
    + [목록 구성](/help/getting-started/configure-a-list.md)

@@ -1,21 +1,20 @@
 ---
 title: CNAME을 사용하여 하위 도메인 위임
 description: 하위 도메인을 Adobe Campaign에 완전히 위임하는 방법을 알아봅니다.
-feature: Subdomain Delegation
-topics: Control Panel
+feature: Campaign 컨트롤 패널
 kt: 6014
 thumbnail: 326612.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: fe305d729e8e1c7113ae1c310b3b8177f3cad093
-workflow-type: ht
+exl-id: 63f65fa1-94c9-42ac-93a7-32d138a0a6a6
+translation-type: tm+mt
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
 
 ---
-
 
 # CNAME(베타)을 사용하여 하위 도메인 위임
 

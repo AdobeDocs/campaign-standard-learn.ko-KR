@@ -1,21 +1,20 @@
 ---
-title: '사용자 지정 리소스 매핑 '
+title: 사용자 지정 리소스 매핑
 description: Adobe Campaign Standard(ACS)와 Adobe Experience Platform(AEP) 간 서로 다른 데이터 유형을 매핑하는 방법 학습
-feature: Adobe Experience Platform Data Connector
-topics: ACoP
+feature: Adobe Experience Platform 데이터 커넥터
 kt: 2828
 thumbnail: 27231.jpg
 doc-type: feature video
 activity: set-up
 team: TM
+exl-id: c0c8bcca-9b32-461a-8126-3a59106fe6ac
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 9%
+source-wordcount: '81'
+ht-degree: 14%
 
 ---
-
 
 # [!UICONTROL custom resources] 매핑
 
@@ -32,4 +31,3 @@ Adobe Campaign Standard과 Adobe Experience Platform 간에 서로 다른 데이
 ## 추가 리소스
 
 * [매핑 정의](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
-

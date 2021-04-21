@@ -1,8 +1,7 @@
 ---
 title: 보고서 탐색
 description: 이메일 전달에 즉시 사용할 수 있는 다양한 보고서를 파악합니다.
-feature: Reporting
-topics: Getting Started
+feature: 보고
 kt: 3906
 thumbnail: 23021.jpg
 doc-type: tutorial
@@ -12,7 +11,7 @@ exl-id: fef1b535-8055-4d6b-a099-5e04340ce6e9
 role: Business Practitioner
 level: Beginner
 translation-type: tm+mt
-source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 72%

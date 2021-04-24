@@ -10,7 +10,7 @@ level: Experienced
 team: TM
 exl-id: 9bc5e4e6-c943-40ca-9d99-a3fa802775f4
 translation-type: tm+mt
-source-git-commit: ddbb0843ea45a83d9ab5bfa0877287f6ba7d6210
+source-git-commit: 433357e28b44e96ddb443f6359d12a6a106a3246
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 1%
@@ -23,7 +23,7 @@ ht-degree: 1%
 
 트랜잭션 메시지에서 트리거를 사용하려면 먼저 다음을 수행해야 합니다.
 
-1. 트리거에 대한 론치 구성
+1. [트리거에 대한 론치 구성](/help/integrations/configure-launch-for-triggers.md)
 2. [Experience Cloud에서 트리거 만들기](/help/integrations/create-a-trigger-in-experience-cloud.md)
 3. [Campaign Standard에서 트리거 이벤트 만들기](/help/integrations/create-a-trigger-event.md)
 

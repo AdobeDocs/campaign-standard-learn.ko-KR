@@ -1,7 +1,7 @@
 ---
 title: 이메일 게재를 만들기
-description: '홈 페이지에서 이메일 배달을 만드는 방법을 알아봅니다. '
-landing-page-description: 이 비디오에서는 홈페이지에서 이메일 배달을 만드는 방법을 설명합니다.
+description: '홈페이지에서 이메일 전송을 생성하는 방법을 알아봅니다. '
+landing-page-description: 이 비디오에서는 홈페이지에서 이메일 전달을 만드는 방법을 설명합니다.
 feature: '이메일 '
 kt: 1807
 thumbnail: 23721.jpg
@@ -15,7 +15,7 @@ translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 36%
+ht-degree: 45%
 
 ---
 

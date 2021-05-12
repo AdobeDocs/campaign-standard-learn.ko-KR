@@ -1,7 +1,7 @@
 ---
 title: 테스트 프로필 만들기
 description: 정의된 타깃팅 기준과 일치하지 않는 수신자를 타깃팅하여 수신자 데이터베이스의 부정 사용을 감지하거나 이메일이 받은 편지함에 도착하도록 하는 방법을 알아봅니다.
-feature: Test Profiles
+feature: 테스트 프로필
 kt: 1810
 thumbnail: 24094.jpg
 doc-type: feature video
@@ -11,10 +11,10 @@ exl-id: fb138b50-5022-4320-8d45-a9ac6405a44e
 role: Business Practitioner
 level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: e652a86b4454cfe0ecb3e2991ef9f5333ea8a287
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 47%
+source-wordcount: '105'
+ht-degree: 49%
 
 ---
 
@@ -28,4 +28,4 @@ ht-degree: 47%
 
 ## 추가 리소스
 
-* [테스트 프로파일 관리 및 교정물 전송](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/managing-test-profiles-and-sending-proofs.html)
+* [테스트 프로필 관리(설명서)](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-profiles/managing-test-profiles.html)

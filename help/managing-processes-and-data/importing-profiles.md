@@ -11,10 +11,10 @@ exl-id: 4d9ce24e-cd01-4b81-8aee-58c58ef2f286
 role: Business Practitioner, Developer, Administrator
 level: Beginner
 translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 8ebdd2701fccaa06faf838288ce72630b5f3330e
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 13%
+source-wordcount: '104'
+ht-degree: 25%
 
 ---
 
@@ -28,5 +28,8 @@ ht-degree: 13%
 
 ## 추가 리소스
 
-* [단계별 데이터 단계 가져오기 자습서](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/workflow-general-operation/importing-data.html#example--import-workflow-template)
-* [Adobe Campaign Standard - 프로세스 및 데이터 관리](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/about-workflows-and-data-management/discovering-workflows.html)
+**제품 설명서:**
+* [파일 전송](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/transfer-file.html)
+* [파일 로드](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/load-file.html)
+* [데이터 업데이트](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/update-data.html)
+* [프로세스 및 데이터 관리 시작하기](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/get-started-workflows.html)

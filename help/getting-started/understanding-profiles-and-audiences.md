@@ -1,7 +1,7 @@
 ---
-title: Adobe Campaign Standard의 프로필 및 대상 이해
-description: 프로파일과 고객의 개념을 파악하고 프로파일과 고객을 만드는 방법을 학습합니다.
-feature: 프로필, 대상
+title: Adobe Campaign Standard의 프로필 및 대상자 이해
+description: 프로필과 대상자의 개념을 파악하고 프로필과 대상자를 만드는 방법을 알아봅니다.
+feature: 프로필, 대상자
 kt: 3893
 thumbnail: 18464.jpg
 doc-type: feature video
@@ -10,11 +10,10 @@ team: WWFRE
 exl-id: 8a11b35f-ac6b-4f63-a72e-4e676ea3d69d
 role: Business Practitioner, Developer, Administrator
 level: Beginner
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Adobe Campaign으로 모바일 마케팅
-description: 모바일 마케팅 전략을 지원할 수 있는 Adobe Campaign Standard 기능을 파악할 수 있습니다.
+title: Adobe Campaign을 사용한 모바일 마케팅
+description: 이 비디오에서는 모바일 마케팅 전략을 지원할 수 있는 Adobe Campaign Standard 기능을 설명합니다.
 feature: SMS, 푸시, 인앱
 kt: 3976
 thumbnail: 29468.jpg
@@ -10,11 +10,10 @@ team: PMM
 exl-id: 4377b2d6-e5cc-4f25-b40a-e24b7ddf74ed
 role: Business Practitioner, Developer
 level: Beginner
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -26,6 +25,6 @@ ht-degree: 71%
 
 ## 추가 자료
 
-* [Adobe Campaign으로 인앱 메시지](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
-* [푸시 만들기 안 함](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
+* [Adobe Campaign으로 인앱 메시지 보내기](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
+* [푸시 알림 만들기](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
 * [SMS 게재](/help/communication-channels/mobile/sms/sms-delivery.md)

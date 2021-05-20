@@ -1,7 +1,7 @@
 ---
-title: Adobe Campaign과 함께 성장
-description: 진정한 크로스채널 통합 운영에 대한 다음 단계를 파악할 수 있습니다.
-feature: 크로스채널 통합 운영
+title: Adobe Campaign을 통한 성장
+description: 진정한 크로스 채널 오케스트레이션을 위해 취할 수 있는 다음 단계를 이해합니다.
+feature: 크로스 채널 오케스트레이션
 kt: 3973
 thumbnail: 29460.jpg
 doc-type: value video
@@ -10,11 +10,10 @@ team: PMM
 exl-id: c6c4e1b9-9a5c-4474-84df-adcfa7b42621
 role: Business Practitioner
 level: Beginner
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '33'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 

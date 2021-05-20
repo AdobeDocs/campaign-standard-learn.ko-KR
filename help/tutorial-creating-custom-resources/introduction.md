@@ -8,9 +8,8 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '235'
 ht-degree: 100%
 
@@ -48,7 +47,7 @@ ht-degree: 100%
 
 ## 튜토리얼 시작
 
-[사용자 지정 리소스 만들기](./creating-a-custom-resource.md)
+[사용자 정의 리소스 만들기](./creating-a-custom-resource.md)
 
 ## 추가 리소스
 

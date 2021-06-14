@@ -9,9 +9,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: 설명서
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ko
 source-git-commit: df4f635fc2760edc7c10a97da554a0d7704747c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '558'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -77,7 +77,7 @@ ht-degree: 94%
       + [랜딩 페이지 만들고 편집하기](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
       + [랜딩 페이지 테스트 및 게시](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
       + [랜딩 페이지 템플릿 구성](/help/communication-channels/landing-pages/landing-page-configure-templates.md)
-+ 컨텐츠 디자인 및 개인화 {#designing-content}
++ 콘텐츠 디자인 및 개인화 {#designing-content}
    + 이메일 디자이너{#email-designer}
       + [개요](/help/designing-content/email-designer/email-designer-overview.md)
       + [이메일 디자이너 시작](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
@@ -98,7 +98,7 @@ ht-degree: 94%
    + [동적 보고서 만들기](/help/reporting/creating-a-dynamic-report.md)
    + [사용자 정의 프로필 속성을 기반으로 보고서 만들기](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [워크플로우 세그먼트 기반 보고서 만들기](/help/reporting/report-on-workflow-segments.md)
-+ 다른 솔루션 {#integrations}과 통합
++ 다른 솔루션과 통합 {#integrations}
    + [Adobe Analytics에서 게재 성공 추적하기](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + 트랜잭션 메시지에 트리거 사용 {#triggers}
       + [개요](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
@@ -106,8 +106,8 @@ ht-degree: 94%
       + [Experience Cloud에서 트리거 만들기](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Campaign Standard에서 트리거 이벤트 만들기](/help/integrations/create-a-trigger-event.md)
       + [실시간 이벤트 데이터를 사용한 트랜잭션 메시지 구성](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
-   + [Campaign Standard과 통합하도록 Microsoft® Dynamics 365 구성](/help/integrations/configure-dynamics-365.md)
-+ {#administrating} 관리
+   + [Campaign Standard와의 통합을 위한 Microsoft® Dynamics 365 구성](/help/integrations/configure-dynamics-365.md)
++ 관리 {#administrating}
    + [사용자 액세스 권한 관리](/help/administrating/managing-user-access-rights.md)
    + [사용자 지정 리소스 만들기](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=ko)
    + [컨트롤 패널](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=ko)

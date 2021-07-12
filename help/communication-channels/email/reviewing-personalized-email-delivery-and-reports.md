@@ -1,6 +1,6 @@
 ---
 title: 이메일 게재 및 보고서 검토
-description: 개인화된 이메일 전달을 검토하고 Adobe Campaign Standard에서 제공하는 다양한 보고서를 살펴볼 수 있습니다.
+description: 개인화된 이메일 전달을 검토하고 Adobe Campaign Standard에서 사용할 수 있는 다양한 보고서를 탐색하는 방법을 알아봅니다.
 feature: 보고
 kt: 3904
 thumbnail: 21389.jpg
@@ -8,10 +8,9 @@ doc-type: tutorial
 activity: understand
 team: WWFRE
 exl-id: 629ba991-4e5c-419f-a32c-c632445afaf1
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 23%
@@ -20,7 +19,7 @@ ht-degree: 23%
 
 # 이메일 게재 및 보고서 검토
 
-이 비디오에서는 개인화된 이메일 전달을 검토하고 Adobe Campaign Standard에서 사용할 수 있는 다양한 보고서를 탐색하는 방법을 설명합니다.
+이 비디오에서는 개인화된 이메일 게재를 검토하고 Adobe Campaign Standard에서 사용할 수 있는 다양한 보고서를 탐색하는 방법을 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21389?quality=12)
 

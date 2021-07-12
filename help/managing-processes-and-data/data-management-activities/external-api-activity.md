@@ -1,6 +1,6 @@
 ---
 title: 외부 API 활동을 사용하여 워크플로우 구성 및 실행
-description: 외부 REST API 끝점을 호출하여 제3시스템의 개인화 데이터를 캠페인에 가져오는 방법을 알아봅니다.
+description: 외부 REST API 엔드포인트를 호출하여 타사 시스템의 개인화 데이터를 캠페인으로 가져오는 방법을 알아봅니다.
 feature: 데이터 관리 활동
 kt: 2764
 thumbnail: 28200.jpg
@@ -8,10 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
-role: Business Practitioner, Developer
+role: User, Developer
 level: Experienced
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 87%

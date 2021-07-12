@@ -1,17 +1,16 @@
 ---
 title: 통합 세그먼트 빌더를 사용하여 새 대상자 만들기
-description: 통합 세그먼트 빌더를 사용하여 새 대상을 만드는 방법을 알아봅니다.
-feature: 사람 핵심 서비스 통합
+description: 통합 세그먼트 빌더를 사용하여 새 대상자를 만드는 방법을 알아봅니다
+feature: 사용자 핵심 서비스 통합
 kt: 2754
 thumbnail: 27638.jpg
 doc-type: feature video
 activity: using
 team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
-role: Business Practitioner, Developer
+role: User, Developer
 level: Beginner, Intermediate, Experienced
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 8%
@@ -22,15 +21,15 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->이 기능은 현재 베타 버전으로, 사전 통보 없이 자주 업데이트하거나 수정할 수 있습니다. [!UICONTROL Audience Destinations] 는 Adobe Experience Platform을 기반으로 하며 특정 구성이 필요합니다.
+>이 기능은 현재 베타에 있으며, 예고 없이 자주 업데이트되고 수정될 수 있습니다. [!UICONTROL Audience Destinations] 는 Adobe Experience Platform을 기반으로 하며 특정 구성이 필요합니다.
 >
->이 기능을 구현하려면 [!UICONTROL Adobe Customer Support]에 연락하십시오.
+>이 기능을 구현하려면 [!UICONTROL Adobe Customer Support]에 문의하십시오.
 
-Adobe Campaign Standard에서는 Adobe Experience Platform [!UICONTROL Unified Segment Builder]을(를) 사용하여 Adobe Experience Cloud [실시간 고객 프로필](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html)의 데이터를 사용하여 대상을 빌드할 수 있습니다.
+Adobe Campaign Standard에서는 Adobe Experience Platform [!UICONTROL Unified Segment Builder]을 사용하여 Adobe Experience Cloud [실시간 고객 프로필](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html)의 데이터를 사용하여 대상을 작성할 수 있습니다.
 
-[!UICONTROL Audiences ] 모듈을 통해 Adobe Campaign Standard 내에서 직접 [!UICONTROL Unified Segment Builder]에 액세스할 수 있습니다. 이렇게 하면 Adobe Campaign 인터페이스에서 직접 새 Adobe Experience Platform 대상을 편집하거나 만들 수 있는 [!UICONTROL Audiences] 목록 보기에서 직접 이러한 대상을 관리할 수 있습니다
+[!UICONTROL Audiences ] 모듈을 통해 Adobe Campaign Standard 내에서 직접 [!UICONTROL Unified Segment Builder]에 액세스할 수 있습니다. 이렇게 하면 Adobe Campaign 인터페이스에서 직접 새 Adobe Experience Platform 대상자를 편집하거나 만들 수 있는 [!UICONTROL Audiences] 목록 보기에서 직접 이러한 대상자를 관리할 수 있습니다
 
-아래 비디오에서는 Adobe Campaign Standard 내에서 [!UICONTROL Unified Segment Builder]을(를) 사용하여 새 대상을 만드는 방법을 설명합니다.
+아래 비디오에서는 Adobe Campaign Standard 내에서 [!UICONTROL Unified Segment Builder]을 사용하여 새 대상자를 만드는 방법을 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
 
@@ -46,4 +45,4 @@ Adobe Campaign Standard에서는 Adobe Experience Platform [!UICONTROL Unified S
 비디오 리소스:
 
 * [워크플로우에서 AEP 대상자 활성화](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-* [플랫폼 대상에 대한 게재의 타깃팅 차원 변경](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+* [Platform 대상에 대한 게재 타깃팅 차원 변경](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)

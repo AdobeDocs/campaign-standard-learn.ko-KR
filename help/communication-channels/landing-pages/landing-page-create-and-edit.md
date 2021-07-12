@@ -1,6 +1,6 @@
 ---
-title: 랜딩 페이지 만들기 및 편집
-description: '"Adobe Campaign Standard에서 랜딩 페이지를 만들고, 편집하고, 테스트할 수 있는 방법을 알아봅니다."'
+title: 랜딩 페이지 만들고 편집하기
+description: '"Adobe Campaign Standard에서 랜딩 페이지를 만들고, 편집하고, 테스트하는 방법을 알아봅니다."'
 feature: 랜딩 페이지
 kt: 1808
 thumbnail: 24093.jpg
@@ -8,19 +8,18 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: e93d59fc-0ad5-4fa2-a744-0f723e99eae4
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 17%
 
 ---
 
-# 랜딩 페이지 만들기 및 편집 {#create-and-edit-a-landing-page}
+# 랜딩 페이지 만들고 편집하기 {#create-and-edit-a-landing-page}
 
-Adobe Campaign을 사용하면 대상에 대한 정보를 캡처하고, 서비스에 대한 구독을 제공하고, 데이터를 표시하고 데이터베이스를 확장하는 데 사용할 수 있는 온라인 양식을 포함하는 랜딩 페이지를 만들 수 있습니다. 랜딩 페이지를 사용하여 기존 프로파일을 가져오거나 업데이트할 수도 있습니다.
+Adobe Campaign을(를) 사용하면 온라인 양식인 랜딩 페이지를 만들 수 있습니다. 랜딩 페이지는 대상에 대한 정보를 캡처하고, 서비스에 구독을 제공하고, 데이터를 표시하고, 데이터베이스를 확장하는 데 사용할 수 있습니다. 랜딩 페이지를 사용하여 기존 프로필을 가져오거나 업데이트할 수도 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24093?quality=12)
 

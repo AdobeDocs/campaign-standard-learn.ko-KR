@@ -8,13 +8,12 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: da1ba3a1-c27c-458e-ba96-5bc1aef486ba
-role: Business Practitioner, Developer, Administrator
+role: User, Developer, Admin
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ec1917e613aeb220bd83a053bfc71b37ea2b4a6c
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 10%
+ht-degree: 56%
 
 ---
 
@@ -22,15 +21,15 @@ ht-degree: 10%
 
 워크플로우는 다음과 같이 서로 다른 컨텍스트에서 사용할 수 있습니다.
 
-* 대상 관리 또는 메시지 전송을 위한 타깃팅
-* 데이터를 조작하는 데이터 관리(ETL)
-* 데이터를 캠페인 데이터베이스로 가져오기
+* 대상을 관리하거나 메시지를 보내기 위해 타기팅할 수 있습니다
+* ETL(데이터 관리)을 통해 데이터를 조작할 수 있습니다
+* 데이터를 Campaign 데이터베이스로 가져옵니다
 * 데이터베이스 정리, 추적 정보 복구 등의 기술 프로세스
 
-이 비디오에서는 Adobe Campaign Standard에서 워크플로우를 만들고 편집하는 방법을 보여 줍니다.
+이 비디오에서는 Adobe Campaign Standard에서 워크플로우를 만들고 편집하는 방법을 보여줍니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23937?quality=12)
 
 ## 추가 리소스
 
-* [워크플로우 구축(설명서)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)
+* [워크플로우 빌드 (설명서)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)

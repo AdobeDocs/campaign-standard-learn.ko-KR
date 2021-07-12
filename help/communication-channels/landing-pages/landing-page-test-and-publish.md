@@ -1,6 +1,6 @@
 ---
 title: 랜딩 페이지 테스트 및 게시
-description: Adobe Campaign Standard에 내장된 랜딩 페이지를 테스트하고 이를 게시하는 방법을 알아봅니다.
+description: Adobe Campaign Standard에 내장된 랜딩 페이지를 테스트하는 방법과 게시 방법을 알아봅니다.
 feature: 랜딩 페이지
 kt: 1813
 thumbnail: 24992.jpg
@@ -8,10 +8,9 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: 544587f3-c273-4b1c-b5fd-65213d0c0ea3
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 30%
@@ -20,6 +19,6 @@ ht-degree: 30%
 
 # 랜딩 페이지 테스트 및 게시
 
-이 비디오에서는 랜딩 페이지를 테스트하는 방법과 랜딩 페이지를 게시하는 방법을 설명합니다.
+이 비디오에서는 랜딩 페이지를 테스트하는 방법과 게시 방법을 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24092?quality=12)

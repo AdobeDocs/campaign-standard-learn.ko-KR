@@ -1,33 +1,32 @@
 ---
 title: 프로필 및 대상자 만들기 - 개요
-description: 기존 프로파일로 이동하고 프로파일과 고객을 만드는 방법을 알아봅니다.
-feature: 프로필, 대상
+description: 기존 프로필로 이동하는 방법과 프로필 및 잠재고객을 생성하는 방법을 알아봅니다.
+feature: 프로필, 대상자
 kt: 3899
 thumbnail: 18463.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
 exl-id: 5948ce53-0d12-4768-912a-9edb0b9b6f2b
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 16%
+ht-degree: 35%
 
 ---
 
 # 프로필 및 대상자 만들기 - 개요
 
-Adobe Campaign에는 두 가지 유형 또는 프로파일이 있습니다.
+Adobe Campaign에는 두 가지 유형 또는 프로필이 있습니다.
 
-* 식별된 프로파일
+* 식별된 프로필
 * 테스트 프로필
 
-하나 또는 여러 개의 공통 기준에 따라 그룹화된 프로파일을 **audiences**&#x200B;이라고 합니다.
+하나 이상의 공통 기준에 따라 그룹화된 프로필을 **audiences**&#x200B;이라고 합니다.
 
-이 비디오에서는 Adobe Campaign Standard에서 기존 프로필로 이동하는 방법과 프로필 및 대상을 만드는 방법을 설명합니다.
+이 비디오에서는 Adobe Campaign Standard에서 기존 프로필로 이동하는 방법과 프로필 및 대상자를 만드는 방법을 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12)
 

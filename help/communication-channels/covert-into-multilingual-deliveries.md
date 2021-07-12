@@ -1,6 +1,6 @@
 ---
 title: 기존 이메일, SMS 게재 또는 템플릿을 다국어로 변환
-description: '"기존 이메일, SMS 전달 또는 전달 템플릿을 다국어 버전으로 변환하는 방법을 살펴볼 수 있습니다."'
+description: '"기존 이메일, SMS 게재 또는 게재 템플릿을 다국어로 변환하는 방법을 알아봅니다."'
 feature: 이메일, SMS
 kt: 1703
 thumbnail: 23251.jpg
@@ -8,10 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: f069fe5c-654c-4be3-818d-b34741e4681e
-role: Business Practitioner
+role: User
 level: Intermediate, Experienced
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 31%
@@ -20,7 +19,7 @@ ht-degree: 31%
 
 # 기존 이메일, SMS 게재 또는 템플릿을 다국어로 변환
 
-이 비디오에서는 기존 이메일, SMS 전달 또는 전달 템플릿을 다국어 버전으로 손쉽게 변환하는 방법을 보여 줍니다.
+이 비디오에서는 기존 이메일, SMS 게재 또는 게재 템플릿을 다국어로 쉽게 변환하는 방법을 보여줍니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23251?quality=12)
 

@@ -10,7 +10,7 @@ team: TM
 exl-id: bb587ee7-9587-44d3-8bb4-3d4e64f66749
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
+source-git-commit: 63d07d2922310ac779c486383b83d708beeba627
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # [!UICONTROL In-App] 게재에 대해 보고합니다 {#in-app-message-reporting}
 
-[!UICONTROL 인앱 관련 지표를 추가하여 [!UICONTROL In-App] 게재 관련 데이터를 게재 요약에서 검토할 수 있습니다. 또는 즉시 사용 가능한 [인앱 보고서](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en)를 사용할 수 있습니다.
+[!UICONTROL In-App] 특정 지표를 추가하여 [!UICONTROL In-App] 게재 관련 데이터를 게재 요약에서 검토할 수 있습니다. 또는 즉시 사용 가능한 [인앱 보고서](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en)를 사용할 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12)
 

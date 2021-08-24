@@ -10,21 +10,21 @@ team: TM
 exl-id: 4b7e4602-6d4f-4a16-bbe7-070a95511ebb
 role: User
 level: Intermediate, Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # 다국어 이메일 또는 SMS 게재 만들기
 
-Adobe Campaign을 사용하면 다국어 캠페인을 보내는 운영 복잡성을 간소화할 수 있습니다. 전자 메일 게재 및 SMS 게재 모두 다국어로 설정할 수 있으므로, 프로필의 기본 언어를 기반으로 전자 메일 또는 SMS를 보낼 수 있습니다.
+Adobe Campaign을 사용하면 다국어 캠페인을 보내는 운영 복잡성을 간소화할 수 있습니다. 이메일 게재 및 SMS 게재 모두 다국어로 설정할 수 있으므로, 프로필의 기본 언어를 기반으로 이메일 또는 SMS를 보낼 수 있습니다.
 
-이 비디오에서는 이메일 뉴스레터의 예에 따라 템플릿을 기반으로 다국어 게재를 만드는 방법을 설명합니다. 비디오에 나와 있는 접근 방식은 SMS 게재뿐만 아니라 전자 메일 모두에 적용됩니다.
+이 비디오에서는 이메일 뉴스레터의 예에 따라 템플릿을 기반으로 다국어 게재를 만드는 방법을 설명합니다. 비디오에 나와 있는 접근 방식은 이메일과 SMS 게재 모두에 적용됩니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23252?quality=12)
 
 ## 추가 리소스
 
-* [다국어 이메일 만들기(설명서)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html)
+* [다국어 이메일 만들기(설명서)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html)

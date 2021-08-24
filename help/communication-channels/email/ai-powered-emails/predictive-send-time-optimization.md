@@ -8,12 +8,12 @@ doc-type: feature video
 activity: use
 team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
-role: Business Practitoner, Developer, Admin
+role: Business Practitioner, Developer, Admin
 level: Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 98%
+source-wordcount: '204'
+ht-degree: 88%
 
 ---
 
@@ -38,4 +38,4 @@ Adobe Campaign과 여정 AI 모델 간의 데이터를 동기화하는 데 필�
 
 설명서:
 
-* [AI 기반 이메일을 통해 디자인 및 게재 최적화](https://docs.adobe.com/help/ko-KR/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html)
+* [AI 기반 이메일을 통해 디자인 및 게재 최적화](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)

@@ -10,7 +10,7 @@ team: TM
 exl-id: 55cc83d2-e1ec-488d-b36a-b5f8c96dc412
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 63d07d2922310ac779c486383b83d708beeba627
+source-git-commit: 7f70c5a02654b03f248e2ec71563473f98688b70
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 7%
@@ -30,7 +30,7 @@ Adobe Campaign에 프로필 정보가 있는지 여부를 모바일 앱의 모�
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12)
 
-*SDKV5 Mobile 속성을 사용하여 브로드캐스트 인앱 메시지 만들기]*
+*SDKV5 Mobile 속성을 사용하여 브로드캐스트 인앱 메시지 만들기*
 
 ## 추가 리소스
 

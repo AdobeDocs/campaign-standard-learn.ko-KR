@@ -1,16 +1,17 @@
 ---
 title: 사용자 정의 리소스 매핑
 description: ACS(Adobe Campaign Standard)과 Adobe Experience Platform(AEP) 간에 서로 다른 데이터 유형을 매핑하는 방법을 알아봅니다
+feature: 사용자 핵심 서비스 통합
 kt: 2828
 thumbnail: 27231.jpg
 doc-type: feature video
 activity: set-up
 team: TM
 exl-id: c0c8bcca-9b32-461a-8126-3a59106fe6ac
-source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
+source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 9%
+source-wordcount: '79'
+ht-degree: 8%
 
 ---
 
@@ -28,4 +29,4 @@ Adobe Campaign Standard과 Adobe Experience Platform 간에 서로 다른 데이
 
 ## 추가 리소스
 
-* [매핑 정의](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
+* [매핑 정의](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)

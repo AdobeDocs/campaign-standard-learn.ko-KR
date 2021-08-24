@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
-source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 9%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->이 기능은 현재 베타에 있으며, 예고 없이 자주 업데이트되고 수정될 수 있습니다.
+>이 기능은 베타에 있으며, 예고 없이 자주 업데이트되고 수정될 수 있습니다.
 >
 >이 기능을 구현하려면 [!UICONTROL Adobe Customer Support]에 문의하십시오.
 

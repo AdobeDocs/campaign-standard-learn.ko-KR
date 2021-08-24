@@ -1,15 +1,14 @@
 ---
 title: 사용자 지정 리소스에 대한 화면 정의 구성
 description: 사용자 지정 리소스에 대한 화면 정의를 구성하는 방법을 알아봅니다.
-feature: 사용자 지정 리소스
+feature: 데이터 모델
 kt: 3001
 thumbnail: 27713.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: 1d1a11c4-6f87-4ee4-bb75-b86228e72042
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
 source-wordcount: '45'
 ht-degree: 4%

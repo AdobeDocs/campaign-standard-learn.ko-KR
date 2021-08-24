@@ -8,10 +8,10 @@ tutorials-title: 자습서
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ko
 getting-started-title: 설명서
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ko
-source-git-commit: 0dd34fe4027d2c7512a7fc6ec7258cf7a41efa65
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '557'
+ht-degree: 89%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 + [개요](/help/overview.md)
 + 시작 {#getting-started}
    + [Adobe Campaign Standard 소개](/help/getting-started/adobe-campaign-standard-introduction.md)
-   + [UI 시작](/help/getting-started/getting-started-with-the-ui.md)
+   + [UI 시작하기](/help/getting-started/getting-started-with-the-ui.md)
    + [목록 구성](/help/getting-started/configure-a-list.md)
    + [계층 구조 및 마케팅 활동 살펴보기](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [캠페인 관리](/help/getting-started/managing-campaigns.md)
@@ -48,7 +48,7 @@ ht-degree: 0%
       + [테스트 보내기, 준비 및 이메일 보내기](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [A/B 테스트](/help/communication-channels/email/a-b-testing.md)
       + [타겟팅된 프로필을 사용하여 이메일 메시지 테스트](/help/communication-channels/email/profile-substitution.md)
-      + [게재에 통제 그룹 추가](/help/communication-channels/email/control-groups.md)
+      + [게재에 컨트롤 그룹 추가](/help/communication-channels/email/control-groups.md)
       + [다국어 이메일 또는 SMS 게재 만들기](/help/communication-channels/create-multilingual-deliveries.md)
       + [기존 이메일, SMS 게재 또는 템플릿을 다국어로 변환](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [이메일 게재 및 보고서 검토](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
@@ -85,7 +85,7 @@ ht-degree: 0%
       + [모바일 보기 구성](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [이메일 및 스팸 방지 분석 미리 보기](/help/designing-content/email-designer/preview-your-email.md)
       + [기존 콘텐츠로 작업](/help/designing-content/email-designer/working-with-existing-content.md)
-      + [Adobe Dreamweaver를 사용하여 콘텐츠 제작](/help/designing-content/email-designer/dreamweaver-integration.md)
+      + [Adobe Dreamweaver을 사용하여 컨텐츠 만들기](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [트랜잭션 이메일의 제품 목록 구성](/help/designing-content/product-listings-in-transactional-email.md)
 + 프로세스 및 데이터 관리 {#managing-processes-and-data}
    + [워크플로우 만들기](/help/managing-processes-and-data/creating-a-workflow.md)
@@ -96,7 +96,7 @@ ht-degree: 0%
 + 보고서 {#reporting}
    + [보고서 탐색](/help/getting-started/exploring-reports.md)
    + [동적 보고서 만들기](/help/reporting/creating-a-dynamic-report.md)
-   + [사용자 정의 프로필 속성을 기반으로 보고서 만들기](/help/reporting/custom-profile-attributes-dynamic-reports.md)
+   + [사용자 지정 프로필 속성을 기반으로 보고서 만들기](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [워크플로우 세그먼트 기반 보고서 만들기](/help/reporting/report-on-workflow-segments.md)
 + 다른 솔루션과 통합 {#integrations}
    + [Adobe Analytics에서 게재 성공 추적하기](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
@@ -113,8 +113,8 @@ ht-degree: 0%
    + [컨트롤 패널](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=ko)
    + Adobe Experience Platform 데이터 커넥터 {#adobe-experience-platform-data-connector}
       + [Adobe Experience Platform 데이터 커넥터 이해](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
-      + [사용자 정의 리소스 매핑](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
-      + [Experience 이벤트 매핑](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
+      + [사용자 지정 리소스 매핑](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
+      + [경험 이벤트 매핑](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
       + [시드 테이블 데이터 매핑](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [데이터 매핑 수정](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
       + [데이터 수집 작업 상태 확인](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
@@ -124,6 +124,6 @@ ht-degree: 0%
 + 개인 정보 {#privacy}
    + [개요](/help/privacy/privacy-overview.md)
    + [개인 정보 요청을 위한 네임스페이스 만들기](/help/privacy/namespaces-for-privacy-requests.md)
-   + [개인 정보 요청에 대한 사용자 정의 리소스 수정](/help/privacy/custom-resources-for-privacy-requests.md)
+   + [개인 정보 요청에 대한 사용자 지정 리소스 수정](/help/privacy/custom-resources-for-privacy-requests.md)
    + [개인 정보 요청 수동으로 만들고 추적하기](/help/privacy/create-and-track-privacy-requests.md)
-   + [개인 정보 요청 실행](/help/privacy/execute-privacy-requests.md)
+   + [개인 정보 보호 요청 실행](/help/privacy/execute-privacy-requests.md)

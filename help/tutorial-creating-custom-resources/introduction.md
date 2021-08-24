@@ -1,44 +1,43 @@
 ---
 title: 사용자 지정 리소스 만들기 - 소개
-description: Adobe Campaign Standard는 리소스를 확장하거나 새 리소스를 만드는 기능을 제공합니다. 여러 부분으로 된 이 튜토리얼은 사용자 지정 리소스를 만들고 연결하는 데 필요한 단계를 안내합니다.
-feature: '사용자 지정 리소스 '
+description: 여러 부분으로 된 이 튜토리얼에서는 사용자 지정 리소스를 만들고 연결하는 데 필요한 단계를 안내합니다.
+feature: '데이터 모델 '
 kt: 2999
 thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: ht
-source-wordcount: '235'
-ht-degree: 100%
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+workflow-type: tm+mt
+source-wordcount: '189'
+ht-degree: 42%
 
 ---
 
 # 사용자 지정 리소스 &#x200B; 만들기 - 소개
 
-[!DNL Adobe Campaign]은 서로 다른 리소스를 통해 데이터를 정의하는 데이터 모델과 함께 제공됩니다. [!DNL Campaign]은 리소스를 확장하거나 새 리소스를 만드는 기능을 제공합니다.
+[!DNL Adobe Campaign]은 서로 다른 리소스를 통해 데이터를 정의하는 데이터 모델과 함께 제공됩니다. [!DNL Campaign] 기존 리소스를 확장하거나 새 리소스를 만들 수 있습니다.
 
-여러 부분으로 된 이 튜토리얼은 사용자 지정 리소스를 만들고 연결하는 데 필요한 단계를 안내합니다. 이 튜토리얼을 완료하면 다음을 배울 수 있습니다.
+여러 부분으로 된 이 튜토리얼에서는 사용자 지정 리소스를 만들고 연결하는 데 필요한 단계를 안내합니다.
+학습 방법:
 
 * 사용자 지정 리소스 만들기
 * 사용자 지정 리소스에 필드 추가
 * 두 개의 사용자 지정 리소스 연결
 * 화면 정의 구성
 
-## 필수 조건
+## 사전 요구 사항
 
 사용자 지정 리소스를 만들려면 관리 사용자 권한이 있어야 합니다.
 
 ## 튜토리얼 개요
 
-고객이 주문한 내용에 대한 추가 정보를 사용하여 마케팅과 재마케팅용으로 사용하고 싶습니다.
-
-이를 위해 기본 제공 리소스를 확장하고 고유한 사용자 지정 테이블을 추가하여 [!DNL Campaign] 데이터 모델을 보강할 예정입니다. 고객과 주문 테이블을 추가하겠습니다.
+고객이 주문한 내용에 대한 추가 정보를 사용하여 마케팅 및 재마케팅 용도로 사용할 수 있도록 하려면, [!DNL Campaign] 데이터 모델은 사용자 지정 테이블을 추가하여 확장해야 합니다. 이 사용 사례에서는 고객 및 주문 테이블을 만들어야 합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
 
-이 튜토리얼에서는 다음을 수행하는 방법을 단계별로 설명합니다.
+이 자습서에서는 다음 방법을 설명합니다.
 
 1단계 - [사용자 지정 리소스 만들기](./creating-a-custom-resource.md)
 2단계 - [화면 정의 구성](./configuring-a-screen-definition-for-a-custom-resource.md)

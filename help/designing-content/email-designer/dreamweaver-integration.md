@@ -10,10 +10,10 @@ team: TM
 exl-id: 478462d8-aa25-457d-ba7b-64ffcf1b81fb
 role: User, Developer
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 86%
+source-wordcount: '175'
+ht-degree: 76%
 
 ---
 
@@ -27,7 +27,7 @@ Adobe Dreamweaver와 통합된 Adobe Campaign Standard을 통해 Dreamweaver 인
 
 >[!NOTE]
 >
->이 기능을 사용하려면 Dreamweaver 확장을 호출해야 합니다 **[!UICONTROL Adobe Campaign Integration]**. 확장은 [Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search)에서 다운로드할 수 있습니다. 설치에 대한 자세한 내용은 [Dreamweaver용 Campaign 확장](https://helpx.adobe.com/kr/dreamweaver/using/working-with-dreamweaver-and-campaign.html)을 참조하십시오.
+>이 기능을 사용하려면 Dreamweaver 확장을 호출해야 합니다 **[!UICONTROL Adobe Campaign Integration]**. 확장은 [Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search)에서 다운로드할 수 있습니다. 설치에 대한 자세한 내용은 [Dreamweaver용 캠페인 확장](https://helpx.adobe.com/kr/dreamweaver/using/working-with-dreamweaver-and-campaign.html)을 참조하십시오.
 
 이 비디오에서는 Dreamweaver 통합을 구현하는 데 필요한 사항과 Dreamweaver를 사용하여 Adobe Campaign Standard용 콘텐츠를 만들고 편집하는 방법에 대해 설명합니다.
 

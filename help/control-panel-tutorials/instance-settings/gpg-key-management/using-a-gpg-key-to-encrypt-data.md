@@ -9,11 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 849f2da2-aced-45ff-8b4b-554add5a5474
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
 source-wordcount: '61'
-ht-degree: 100%
+ht-degree: 62%
 
 ---
 
@@ -23,7 +22,7 @@ Campaign 컨트롤 패널에 설치된 GPG 키를 사용하여 데이터를 내�
 
 >[!VIDEO](https://video.tv.adobe.com/v/36380?quality=12)
 
-## 추가 자료
+## 추가 리소스
 
 * [GPG 키 관리(비디오)](./gpg-key-management-overview.md)
-* [GPG 키 관리(설명서)](https://docs.adobe.com/content/help/ko-KR/control-panel/using/instances-settings/gpg-keys-management.html)
+* [GPG 키 관리(설명서)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=en)

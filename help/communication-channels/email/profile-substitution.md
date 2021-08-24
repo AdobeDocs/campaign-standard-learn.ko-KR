@@ -10,10 +10,10 @@ team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: User
 level: Intermediate, Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 92%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 92%
 
 >[!VIDEO](https://video.tv.adobe.com/v/32368?quality=12)
 
-자세한 내용은 자세한 [제품 설명서](https://docs.adobe.com/content/help/ko-KR/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)를 참조하십시오.
+자세한 내용은 자세한 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)를 참조하십시오.
 
 >[!IMPORTANT]
 >
@@ -33,6 +33,6 @@ ht-degree: 92%
 
 ## 추가 자료
 
-* [대상 프로필을 사용하여 메시지 테스트(설명서)](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
+* [대상 프로필을 사용하여 메시지 테스트(설명서)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)
 * [A/B 테스트 이메일 디자인](/help/communication-channels/email/a-b-testing.md)
 * [테스트 보내기, 준비 및 이메일 보내기](/help/communication-channels/email/sending-test-preparing-sending-email.md)

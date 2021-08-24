@@ -1,5 +1,5 @@
 ---
-title: 데이터 수집 작업 상태 확인
+title: 데이터 수집 작업의 상태 확인
 description: 상태를 확인하고 데이터 매핑을 수정하는 방법을 알아봅니다.
 feature: 사용자 핵심 서비스 통합
 audience: administrator
@@ -9,14 +9,14 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
-source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
+source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 9%
 
 ---
 
-# 데이터 수집 작업 상태 확인
+# 데이터 수집 작업의 상태 확인
 
 >[!NOTE]
 >

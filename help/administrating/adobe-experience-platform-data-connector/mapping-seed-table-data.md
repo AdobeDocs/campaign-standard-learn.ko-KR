@@ -1,18 +1,16 @@
 ---
 title: 시드 테이블 데이터 매핑
-description: 시드 데이터를 매핑하는 방법 및 AEP(Adobe Experience Platform)을 사용하여 프로파일을 테스트하는 방법에 대해 알아봅니다.
-feature: Adobe Experience Platform 데이터 커넥터
+description: 시드 데이터를 매핑하는 방법 및 AEP(Adobe Experience Platform)으로 프로필을 테스트하는 방법을 알아봅니다
 kt: 2900
 thumbnail: 27264.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: a6b8ec23-01a2-4333-9918-9ea13aac4068
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 19%
+source-wordcount: '92'
+ht-degree: 15%
 
 ---
 
@@ -20,11 +18,11 @@ ht-degree: 19%
 
 >[!NOTE]
 >
->이 기능은 현재 베타 버전으로, 사전 통보 없이 자주 업데이트하거나 수정할 수 있습니다.
+>이 기능은 현재 베타에 있으며, 예고 없이 자주 업데이트되고 수정될 수 있습니다.
 >
->이 기능을 구현하려면 [!UICONTROL Adobe Customer Support]에 연락하십시오.
+>이 기능을 구현하려면 [!UICONTROL Adobe Customer Support]에 문의하십시오.
 
-Adobe Experience Platform을 사용하여 시드 데이터를 매핑하고 프로필을 테스트하는 방법을 알아봅니다.
+Adobe Experience Platform에 시드 데이터 및 테스트 프로필을 매핑하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27264?quality=12)
 

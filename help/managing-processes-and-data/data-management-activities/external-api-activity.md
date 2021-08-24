@@ -10,10 +10,10 @@ team: TM
 exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
 role: User, Developer
 level: Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 87%
+source-wordcount: '177'
+ht-degree: 46%
 
 ---
 
@@ -36,8 +36,8 @@ ht-degree: 87%
 
 >[!NOTE]
 >
->해당 활동은 대량의 데이터가 전송될 수 있으므로 각 프로필에 대한 특정 정보를 검색하는 것이 아니라 캠페인 전체 데이터(최신 오퍼 세트, 최신 점수 등)를 가져오기 위한 것입니다. 사용 사례에서 이를 필요로 하는 경우 파일 전송 활동을 사용하는 것이 좋습니다.
+>활동은 캠페인 전체 데이터를 가져오기 위한 것이며 대량의 데이터가 전송될 수 있으므로 각 프로필에 대한 특정 정보를 검색하기 위한 것이 아닙니다. 사용 사례에서 프로필 관련 정보를 필요로 하는 경우 파일 전송 활동을 사용하는 것이 좋습니다.
 
 ## 추가 자료
 
-* [외부 API(설명서)](https://docs.adobe.com/content/help/ko-KR/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
+* [외부 API(설명서)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html?lang=en)

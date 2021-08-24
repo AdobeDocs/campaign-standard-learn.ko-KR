@@ -1,18 +1,16 @@
 ---
-title: 사용자 지정 리소스 매핑
-description: Adobe Campaign Standard(ACS)와 Adobe Experience Platform(AEP) 간 서로 다른 데이터 유형을 매핑하는 방법 학습
-feature: Adobe Experience Platform 데이터 커넥터
+title: 사용자 정의 리소스 매핑
+description: ACS(Adobe Campaign Standard)과 Adobe Experience Platform(AEP) 간에 서로 다른 데이터 유형을 매핑하는 방법을 알아봅니다
 kt: 2828
 thumbnail: 27231.jpg
 doc-type: feature video
 activity: set-up
 team: TM
 exl-id: c0c8bcca-9b32-461a-8126-3a59106fe6ac
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 14%
+source-wordcount: '76'
+ht-degree: 9%
 
 ---
 
@@ -20,9 +18,9 @@ ht-degree: 14%
 
 >[!NOTE]
 >
->이 기능은 현재 베타 버전으로, 사전 통보 없이 자주 업데이트하거나 수정할 수 있습니다.
+>이 기능은 현재 베타에 있으며, 예고 없이 자주 업데이트되고 수정될 수 있습니다.
 >
->이 기능을 구현하려면 [!UICONTROL Adobe Customer Support]에 연락하십시오.
+>이 기능을 구현하려면 [!UICONTROL Adobe Customer Support]에 문의하십시오.
 
 Adobe Campaign Standard과 Adobe Experience Platform 간에 서로 다른 데이터 유형을 매핑하는 방법을 알아봅니다.
 

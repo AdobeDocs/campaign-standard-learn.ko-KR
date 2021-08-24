@@ -8,10 +8,10 @@ tutorials-title: 자습서
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=ko
 getting-started-title: 설명서
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ko
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
 source-wordcount: '557'
-ht-degree: 89%
+ht-degree: 83%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 89%
    + [서비스 및 구독 관리](/help/managing-processes-and-data/services-and-subscriptions.md)
    + 대상자의 방문 대상(베타){#audience-destinations}
       + [개요](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-      + [통합 세그먼트 빌더를 사용하여 새 대상자 만들기](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+      + [통합 세그먼트 빌더를 사용하여 대상자 만들기](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [워크플로우에서 Adobe Experience Platform 대상자 활성화](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [타겟팅 차원 변경](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + 소통 채널 {#communication-channels}
@@ -50,7 +50,7 @@ ht-degree: 89%
       + [타겟팅된 프로필을 사용하여 이메일 메시지 테스트](/help/communication-channels/email/profile-substitution.md)
       + [게재에 컨트롤 그룹 추가](/help/communication-channels/email/control-groups.md)
       + [다국어 이메일 또는 SMS 게재 만들기](/help/communication-channels/create-multilingual-deliveries.md)
-      + [기존 이메일, SMS 게재 또는 템플릿을 다국어로 변환](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [기존 이메일, SMS 게재 또는 게재 템플릿을 다국어로 변환](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [이메일 게재 및 보고서 검토](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [워크플로우를 통해 이메일을 만들고 보내기](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
       + [게재 모범 사례 안내서](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ko)
@@ -59,11 +59,11 @@ ht-degree: 89%
          + [예측 참여 점수 책정](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + 모바일 {#mobile}
       + SMS{#sms}
-         + [SMS 게재 만들기](/help/communication-channels/mobile/sms/sms-delivery.md)
+         + [SMS 게재 만들기 ](/help/communication-channels/mobile/sms/sms-delivery.md)
       + 푸시 알림 {#push}
          + [푸시 알림 만들기](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [다국어 푸시 알림 만들기](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [자습서: Android용 푸시 알림 시작하기](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=ko)
+         + [자습서: Android용 푸시 알림 시작하기™](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=ko)
       + 인앱 메시지 {#in-app}
          + [인앱 메시지 소개](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [이벤트 구성](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -105,7 +105,7 @@ ht-degree: 89%
       + [트리거를 위한 Launch 구성](/help/integrations/configure-launch-for-triggers.md)
       + [Experience Cloud에서 트리거 만들기](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Campaign Standard에서 트리거 이벤트 만들기](/help/integrations/create-a-trigger-event.md)
-      + [실시간 이벤트 데이터를 사용한 트랜잭션 메시지 구성](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
+      + [실시간 이벤트 데이터를 사용하여 트랜잭션 메시지 구성](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [Campaign Standard와의 통합을 위한 Microsoft® Dynamics 365 구성](/help/integrations/configure-dynamics-365.md)
 + 관리 {#administrating}
    + [사용자 액세스 권한 관리](/help/administrating/managing-user-access-rights.md)
@@ -117,7 +117,7 @@ ht-degree: 89%
       + [경험 이벤트 매핑](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
       + [시드 테이블 데이터 매핑](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [데이터 매핑 수정](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-      + [데이터 수집 작업 상태 확인](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+      + [데이터 수집 작업의 상태 확인](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + Typology 규칙{#typology-rules}
       + 피로 관리{#fatigue-management}
          + [피로도 규칙 만들기](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)

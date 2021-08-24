@@ -10,9 +10,9 @@ team: TM
 exl-id: 7520cb4a-f277-42fa-81be-afb46b21365f
 role: User
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '154'
 ht-degree: 12%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 12%
 
 ACS(Adobe Campaign Standard)에서 [!UICONTROL push notification]을 만드는 방법을 알아봅니다.
 
-Adobe Campaign을 사용하면 개인화 및 세그먼트화한 [!UICONTROL push notifications]을 iOS 및 Android 모바일 장치로 보낼 수 있습니다. 다음 두 가지 옵션이 있습니다.
+Adobe Campaign을 통해 개인화 및 세그먼트화한 [!UICONTROL push notifications]을 iOS 및 Android™ 모바일 장치로 보낼 수 있습니다. 다음 두 가지 옵션이 있습니다.
 
 * **[!UICONTROL Send push notification to Campaign profiles]**: 모바일 애플리케이션을 구독하고 수신을 선택한 Adobe Campaign CRM 프로필을 타겟팅할 수  [!UICONTROL push notifications]있습니다. 수신자의 이름과 같이 개인화 필드를 [!UICONTROL push notification]에 삽입할 수 있습니다.
 
@@ -35,8 +35,8 @@ Adobe Campaign을 사용하면 개인화 및 세그먼트화한 [!UICONTROL push
 
 설명서:
 
-* [푸시 알림 기본 정보](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
-* [푸시 알림 준비 및 보내기](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/preparing-and-sending-a-push-notification.html)
+* [푸시 알림 기본 정보](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
+* [푸시 알림 준비 및 보내기](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/preparing-and-sending-a-push-notification.html)
 
 자습서:
 

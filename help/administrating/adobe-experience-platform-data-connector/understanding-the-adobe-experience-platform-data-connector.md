@@ -1,5 +1,5 @@
 ---
-title: Adobe Experience Platform 데이터 커넥터 이해
+title: Adobe Experience Platform Data Connector 이해
 description: Adobe Experience Platform Data Connector는 기존 고객이 Adobe Experience Platform에서 XTK 데이터(Campaign에서 수집한 데이터)를 XDM(Experience Data Model) 데이터에 매핑하여 Adobe Experience Platform에서 데이터를 사용할 수 있도록 합니다.
 feature: 사용자 핵심 서비스 통합
 kt: 2826
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: understand
 team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
-source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
+source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '344'
-ht-degree: 8%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->이 기능은 현재 베타에 있으며, 예고 없이 자주 업데이트되고 수정될 수 있습니다.
+>이 기능은 베타에 있으며, 예고 없이 자주 업데이트되고 수정될 수 있습니다.
 >
 >이 기능을 구현하려면 [!UICONTROL Adobe Customer Support]에 문의하십시오.
 
@@ -49,12 +49,9 @@ Adobe Experience Platform [!UICONTROL Data Connector]은 Adobe Campaign Standard
 2. [Experience 이벤트 매핑](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
 3. [시드 테이블 데이터 매핑](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
 4. [데이터 매핑 수정](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-5. [데이터 수집 작업 상태 확인](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+5. [데이터 수집 작업의 상태 확인](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
 
 ## 추가 리소스
 
-* [Adobe Experience Platform 데이터 커넥터 정보](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-about-data-connector.html)
-* [경험 데이터 모델 개요](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-data-model-overview.html)
-* [매핑 정의](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
-* [매핑 활성화](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)
-* [API를 통한 데이터 수집 트리거](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-triggering-data-ingestion.html)
+* [Adobe Experience Platform 데이터 커넥터 정보](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-about-data-connector.html)
+

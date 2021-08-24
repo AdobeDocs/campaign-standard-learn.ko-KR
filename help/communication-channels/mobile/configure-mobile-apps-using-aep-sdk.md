@@ -10,10 +10,10 @@ team: TM
 exl-id: b51d40f6-e67a-49fe-87d5-bf42a439a0e3
 role: Admin
 level: Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 15%
+source-wordcount: '145'
+ht-degree: 11%
 
 ---
 
@@ -27,9 +27,9 @@ Mobile SDK V5를 사용하여 인앱 메시지 또는 [!UICONTROL push notificat
 
 >[!NOTE]
 >
->자세한 설명서 및 비디오에 사용된 코드 템플릿에 대해서는 [[!UICONTROL Launch]](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html#ConfiguringyourapplicationinLaunch)에서 애플리케이션 구성 을 참조하십시오.
+>자세한 설명서 및 비디오에 사용된 코드 템플릿에 대해서는 [[!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en)에서 애플리케이션 구성 을 참조하십시오.
 
 ## 추가 리소스
 
 * [모바일 속성 설정(Launch Adobe 설명서)](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [Adobe Experience Platform SDK를 사용하여 모바일 애플리케이션 구성(설명서)](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html)
+* [Adobe Experience Platform SDK를 사용하여 모바일 애플리케이션 구성(설명서)](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en)

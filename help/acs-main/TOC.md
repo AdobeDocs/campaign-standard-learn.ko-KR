@@ -8,10 +8,10 @@ tutorials-title: Tutorials
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Documentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
-source-git-commit: 3d11a2d81dab20b449c50d133f1c4fd4376356b5
+source-git-commit: a3590166597f98331e7dec905ff00b0e84902a97
 workflow-type: tm+mt
-source-wordcount: '536'
-ht-degree: 81%
+source-wordcount: '542'
+ht-degree: 80%
 
 ---
 
@@ -127,4 +127,4 @@ ht-degree: 81%
    + [개인 정보 요청에 대한 사용자 지정 리소스 수정](/help/privacy/custom-resources-for-privacy-requests.md)
    + [개인 정보 요청 수동으로 만들고 추적하기](/help/privacy/create-and-track-privacy-requests.md)
    + [개인 정보 보호 요청 실행](/help/privacy/execute-privacy-requests.md)
-+ [Campaign Standard 문제 해결](/https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)
++ [Campaign Standard 문제 해결](https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)

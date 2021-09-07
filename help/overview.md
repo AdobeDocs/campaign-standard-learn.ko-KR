@@ -3,13 +3,13 @@ title: Adobe Campaign Standard 자습서 - 개요
 description: Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 환경을 제공합니다. 이 사용 안내서에는 Adobe Campaign Standard의 다양한 기능과 성능에 대한 비디오 및 튜토리얼이 포함되어 있습니다.
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
-feature: 개요
+feature: Overview
 role: User, Admin, Developer
 level: Beginner
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 5f019c5a5906a8bd24ab7c0dac23045cfbc046ad
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 82%
+source-wordcount: '258'
+ht-degree: 73%
 
 ---
 
@@ -19,13 +19,9 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 ## 새로운 기능
 
-* **[Adobe Analytics에서 게재 성공 추적하기](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)**
+* **[문제 해결](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=en)**
 
-   *Campaign Standard와 Analytics 통합을 구성하는 방법을 알아봅니다. Campaign Standard에서 받은 데이터를 사용하여 Analytics에서 보고서를 작성하는 방법과 사용 가능한 KPI를 이해합니다.*
-
-* **[트랜잭션 메시지에 트리거 사용](/help/integrations/using-triggers-for-transactional-messaging-overview.md)**
-
-   *트랜잭션 메시지를 보내는 트리거를 구성 및 사용하는 방법에 대해 알아봅니다.*
+   *Adobe Campaign Standard에서 알려진 문제를 해결하는 데 도움이 필요하면 를 찾습니다.*
 
 ## 직원 추천
 

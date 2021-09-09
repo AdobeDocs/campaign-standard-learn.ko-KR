@@ -9,9 +9,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: Documentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
 source-git-commit: a3590166597f98331e7dec905ff00b0e84902a97
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '542'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -39,18 +39,18 @@ ht-degree: 80%
    + [서비스 및 구독 관리](/help/managing-processes-and-data/services-and-subscriptions.md)
    + 대상자의 방문 대상(베타){#audience-destinations}
       + [개요](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-      + [통합 세그먼트 빌더를 사용하여 대상자 만들기](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+      + [통합 세그먼트 빌더를 사용하여 새 대상자 만들기](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [워크플로우에서 Adobe Experience Platform 대상자 활성화](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [타겟팅 차원 변경](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + 소통 채널 {#communication-channels}
    + 이메일 {#email}
       + [이메일 만들기](/help/communication-channels/email/create-email-from-homepage.md)
-      + [테스트 보내기, 준비 및 이메일 보내기](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+      + [테스트 보내기, 준비, 이메일 보내기](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [A/B 테스트](/help/communication-channels/email/a-b-testing.md)
       + [타겟팅된 프로필을 사용하여 이메일 메시지 테스트](/help/communication-channels/email/profile-substitution.md)
-      + [게재에 컨트롤 그룹 추가](/help/communication-channels/email/control-groups.md)
+      + [게재에 통제 그룹 추가](/help/communication-channels/email/control-groups.md)
       + [다국어 이메일 또는 SMS 게재 만들기](/help/communication-channels/create-multilingual-deliveries.md)
-      + [기존 이메일, SMS 게재 또는 게재 템플릿을 다국어로 변환](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [기존 이메일, SMS 게재 또는 게재 템플릿을 다국어로 전환](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [이메일 게재 및 보고서 검토](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [워크플로우를 통해 이메일을 만들고 보내기](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
       + [게재 모범 사례 안내서](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ko)
@@ -63,7 +63,7 @@ ht-degree: 80%
       + 푸시 알림 {#push}
          + [푸시 알림 만들기](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [다국어 푸시 알림 만들기](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [자습서: Android용 푸시 알림 시작하기™](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=ko)
+         + [튜토리얼: Android™에서 푸시 알림 시작하기](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=ko)
       + 인앱 메시지 {#in-app}
          + [인앱 메시지 소개](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [이벤트 구성](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -85,7 +85,7 @@ ht-degree: 80%
       + [모바일 보기 구성](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [이메일 및 스팸 방지 분석 미리 보기](/help/designing-content/email-designer/preview-your-email.md)
       + [기존 콘텐츠로 작업](/help/designing-content/email-designer/working-with-existing-content.md)
-      + [Adobe Dreamweaver을 사용하여 컨텐츠 만들기](/help/designing-content/email-designer/dreamweaver-integration.md)
+      + [Adobe Dreamweaver를 사용하여 콘텐츠 만들기](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [트랜잭션 이메일의 제품 목록 구성](/help/designing-content/product-listings-in-transactional-email.md)
 + 프로세스 및 데이터 관리 {#managing-processes-and-data}
    + [워크플로우 만들기](/help/managing-processes-and-data/creating-a-workflow.md)
@@ -97,7 +97,7 @@ ht-degree: 80%
    + [보고서 탐색](/help/getting-started/exploring-reports.md)
    + [동적 보고서 만들기](/help/reporting/creating-a-dynamic-report.md)
    + [사용자 지정 프로필 속성을 기반으로 보고서 만들기](/help/reporting/custom-profile-attributes-dynamic-reports.md)
-   + [워크플로우 세그먼트 기반 보고서 만들기](/help/reporting/report-on-workflow-segments.md)
+   + [워크플로우 세그먼트를 기반으로 보고서 만들기](/help/reporting/report-on-workflow-segments.md)
 + 다른 솔루션과 통합 {#integrations}
    + [Adobe Analytics에서 게재 성공 추적하기](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + 트랜잭션 메시지에 트리거 사용 {#triggers}
@@ -105,7 +105,7 @@ ht-degree: 80%
       + [트리거를 위한 Launch 구성](/help/integrations/configure-launch-for-triggers.md)
       + [Experience Cloud에서 트리거 만들기](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Campaign Standard에서 트리거 이벤트 만들기](/help/integrations/create-a-trigger-event.md)
-      + [실시간 이벤트 데이터를 사용하여 트랜잭션 메시지 구성](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
+      + [실시간 이벤트 데이터를 사용한 트랜잭션 메시지 구성](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [Campaign Standard와의 통합을 위한 Microsoft® Dynamics 365 구성](/help/integrations/configure-dynamics-365.md)
 + 관리 {#administrating}
    + [사용자 액세스 권한 관리](/help/administrating/managing-user-access-rights.md)
@@ -117,14 +117,14 @@ ht-degree: 80%
       + [경험 이벤트 매핑](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
       + [시드 테이블 데이터 매핑](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [데이터 매핑 수정](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-      + [데이터 수집 작업의 상태 확인](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+      + [데이터 수집 작업 상태 확인](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + Typology 규칙{#typology-rules}
       + 피로 관리{#fatigue-management}
          + [피로도 규칙 만들기](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
 + 개인 정보 {#privacy}
    + [개요](/help/privacy/privacy-overview.md)
    + [개인 정보 요청을 위한 네임스페이스 만들기](/help/privacy/namespaces-for-privacy-requests.md)
-   + [개인 정보 요청에 대한 사용자 지정 리소스 수정](/help/privacy/custom-resources-for-privacy-requests.md)
-   + [개인 정보 요청 수동으로 만들고 추적하기](/help/privacy/create-and-track-privacy-requests.md)
-   + [개인 정보 보호 요청 실행](/help/privacy/execute-privacy-requests.md)
-+ [Campaign Standard 문제 해결](https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)
+   + [개인 정보 요청을 위한 사용자 지정 리소스 수정](/help/privacy/custom-resources-for-privacy-requests.md)
+   + [개인 정보 요청을 수동으로 만들고 추적하기](/help/privacy/create-and-track-privacy-requests.md)
+   + [개인 정보 요청 실행](/help/privacy/execute-privacy-requests.md)
++ [Campaign Standard 문제 해결](https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=ko)

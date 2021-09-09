@@ -1,7 +1,7 @@
 ---
 title: 'UI 시작하기 '
 description: 이 비디오에서는 Adobe Campaign Standard 사용자 인터페이스와 주요 기능 및 핵심 기능에 대한 개요를 제공합니다.
-feature: 개요
+feature: Overview
 kt: 3882
 thumbnail: acs-ui-get-started.png
 doc-type: feature video
@@ -11,8 +11,8 @@ exl-id: f77979f8-affb-4128-a9ec-668fa9f7911d
 role: User, Admin, Developer
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
-workflow-type: tm+mt
-source-wordcount: '78'
+workflow-type: ht
+source-wordcount: '77'
 ht-degree: 100%
 
 ---

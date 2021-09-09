@@ -1,7 +1,7 @@
 ---
 title: Adobe Campaign Standard 소개
 description: 이 비디오에서는 Adobe Campaign Standard의 고급 기능을 소개합니다.
-feature: 개요
+feature: Overview
 kt: 3971
 thumbnail: 29430.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ exl-id: 8058722e-27e2-43e2-bf60-e3d99ce90a5d
 role: User, Admin, Developer
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
-workflow-type: tm+mt
-source-wordcount: '33'
+workflow-type: ht
+source-wordcount: '32'
 ht-degree: 100%
 
 ---

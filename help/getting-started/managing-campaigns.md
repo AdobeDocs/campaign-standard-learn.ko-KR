@@ -1,7 +1,7 @@
 ---
 title: 캠페인 관리
 description: 캠페인을 만들고 관리하는 방법을 알아봅니다.
-feature: 캠페인
+feature: Campaigns
 kt: 1816
 thumbnail: 24672.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ exl-id: 61b64e5d-2751-47f9-a2b7-08835a28f763
 role: User
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
-workflow-type: tm+mt
-source-wordcount: '74'
+workflow-type: ht
+source-wordcount: '73'
 ht-degree: 100%
 
 ---

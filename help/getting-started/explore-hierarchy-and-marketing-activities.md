@@ -11,9 +11,9 @@ exl-id: c5804637-804c-473f-80d8-d54263c49a5c
 role: User
 level: Beginner
 source-git-commit: d63bb82ec0043f09e480f3edd395083943035eea
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 83%
 
 ## 추가 자료
 
-* [마케팅 활동](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activities.html?lang=en)
+* [마케팅 활동](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activities.html?lang=ko)

@@ -1,15 +1,15 @@
 ---
-title: Adobe Campaign Standard 자습서 - 개요
+title: Adobe Campaign Standard 튜토리얼 - 개요
 description: Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 환경을 제공합니다. 이 사용 안내서에는 Adobe Campaign Standard의 다양한 기능과 성능에 대한 비디오 및 튜토리얼이 포함되어 있습니다.
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
-source-git-commit: 5f019c5a5906a8bd24ab7c0dac23045cfbc046ad
+source-git-commit: aeb30af96ea10240f3e51a7b30ae0dbcf74b5c5a
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 73%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,7 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 * **[문제 해결](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=en)**
 
-   *Adobe Campaign Standard에서 알려진 문제를 해결하는 데 도움이 필요하면 를 찾습니다.*
+*Adobe Campaign Standard에서 알려진 문제를 해결하는 데 도움이 필요하면 를 찾습니다.*
 
 ## 직원 추천
 
@@ -37,7 +37,7 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
     </a>
     </div>
     <p>
-    <em>프로필에서 받은 메시지의 정확한 표시를 사용하여 검토를 위한 증명을 보내는 방법을 배웁니다.</em>
+    <em>검토용 증명에 실제로 해당 프로필이 받게 되는 메시지와 정확히 같은 내용을 넣어 보내는 방법을 알아봅니다.</em>
     <p>
   </td>
    <td>
@@ -55,15 +55,15 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
-      <img alt="자습서: Android용 푸시 알림 시작하기" src="./assets/push-for-android.png" />
+      <img alt="튜토리얼: Android에서 푸시 알림 시작하기" src="./assets/push-for-android.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
-    <strong>자습서: Android용 푸시 알림 시작하기™</strong>
+    <strong>튜토리얼: Android™에서 푸시 알림 시작하기</strong>
     </a>
     </div>
     <p>
-    <em>이 튜토리얼에서는 Adobe Campaign에서 푸시 알림을 전송하고 Android™ 앱에서 해당 알림을 받는 것과 관련된 단계를 안내합니다. </em>
+    <em>이 튜토리얼에서는 Adobe Campaign에서 푸시 알림을 보내고 Android™ 앱에서 해당 알림을 받는 단계를 안내합니다. </em>
     <p>
   </td>
 </tr>
@@ -71,4 +71,4 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 ## 추가 리소스
 
-* [설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en)
+* [설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ko)

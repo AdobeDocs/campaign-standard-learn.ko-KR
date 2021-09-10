@@ -4,15 +4,15 @@ description: Campaign Standard에서 프로필을 보는 도중에 발생하는 
 feature: Profiles
 role: Admin
 level: Beginner, Experienced
-topic: Development
+type: Troubleshooting
 kt: 8385
-source-git-commit: 908c997c130cf0fbb6699b4b5d824e6996e59cc3
-workflow-type: ht
+exl-id: 3c1901eb-8c53-4776-b79a-c76b732b905b
+source-git-commit: 184cd4469cd6872534d65c26fc5de08b4146c542
+workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 100%
 
 ---
-
 
 # 프로필을 보는 도중 발생하는 기술 오류 문제를 해결하는 방법
 

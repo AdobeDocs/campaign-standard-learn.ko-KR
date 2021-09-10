@@ -1,6 +1,6 @@
 ---
 user-guide-title: Adobe Campaign Standard 문제 해결
-user-guide-description: Adobe Campaign Standard 문제를 해결하는 방법에 대한 도움말을 찾습니다.
+user-guide-description: Adobe Campaign Standard의 문제를 해결하는 방법에 대한 도움말을 확인할 수 있습니다.
 breadcrumb-title: Adobe Campaign Standard 문제 해결
 breadcrumb-url: /docs/campaign-standard-learn/troubleshoot-adobe-campaign/overview.html
 index: true
@@ -9,8 +9,8 @@ role: Admin
 level: Experienced
 source-git-commit: 9eecc356e0ef4595874894294a71f797f3d105ac
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

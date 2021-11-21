@@ -1,7 +1,7 @@
 ---
 title: 다국어 이메일 또는 SMS 게재 만들기
 description: '다국어 캠페인을 보내는 운영 복잡성을 간소화하는 방법을 알아봅니다. '
-feature: 이메일, SMS
+feature: Email, SMS
 kt: 1277
 thumbnail: 23252
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User
 level: Intermediate, Experienced
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '113'
+ht-degree: 1%
 
 ---
 

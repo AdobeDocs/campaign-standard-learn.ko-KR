@@ -1,7 +1,7 @@
 ---
 title: 전체 하위 도메인 위임
 description: '하위 도메인을 Adobe Campaign에 위임하는 방법을 알아봅니다. '
-feature: 하위 도메인 및 인증서
+feature: Subdomains and Certificates
 kt: 4115
 thumbnail: 31390.jpg
 doc-type: feature video
@@ -10,8 +10,8 @@ team: PM
 exl-id: 063e9971-2cc6-4027-80cc-d2c0fd264a51
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 64%
+source-wordcount: '86'
+ht-degree: 66%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 64%
 
 Adobe Campaign [!UICONTROL Control Panel]을(를) 사용하면 하위 도메인을 Adobe Campaign에 완전히 위임할 수 있습니다.
 
-## [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]에 액세스합니다
+## 액세스 권한 [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
 
 [!UICONTROL Subdomain Management]에 액세스하려면 [!UICONTROL Control Panel]에서 다음 위치로 이동하십시오.
 

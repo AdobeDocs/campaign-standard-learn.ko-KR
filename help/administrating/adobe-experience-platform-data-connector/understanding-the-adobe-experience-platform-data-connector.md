@@ -1,7 +1,7 @@
 ---
 title: Adobe Experience Platform Data Connector 이해
 description: Adobe Experience Platform Data Connector는 기존 고객이 Adobe Experience Platform에서 XTK 데이터(Campaign에서 수집한 데이터)를 XDM(Experience Data Model) 데이터에 매핑하여 Adobe Experience Platform에서 데이터를 사용할 수 있도록 합니다.
-feature: 사용자 핵심 서비스 통합
+feature: People Core Service Integration
 kt: 2826
 thumbnail: 27304.jpg
 doc-type: feature video
@@ -10,36 +10,36 @@ team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '285'
+ht-degree: 7%
 
 ---
 
-# Adobe Experience Platform [!UICONTROL Data Connector] 이해
+# Adobe Experience Platform 이해 [!UICONTROL Data Connector]
 
 >[!NOTE]
 >
 >이 기능은 베타에 있으며, 예고 없이 자주 업데이트되고 수정될 수 있습니다.
 >
->이 기능을 구현하려면 [!UICONTROL Adobe Customer Support]에 문의하십시오.
+>다음 주소로 문의하십시오 [!UICONTROL Adobe Customer Support] 이 기능을 구현할 계획인 경우
 
 ## 개요
 
-Adobe Experience Platform [!UICONTROL Data Connector]은(는) 기존 고객이 Adobe Experience Platform의 XTK 데이터(Adobe Campaign에서 수집된 데이터)를 [!DNL Experience Data Model] (XDM) 데이터에 매핑하여 Adobe Experience Platform에서 데이터를 사용할 수 있도록 하는 데 도움이 됩니다.
+Adobe Experience Platform [!UICONTROL Data Connector] 은 기존 고객이 XTK 데이터(Adobe Campaign에서 수집된 데이터)를 [!DNL Experience Data Model] (XDM) 데이터를 Adobe Experience Platform에 업로드합니다.
 
 커넥터는 일방향 및 Adobe Campaign Standard에서 Adobe Experience Platform으로 데이터를 전송합니다. 데이터는 Adobe Experience Platform에서 Adobe Campaign Standard으로 전송되지 않습니다.
 
-Adobe Experience Platform [!UICONTROL Data Connector]은 Adobe Campaign Standard [!UICONTROL custom resources]을 이해하고 고객의 전체 데이터 스키마가 Adobe Experience Platform 내에 있어야 하는 방법을 알고 있는 데이터 엔지니어를 위한 것입니다.
+Adobe Experience Platform [!UICONTROL Data Connector] Adobe Campaign Standard을 이해하는 데이터 엔지니어를 위한 것입니다. [!UICONTROL custom resources] 및 는 Adobe Experience Platform 내에 고객의 전체 데이터 스키마가 어떻게 있어야 하는지 이해합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27304?quality=12)
 
-*이 비디오에서는 Adobe Experience Platform에 대한 개요를 제공합니다  [!UICONTROL Data Connector] (09:35)*
+*이 비디오에서는 Adobe Experience Platform에 대한 개요를 제공합니다 [!UICONTROL Data Connector] (09:35분)*
 
 >[!NOTE]
 >
->[!UICONTROL subscription events] 의 기본 전송이 지원되지 않습니다. [!UICONTROL subscription events]을 전송하려면 Adobe Experience Platform에서 해당 XDM 및 데이터 세트를 만든 다음, 이러한 데이터에 대한 사용자 지정 데이터 매핑을 구성할 수 있습니다.
+>의 기본 제공 전송 [!UICONTROL subscription events] 은 지원되지 않습니다. 양도하려면 [!UICONTROL subscription events]로 지정하는 경우 Adobe Experience Platform에서 해당 XDM 및 데이터 세트를 만든 다음 이러한 데이터에 대한 사용자 지정 데이터 매핑을 구성할 수 있습니다.
 >
->기존 [!UICONTROL experience events]을(를) Adobe Experience Platform에 수집할 수 없지만 생성된 [!UICONTROL experience events]이(가) Adobe Experience Platform으로 스트리밍됩니다.
+>기존 [!UICONTROL experience events] Adobe Experience Platform에 수집할 수 없지만 계속 생성됨 [!UICONTROL experience events] Adobe Experience Platform으로 스트리밍됩니다.
 
 ## 데이터 매핑을 수행하는 주요 단계
 
@@ -49,7 +49,7 @@ Adobe Experience Platform [!UICONTROL Data Connector]은 Adobe Campaign Standard
 2. [Experience 이벤트 매핑](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
 3. [시드 테이블 데이터 매핑](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
 4. [데이터 매핑 수정](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-5. [데이터 수집 작업의 상태 확인](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+5. [데이터 수집 작업 상태 확인](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
 
 ## 추가 리소스
 

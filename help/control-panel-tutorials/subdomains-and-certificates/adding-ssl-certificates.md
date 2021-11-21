@@ -1,7 +1,7 @@
 ---
 title: SSL 인증서 추가
 description: 하위 도메인 보안을 위해 SSL 인증서를 추가하는 방법을 배웁니다.
-feature: Campaign 컨트롤 패널
+feature: Control Panel
 audience: administrator
 kt: 4219
 thumbnail: 31317.jpg
@@ -11,8 +11,8 @@ team: PM
 exl-id: b46d9186-07db-4225-8dd7-3f3452aa7a1b
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 36%
+source-wordcount: '189'
+ht-degree: 35%
 
 ---
 
@@ -20,11 +20,11 @@ ht-degree: 36%
 
 하위 도메인 보안을 위해 SSL 인증서를 추가하는 방법을 배웁니다.
 
-## [!UICONTROL Control Panel] 하위 도메인 관리 액세스
+## 액세스 [!UICONTROL Control Panel] 하위 도메인 관리
 
 [!UICONTROL Control Panel]에서 하위 도메인 관리에 액세스하려면 다음 위치로 이동하십시오.
 
-* [Experience Cloud 홈](https://experience.adobe.com/#/home)  >  [!UICONTROL Solution picker]:  [!DNL Campaign] >  **[!UICONTROL Control Panel]** 카드 >  [!UICONTROL **하위 도메인 및**] 인증서 카드
+* [Experience Cloud 홈](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!DNL Campaign] > **[!UICONTROL Control Panel]** 카드 > [!UICONTROL **하위 도메인 및 인증서**] 카드
 
    또는
 * 다음 URL에서 직접 액세스: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
@@ -33,11 +33,11 @@ ht-degree: 36%
 
 SSL 인증서를 추가하려면 다음 3단계를 수행하십시오.
 
-### 1단계: [!UICONTROL Certificate Signing Requests] 생성
+### 1단계: 생성 [!UICONTROL Certificate Signing Requests]
 
-SSL 인증서를 구매하려면 [!UICONTROL Certificate Signing Request](CSR)이 필요합니다. 인스턴스 및 보안을 설정할 하위 도메인에 대해 생성되어야 합니다.
+A [!UICONTROL Certificate Signing Request] SSL 인증서를 구매하려면 CSR( )이 필요합니다. 인스턴스 및 보안을 설정할 하위 도메인에 대해 생성되어야 합니다.
 
-아래 비디오에서는 [!UICONTROL Control Panel]에서 [!UICONTROL Certificate Signing Request]을 생성하는 방법에 대해 설명합니다.
+아래 비디오에서는 을(를) 생성하는 방법에 대해 설명합니다. [!UICONTROL Certificate Signing Request] in [!UICONTROL Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
 

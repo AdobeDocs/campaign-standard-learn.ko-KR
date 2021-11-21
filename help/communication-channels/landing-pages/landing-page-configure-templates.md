@@ -1,7 +1,7 @@
 ---
 title: 랜딩 페이지 템플릿 구성
 Description: This video explains how to configure Landing Page templates in Adobe Campaign Standard.
-feature: 랜딩 페이지
+feature: Landing Pages
 kt: 1817
 thumbnail: 25200.jpg
 doc-type: feature video
@@ -13,13 +13,13 @@ role: Admin, User
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '24'
-ht-degree: 29%
+source-wordcount: '22'
+ht-degree: 22%
 
 ---
 
-# [!UICONTROL landing page template] 구성
+# 구성 [!UICONTROL landing page template]
 
-이 비디오에서는 [!UICONTROL landing page] 템플릿을 구성하는 방법을 설명합니다.
+다음 비디오에서는 을 구성하는 방법을 설명합니다 [!UICONTROL landing page] 템플릿.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25200/?quality=12)

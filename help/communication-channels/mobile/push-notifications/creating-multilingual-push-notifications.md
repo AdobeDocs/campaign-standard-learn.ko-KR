@@ -1,7 +1,7 @@
 ---
 title: 다국어 푸시 알림 만들기
 description: '다국어 푸시 알림을 만드는 방법을 알아봅니다. '
-feature: 푸시
+feature: Push
 kt: 1375
 thumbnail: 23304.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 39%
+source-wordcount: '63'
+ht-degree: 38%
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 인앱 메시지 브로드캐스트
 description: 브로드캐스트 템플릿을 구성하고 사용하여 모바일 앱의 모든 사용자를 타겟팅하는 방법을 살펴볼 수 있습니다.
-feature: 인앱
+feature: In App
 kt: 2497
 thumbnail: 26199.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ role: User, Developer
 level: Beginner, Intermediate
 source-git-commit: 7f70c5a02654b03f248e2ec71563473f98688b70
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '131'
 ht-degree: 7%
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: 서비스 및 구독 관리
 description: 서비스를 만들고 구독을 관리하는 방법을 알아봅니다.
-feature: 구독
+feature: Subscriptions
 kt: 1815
 thumbnail: 24673.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ role: User, Developer
 level: Beginner, Intermediate
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '153'
 ht-degree: 37%
 
 ---

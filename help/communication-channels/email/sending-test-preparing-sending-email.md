@@ -1,7 +1,7 @@
 ---
-title: 테스트 보내기, 준비 및 이메일 보내기
+title: 테스트 보내기, 준비, 이메일 보내기
 description: '"테스트 이메일을 보내고, 준비한 다음 이메일 배달을 보내는 방법을 배웁니다. "'
-feature: '이메일  '
+feature: Email
 kt: 1812
 thumbnail: 24013.jpg
 doc-type: feature video
@@ -12,12 +12,12 @@ role: User
 level: Beginner
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '70'
+ht-degree: 40%
 
 ---
 
-# 테스트 보내기, 준비 및 이메일 보내기
+# 테스트 보내기, 준비, 이메일 보내기
 
 이 비디오에서는 ACS(Adobe Campaign Standard)에서 테스트 이메일을 보내고, 준비한 다음 이메일 배달을 보내는 방법을 설명합니다.
 

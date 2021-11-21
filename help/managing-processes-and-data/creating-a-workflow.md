@@ -1,7 +1,7 @@
 ---
 title: 워크플로우 만들기
 description: 워크플로우를 만들고 편집하는 방법을 알아봅니다.
-feature: 워크플로우
+feature: Workflows
 kt: 1809
 thumbnail: 23937.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ role: User, Developer, Admin
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '82'
 ht-degree: 56%
 
 ---

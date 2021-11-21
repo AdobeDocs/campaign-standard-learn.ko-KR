@@ -1,7 +1,7 @@
 ---
 title: 사용자 정의 리소스 매핑
 description: ACS(Adobe Campaign Standard)과 Adobe Experience Platform(AEP) 간에 서로 다른 데이터 유형을 매핑하는 방법을 알아봅니다
-feature: 사용자 핵심 서비스 통합
+feature: People Core Service Integration
 kt: 2828
 thumbnail: 27231.jpg
 doc-type: feature video
@@ -10,18 +10,18 @@ team: TM
 exl-id: c0c8bcca-9b32-461a-8126-3a59106fe6ac
 source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 8%
+source-wordcount: '75'
+ht-degree: 9%
 
 ---
 
-# [!UICONTROL custom resources] 매핑
+# 매핑 [!UICONTROL custom resources]
 
 >[!NOTE]
 >
 >이 기능은 현재 베타에 있으며, 예고 없이 자주 업데이트되고 수정될 수 있습니다.
 >
->이 기능을 구현하려면 [!UICONTROL Adobe Customer Support]에 문의하십시오.
+>다음 주소로 문의하십시오 [!UICONTROL Adobe Customer Support] 이 기능을 구현할 계획인 경우
 
 Adobe Campaign Standard과 Adobe Experience Platform 간에 서로 다른 데이터 유형을 매핑하는 방법을 알아봅니다.
 

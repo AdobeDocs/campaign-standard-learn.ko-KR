@@ -1,7 +1,7 @@
 ---
 title: 사용자 정의 리소스 만들기
 description: 고객이라는 사용자 정의 리소스를 만드는 방법을 알아봅니다.
-feature: 데이터 모델
+feature: Data Model
 kt: 3000
 thumbnail: 27716.jpg
 doc-type: feature video
@@ -10,8 +10,8 @@ team: TM
 exl-id: 33a68e3b-2e28-48c5-840b-05fc49825fff
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '37'
-ht-degree: 27%
+source-wordcount: '35'
+ht-degree: 28%
 
 ---
 

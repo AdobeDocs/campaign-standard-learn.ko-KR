@@ -1,7 +1,7 @@
 ---
 title: 사용자 지정 리소스 연결
 description: 두 개의 사용자 지정 리소스를 연결하는 방법을 알아봅니다.
-feature: 데이터 모델
+feature: Data Model
 kt: 3002
 thumbnail: 27712.jpg
 doc-type: feature video
@@ -10,8 +10,8 @@ team: TM
 exl-id: 32100e9e-a38e-40bd-b2ee-5816b496f118
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '29'
-ht-degree: 6%
+source-wordcount: '27'
+ht-degree: 7%
 
 ---
 

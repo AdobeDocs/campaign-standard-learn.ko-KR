@@ -1,7 +1,7 @@
 ---
 title: 게재에 컨트롤 그룹 추가
 description: 게재하기 위해 컨트롤 그룹 정의 방법 및 게재한 후 컨트롤 그룹에 지정된 프로필을 추출하는 방법을 알아봅니다.
-feature: 컨트롤 그룹
+feature: Control Groups
 kt: 5060
 thumbnail: 40684.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ role: User
 level: Intermediate, Experienced
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '121'
 ht-degree: 100%
 
 ---

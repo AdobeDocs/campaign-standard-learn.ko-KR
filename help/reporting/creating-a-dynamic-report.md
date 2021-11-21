@@ -1,7 +1,7 @@
 ---
 title: 동적 보고서 만들기
 description: 보고서를 만드는 방법을 알아봅니다.
-feature: 보고
+feature: Reporting
 kt: 2037
 thumbnail: 25264.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ role: User
 level: Beginner
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 33%
+source-wordcount: '62'
+ht-degree: 32%
 
 ---
 
-# [!UICONTROL Dynamic Report] 만들기{#creating-a-report}
+# 만들기 [!UICONTROL Dynamic Report]{#creating-a-report}
 
-Adobe Campaign의 [!UICONTROL Dynamic Reports]은 데이터를 탐색할 수 있는 유연한 자유 형식 환경입니다. 차원, 지표 및 시간 범위를 무제한으로 분류 및 비교할 수 있도록 모든 조합에서 결합할 수 있습니다.
+Adobe Campaign [!UICONTROL Dynamic Reports] 데이터를 탐색할 수 있는 유연한 자유 형식 환경입니다. 차원, 지표 및 시간 범위를 무제한으로 분류 및 비교할 수 있도록 모든 조합에서 결합할 수 있습니다.
 
 보고서를 만드는 방법을 알아봅니다.
 

@@ -1,7 +1,7 @@
 ---
 title: '프로필 만들기 '
 description: 프로필을 만드는 방법과 프로필을 대상에 추가하는 방법을 알아봅니다.
-feature: 프로필, 대상자
+feature: Profiles, Audiences
 kt: 1820
 thumbnail: 25277.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 13%
+source-wordcount: '36'
+ht-degree: 8%
 
 ---
 

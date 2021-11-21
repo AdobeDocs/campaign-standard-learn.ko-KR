@@ -1,7 +1,7 @@
 ---
 title: 워크플로우 내에서 인앱 게재 만들기
 description: 인앱 게재 활동을 사용하여 워크플로우에서 계산된 타겟 대상자에게 인앱 메시지 전송을 자동화하는 방법을 알아봅니다.
-feature: 인앱
+feature: In App
 kt: 2500
 thumbnail: 26226.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ role: User, Developer
 level: Beginner, Intermediate
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '129'
+ht-degree: 6%
 
 ---
 
-# 워크플로우 내에서 [!UICONTROL In-App] 게재 만들기
+# 만들기 [!UICONTROL In-App] 워크플로우 내 게재
 
-인앱 게재 활동은 동일한 워크플로우에서 계산된 타겟 대상으로 [!UICONTROL In-App] 메시지 전송을 자동화하는 데 사용됩니다.
+인앱 게재 활동은 광고 전송을 자동화하는 데 사용됩니다 [!UICONTROL In-App] 동일한 워크플로우에서 계산된 타겟 대상자에게 메시지를 보냅니다.
 
 인앱 게재 활동을 사용하여 워크플로우에서 계산된 타겟 대상자에게 인앱 메시지 전송을 자동화하는 방법을 알아봅니다.
 

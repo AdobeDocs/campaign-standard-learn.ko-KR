@@ -1,7 +1,7 @@
 ---
 title: 이메일 디자이너 개요
 description: 이메일 디자이너의 일반적인 기능과 이메일을 처음부터 디자인하는 방법을 이해합니다.
-feature: 이메일 디자인
+feature: Email Design
 kt: 1402
 thumbnail: 22771.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 85%
+source-wordcount: '123'
+ht-degree: 86%
 
 ---
 

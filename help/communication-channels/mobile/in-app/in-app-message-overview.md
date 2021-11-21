@@ -1,7 +1,7 @@
 ---
 title: 인앱 메시지 소개
 description: 모바일 애플리케이션 내에서 고객의 실시간 행동에 응답하여 컨텍스트에 맞는 인앱 메시지를 사용자에게 표시하는 방법을 알아봅니다.
-feature: 인앱
+feature: In App
 kt: 1911
 doc-type: feature video
 activity: use
@@ -11,47 +11,47 @@ role: User
 level: Beginner
 source-git-commit: 30e8e10575aad4dcf2b0473cdd9fd6d5fc2815f4
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '728'
 ht-degree: 21%
 
 ---
 
-# [!UICONTROL In-App] 메시지 소개 {#introduction}
+# 소개 [!UICONTROL In-App] messages {#introduction}
 
-사용자가 모바일 애플리케이션 내에서 활성 상태일 때 [!UICONTROL In-App Messaging] 채널을 사용하면 메시지를 표시할 수 있습니다. 이 채널을 사용하려면 모바일 애플리케이션을 [!UICONTROL Adobe Experience Platform SDK]과 통합해야 합니다.
+다음 [!UICONTROL In-App Messaging] 채널을 사용하면 사용자가 모바일 애플리케이션 내에서 활성 상태일 때 메시지를 표시할 수 있습니다. 이 채널을 사용하려면 모바일 애플리케이션을 [!UICONTROL Adobe Experience Platform SDK].
 
-이 자습서에서는 모바일 속성을 설정하는 데 필요한 단계, [!UICONTROL In-App Messaging] 채널을 위한 [!UICONTROL Launch] 확장 및 Adobe Campaign Standard에서 [!UICONTROL In-App] 메시지를 준비, 사용자 지정 및 전송하는 방법에 대해 설명합니다. 이 링크에서는 강조 표시된 각 주제에 대한 비디오 자습서를 제공합니다.
+이 자습서에서는 모바일 속성을 설정하는 데 필요한 단계인 [!UICONTROL Launch] 확장 [!UICONTROL In-App Messaging] 채널 및 준비, 사용자 지정 및 전송 방법 [!UICONTROL In-App] Adobe Campaign Standard의 메시지. 이 링크에서는 강조 표시된 각 주제에 대한 비디오 자습서를 제공합니다.
 
 ## 필수 구성 요소 {#prerequisites}
 
-1. **[!UICONTROL In-App]** 채널에 액세스할 수 있는지 확인합니다. 이 채널에 액세스할 수 없는 경우 계정 팀에 문의하십시오.
-1. **사용자**&#x200B;에 필요한 **권한**&#x200B;이 Adobe Campaign Standard 및 [!UICONTROL Launch]에 있는지 확인합니다.
+1. 에 액세스할 수 있는지 확인합니다. **[!UICONTROL In-App]** 채널. 이 채널에 액세스할 수 없는 경우 계정 팀에 문의하십시오.
+1. 다음 사항을 확인합니다. **사용자** 필요한 **권한** Adobe Campaign Standard 및 [!UICONTROL Launch].
 
-   1. Adobe Campaign Standard에서 IMS 사용자가 [!UICONTROL Standard User] 및 [!UICONTROL Administrator] 그룹의 일부인지 확인합니다.
+   1. Adobe Campaign Standard에서 IMS 사용자가 [!UICONTROL Standard User] 및 [!UICONTROL Administrator] 그룹 을 참조하십시오.
 
-      이 단계에서는 사용자가 Adobe Campaign Standard에 로그인하고, Experience Platform SDK 모바일 앱 페이지로 이동한 다음 [!UICONTROL Launch]에서 만든 모바일 앱 속성을 볼 수 있습니다.
+      이 단계에서는 사용자가 Adobe Campaign Standard에 로그인하고, Experience Platform SDK 모바일 앱 페이지로 이동한 다음, 만든 모바일 앱 속성을 볼 수 있습니다. [!UICONTROL Launch].
 
-   1. [!UICONTROL Launch]에서 IMS 사용자가 [!UICONTROL Launch] 제품 프로필에 포함되어 있는지 확인합니다. 이 단계에서는 사용자가 [!UICONTROL Launch]에 로그인하여 속성을 만들고 볼 수 있습니다. 제품 프로필에는 회사 또는 속성에 설정된 권한이 없어야 하지만 사용자는 계속 로그인할 수 있어야 합니다.
+   1. in [!UICONTROL Launch], IMS 사용자가 [!UICONTROL Launch] 제품 프로필 . 이 단계에서는 사용자가 다음에 로그인할 수 있습니다 [!UICONTROL Launch] 를 클릭하여 속성을 만들고 확인합니다. 제품 프로필에는 회사 또는 속성에 설정된 권한이 없어야 하지만 사용자는 계속 로그인할 수 있어야 합니다.
 
 1. Adobe Experience Platform Launch에서:
 
    1. 모바일 속성을 만들고 Experience Platform SDK를 사용하여 모바일 앱을 구현하여 모바일 애플리케이션을 만듭니다.
-   1. 모바일 애플리케이션용 **Adobe Campaign Standard** 확장을 설치합니다.
+   1. 설치 **Adobe Campaign Standard** 확장을 사용할 수 있습니다.
 
-확장에 대한 자세한 내용은 설명서에서 [Adobe Launch](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaign-standard)에서 Campaign Standard 확장 구성 을 참조하십시오.
+확장에 대한 자세한 내용은 [Launch에서 Campaign Standard 확장 구성](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaign-standard) 참조하십시오.
 
-## [!UICONTROL In-App] 메시지를 설정하는 절차 {#steps-to-set-up}
+## 설정 단계 [!UICONTROL In-App] messages {#steps-to-set-up}
 
 1. [Adobe Experience Platform SDK를 사용하여 모바일 애플리케이션 구성](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md).
 1. [이벤트 구성](/help/communication-channels/mobile/in-app/configure-events.md).
 
-## 게재 만들기, 관리 및 게시 [!UICONTROL In-App] {#create-manage-publish}
+## 만들기, 관리 및 게시 [!UICONTROL In-App] 게재 {#create-manage-publish}
 
-홈 페이지, [!UICONTROL Marketing Activities]에서 **[!UICONTROL Create an In-App Message]** 카드를 클릭하여 인앱 게재를 한 번 만들거나, 워크플로우](/help/communication-channels/mobile/in-app/in-app-activity.md) 내에서 [인앱 게재를 만들 수 있습니다.
+를 클릭하여 인앱 게재를 한 번 만들 수 있습니다 **[!UICONTROL Create an In-App Message]** 홈페이지의 카드로부터 [!UICONTROL Marketing Activities]또는 [워크플로우 내에서 인앱 게재 만들기](/help/communication-channels/mobile/in-app/in-app-activity.md).
 
 게재를 설정할 때 다른 게재 템플릿 중에서 선택하여 사용자를 타깃팅하는 세 가지 옵션이 있습니다.
 
-1. [**모바일 앱의 모든**](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md) 사용자를 타겟팅하기 위해 인앱 메시지를 브로드캐스트합니다.
+1. [**인앱 메시지 브로드캐스트**](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md) 모바일 앱의 모든 사용자를 타겟팅합니다.
 
    이 메시지 유형을 사용하면 Adobe Campaign에 기존 프로필이 없더라도 모바일 애플리케이션의 모든 사용자(현재 또는 미래)에게 메시지를 보낼 수 있습니다. 따라서 Adobe Campaign에 사용자 프로필이 반드시 존재하지 않으므로 메시지를 사용자 지정할 때는 개인화를 수행할 수 없습니다.
 
@@ -67,7 +67,7 @@ ht-degree: 21%
 
 ## 인앱 게재 보고서 {#report}
 
-게재가 게시되면 인앱 게재](/help/communication-channels/mobile/in-app/in-app-reporting.md)에 대해 [보고할 수 있습니다.
+게재가 게시되면 다음 작업을 수행할 수 있습니다 [인앱 게재 보고서](/help/communication-channels/mobile/in-app/in-app-reporting.md).
 
 ## 추가 리소스
 

@@ -1,14 +1,14 @@
 ---
 title: GPG 키 관리 - 개요
 description: 아웃바운드 데이터의 암호화를 위해 지정된 Campaign 인스턴스에 공개/개인 키 쌍을 생성하고 설치하는 방법을 배웁니다. 인바운드 데이터의 암호 해독을 위해 Campaign 인스턴스에 공개 키를 가져와 설치하는 방법을 배웁니다.
-feature: Campaign 컨트롤 패널
+feature: Control Panel
 audience: administrator
 team: TM
 exl-id: a9a24104-332c-483e-8a6f-6d80f90ad66f
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 64%
+source-wordcount: '158'
+ht-degree: 70%
 
 ---
 
@@ -18,8 +18,8 @@ GPG(GnuPG)는 비대칭 개별 키 쌍을 사용하여 메시지를 암호화합
 
 아웃바운드 데이터의 암호화를 위해 지정된 Campaign 인스턴스에 공개/개인 키 쌍을 생성하고 설치하는 방법을 배웁니다. 인바운드 데이터의 암호 해독을 위해 Campaign 인스턴스에 공개 키를 가져와 설치하는 방법을 배웁니다.
 
-* [데이터 암호화에 대한 GPG 키 생성 및 설치](./generating-and-installing-gpg-keys-for-data-encryption.md)
-* [GPG 키를 사용하여 데이터 암호화](./using-a-gpg-key-to-encrypt-data.md)
+* [데이터 암호화를 위한 GPG 키 생성 및 설치](./generating-and-installing-gpg-keys-for-data-encryption.md)
+* [GPG 키를 사용한 데이터 암호화](./using-a-gpg-key-to-encrypt-data.md)
 * [데이터 암호 해독](./decrypting-data.md)
 
 ## 추가 리소스

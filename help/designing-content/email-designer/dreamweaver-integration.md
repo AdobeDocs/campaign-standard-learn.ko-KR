@@ -1,7 +1,7 @@
 ---
 title: Adobe Dreamweaver를 사용하여 콘텐츠 제작
 description: Dreamweaver 통합을 활성화하는 데 필요한 사항과 Dreamweaver을 사용하여 Adobe Campaign Standard용 컨텐츠를 만들고 편집하는 방법을 이해합니다.
-feature: 이메일 디자인
+feature: Email Design
 kt: 1420
 thumbnail: 23121.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 76%
+source-wordcount: '173'
+ht-degree: 77%
 
 ---
 
@@ -27,7 +27,7 @@ Adobe Dreamweaver와 통합된 Adobe Campaign Standard을 통해 Dreamweaver 인
 
 >[!NOTE]
 >
->이 기능을 사용하려면 Dreamweaver 확장을 호출해야 합니다 **[!UICONTROL Adobe Campaign Integration]**. 확장은 [Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search)에서 다운로드할 수 있습니다. 설치에 대한 자세한 내용은 [Dreamweaver용 캠페인 확장](https://helpx.adobe.com/kr/dreamweaver/using/working-with-dreamweaver-and-campaign.html)을 참조하십시오.
+>이 기능을 사용하려면 Dreamweaver 확장을 호출해야 합니다 **[!UICONTROL Adobe Campaign Integration]**. 확장은 [Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search)에서 다운로드할 수 있습니다. 설치에 대한 자세한 내용은 [Dreamweaver용 Campaign 확장](https://helpx.adobe.com/kr/dreamweaver/using/working-with-dreamweaver-and-campaign.html).
 
 이 비디오에서는 Dreamweaver 통합을 구현하는 데 필요한 사항과 Dreamweaver를 사용하여 Adobe Campaign Standard용 콘텐츠를 만들고 편집하는 방법에 대해 설명합니다.
 

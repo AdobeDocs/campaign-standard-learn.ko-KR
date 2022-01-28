@@ -10,9 +10,9 @@ team: PMM
 exl-id: 46978dbc-1716-4fc4-946e-56d703944d25
 role: User, Developer
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: e918bcaf5e7bc735bc176d7c7638657f1c7eeab2
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '28'
 ht-degree: 100%
 
 ---
@@ -22,9 +22,3 @@ ht-degree: 100%
 이 비디오에서는 Adobe Campaign Standard의 보고 기능에 대한 개요를 제공합니다
 
 >[!VIDEO](https://video.tv.adobe.com/v/29461?quality=12)
-
-## 추가 자료
-
-* [동적 보고서 만들기](/help/reporting/creating-a-dynamic-report.md)
-* [사용자 정의 프로필 속성을 사용하여 동적 보고서 만들기](/help/reporting/custom-profile-attributes-dynamic-reports.md)
-* [워크플로우 세그먼트 기반 보고서 만들기](/help/reporting/report-on-workflow-segments.md)

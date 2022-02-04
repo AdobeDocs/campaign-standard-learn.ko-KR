@@ -10,10 +10,10 @@ team: TM
 exl-id: f069fe5c-654c-4be3-818d-b34741e4681e
 role: User
 level: Intermediate, Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 32%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,6 +23,4 @@ ht-degree: 32%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23251?quality=12)
 
-## 추가 리소스
-
-* [다국어 이메일 만들기(설명서)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)
+자세한 내용은 제품 설명서 를 참조하십시오 [다국어 이메일 만들기](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)

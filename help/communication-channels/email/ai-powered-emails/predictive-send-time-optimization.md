@@ -10,10 +10,10 @@ team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
+source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 89%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -30,12 +30,4 @@ Adobe Campaign과 여정 AI 모델 간의 데이터를 동기화하는 데 필�
 
 >[!VIDEO](https://video.tv.adobe.com/v/40469?quality=12)
 
-## 추가 리소스
-
-자습서:
-
-* [예측 참여 점수 책정](predictive-engagement-scoring.md)
-
-설명서:
-
-* [AI 기반 이메일을 통해 디자인 및 게재 최적화](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)
+자세한 내용은 제품 설명서 를 참조하십시오 [AI 기반의 이메일을 통해 디자인 및 게재 최적화](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)

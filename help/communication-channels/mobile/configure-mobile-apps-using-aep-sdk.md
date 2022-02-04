@@ -10,14 +10,15 @@ team: TM
 exl-id: b51d40f6-e67a-49fe-87d5-bf42a439a0e3
 role: Admin
 level: Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: fa79214cceb411a8a53c650ac06c64cf3c7cdfd3
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 11%
 
 ---
 
-# 을 사용하여 모바일 애플리케이션 구성 [!UICONTROL Adobe Experience Platform SDK] {#configure-a-mobile-application-using-adobe-experience-platform-sdk}
+
+# 을 사용하여 모바일 애플리케이션 구성 [!UICONTROL Adobe Experience Platform SDK]
 
 인앱 메시지를 보내려면 [!UICONTROL push notifications] mobile SDK V5를 사용하여에서 모바일 앱을 설정해야 합니다. [!UICONTROL Adobe Experience Platform Launch] 및 은 Adobe Campaign에서 구성됩니다.
 

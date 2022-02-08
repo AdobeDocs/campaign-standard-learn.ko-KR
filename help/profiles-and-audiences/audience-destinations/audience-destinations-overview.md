@@ -10,10 +10,11 @@ team: TM
 exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+recommendations: noDisplay
+source-git-commit: 87c7d040e2bdd1ccaceb5035b494a6fb50c77f7b
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 9%
+source-wordcount: '165'
+ht-degree: 4%
 
 ---
 
@@ -36,7 +37,3 @@ ht-degree: 9%
 1. [통합 세그먼트 빌더를 사용하여 새 대상자 만들기](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 2. [마케팅 워크플로우에서 Experience Platform 대상 활성화](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
 3. [Platform 대상에 대한 게재 타깃팅 차원 변경](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
-
-## 추가 리소스
-
-*[Adobe Experience Platform 데이터 커넥터 이해](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)

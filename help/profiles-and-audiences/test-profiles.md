@@ -10,10 +10,10 @@ team: DOC
 exl-id: fb138b50-5022-4320-8d45-a9ac6405a44e
 role: User
 level: Beginner, Intermediate
-source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
+source-git-commit: 19c6fe46ec03d822736dc3b80171b1bd41fc5a55
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 25%
+source-wordcount: '91'
+ht-degree: 27%
 
 ---
 
@@ -24,7 +24,3 @@ ht-degree: 25%
 다음 비디오에서는 테스트 프로필을 만드는 방법을 설명합니다
 
 >[!VIDEO](https://video.tv.adobe.com/v/24094?quality=12)
-
-## 추가 리소스
-
-* [테스트 프로필 관리(설명서)](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-profiles/managing-test-profiles.html)

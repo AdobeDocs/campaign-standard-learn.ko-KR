@@ -10,10 +10,10 @@ team: ACS
 exl-id: 7d6634ed-f6b0-4d77-9148-3f2c0e444862
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
+source-git-commit: 275b7f05b50891757a7921c16dfcd9c8a1c3a036
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 66%
+source-wordcount: '188'
+ht-degree: 67%
 
 ---
 
@@ -29,13 +29,3 @@ ht-degree: 66%
 개별 프로필 수준에서 참여 점수를 보고, 참여 사용자 타겟팅 및 피로도가 높은 사용자를 알아보기 위해 점수를 사용하고 분류 규칙을 만들어 고객 피로도를 관리하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12)
-
-## 추가 리소스
-
-자습서:
-
-* [예측 전송 시간 최적화](predictive-send-time-optimization.md)
-
-설명서:
-
-* [AI 기반 이메일을 통해 디자인 및 게재 최적화](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)

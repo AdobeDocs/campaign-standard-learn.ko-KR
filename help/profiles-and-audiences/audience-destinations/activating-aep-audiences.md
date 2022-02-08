@@ -10,10 +10,10 @@ team: PM
 exl-id: 955d063f-4709-4f56-8f39-f1b838354300
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: c270d2c6ef7ad695226d79da51cfd2f18dcefaff
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 12%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -31,13 +31,4 @@ ht-degree: 12%
 
 *워크플로우에서 Adobe Experience Platform 대상 활성화(02:37분)*
 
-## 추가 리소스
-
-설명서:
-
-* [Adobe Experience Platform 대상자를 Campaign으로 수집](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
-
-비디오 리소스:
-
-* [통합 세그먼트 빌더를 사용하여 Adobe Campaign Standard에서 대상 만들기](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [Platform 대상에 대한 게재 타깃팅 차원 변경](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+방법에 대한 제품 설명서를 참조하십시오. [campaign에 Adobe Experience Platform 대상 수집](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)

@@ -10,10 +10,10 @@ team: TM
 exl-id: b51d40f6-e67a-49fe-87d5-bf42a439a0e3
 role: Admin
 level: Experienced
-source-git-commit: fa79214cceb411a8a53c650ac06c64cf3c7cdfd3
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 11%
+source-wordcount: '102'
+ht-degree: 8%
 
 ---
 
@@ -29,8 +29,3 @@ ht-degree: 11%
 >[!NOTE]
 >
 >자세한 내용은 [에서 애플리케이션 구성 [!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en) 자세한 설명서 및 비디오에 사용된 코드 템플릿에 대한 설명입니다.
-
-## 추가 리소스
-
-* [모바일 속성 설정(Launch Adobe 설명서)](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [Adobe Experience Platform SDK를 사용하여 모바일 애플리케이션 구성(설명서)](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en)

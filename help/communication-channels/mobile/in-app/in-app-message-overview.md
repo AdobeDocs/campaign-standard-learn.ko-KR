@@ -9,9 +9,9 @@ team: TM
 exl-id: c51716eb-7239-4fc0-9ccf-9f5f0a5fae65
 role: User
 level: Beginner
-source-git-commit: 30e8e10575aad4dcf2b0473cdd9fd6d5fc2815f4
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '728'
+source-wordcount: '629'
 ht-degree: 21%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 21%
 
 이 자습서에서는 모바일 속성을 설정하는 데 필요한 단계인 [!UICONTROL Launch] 확장 [!UICONTROL In-App Messaging] 채널 및 준비, 사용자 지정 및 전송 방법 [!UICONTROL In-App] Adobe Campaign Standard의 메시지. 이 링크에서는 강조 표시된 각 주제에 대한 비디오 자습서를 제공합니다.
 
-## 필수 구성 요소 {#prerequisites}
+## 전제 조건 {#prerequisites}
 
 1. 에 액세스할 수 있는지 확인합니다. **[!UICONTROL In-App]** 채널. 이 채널에 액세스할 수 없는 경우 계정 팀에 문의하십시오.
 1. 다음 사항을 확인합니다. **사용자** 필요한 **권한** Adobe Campaign Standard 및 [!UICONTROL Launch].
@@ -68,13 +68,3 @@ ht-degree: 21%
 ## 인앱 게재 보고서 {#report}
 
 게재가 게시되면 다음 작업을 수행할 수 있습니다 [인앱 게재 보고서](/help/communication-channels/mobile/in-app/in-app-reporting.md).
-
-## 추가 리소스
-
-* [인앱 보고서](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en)
-* [모바일 속성 설정](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [Adobe Experience Platform SDK를 사용한 모바일 애플리케이션 구성](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en)
-* [인앱 메시지 준비 및 보내기](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html?lang=en)
-* [인앱 메시지 사용자 지정](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html?lang=en)
-* [워크플로우 내에서 인앱 메시지 보내기](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/channel-activities/in-app-delivery.html?lang=en)
-* [라이프사이클 지표 활성화](https://aep-sdks.gitbook.io/docs/getting-started/initialize-the-sdk#enable-lifecycle-metrics)

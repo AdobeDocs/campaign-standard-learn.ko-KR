@@ -10,9 +10,9 @@ team: TM
 exl-id: 62d0d756-e9b9-4656-94ba-bfc113a7b5c9
 role: User, Developer
 level: Experienced
-source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '130'
 ht-degree: 4%
 
 ---
@@ -38,8 +38,3 @@ ht-degree: 4%
 ## 3단계 - 트랜잭션 메시지 테스트
 
 >[!VIDEO](https://video.tv.adobe.com/v/25916?quality=12)
-
-## 추가 리소스
-
-* [트랜잭션 메시지에서 제품 목록 사용(설명서)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/transactional-messaging/transactional-message-edition/editing-transactional-message.html?lang=en)
-* [데이터 컬렉션 정의(설명서)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/transactional-messaging/event-configuration/configuring-transactional-event.html?lang=en)

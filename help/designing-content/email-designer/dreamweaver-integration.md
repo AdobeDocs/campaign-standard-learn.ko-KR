@@ -10,10 +10,10 @@ team: TM
 exl-id: 478462d8-aa25-457d-ba7b-64ffcf1b81fb
 role: User, Developer
 level: Beginner
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 77%
+source-wordcount: '165'
+ht-degree: 67%
 
 ---
 
@@ -35,8 +35,4 @@ Adobe Dreamweaver와 통합된 Adobe Campaign Standard을 통해 Dreamweaver 인
 
 *Adobe Campaign에서 Dreamweaver 통합을 사용하는 방법(02:37분)*
 
-## 추가 자료
-
-* [Dreamweaver Adobe Campaign 설치 문제 해결](https://helpx.adobe.com/kr/dreamweaver/kb/dreamweaver-campaign-integration-issue.html)
-* [Adobe Dreamweaver 설명서](https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html)
-* [Adobe 앱용 추가 기능 및 확장 설치](https://helpx.adobe.com/kr/creative-cloud/kb/installingextensionsandaddons.html)
+Dreamweaver 를 참조하십시오 [Adobe Dreamweaver 설명서](https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html) 자세한 내용 [Adobe Campaign Dreamweaver 설치 문제 해결](https://helpx.adobe.com/kr/dreamweaver/kb/dreamweaver-campaign-integration-issue.html).

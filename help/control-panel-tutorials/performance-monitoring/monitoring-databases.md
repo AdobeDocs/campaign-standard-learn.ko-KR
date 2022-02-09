@@ -9,10 +9,10 @@ audience: administrator
 activity: use
 team: TM
 exl-id: a0e56349-4296-4309-8698-bf3c48eb6c58
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 100%
+source-wordcount: '91'
+ht-degree: 89%
 
 ---
 
@@ -24,6 +24,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
 
-## 추가 리소스
-
-* [데이터베이스 모니터링(안내서)](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring.html?lang=ko#performance-monitoring)
+자세한 내용은 제품 설명서 를 참조하십시오 [데이터베이스 모니터링](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring.html?lang=ko#performance-monitoring)

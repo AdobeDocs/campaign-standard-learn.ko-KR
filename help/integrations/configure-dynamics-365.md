@@ -9,10 +9,10 @@ level: Experienced
 activity: setup
 team: PM
 exl-id: b1eecb0f-d51d-4671-93d1-656b507c5bb6
-source-git-commit: 5b461828208dde679766f966d31a176cabd11b4a
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 100%
+source-wordcount: '71'
+ht-degree: 77%
 
 ---
 
@@ -22,6 +22,4 @@ Dynamics 및 Campaign Standard와 통합에 사용할 수 있도록 Microsoft® 
 
 >[!VIDEO](https://video.tv.adobe.com/v/27637?quality=12)
 
-## 추가 리소스
-
-[Microsoft® Dynamics 365 통합 시작](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/campaign-and-microsoft-dynamics-365/d365-acs-get-started.html?lang=ko)
+방법에 대한 자세한 내용은 제품 설명서 를 참조하십시오 [Microsoft® Dynamics 365 통합 시작](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/campaign-and-microsoft-dynamics-365/d365-acs-get-started.html?lang=ko)

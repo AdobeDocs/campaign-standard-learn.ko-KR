@@ -10,10 +10,10 @@ team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: c249ea1f955d3e0d3f1477ee822edb6295da8de1
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '167'
+ht-degree: 9%
 
 ---
 
@@ -34,10 +34,3 @@ Adobe Campaign Standard에서 Adobe Experience Cloud의 데이터를 사용하�
 >[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
 
 *통합 세그먼트 빌더를 사용하여 Adobe Campaign Standard에서 대상을 만드는 방법(최소 02:47)*
-
-자세한 내용은 제품 설명서를 참조하십시오.
-
-* [실시간 고객 프로필 개요](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
-* [세그먼트 빌더 사용 안내서](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
-
-

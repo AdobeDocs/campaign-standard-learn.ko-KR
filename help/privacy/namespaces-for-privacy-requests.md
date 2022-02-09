@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: b2d5362b-9b23-4f51-9802-19636457fab3
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '60'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,3 @@ GDPR 또는 CCPA에서 요구하는 조건에 따라, 개인 정보 액세스 �
 개인 정보 요청을 위한 네임스페이스를 만드는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/22600?quality=12)
-
-## 추가 리소스
-
-* [Campaign에 대한 일반 개인 정보 보호 지침](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=ko#getting-started)

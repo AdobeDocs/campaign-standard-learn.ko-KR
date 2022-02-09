@@ -1,6 +1,6 @@
 ---
-title: 개인 정보 요청을 위해 ACS(Adobe Campaign Standard)를 설정할 때 사용자 지정 리소스 수정
-description: 개인 정보 요청을 처리하기 위해 ACS(Adobe Campaign Standard)를 설정할 때는 프로필 삭제 시 프로필에 연결된 사용자 지정 데이터를 모두 삭제하도록 해야 합니다. 이 비디오에서는 이 요구 사항을 충족하기 위해 사용자 지정 리소스를 수정하는 방법을 설명합니다.
+title: 개인 정보 보호 요청에 대한 Adobe Campaign Standard을 설정할 때 사용자 지정 리소스 수정
+description: 개인 정보 요청을 처리하기 위해 Adobe Campaign Standard를 설정할 때는 프로필 삭제 시 프로필에 연결된 사용자 지정 데이터를 모두 삭제하도록 해야 합니다. 이 비디오에서는 이 요구 사항을 충족하기 위해 사용자 지정 리소스를 수정하는 방법을 설명합니다.
 feature: Privacy Tools
 kt: 1243
 thumbnail: 23326.jpg
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
@@ -29,6 +29,4 @@ ht-degree: 100%
 >
 > 버전을 확인하려면 인터페이스 오른쪽 상단의 **?**&#x200B;를 클릭하고 [정보]를 선택합니다.
 
-## 추가 리소스
-
-* [Campaign에 대한 일반 개인 정보 보호 지침](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=ko)
+또한 [Campaign에 대한 일반 개인 정보 보호 지침](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=ko)

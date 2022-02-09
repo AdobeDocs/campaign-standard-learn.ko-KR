@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 63f65fa1-94c9-42ac-93a7-32d138a0a6a6
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '74'
 ht-degree: 100%
 
 ---
@@ -26,8 +26,3 @@ Adobe Campaign으로 이메일을 보내기 시작하거나 랜딩 페이지를 
 Campaign 컨트롤 패널에서 CNAME을 사용하여 하위 도메인을 설정하고 제출하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12)
-
-## 추가 리소스
-
-* [전체 하위 도메인 위임(비디오)](./subdomain-delegation.md)
-* [새 하위 도메인 설정(설명서)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html?lang=ko)

@@ -9,9 +9,9 @@ role: Admin
 level: Experienced
 team: TM
 exl-id: 9bc5e4e6-c943-40ca-9d99-a3fa802775f4
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '85'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,3 @@ ht-degree: 100%
 3. [Campaign Standard에서 트리거 이벤트 만들기](/help/integrations/create-a-trigger-event.md)
 
 트리거를 구성하고 나면 [실시간 이벤트 데이터를 사용하여 트랜잭션 메시지를 구성](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)할 수 있습니다.
-
-## 추가 리소스
-
-* [Adobe Experience Cloud 트리거 정보](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html?lang=ko#integrating-with-adobe-cloud)

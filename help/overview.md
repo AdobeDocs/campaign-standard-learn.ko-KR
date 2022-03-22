@@ -8,9 +8,9 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
 source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '258'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -20,9 +20,9 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 ## 새로운 기능
 
-* **[문제 해결](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=en)**
+* **[문제 해결](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=ko)**
 
-*Adobe Campaign Standard에서 알려진 문제를 해결하는 데 도움이 필요하면 를 찾습니다.*
+*Adobe Campaign Standard의 알려진 문제를 해결할 때 도움이 되는 내용*
 
 ## 직원 추천
 
@@ -46,7 +46,7 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
       <img alt="Campaign 컨트롤 패널(비디오)" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=en">
+    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=ko">
     <strong>Campaign 컨트롤 패널(비디오)</strong>
     </a>
     </div>
@@ -55,11 +55,11 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=ko">
       <img alt="튜토리얼: Android에서 푸시 알림 시작하기" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=ko">
     <strong>튜토리얼: Android™에서 푸시 알림 시작하기</strong>
     </a>
     </div>

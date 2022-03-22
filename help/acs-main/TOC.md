@@ -3,9 +3,9 @@ user-guide-title: Adobe Campaign Standard 자습서
 user-guide-description: 크로스 채널 고객 경험을 설계하고 시각적인 Campaign 통합 운영, 실시간 상호 작용 관리 및 크로스 채널 실행을 위한 환경을 구축할 수 있습니다.
 breadcrumb-title: Campaign Standard 자습서
 source-git-commit: e38405b798f231c9f7c22ac95ea44324ce94651d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '542'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -121,4 +121,4 @@ ht-degree: 98%
    + [개인 정보 요청을 위한 사용자 지정 리소스 수정](/help/privacy/custom-resources-for-privacy-requests.md)
    + [개인 정보 요청을 수동으로 만들고 추적하기](/help/privacy/create-and-track-privacy-requests.md)
    + [개인 정보 요청 실행](/help/privacy/execute-privacy-requests.md)
-+ [Campaign Standard 문제 해결](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)
++ [Campaign Standard 문제 해결](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=ko)

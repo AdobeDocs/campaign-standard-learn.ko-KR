@@ -11,9 +11,9 @@ doc-type: feature video
 team: TM
 exl-id: babe7b9f-c198-4358-ba3a-91fabf584f9b
 source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '103'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Campaign Standard와 Analytics 통합을 구성하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332576/?quality=12)
 
-자세한 내용은 Adobe Analytics 제품 안내서 를 참조하십시오 [보고서 세트 이해 및 만들기](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=ko#intro-to-analytics).
+[보고서 세트 이해 및 만들기](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=ko#intro-to-analytics)에 대한 자세한 내용은 Adobe Analytics 제품 안내서를 참조하세요.

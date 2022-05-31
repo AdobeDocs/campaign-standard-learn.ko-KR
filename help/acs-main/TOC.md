@@ -2,9 +2,9 @@
 user-guide-title: Adobe Campaign Standard 자습서
 user-guide-description: 크로스 채널 고객 경험을 설계하고 시각적인 Campaign 통합 운영, 실시간 상호 작용 관리 및 크로스 채널 실행을 위한 환경을 구축할 수 있습니다.
 breadcrumb-title: Campaign Standard 자습서
-source-git-commit: e38405b798f231c9f7c22ac95ea44324ce94651d
-workflow-type: ht
-source-wordcount: '542'
+source-git-commit: 6c546fa15406b8cdb06790339f5f15b470415a37
+workflow-type: tm+mt
+source-wordcount: '544'
 ht-degree: 100%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 100%
 
 # Adobe Campaign Standard 튜토리얼 {#tutorials}
 
-+ [개요](/help/overview.md)
++ [Adobe Campaign Standard](/help/overview.md)
 + 시작 {#getting-started}
    + [Adobe Campaign Standard 소개](/help/getting-started/adobe-campaign-standard-introduction.md)
    + [UI 시작하기](/help/getting-started/getting-started-with-the-ui.md)

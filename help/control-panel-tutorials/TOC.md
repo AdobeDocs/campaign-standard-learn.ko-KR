@@ -3,9 +3,9 @@ user-guide-title: Adobe Campaign 컨트롤 패널 튜토리얼
 user-guide-description: Adobe Campaign 인스턴스의 주요 자산을 모니터링하고 Campaign 컨트롤 패널에서 관리 작업을 수행하는 방법에 대해 알아봅니다.
 breadcrumb-title: Campaign 컨트롤 패널 튜토리얼
 index: true
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 6c546fa15406b8cdb06790339f5f15b470415a37
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '113'
 ht-degree: 100%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # Adobe Campaign 컨트롤 패널 튜토리얼 {#control-panel}
 
-+ [Campaign 컨트롤 패널 개요](/help/control-panel-tutorials/control-panel-overview.md)
++ [Campaign 컨트롤 패널](/help/control-panel-tutorials/control-panel-overview.md)
 + [Campaign 컨트롤 패널 시작](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP 관리 {#sftp-management}
    + [서버 용량 모니터링](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)

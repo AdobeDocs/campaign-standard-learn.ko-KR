@@ -8,18 +8,14 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 63f65fa1-94c9-42ac-93a7-32d138a0a6a6
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: ht
-source-wordcount: '74'
+source-git-commit: 26dd621e1f89ed31a8656783f46b2bc388464ed1
+workflow-type: tm+mt
+source-wordcount: '54'
 ht-degree: 100%
 
 ---
 
-# CNAME을 사용한 하위 도메인 위임(베타)
-
->[!IMPORTANT]
->
-> CNAME을 사용한 하위 도메인 위임 기능은 현재 베타 단계이며, 사전 공지 없이 자주 업데이트 및 수정될 수 있습니다.
+# CNAME을 사용한 하위 도메인 위임
 
 Adobe Campaign으로 이메일을 보내기 시작하거나 랜딩 페이지를 게시하려면 새 하위 도메인을 설정해야 합니다.
 

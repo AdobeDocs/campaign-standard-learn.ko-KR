@@ -7,10 +7,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: ht
-source-wordcount: '258'
-ht-degree: 100%
+source-git-commit: 4fe27ac1cb9f00ee512a8554cc8e0fd2acb54a4b
+workflow-type: tm+mt
+source-wordcount: '305'
+ht-degree: 84%
 
 ---
 
@@ -19,6 +19,10 @@ ht-degree: 100%
 Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 환경을 제공합니다. 이 사용 안내서에는 Adobe Campaign Standard의 다양한 기능과 성능에 대한 비디오 및 튜토리얼이 포함되어 있습니다.
 
 ## 새로운 기능
+
+* **[이메일 ROI를 극대화하고 구독자 재참여를 위한 모범 사례를 살펴볼 수 있습니다](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
+
+   *이메일 ROI를 극대화하고 구독자 재참여를 위한 모범 사례를 학습하는 방법을 알아봅니다. 구독자 참여를 향상시키고 이메일 캠페인의 전반적인 성공을 파악하는 전략을 살펴봅니다.*
 
 * **[문제 해결](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=ko)**
 
@@ -59,7 +63,7 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
       <img alt="튜토리얼: Android에서 푸시 알림 시작하기" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=ko">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
     <strong>튜토리얼: Android™에서 푸시 알림 시작하기</strong>
     </a>
     </div>

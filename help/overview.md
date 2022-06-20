@@ -8,9 +8,9 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
 source-git-commit: 4fe27ac1cb9f00ee512a8554cc8e0fd2acb54a4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '305'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -20,9 +20,9 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 ## 새로운 기능
 
-* **[이메일 ROI를 극대화하고 구독자 재참여를 위한 모범 사례를 살펴볼 수 있습니다](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
+* **[이메일 ROI 극대화 및 구독자 재참여 모범 사례 알아보기](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=ko)**
 
-   *이메일 ROI를 극대화하고 구독자 재참여를 위한 모범 사례를 학습하는 방법을 알아봅니다. 구독자 참여를 향상시키고 이메일 캠페인의 전반적인 성공을 파악하는 전략을 살펴봅니다.*
+   *이메일 ROI를 극대화하는 방법과 구독자 재참여를 위한 모범 사례를 알아봅니다. 구독자의 참여도를 개선하는 전략과 이메일 캠페인의 전반적인 성공 여부를 살펴봅니다.*
 
 * **[문제 해결](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=ko)**
 
@@ -63,7 +63,7 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
       <img alt="튜토리얼: Android에서 푸시 알림 시작하기" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=ko">
     <strong>튜토리얼: Android™에서 푸시 알림 시작하기</strong>
     </a>
     </div>

@@ -11,9 +11,9 @@ team: PM
 recommendations: noDisplay
 exl-id: 6c236625-1a7a-4009-898b-b4bd82fa1efa
 source-git-commit: 6c546fa15406b8cdb06790339f5f15b470415a37
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '248'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ Adobe Campaign 관리자는 Adobe Campaign 컨트롤 패널을 통해 주요 자
 
    *Campaign 컨트롤 패널에서 CNAME을 사용하여 하위 도메인을 설정하고 제출하는 방법을 알아봅니다.*
 
-자세한 내용은 [릴리스 노트](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=ko) 최신 제품 릴리스에 대한 자세한 정보.
+최신 제품 릴리스에 대한 자세한 내용은 [릴리스 정보](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=ko)를 참조하세요.
 
 ## 직원 추천
 

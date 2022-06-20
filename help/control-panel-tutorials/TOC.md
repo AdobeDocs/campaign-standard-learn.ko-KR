@@ -4,9 +4,9 @@ user-guide-description: Adobe Campaign 인스턴스의 주요 자산을 모니�
 breadcrumb-title: Campaign 컨트롤 패널 튜토리얼
 index: true
 source-git-commit: f5d3396f46839a37fdc7199347344382a02d3ff1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '111'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 

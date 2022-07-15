@@ -8,9 +8,9 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
 source-git-commit: 8a5fe85be0d3dc2f104bb7d4f367ec373ad6f937
-workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 78%
+workflow-type: ht
+source-wordcount: '0'
+ht-degree: 100%
 
 ---
 
@@ -20,11 +20,11 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 ## 새로운 기능
 
-* **[Campaign 컨트롤 패널 - 워크플로우 모니터링](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target=&quot;_blank&quot;}**
+* **[Campaign 컨트롤 패널 - 워크플로우 모니터링](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=ko){target=&quot;_blank&quot;}**
 
-   *워크플로우의 임시 저장소 사용을 모니터링하는 방법 및 인스턴스의 데이터베이스 또는 워크플로우 문제를 방지하기 위해 워크플로우 설정을 구성하는 위치를 알아봅니다.*
+   *인스턴스의 데이터베이스나 워크플로우 문제를 방지하기 위해 워크플로우의 임시 스토리지 사용을 모니터링하는 방법 및 워크플로우 설정을 구성할 수 있는 위치를 알아봅니다.*
 
-* **[Campaign 컨트롤 패널 - 모니터 처리량 및 지연](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html){target=&quot;_blank&quot;}**
+* **[Campaign 컨트롤 패널 - 처리량 및 지연 모니터링](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=ko){target=&quot;_blank&quot;}**
 
    *캠페인 인스턴스의 게재 처리량 및 트랜잭션 메시지 지연을 모니터링하는 방법을 알아봅니다.*
 
@@ -63,7 +63,7 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
       <img alt="튜토리얼: Android에서 푸시 알림 시작하기" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=ko">
     <strong>튜토리얼: Android™에서 푸시 알림 시작하기</strong>
     </a>
     </div>

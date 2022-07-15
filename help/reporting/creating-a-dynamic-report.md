@@ -1,6 +1,6 @@
 ---
 title: 동적 보고서 만들기
-description: 보고서를 만드는 방법을 알아봅니다.
+description: 보고서를 만드는 방법에 대해 알아봅니다.
 feature: Reporting
 kt: 2037
 thumbnail: 25264.jpg
@@ -21,7 +21,7 @@ ht-degree: 32%
 
 Adobe Campaign [!UICONTROL Dynamic Reports] 데이터를 탐색할 수 있는 유연한 자유 형식 환경입니다. 차원, 지표 및 시간 범위를 무제한으로 분류 및 비교할 수 있도록 모든 조합에서 결합할 수 있습니다.
 
-보고서를 만드는 방법을 알아봅니다.
+보고서를 만드는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25264/?quality=12)
 

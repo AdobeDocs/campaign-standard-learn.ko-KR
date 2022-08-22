@@ -8,8 +8,8 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
 source-git-commit: 4c256d4622e2acc2ec08e76aa4e6180ddb5184a0
-workflow-type: tm+mt
-source-wordcount: '306'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -63,7 +63,7 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
       <img alt="튜토리얼: Android에서 푸시 알림 시작하기" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=ko">
     <strong>튜토리얼: Android™에서 푸시 알림 시작하기</strong>
     </a>
     </div>

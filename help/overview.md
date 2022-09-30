@@ -1,30 +1,30 @@
 ---
 title: Adobe Campaign Standard 튜토리얼 - 개요
-description: Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 환경을 제공합니다. 이 사용 안내서에는 Adobe Campaign Standard의 다양한 기능과 성능에 대한 비디오 및 튜토리얼이 포함되어 있습니다.
+description: Adobe Campaign은 크로스 채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스 채널 실행 환경을 제공합니다. 이 사용 안내서에는 Adobe Campaign Standard의 다양한 기능과 성능에 대한 비디오 및 튜토리얼이 포함되어 있습니다.
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 4c256d4622e2acc2ec08e76aa4e6180ddb5184a0
-workflow-type: ht
-source-wordcount: '306'
-ht-degree: 100%
+source-git-commit: 6a8b4679212207d6cce5c1dba317d3349d319baa
+workflow-type: tm+mt
+source-wordcount: '308'
+ht-degree: 73%
 
 ---
 
 # Adobe Campaign Standard - 개요
 
-Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 환경을 제공합니다. 이 사용 안내서에는 Adobe Campaign Standard의 다양한 기능과 성능에 대한 비디오 및 튜토리얼이 포함되어 있습니다.
+Adobe Campaign은 크로스 채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스 채널 실행 환경을 제공합니다. 이 사용 안내서에는 Adobe Campaign Standard의 다양한 기능과 성능에 대한 비디오 및 자습서가 포함되어 있습니다.
 
 ## 새로운 기능
 
-* **[Campaign 컨트롤 패널 - 워크플로우 모니터링](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=ko){target=&quot;_blank&quot;}**
+* **[Campaign 컨트롤 패널 - 워크플로우 모니터링](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=en){target=&quot;_blank&quot;}**
 
    *인스턴스의 데이터베이스나 워크플로우 문제를 방지하기 위해 워크플로우의 임시 스토리지 사용을 모니터링하는 방법 및 워크플로우 설정을 구성할 수 있는 위치를 알아봅니다.*
 
-* **[Campaign 컨트롤 패널 - 처리량 및 지연 모니터링](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html?lang=ko){target=&quot;_blank&quot;}**
+* **[Campaign 컨트롤 패널 - 처리량 및 지연 모니터링](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=en){target=&quot;_blank&quot;}**
 
    *캠페인 인스턴스의 게재 처리량 및 트랜잭션 메시지 지연을 모니터링하는 방법을 알아봅니다.*
 
@@ -46,11 +46,11 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
     <p>
   </td>
    <td>
-    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=ko">
+    <a href="https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html">
       <img alt="Campaign 컨트롤 패널(비디오)" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=ko">
+    <a href="https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=en">
     <strong>Campaign 컨트롤 패널(비디오)</strong>
     </a>
     </div>
@@ -63,7 +63,7 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
       <img alt="튜토리얼: Android에서 푸시 알림 시작하기" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=ko">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
     <strong>튜토리얼: Android™에서 푸시 알림 시작하기</strong>
     </a>
     </div>

@@ -1,6 +1,6 @@
 ---
 title: 프로필 및 대상자 만들기 - 개요
-description: 기존 프로필로 이동하는 방법과 프로필 및 잠재고객을 생성하는 방법을 알아봅니다.
+description: 기존 프로필로 이동하는 방법과 프로필 및 대상자를 생성하는 방법을 알아봅니다.
 feature: Profiles, Audiences
 kt: 3899
 thumbnail: 18463.jpg
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 9333e405cd7db178cebf0281f7a34fbb2a183081
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '69'
+ht-degree: 37%
 
 ---
 

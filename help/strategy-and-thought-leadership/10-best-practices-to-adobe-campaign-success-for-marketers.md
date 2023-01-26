@@ -5,9 +5,9 @@ doc-type: article
 role: User
 level: Beginner
 kt: 11772
-source-git-commit: 41cc794dbdc295d76bba63cba2ef145eb50df540
+source-git-commit: 8fa4a3e70ab815af801aaf96596fcc466b879086
 workflow-type: tm+mt
-source-wordcount: '1311'
+source-wordcount: '1274'
 ht-degree: 0%
 
 ---
@@ -71,6 +71,4 @@ Adobe Campaign 및 기타 마케팅 기술 도구의 전문 사용을 통해 옵
 
 ## 10. 가능한 한 민첩하게 지내라
 
-시장은 계속해서 증가하고 있는 비율로 변화하고 움직이고 있습니다. 캠페인 팀이 최대한 가볍고 민첩하게 유지하도록 하는 것은 경쟁하면서 증가하는 고객 기대치를 지속적으로 충족시키는 데 매우 중요합니다. [디지털 마케팅 리더의 35%는 조직 내에서 가장 큰 문제가 발생한다고 생각합니다](https://www.gartner.com/en/newsroom/press-releases/gartner-says-35--of-digital-marketing-leaders-believe-the-bigges).
-
-세 가지 플랫폼에 대한 교차 교육을 실시하고 데이터 흐름과 구조 또는 기타 Adobe 솔루션에 대한 이해를 높이면 이를 달성하거나 캠페인에 대한 비상대책을 수립하는 데 도움이 됩니다. 주요 도구에 대해 주제 전문가 확보 그런 다음 보조 도구와 3차 도구를 사용하여 크로스채널을 살펴봅니다. 이렇게 하면 마케팅 작업 모델에 유연성이 생깁니다. 세 가지 이상의 툴을 활용하면 전문성과 출력을 크게 줄일 수 있습니다. 이런 마음가짐을 여러 가지 방법으로 달성할 수 있지만, 민첩성과 계획에 대한 전반적인 노력은 단기적이고 장기적인 성공을 달성하는 데 매우 중요합니다.
+시장은 계속해서 증가하고 있는 비율로 변화하고 움직이고 있습니다. 캠페인 팀이 최대한 가볍고 민첩하게 유지하도록 하는 것은 경쟁하면서 증가하는 고객 기대치를 지속적으로 충족시키는 데 매우 중요합니다. [디지털 마케팅 리더의 35%는 조직 내에서 가장 큰 문제가 발생한다고 생각합니다](https://www.gartner.com/en/newsroom/press-releases/gartner-says-35--of-digital-marketing-leaders-believe-the-bigges). 이를 위해서는 몇 가지 플랫폼에서 교차 교육하고 데이터 흐름 및 구조 또는 기타 Adobe 솔루션에 대한 이해를 높이고, 캠페인에 대한 비상대처계획을 만들어야 합니다. 이런 사고방식은 여러 가지 면에서 성취될 수 있지만, 민첩성과 기획에 대한 전반적인 노력은 단기적이고 장기적인 성공을 달성하는 데 매우 중요합니다.

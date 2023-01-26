@@ -2,10 +2,10 @@
 user-guide-title: Adobe Campaign Standard 자습서
 user-guide-description: 크로스 채널 고객 경험을 설계하고 시각적인 Campaign 통합 운영, 실시간 상호 작용 관리 및 크로스 채널 실행을 위한 환경을 구축할 수 있습니다.
 breadcrumb-title: Campaign Standard 자습서
-source-git-commit: 4c256d4622e2acc2ec08e76aa4e6180ddb5184a0
+source-git-commit: 41cc794dbdc295d76bba63cba2ef145eb50df540
 workflow-type: tm+mt
-source-wordcount: '567'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -99,11 +99,11 @@ ht-degree: 100%
       + [Experience Cloud에서 트리거 만들기](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Campaign Standard에서 트리거 이벤트 만들기](/help/integrations/create-a-trigger-event.md)
       + [실시간 이벤트 데이터를 사용한 트랜잭션 메시지 구성](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
-   + [Campaign Standard와의 통합을 위한 Microsoft® Dynamics 365 구성](/help/integrations/configure-dynamics-365.md)
+   + [Microsoft 구성](/help/integrations/configure-dynamics-365.md)
 + 관리 {#administrating}
    + [사용자 액세스 권한 관리](/help/administrating/managing-user-access-rights.md)
    + [사용자 지정 리소스 만들기](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=ko)
-   + [Campaign 컨트롤 패널](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=ko){target=&quot;_blank&quot;}
+   + [Campaign 컨트롤 패널](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=ko){target="_blank"}
    + Adobe Experience Platform 데이터 커넥터 {#adobe-experience-platform-data-connector}
       + [Adobe Experience Platform 데이터 커넥터 이해](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [사용자 지정 리소스 매핑](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
@@ -122,5 +122,6 @@ ht-degree: 100%
    + [개인 정보 요청 실행](/help/privacy/execute-privacy-requests.md)
 + [Campaign Standard 문제 해결](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=ko)
 + 전략 및 사고 리더십{#strategy}
+   + [마케터를 위한 Adobe Campaign 성공에 대한 10가지 우수 사례](/help/strategy-and-thought-leadership/10-best-practices-to-adobe-campaign-success-for-marketers.md)
    + [구독자의 재참여를 위한 이메일 ROI 및 모범 사례 극대화](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=ko)
    + [게재 가능성 모범 사례 안내서](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ko)

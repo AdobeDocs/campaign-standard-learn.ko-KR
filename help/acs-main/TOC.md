@@ -2,7 +2,7 @@
 user-guide-title: Adobe Campaign Standard 자습서
 user-guide-description: 크로스 채널 고객 경험을 설계하고 시각적인 Campaign 통합 운영, 실시간 상호 작용 관리 및 크로스 채널 실행을 위한 환경을 구축할 수 있습니다.
 breadcrumb-title: Campaign Standard 자습서
-source-git-commit: 027b8b368f88cc9fd3bc450b525f057450fa9af8
+source-git-commit: 1330f710368996dfa5562673360c12f2414a4ac7
 workflow-type: tm+mt
 source-wordcount: '567'
 ht-degree: 98%
@@ -122,6 +122,6 @@ ht-degree: 98%
    + [개인 정보 요청 실행](/help/privacy/execute-privacy-requests.md)
 + [Campaign Standard 문제 해결](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=ko)
 + 전략 및 사고 리더십{#strategy}
-   + [마케터를 위한 Adobe Campaign 성공에 대한 10가지 우수 사례](/help/strategy-and-thought-leadership/10-best-practices-to-adobe-campaign-success-for-marketers.md)
+   + [마케터를 위한 Adobe Campaign 성공에 대한 10가지 우수 사례](/help/strategy/10-best-practices-for-marketers.md)
    + [구독자의 재참여를 위한 이메일 ROI 및 모범 사례 극대화](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=ko)
    + [게재 가능성 모범 사례 안내서](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ko)

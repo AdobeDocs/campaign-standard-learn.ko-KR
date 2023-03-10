@@ -7,26 +7,30 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 6a8b4679212207d6cce5c1dba317d3349d319baa
-workflow-type: ht
-source-wordcount: '308'
-ht-degree: 100%
+source-git-commit: ee19698fdf2e7f126d6ce73dc5a372f8729c3e83
+workflow-type: tm+mt
+source-wordcount: '297'
+ht-degree: 84%
 
 ---
 
 # Adobe Campaign Standard - 개요
 
-Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 환경을 제공합니다. 이 사용 안내서에는 Adobe Campaign Standard의 다양한 기능과 성능에 대한 비디오 및 자습서가 포함되어 있습니다.
+Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 환경을 제공합니다. 이 사용 안내서에는 Adobe Campaign Standard의 다양한 기능과 성능에 대한 비디오 및 튜토리얼이 포함되어 있습니다.
 
 ## 새로운 기능
 
-* **[Campaign 컨트롤 패널 - 워크플로우 모니터링](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=ko){target=&quot;_blank&quot;}**
+* **[예약 메시지](/help/communication-channels/email/schedule-messages.md)**
 
-   *인스턴스의 데이터베이스나 워크플로우 문제를 방지하기 위해 워크플로우의 임시 스토리지 사용을 모니터링하는 방법 및 워크플로우 설정을 구성할 수 있는 위치를 알아봅니다.*
+   *이메일 게재를 예약하는 방법을 알아봅니다.*
 
-* **[Campaign 컨트롤 패널 - 처리량 및 지연 모니터링](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=ko){target=&quot;_blank&quot;}**
+* **[증명 보내기](/help/communication-channels/email/send-a-proof.md)**
 
-   *캠페인 인스턴스의 게재 처리량 및 트랜잭션 메시지 지연을 모니터링하는 방법을 알아봅니다.*
+   *최종 수신자에게 전자 메일 메시지를 보내기 전에 테스트하는 방법을 알아봅니다.*
+
+* **[마케터를 위한 Adobe Campaign 성공 모범 사례 10가지](/help/strategy/10-best-practices-for-marketers.md)**
+
+   *Adobe Campaign 실무자가 디지털 소비자 전환과 더 나은 고객 경험을 제공하고 가속화하는 데 도움이 되는 10가지 모범 사례에 대해 알아봅니다.*
 
 ## 직원 추천
 
@@ -47,15 +51,15 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
   </td>
    <td>
     <a href="https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=ko">
-      <img alt="Campaign 컨트롤 패널(비디오)" src="./assets/control-panel.png" />
+      <img alt="컨트롤 패널(비디오)" src="./assets/control-panel.png" />
     </a>
     <div>
     <a href="https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=ko">
-    <strong>Campaign 컨트롤 패널(비디오)</strong>
+    <strong>컨트롤 패널(비디오)</strong>
     </a>
     </div>
     <p>
-    <em> Campaign 컨트롤 패널을 통해 설정 및 인스턴스 사용을 추적하여 관리자로서의 효율성을 높일 수 있습니다.</em>
+    <em> 컨트롤 패널을 통해 설정 및 인스턴스 사용을 추적하여 관리자로서의 효율성을 높일 수 있습니다.</em>
     <p>
   </td>
   <td>

@@ -7,16 +7,18 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: ee19698fdf2e7f126d6ce73dc5a372f8729c3e83
+source-git-commit: 9ff98f4144284db542d6bb561bc9c21b052e02ed
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 84%
+source-wordcount: '286'
+ht-degree: 83%
 
 ---
 
 # Adobe Campaign Standard - 개요
 
 Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플랫폼을 제공하며 시각적 캠페인 오케스트레이션, 실시간 상호 작용 관리 및 크로스채널 실행 환경을 제공합니다. 이 사용 안내서에는 Adobe Campaign Standard의 다양한 기능과 성능에 대한 비디오 및 튜토리얼이 포함되어 있습니다.
+
+<div id="whats-new-section">
 
 ## 새로운 기능
 
@@ -31,6 +33,11 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 * **[마케터를 위한 Adobe Campaign 성공 모범 사례 10가지](/help/strategy/10-best-practices-for-marketers.md)**
 
    *Adobe Campaign 실무자가 디지털 소비자 전환과 더 나은 고객 경험을 제공하고 가속화하는 데 도움이 되는 10가지 모범 사례에 대해 알아봅니다.*
+
+</div>
+
+
+<div id="events-section">
 
 ## 직원 추천
 
@@ -78,6 +85,4 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 </tr>
 </table>
 
-## 추가 리소스
-
-* [설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=ko)
+</div>

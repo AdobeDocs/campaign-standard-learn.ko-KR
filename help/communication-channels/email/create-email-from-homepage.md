@@ -1,6 +1,6 @@
 ---
 title: 이메일 게재 만들기
-description: 홈페이지에서 이메일 전송을 생성하는 방법에 대해 알아봅니다.
+description: 홈페이지에서 이메일 게재를 생성하는 방법에 대해 알아봅니다.
 feature: Email
 kt: 1807
 thumbnail: 23721.jpg
@@ -21,6 +21,6 @@ ht-degree: 45%
 
 캠페인, Adobe Campaign 홈페이지 또는 [!UICONTROL Marketing Activity] 목록. 워크플로우에서 한 번 전송하고 반복 이메일을 만들고 전송할 수도 있습니다.
 
-홈페이지에서 이메일 전송을 생성하는 방법에 대해 알아봅니다.
+홈페이지에서 이메일 게재를 생성하는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23721?quality=12)

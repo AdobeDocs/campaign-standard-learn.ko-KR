@@ -3,9 +3,9 @@ user-guide-title: Adobe Campaign Standard 자습서
 user-guide-description: 크로스 채널 고객 경험을 설계하고 시각적인 Campaign 통합 운영, 실시간 상호 작용 관리 및 크로스 채널 실행을 위한 환경을 구축할 수 있습니다.
 breadcrumb-title: Campaign Standard 자습서
 source-git-commit: 73b0775189f05fc2d5be85d33bc0b0ef213d68ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '563'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 99%
    + 이메일 {#email}
       + [이메일 만들기](/help/communication-channels/email/create-email-from-homepage.md)
       + [테스트 보내기, 준비, 이메일 보내기](/help/communication-channels/email/sending-test-preparing-sending-email.md)
-      + [예약 메시지](/help/communication-channels/email/schedule-messages.md)
+      + [메시지 예약](/help/communication-channels/email/schedule-messages.md)
       + [증명 보내기](/help/communication-channels/email/send-a-proof.md)
       + [A/B 테스트](/help/communication-channels/email/a-b-testing.md)
       + [타겟팅된 프로필을 사용하여 이메일 메시지 테스트](/help/communication-channels/email/profile-substitution.md)

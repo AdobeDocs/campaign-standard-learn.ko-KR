@@ -8,9 +8,9 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
 source-git-commit: 04bc3a93595f90e8ed48fb7f3896b734256fe92d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '286'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -22,17 +22,17 @@ Adobe Campaign은 크로스채널 고객 경험을 디자인할 수 있는 플�
 
 ## 새로운 기능
 
-* **[예약 메시지](/help/communication-channels/email/schedule-messages.md)**
+* **[메시지 예약](/help/communication-channels/email/schedule-messages.md)**
 
    *이메일 게재를 예약하는 방법을 알아봅니다.*
 
 * **[증명 보내기](/help/communication-channels/email/send-a-proof.md)**
 
-   *최종 수신자에게 전자 메일 메시지를 보내기 전에 테스트하는 방법을 알아봅니다.*
+   *이메일 메시지를 최종 수신자에게 보내기 전에 테스트하는 방법을 알아봅니다.*
 
 * **[마케터를 위한 Adobe Campaign 성공 모범 사례 10가지](/help/strategy/10-best-practices-for-marketers.md)**
 
-   *Adobe Campaign 실무자가 디지털 소비자 전환과 더 나은 고객 경험을 제공하고 가속화하는 데 도움이 되는 10가지 모범 사례에 대해 알아봅니다.*
+   *Adobe Campaign 실무자가 디지털 소비자 전환과 보다 우수한 고객 경험 제공을 시작하고 가속화하는 데 도움이 되는 열 가지 모범 사례를 알아봅니다.*
 
 </div>
 

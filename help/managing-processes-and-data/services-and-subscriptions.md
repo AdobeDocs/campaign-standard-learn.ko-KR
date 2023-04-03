@@ -10,7 +10,7 @@ team: DOC
 exl-id: 2970db2c-b01b-4a7c-9eec-47a530209c24
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: e8bc68272747d824e0978d603f3a5ba2fe9806cf
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 43%
@@ -31,4 +31,4 @@ Adobe Campaign에서는 일련의 서비스를 통해 뉴스레터 및 크로스
 
 이 비디오에서는 서비스를 만들고 구독을 관리하는 방법을 보여줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/24673?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24673?quality=12&learn=on)

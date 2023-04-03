@@ -10,7 +10,7 @@ team: TM
 exl-id: 478462d8-aa25-457d-ba7b-64ffcf1b81fb
 role: User, Developer
 level: Beginner
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 67%
@@ -31,8 +31,8 @@ Adobe Dreamweaver와 통합된 Adobe Campaign Standard을 통해 Dreamweaver 인
 
 이 비디오에서는 Dreamweaver 통합을 구현하는 데 필요한 사항과 Dreamweaver를 사용하여 Adobe Campaign Standard용 콘텐츠를 만들고 편집하는 방법에 대해 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23121?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23121?quality=12&learn=on)
 
 *Adobe Campaign에서 Dreamweaver 통합을 사용하는 방법(02:37분)*
 
-Dreamweaver 를 참조하십시오 [Adobe Dreamweaver 설명서](https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html) 자세한 내용 [Adobe Campaign Dreamweaver 설치 문제 해결](https://helpx.adobe.com/kr/dreamweaver/kb/dreamweaver-campaign-integration-issue.html).
+Dreamweaver 를 참조하십시오 [Adobe Dreamweaver 설명서](https://helpx.adobe.com/kr/dreamweaver/using/working-with-dreamweaver-and-campaign.html) 자세한 내용 [Adobe Campaign Dreamweaver 설치 문제 해결](https://helpx.adobe.com/kr/dreamweaver/kb/dreamweaver-campaign-integration-issue.html).

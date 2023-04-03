@@ -10,10 +10,10 @@ team: PM
 exl-id: 955d063f-4709-4f56-8f39-f1b838354300
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: c270d2c6ef7ad695226d79da51cfd2f18dcefaff
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '123'
+ht-degree: 6%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
 다음 비디오에서는 을(를) 활성화하는 방법을 설명합니다 [!UICONTROL Data Services Query Audience] 워크플로우 내에서 [!UICONTROL Read Audience] 활동.
 
->[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12&learn=on)
 
 *워크플로우에서 Adobe Experience Platform 대상 활성화(02:37분)*
 

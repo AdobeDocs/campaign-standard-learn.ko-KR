@@ -10,7 +10,7 @@ team: TM
 exl-id: d3996185-681c-4906-85f0-0543ab767519
 role: User, Developer
 level: Experienced
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -24,4 +24,4 @@ ht-degree: 0%
 
 구성 방법 알아보기 [!UICONTROL External Signal activity] 외부 시스템에서 매개** 수신하려면 외부 매개 변수로 워크플로우를 사용자 지정하고 외부 매개 변수로 워크플로우를 호출하도록 최종 활동을 구성합니다
 
->[!VIDEO](https://video.tv.adobe.com/v/27249/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27249/?quality=12&learn=on)

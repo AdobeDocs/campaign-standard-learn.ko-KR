@@ -11,7 +11,7 @@ exl-id: 717e9c30-939e-4560-b358-96f144009105
 description: 랜딩 페이지 템플릿을 구성하는 방법을 알아봅니다
 role: Admin, User
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '22'
 ht-degree: 22%
@@ -22,4 +22,4 @@ ht-degree: 22%
 
 다음 비디오에서는 을 구성하는 방법을 설명합니다 [!UICONTROL landing page] 템플릿.
 
->[!VIDEO](https://video.tv.adobe.com/v/25200/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25200/?quality=12&learn=on)

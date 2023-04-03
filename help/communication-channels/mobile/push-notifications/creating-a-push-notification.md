@@ -1,6 +1,6 @@
 ---
 title: 푸시 알림 만들기
-description: '푸시 알림을 만드는 방법을 알아봅니다. '
+description: 푸시 알림을 만드는 방법을 알아봅니다.
 feature: Push
 kt: 1401
 thumbnail: 31499.jpg
@@ -10,10 +10,10 @@ team: TM
 exl-id: 7520cb4a-f277-42fa-81be-afb46b21365f
 role: User
 level: Beginner
-source-git-commit: 7777c76109ca8f40982073ec4782e82903a78095
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '119'
+ht-degree: 3%
 
 ---
 
@@ -29,4 +29,4 @@ Adobe Campaign을 통해 개인화 및 세그먼트화된 파일을 보낼 수 �
 
 이 비디오에서는 [!DNL push notification to app subscribers].
 
->[!VIDEO](https://video.tv.adobe.com/v/31499?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31499?quality=12&learn=on)

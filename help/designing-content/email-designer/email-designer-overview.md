@@ -11,7 +11,7 @@ exl-id: 17813cda-50a1-406b-b4ae-9267671a6910
 role: User, Developer
 recommendations: noDisplay
 level: Beginner
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 86%
@@ -24,7 +24,7 @@ ht-degree: 86%
 
 이 비디오에서는 Adobe Campaign Standard [!UICONTROL Email Designer]의 기능 및 사용에 대한 높은 수준의 개요를 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12&learn=on)
 
 ## 자습서
 

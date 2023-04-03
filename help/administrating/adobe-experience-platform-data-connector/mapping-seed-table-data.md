@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: a6b8ec23-01a2-4333-9918-9ea13aac4068
-source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 8%
 
 ---
 
@@ -25,6 +25,6 @@ ht-degree: 0%
 
 Adobe Experience Platform에 시드 데이터 및 테스트 프로필을 매핑하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27264?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27264?quality=12&learn=on)
 
 자세한 내용은 제품 설명서 를 참조하십시오 [매핑 정의](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html) 그리고 [매핑 활성화](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)

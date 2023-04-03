@@ -10,7 +10,7 @@ team: DOC
 exl-id: fb138b50-5022-4320-8d45-a9ac6405a44e
 role: User
 level: Beginner, Intermediate
-source-git-commit: 19c6fe46ec03d822736dc3b80171b1bd41fc5a55
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 27%
@@ -23,4 +23,4 @@ ht-degree: 27%
 
 다음 비디오에서는 테스트 프로필을 만드는 방법을 설명합니다
 
->[!VIDEO](https://video.tv.adobe.com/v/24094?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24094?quality=12&learn=on)

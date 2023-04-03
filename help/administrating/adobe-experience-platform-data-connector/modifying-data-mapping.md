@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: a03299d2-3ef5-42a7-b0ab-ec90908f71ec
-source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 7%
@@ -25,7 +25,7 @@ ht-degree: 7%
 
 상태를 확인하고 데이터 매핑을 수정하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27266?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27266?quality=12&learn=on)
 
 ## 추가 리소스
 

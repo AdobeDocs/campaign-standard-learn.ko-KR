@@ -10,7 +10,7 @@ team: WWFRE
 exl-id: 5948ce53-0d12-4768-912a-9edb0b9b6f2b
 role: User
 level: Beginner
-source-git-commit: 9333e405cd7db178cebf0281f7a34fbb2a183081
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 37%
@@ -28,4 +28,4 @@ Adobe Campaign에는 두 가지 유형 또는 프로필이 있습니다.
 
 이 비디오에서는 Adobe Campaign Standard에서 기존 프로필로 이동하는 방법과 프로필 및 대상자를 만드는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12&learn=on)

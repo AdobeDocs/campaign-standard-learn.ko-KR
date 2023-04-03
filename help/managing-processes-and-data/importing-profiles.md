@@ -10,7 +10,7 @@ team: DOC
 exl-id: 4d9ce24e-cd01-4b81-8aee-58c58ef2f286
 role: User, Developer, Admin
 level: Beginner
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 18%
@@ -23,4 +23,4 @@ ht-degree: 18%
 
 다음 비디오에서는 을(를) 사용하는 방법을 설명합니다. [!UICONTROL Data Management] 워크플로우의 활동으로 프로필 데이터를 가져옵니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/24993?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24993?quality=12&learn=on)

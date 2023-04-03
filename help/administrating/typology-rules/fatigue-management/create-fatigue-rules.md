@@ -8,10 +8,10 @@ doc-type: feature video
 activity: setup
 team: TM
 exl-id: fd75ce71-8131-4cba-b766-e68f59ebcbf9
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 25%
+ht-degree: 26%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 25%
 [!UICONTROL Fatigue rules] 마케터는 캠페인에서 과도하게 요청된 프로필을 자동으로 제외하는 글로벌 크로스 채널 비즈니스 규칙을 설정할 수 있도록 허용합니다.
 만들려면 [!UICONTROL fatigue rules]를 채울 수 있도록 프로필당 최대 메시지 수를 정의하고 규칙을 적용할 기간을 선택해야 합니다. 게재를 준비하는 동안 이미 보낸 메시지 수에 따라 해당되는 경우 프로필이 게재에서 제외됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/28450?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28450?quality=12&learn=on)
 
 *만들기 방법 [!UICONTROL fatigue rule] (04:49분)*
 

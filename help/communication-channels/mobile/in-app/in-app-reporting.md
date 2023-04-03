@@ -10,7 +10,7 @@ team: TM
 exl-id: bb587ee7-9587-44d3-8bb4-3d4e64f66749
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 7%
@@ -21,4 +21,4 @@ ht-degree: 7%
 
 다음 내용을 검토할 수 있습니다. [!UICONTROL In-App] 게재 요약에서 게재 관련 데이터를 추가하여 [!UICONTROL In-App]- 특정 지표. 또는 즉시 사용 가능한 [인앱 보고서](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en).
 
->[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12&learn=on)

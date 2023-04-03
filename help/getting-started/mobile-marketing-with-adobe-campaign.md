@@ -10,7 +10,7 @@ team: PMM
 exl-id: 4377b2d6-e5cc-4f25-b40a-e24b7ddf74ed
 role: User, Developer
 level: Beginner
-source-git-commit: e918bcaf5e7bc735bc176d7c7638657f1c7eeab2
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: ht
 source-wordcount: '36'
 ht-degree: 100%
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 이 비디오에서는 모바일 마케팅 전략을 지원할 수 있는 Adobe Campaign Standard 기능을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/29468?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29468?quality=12&learn=on)

@@ -10,8 +10,8 @@ team: WWFRE
 exl-id: fef1b535-8055-4d6b-a099-5e04340ce6e9
 role: User
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
-workflow-type: tm+mt
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+workflow-type: ht
 source-wordcount: '53'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 이 비디오에서는 Adobe Campaign Standard의 보고 기능에 대한 개요를 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23021?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23021?quality=12&learn=on)
 
 ## 추가 리소스
 

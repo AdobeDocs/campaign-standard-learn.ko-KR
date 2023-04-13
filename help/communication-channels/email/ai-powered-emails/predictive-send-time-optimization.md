@@ -11,9 +11,9 @@ exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
 role: User, Developer, Admin
 level: Experienced
 source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '203'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -30,4 +30,4 @@ Adobe Campaign과 여정 AI 모델 간의 데이터를 동기화하는 데 필�
 
 >[!VIDEO](https://video.tv.adobe.com/v/40469?quality=12&learn=on)
 
-자세한 내용은 제품 설명서 를 참조하십시오 [AI 기반의 이메일을 통해 디자인 및 게재 최적화](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)
+이 [AI 기반의 이메일로 디자인 및 게재 최적화하기](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=ko)에 대한 자세한 내용은 제품 설명서를 참조하십시오.

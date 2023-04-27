@@ -2,10 +2,10 @@
 user-guide-title: Adobe Campaign Standard 자습서
 user-guide-description: 크로스 채널 고객 경험을 설계하고 시각적인 Campaign 통합 운영, 실시간 상호 작용 관리 및 크로스 채널 실행을 위한 환경을 구축할 수 있습니다.
 breadcrumb-title: Campaign Standard 자습서
-source-git-commit: 73b0775189f05fc2d5be85d33bc0b0ef213d68ca
-workflow-type: ht
-source-wordcount: '563'
-ht-degree: 100%
+source-git-commit: 5fd8decb13b8d7376c6899b1597eade4b3c5a83d
+workflow-type: tm+mt
+source-wordcount: '568'
+ht-degree: 99%
 
 ---
 
@@ -88,11 +88,12 @@ ht-degree: 100%
       + [외부 신호 활동](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + 데이터 관리 활동 {#data-management-activities}
       + [외부 API 활동](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
-+ 보고서 {#reporting}
++ 보고서 및 모니터링 {#reporting}
    + [보고서 탐색](/help/getting-started/exploring-reports.md)
    + [동적 보고서 만들기](/help/reporting/creating-a-dynamic-report.md)
    + [사용자 지정 프로필 속성을 기반으로 보고서 만들기](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [워크플로우 세그먼트를 기반으로 보고서 만들기](/help/reporting/report-on-workflow-segments.md)
+   + [게재 모니터링](/help/reporting/monitor-a-delivery.md)
 + 다른 솔루션과 통합 {#integrations}
    + [Adobe Analytics에서 게재 성공 추적하기](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + 트랜잭션 메시지에 트리거 사용 {#triggers}

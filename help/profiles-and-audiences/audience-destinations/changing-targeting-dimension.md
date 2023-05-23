@@ -1,6 +1,6 @@
 ---
 title: 타겟팅 차원 변경
-description: 이 비디오에서는 Adobe Campaign Standard에서 기본 프로필 테이블 외부에 있는 Platform 대상에 대한 게재 타깃팅 차원을 변경하는 방법을 설명합니다.
+description: 이 비디오에서는 Adobe Campaign Standard의 기본 프로필 테이블 외부에 있는 Platform 대상에 대한 게재 타깃팅 차원을 변경하는 방법을 설명합니다.
 feature: People Core Service Integration
 kt: 3739
 thumbnail: 30151.jpg
@@ -21,10 +21,10 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->이 기능은 베타에 있으며, 예고 없이 자주 업데이트되고 수정될 수 있습니다. [!UICONTROL Audience Destinations] 는 Adobe Experience Platform을 기반으로 하며 특정 구성이 필요합니다.
+>이 기능은 베타 버전이며 예고 없이 자주 업데이트 및 수정될 수 있습니다. [!UICONTROL Audience Destinations] 는 Adobe Experience Platform을 기반으로 하며 특정 구성이 필요합니다.
 >
->다음 주소로 문의하십시오 [!UICONTROL Adobe Customer Support] 이 기능을 구현할 계획인 경우
+>에게 문의하십시오. [!UICONTROL Adobe Customer Support] 이 기능을 구현할 계획이라면
 
-이 비디오에서는 을(를) 위해 게재의 타겟팅 차원을 변경하는 방법을 설명합니다 [!UICONTROL Platform Audience] Adobe Campaign Standard의 기본 프로필 테이블 외부에서 게시합니다.
+이 비디오에서는에 대한 게재의 타겟팅 차원을 변경하는 방법을 설명합니다. [!UICONTROL Platform Audience] Adobe Campaign Standard의 기본 프로필 테이블 외부.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12&learn=on)

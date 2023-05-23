@@ -1,6 +1,6 @@
 ---
 title: Adobe Experience Platform SDK를 사용하여 모바일 애플리케이션 구성
-description: Adobe Experience Platform Launch에서 모바일 앱을 설정하는 방법과 Adobe Campaign에서 구성하는 방법을 알아봅니다.
+description: Adobe Experience Platform Launch에서 모바일 앱을 설정하는 방법과 Adobe Campaign에서 모바일 앱을 구성하는 방법에 대해 알아봅니다.
 feature: In App, Push, Channel Configuration, Mobile SDK Integration
 kt: 2501
 thumbnail: 26224.jpg
@@ -18,14 +18,14 @@ ht-degree: 8%
 ---
 
 
-# 을 사용하여 모바일 애플리케이션 구성 [!UICONTROL Adobe Experience Platform SDK]
+# 다음을 사용하여 모바일 애플리케이션 구성 [!UICONTROL Adobe Experience Platform SDK]
 
-인앱 메시지를 보내려면 [!UICONTROL push notifications] mobile SDK V5를 사용하여에서 모바일 앱을 설정해야 합니다. [!UICONTROL Adobe Experience Platform Launch] 및 은 Adobe Campaign에서 구성됩니다.
+인앱 메시지 보내기 또는 [!UICONTROL push notifications] mobile SDK V5를 사용하여에서 모바일 앱을 설정해야 합니다. [!UICONTROL Adobe Experience Platform Launch] Adobe Campaign에서 구성됩니다.
 
-아래 비디오에서는 Experience Platform Launch에서 모바일 앱을 구성하는 데 필요한 단계를 보여줍니다.
+아래 비디오에서는 Experience Platform Launch에서 모바일 앱을 구성하는 데 필요한 단계를 보여 줍니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26224?quality=12&learn=on)
 
 >[!NOTE]
 >
->자세한 내용은 [에서 애플리케이션 구성 [!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en) 자세한 설명서 및 비디오에 사용된 코드 템플릿에 대한 설명입니다.
+>다음을 참조하십시오 [에서 애플리케이션 구성 [!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en) 자세한 설명서 및 비디오에 사용되는 코드 템플릿입니다.

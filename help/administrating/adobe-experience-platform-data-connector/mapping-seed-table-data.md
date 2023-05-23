@@ -1,6 +1,6 @@
 ---
 title: 시드 테이블 데이터 매핑
-description: 시드 데이터를 매핑하는 방법 및 AEP(Adobe Experience Platform)으로 프로필을 테스트하는 방법을 알아봅니다
+description: 시드 데이터를 매핑하는 방법 및 프로필을 Adobe Experience Platform(AEP)와 테스트하는 방법을 알아봅니다
 feature: People Core Service Integration
 kt: 2900
 thumbnail: 27264.jpg
@@ -19,12 +19,12 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->이 기능은 현재 베타에 있으며, 예고 없이 자주 업데이트되고 수정될 수 있습니다.
+>이 기능은 현재 베타 버전이며 예고 없이 자주 업데이트 및 수정될 수 있습니다.
 >
->다음 주소로 문의하십시오 [!UICONTROL Adobe Customer Support] 이 기능을 구현할 계획인 경우
+>에게 문의하십시오. [!UICONTROL Adobe Customer Support] 이 기능을 구현할 계획이라면
 
-Adobe Experience Platform에 시드 데이터 및 테스트 프로필을 매핑하는 방법을 알아봅니다.
+시드 데이터 및 테스트 프로필을 Adobe Experience Platform과 매핑하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27264?quality=12&learn=on)
 
-자세한 내용은 제품 설명서 를 참조하십시오 [매핑 정의](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html) 그리고 [매핑 활성화](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)
+에 대한 자세한 내용은 제품 설명서 를 참조하세요. [매핑 정의](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html) 및 [매핑 활성화](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)

@@ -19,8 +19,8 @@ ht-degree: 18%
 
 # 워크플로우로 프로필 가져오기{#import-profiles-with-a-workflow}
 
-파일에서 데이터를 수집하여 처리하거나 Adobe Campaign 데이터베이스로 가져올 수 있습니다.
+파일에서 데이터를 수집하여 처리하고 Adobe Campaign 데이터베이스로 가져올 수 있습니다.
 
-다음 비디오에서는 을(를) 사용하는 방법을 설명합니다. [!UICONTROL Data Management] 워크플로우의 활동으로 프로필 데이터를 가져옵니다.
+이 비디오에서는 [!UICONTROL Data Management] 워크플로우의 활동을 통해 프로필 데이터를 가져올 수 있습니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24993?quality=12&learn=on)

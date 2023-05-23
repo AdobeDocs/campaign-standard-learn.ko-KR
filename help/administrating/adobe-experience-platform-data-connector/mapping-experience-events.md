@@ -19,11 +19,11 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->이 기능은 현재 베타에 있으며, 예고 없이 자주 업데이트되고 수정될 수 있습니다.
+>이 기능은 현재 베타 버전이며 예고 없이 자주 업데이트 및 수정될 수 있습니다.
 >
->다음 주소로 문의하십시오 [!UICONTROL Adobe Customer Support] 이 기능을 구현할 계획인 경우
+>에게 문의하십시오. [!UICONTROL Adobe Customer Support] 이 기능을 구현할 계획이라면
 
-매핑 방법 알아보기 [!UICONTROL Experience Events] Adobe Experience Platform(AEP)에서 사용할 수 있습니다.
+매핑 방법 알아보기 [!UICONTROL Experience Events] AEP(Adobe Experience Platform)에서.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27265?quality=12&learn=on)
 

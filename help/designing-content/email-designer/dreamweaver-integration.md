@@ -1,6 +1,6 @@
 ---
 title: Adobe Dreamweaver를 사용하여 콘텐츠 제작
-description: Dreamweaver 통합을 활성화하는 데 필요한 사항과 Dreamweaver을 사용하여 Adobe Campaign Standard용 컨텐츠를 만들고 편집하는 방법을 이해합니다.
+description: Dreamweaver 통합을 활성화하는 데 필요한 사항과 Dreamweaver을 사용하여 Adobe Campaign Standard용 콘텐츠를 만들고 편집하는 방법을 이해합니다.
 feature: Email Design
 kt: 1420
 thumbnail: 23121.jpg
@@ -35,4 +35,4 @@ Adobe Dreamweaver와 통합된 Adobe Campaign Standard을 통해 Dreamweaver 인
 
 *Adobe Campaign에서 Dreamweaver 통합을 사용하는 방법(02:37분)*
 
-Dreamweaver 를 참조하십시오 [Adobe Dreamweaver 설명서](https://helpx.adobe.com/kr/dreamweaver/using/working-with-dreamweaver-and-campaign.html) 자세한 내용 [Adobe Campaign Dreamweaver 설치 문제 해결](https://helpx.adobe.com/kr/dreamweaver/kb/dreamweaver-campaign-integration-issue.html).
+Dreamweaver 보기 [Adobe Dreamweaver 설명서](https://helpx.adobe.com/kr/dreamweaver/using/working-with-dreamweaver-and-campaign.html) 다음에 대한 정보를 위해: [Adobe Campaign Dreamweaver 설치 문제 해결](https://helpx.adobe.com/kr/dreamweaver/kb/dreamweaver-campaign-integration-issue.html).

@@ -19,7 +19,7 @@ ht-degree: 45%
 
 # 이메일 게재 만들기 {#create-an-email-delivery}
 
-캠페인, Adobe Campaign 홈페이지 또는 [!UICONTROL Marketing Activity] 목록. 워크플로우에서 한 번 전송하고 반복 이메일을 만들고 전송할 수도 있습니다.
+캠페인, Adobe Campaign 홈페이지 또는 [!UICONTROL Marketing Activity] 목록을 표시합니다. 워크플로우에서 한 번 전송하고 반복되는 이메일을 만들고 보낼 수도 있습니다.
 
 홈페이지에서 이메일 게재를 생성하는 방법에 대해 알아봅니다.
 

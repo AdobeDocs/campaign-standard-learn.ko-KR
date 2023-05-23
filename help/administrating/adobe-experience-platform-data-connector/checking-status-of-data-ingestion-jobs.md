@@ -20,11 +20,11 @@ ht-degree: 23%
 
 >[!NOTE]
 >
->이 기능은 베타에 있으며, 예고 없이 자주 업데이트되고 수정될 수 있습니다.
+>이 기능은 베타 버전이며 예고 없이 자주 업데이트 및 수정될 수 있습니다.
 >
->다음 주소로 문의하십시오 [!UICONTROL Adobe Customer Support] 이 기능을 구현할 계획인 경우
+>에게 문의하십시오. [!UICONTROL Adobe Customer Support] 이 기능을 구현할 계획이라면
 
-데이터 수집 작업의 상태와 데이터가 Adobe Campaign Standard에서 Adobe Experience Platform으로 가져왔는지 확인하는 방법을 알아봅니다.
+데이터 수집 작업의 상태와 데이터가 Adobe Campaign Standard에서 Adobe Experience Platform으로 수집되었는지 확인하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12&learn=on)
 

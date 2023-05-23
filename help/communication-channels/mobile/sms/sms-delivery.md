@@ -21,6 +21,6 @@ ht-degree: 20%
 
 Adobe Campaign Standard에서 SMS 게재를 만드는 방법을 알아봅니다. SMS 게재 활동을 사용하여 워크플로우에서 SMS 전송을 구성할 수도 있습니다.
 
-SMS 게재 활동은 SMS 전송을 자동화하는 데 사용됩니다. 이 활동의 구성은 비디오에 설명된 1회 게재의 구성과 동일합니다.
+SMS 게재 활동은 SMS 전송을 자동화하는 데 사용됩니다. 이 활동의 구성은 비디오에 설명된 일회성 게재 구성과 동일합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25265/?quality=12&learn=on)

@@ -1,6 +1,6 @@
 ---
 title: 외부 API 활동을 사용하여 워크플로우 구성 및 실행
-description: 외부 REST API 엔드포인트를 호출하여 타사 시스템의 개인화 데이터를 캠페인으로 가져오는 방법을 알아봅니다.
+description: 외부 REST API 엔드포인트를 호출하여 개인화 데이터를 서드파티 시스템에서 캠페인으로 가져오는 방법을 알아봅니다.
 feature: Data Management Activity
 kt: 2764
 thumbnail: 28200.jpg
@@ -19,7 +19,7 @@ ht-degree: 49%
 
 # [!UICONTROL External API activity]을(를) 사용하여 워크플로우 구성 및 실행
 
-[!UICONTROL External API activity]은(는) [!UICONTROL Data Management activity]입니다. 외부 REST API 엔드포인트를 호출할 수 있습니다. 이 활동의 목적은 타사 시스템의 개인화 데이터를 캠페인으로 가져오는 것입니다.
+[!UICONTROL External API activity]은(는) [!UICONTROL Data Management activity]입니다. 외부 REST API 엔드포인트를 호출할 수 있습니다. 이 활동의 목적은 서드파티 시스템의 개인화 데이터를 캠페인으로 가져오는 것입니다.
 
 사용 사례의 예는 다음과 같습니다.
 
@@ -36,4 +36,4 @@ ht-degree: 49%
 
 >[!NOTE]
 >
->활동은 캠페인 전체 데이터를 가져오기 위한 것이며 대량의 데이터가 전송될 수 있으므로 각 프로필에 대한 특정 정보를 검색하기 위한 것이 아닙니다. 사용 사례에서 프로필 관련 정보를 필요로 하는 경우 파일 전송 활동을 사용하는 것이 좋습니다.
+>이 활동은 캠페인 전체 데이터를 가져오기 위한 것이며 대량의 데이터가 전송될 수 있으므로 각 프로필에 대한 특정 정보를 검색하기 위한 것이 아닙니다. 사용 사례에서 프로필별 정보를 필요로 하는 경우 파일 전송 활동을 사용하는 것이 좋습니다.

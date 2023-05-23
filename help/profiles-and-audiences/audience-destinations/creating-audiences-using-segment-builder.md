@@ -1,6 +1,6 @@
 ---
 title: 통합 세그먼트 빌더를 사용하여 새 대상자 만들기
-description: 통합 세그먼트 빌더를 사용하여 대상을 만드는 방법을 알아봅니다
+description: 통합 세그먼트 빌더를 사용하여 대상자를 만드는 방법을 알아봅니다
 feature: People Core Service Integration
 kt: 2754
 thumbnail: 27638.jpg
@@ -21,16 +21,16 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->이 기능은 베타에 있으며, 예고 없이 자주 업데이트되고 수정될 수 있습니다. [!UICONTROL Audience Destinations] 는 Adobe Experience Platform을 기반으로 하며 특정 구성이 필요합니다.
+>이 기능은 베타 버전이며 예고 없이 자주 업데이트 및 수정될 수 있습니다. [!UICONTROL Audience Destinations] 는 Adobe Experience Platform을 기반으로 하며 특정 구성이 필요합니다.
 >
->다음 주소로 문의하십시오 [!UICONTROL Adobe Customer Support] 이 기능을 구현할 계획인 경우
+>에게 문의하십시오. [!UICONTROL Adobe Customer Support] 이 기능을 구현할 계획이라면
 
-Adobe Campaign Standard에서 Adobe Experience Cloud의 데이터를 사용하여 대상을 작성할 수 있습니다 [실시간 고객 프로필](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) Adobe Experience Platform 사용 [!UICONTROL Unified Segment Builder].
+Adobe Campaign Standard에서는 Adobe Experience Cloud의 데이터를 사용하여 대상을 작성할 수 있습니다 [실시간 고객 프로필](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) Adobe Experience Platform 사용 [!UICONTROL Unified Segment Builder].
 
-에 액세스할 수 있습니다 [!UICONTROL Unified Segment Builder] 를 통해 Adobe Campaign Standard 내에서 직접 [!UICONTROL Audiences ] 모듈. 여기에서 이러한 대상을 [!UICONTROL Audiences] Adobe Campaign 인터페이스에서 직접 Adobe Experience Platform 대상자를 편집하거나 만들 수 있는 목록 보기
+다음에 액세스할 수 있습니다. [!UICONTROL Unified Segment Builder] 를 통해 Adobe Campaign Standard 내에서 직접 [!UICONTROL Audiences ] 모듈. 이렇게 하면 다음에서 이러한 대상을 직접 관리할 수 있습니다. [!UICONTROL Audiences] Adobe Campaign 인터페이스에서 직접 Adobe Experience Platform 대상자를 편집하거나 만들 수 있는 목록 보기
 
-아래 비디오에서는 [!UICONTROL Unified Segment Builder] Adobe Campaign Standard 내에서 사용할 수 있습니다.
+아래 비디오에서는 을 사용하여 새 대상을 만드는 방법을 설명합니다. [!UICONTROL Unified Segment Builder] Adobe Campaign Standard 내.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12&learn=on)
 
-*통합 세그먼트 빌더를 사용하여 Adobe Campaign Standard에서 대상을 만드는 방법(최소 02:47)*
+*통합 세그먼트 빌더를 사용하여 Adobe Campaign Standard에서 대상자를 만드는 방법(분 02:47)*

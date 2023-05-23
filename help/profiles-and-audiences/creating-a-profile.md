@@ -1,6 +1,6 @@
 ---
 title: 프로필 만들기
-description: 프로필을 만드는 방법과 프로필을 대상에 추가하는 방법을 알아봅니다.
+description: 프로필을 만들고 대상자에 추가하는 방법을 알아봅니다.
 feature: Profiles, Audiences
 kt: 1820
 thumbnail: 25277.jpg
@@ -19,6 +19,6 @@ ht-degree: 8%
 
 # 프로필 만들기
 
-이 비디오에서는 프로필을 만드는 방법과 프로필을 대상에 추가하는 방법을 설명합니다.
+이 비디오에서는 프로필을 만드는 방법과 해당 프로필을 대상자에 추가하는 방법을 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25277/?quality=12&learn=on)

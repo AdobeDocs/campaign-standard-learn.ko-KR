@@ -1,6 +1,6 @@
 ---
 title: 이벤트 구성
-description: "이벤트는 표시되는 인앱 메시지를 트리거할 사용자 시작 작업을 정의하는 방법을 이해합니다. "
+description: "이벤트에서 표시할 인앱 메시지를 트리거하는 사용자 시작 작업을 정의하는 방법을 이해합니다. "
 feature: In App
 kt: 2548
 thumbnail: 26245.jpg
@@ -19,36 +19,36 @@ ht-degree: 2%
 
 # 구성 [!UICONTROL Events] {#configuring-events}
 
-구성 시 [!UICONTROL In-App] 메시지가 표시되면 표시할 메시지를 트리거하는 사용자 시작 작업을 정의해야 합니다. 이러한 작업을 라고 합니다 [!UICONTROL events]. 세 가지 범주 [!UICONTROL events] 사용할 수 있습니다. [!UICONTROL Mobile Application events], [!UICONTROL Life Cycle events], 및 [!UICONTROL Analytics events].
+구성 시 [!UICONTROL In-App] 메시지를 표시하려면 사용자가 시작한 작업을 정의하여 메시지를 표시해야 합니다. 이러한 작업을 라고 합니다. [!UICONTROL events]. 다음의 세 가지 범주 [!UICONTROL events] 사용 가능: [!UICONTROL Mobile Application events], [!UICONTROL Life Cycle events], 및 [!UICONTROL Analytics events].
 
 ## [!UICONTROL Mobile Application Events] {#mobile-application-events}
 
-[!UICONTROL Mobile Application events] is [!UICONTROL custom events] 모바일 애플리케이션에서 구현됩니다.
+[!UICONTROL Mobile Application events] 은(는) [!UICONTROL custom events] 모바일 애플리케이션에서 구현됩니다.
 
 예:
 
-* 고객이 항목을 보았습니다
-* 고객이 장바구니에 항목을 추가합니다
+* 고객이 항목을 조회함
+* 고객이 장바구니에 품목을 추가합니다.
 * 장바구니 포기
-* 고객이 물건을 구입했습니다
+* 고객이 구매한 항목
 
-이러한 구성 요소를 구성해야 합니다 [!UICONTROL events] Adobe Campaign. 다음 비디오에서는 이 작업을 수행하는 방법을 설명합니다.
+다음을 구성해야 합니다. [!UICONTROL events] Adobe Campaign. 다음 비디오에서는 이 작업을 수행하는 방법에 대해 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26245?quality=12&learn=on)
 
 ## [!UICONTROL Life Cycle events] {#life-cycle-events}
 
-[!UICONTROL Lifecycle events] 즉시 사용 가능 [!UICONTROL events]. 다음 [!UICONTROL events] 사용할 수 있습니다.
+[!UICONTROL Lifecycle events] 기본 제공 [!UICONTROL events]. 다음 [!UICONTROL events] 사용 가능:
 
 * [!UICONTROL launched]
 * [!UICONTROL upgraded]
 * [!UICONTROL crashed]
 
-예제 사용 사례는 업그레이드 후 새로운 기능을 소개하는 메시지 또는 이벤트 프로모션일 수 있습니다.
+업그레이드 후 새로운 기능을 소개하는 메시지나 이벤트 프로모션이 사용 사례의 예입니다.
 
 >[!NOTE]
 >
->다음 [!UICONTROL Lifecycle module] 모바일 애플리케이션에서 를 구성해야 합니다. 자세한 내용은 여기 를 참조하십시오 [앱에 라이프사이클을 추가하는 방법](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/lifecycle)
+>다음 [!UICONTROL Lifecycle module] 모바일 애플리케이션에서 구성해야 합니다. 자세한 내용은 여기 를 참조하십시오. [앱에 라이프사이클을 추가하는 방법](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/lifecycle)
 
 ## [!UICONTROL Analytics Events] {#analytics-events}
 
@@ -60,4 +60,4 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->[!UICONTROL Analytics events] Adobe Analytics 라이센스가 필요합니다. 일단 이 [[!DNL Analytics] 확장 구성](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) 및 이 추가됨 [앱에 분석](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)에서 이러한 이벤트를 사용할 수 있습니다. [!UICONTROL In-App] 구성입니다.
+>[!UICONTROL Analytics events] Adobe Analytics 라이선스가 필요합니다. 를 가져오면 [[!DNL Analytics] 확장 구성됨](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) 및 이(가) 을(를) 추가함 [앱에 대한 분석](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app), 이러한 이벤트는에서 사용할 수 있습니다. [!UICONTROL In-App] acs에서 구성

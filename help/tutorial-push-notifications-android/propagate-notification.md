@@ -10,21 +10,21 @@ exl-id: b0e01224-4ddc-4999-b8c6-794e49245428
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
 # 알림을 전송할 서비스 추가
 
-이 부분에서는 [!DNL Android Notification Manager]. [!DNL Notification manager] 가 발생한 이벤트를 사용자에게 알리는 데 사용됩니다.
-다음은 백그라운드에서 발생한 문제가 있음을 사용자에게 알려주는 방법입니다.
+이 부분에서는 를 사용하여 Adobe Campaign에서 받은 메시지를 전파합니다. [!DNL Android Notification Manager]. [!DNL Notification manager] 사용자에게 발생한 이벤트를 알리는 데 사용됩니다.
+다음은 백그라운드에서 어떤 일이 발생했음을 사용자에게 알리는 방법입니다.
 
-* Launch [!DNL Android Studio]
+* 시작 [!DNL Android Studio]
 * 열기 *[!DNL ACSPushTutorial]* 프로젝트
-* 프로젝트 구조를 확장합니다.
-* 패키지 폴더([!DNL com.example.acspushtutorial]) 및 [!DNL New ->Java Class]
-* 이 클래스의 이름을 지정합니다. *[!DNL MyService]* 확장 및 [!DNL FirebaseMessagingService]
-* 만들기 *[!DNL sendNotification]* 이 클래스의 메서드입니다. 이 방법에서는 을 사용하여 알림의 콘텐츠와 채널을 설정해야 합니다 [!DNL NotificationCompat.Builder] 개체. 알림을 표시하려면 [!DNL NotificationManagerCompat.notify()], 알림 및 결과에 대한 고유 ID를 전달합니다 [!DNL NotificationCompat.Builder.build()].
+* 프로젝트 구조 확장
+* 패키지 폴더를 마우스 오른쪽 단추로 클릭합니다([!DNL com.example.acspushtutorial]) 및 [!DNL New ->Java Class]
+* 이 클래스 이름 지정 *[!DNL MyService]* 확장되는지 확인합니다. [!DNL FirebaseMessagingService]
+* 만들기 *[!DNL sendNotification]* 이 클래스의 메서드입니다. 이 방법에서는 [!DNL NotificationCompat.Builder] 개체. 알림을 표시하려면 을 호출합니다. [!DNL NotificationManagerCompat.notify()], 알림에 대한 고유 ID 및 결과 전달 [!DNL NotificationCompat.Builder.build()].
 
 <!--
 Removed `{.line-numbers}` below
@@ -93,7 +93,7 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 
 ## 수정 [!DNL AndroidManifest.xml]
 
-생성된 서비스를 [!DNL AndroidManifest.xml]. 마지막 [!DNL AndroidManifest.xml] 는 아래와 같습니다.
+생성된 서비스를 다음에 추가합니다. [!DNL AndroidManifest.xml]. 최종 [!DNL AndroidManifest.xml] 은(는) 다음과 같아야 합니다.
 
 <!--
 Removed `{.line-numbers}` below
@@ -137,4 +137,4 @@ Removed `{.line-numbers}` below
 
 ## 앱 실행
 
-를 클릭하여 앱을 실행합니다. **녹색 화살표** 도구 모음 또는 [!DNL Run] 메뉴 아래의 제품에서 사용할 수 있습니다.
+다음을 클릭하여 앱 실행 **녹색 화살표** 도구 모음 또는 [!DNL Run] 메뉴 아래의 제품에서 사용할 수 있습니다.

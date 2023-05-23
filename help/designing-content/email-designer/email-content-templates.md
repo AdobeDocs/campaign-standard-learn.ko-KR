@@ -19,8 +19,8 @@ ht-degree: 14%
 
 # 이메일 콘텐츠 템플릿 소개 {#introduction-to-the-email-content-templates}
 
-Adobe Campaign Standard은 즉시 사용 가능한 18개의 반응형 이메일 템플릿을 제공합니다. 이러한 템플릿은 Adobe Campaign Standard용으로 특별히 제작되었으며 조작과 변경이 간편합니다. 이메일 만들기에 중요한 시작점입니다.
+Adobe Campaign Standard은 즉시 사용 가능한 18개의 반응형 이메일 템플릿을 제공합니다. 이러한 템플릿은 Adobe Campaign Standard용으로 특별히 만들어졌으며 조작 및 변경이 용이합니다. 이메일을 작성하는 데 좋은 시작점입니다.
 
-이 비디오에서는 템플릿을 소개하고 자신만의 템플릿을 만드는 방법을 설명합니다.
+이 비디오에서는 템플릿을 소개하고 나만의 템플릿을 만드는 방법을 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23106?quality=12&learn=on)

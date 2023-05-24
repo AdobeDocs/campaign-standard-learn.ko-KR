@@ -5,8 +5,8 @@ solution: Campaign
 exl-id: 4b801b77-4f96-430b-8e0a-c4dfa856b7d4
 source-git-commit: 4f4ae9b19ca68737d6e9e43725db7b3ce1d7a9b8
 workflow-type: tm+mt
-source-wordcount: '1471'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

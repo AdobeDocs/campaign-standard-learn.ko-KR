@@ -11,8 +11,8 @@ jira: KT-13256
 thumbnail: KT-13256.jpeg
 source-git-commit: 3da1b695d56f9deb5747cc89de023f19a5b25bad
 workflow-type: tm+mt
-source-wordcount: '724'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

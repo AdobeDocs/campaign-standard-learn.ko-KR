@@ -4,8 +4,8 @@ user-guide-description: 크로스 채널 고객 경험을 설계하고 시각적
 breadcrumb-title: Campaign Standard 자습서
 source-git-commit: 6ae9e253f99947c2515031b520d5ab029e9c4b8a
 workflow-type: tm+mt
-source-wordcount: '585'
-ht-degree: 96%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

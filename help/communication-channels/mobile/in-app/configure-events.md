@@ -1,6 +1,6 @@
 ---
 title: 이벤트 구성
-description: "이벤트에서 표시할 인앱 메시지를 트리거하는 사용자 시작 작업을 정의하는 방법을 이해합니다. "
+description: "이벤트가 어떤 사용자가 시작한 작업을 정의하면 표시될 인앱 메시지가 트리거되는지 이해합니다. "
 feature: In App
 kt: 2548
 thumbnail: 26245.jpg
@@ -10,16 +10,16 @@ team: TM
 exl-id: 2c7937f4-b0da-46e5-934e-c660012c2c6f
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: 56b973566e9dee412aeee1412fe6271537fc1295
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '185'
+ht-degree: 2%
 
 ---
 
 # 구성 [!UICONTROL Events] {#configuring-events}
 
-구성 시 [!UICONTROL In-App] 메시지를 표시하려면 사용자가 시작한 작업을 정의하여 메시지를 표시해야 합니다. 이러한 작업을 라고 합니다. [!UICONTROL events]. 다음의 세 가지 범주 [!UICONTROL events] 사용 가능: [!UICONTROL Mobile Application events], [!UICONTROL Life Cycle events], 및 [!UICONTROL Analytics events].
+구성 시 [!UICONTROL In-App] 메시지를 표시할 사용자 시작 작업을 정의해야 합니다. 이러한 작업을 라고 합니다. [!UICONTROL events]. 다음의 세 가지 범주 [!UICONTROL events] 사용 가능: [!UICONTROL Mobile Application events], [!UICONTROL Life-Cycle events], 및 [!UICONTROL Analytics events].
 
 ## [!UICONTROL Mobile Application Events] {#mobile-application-events}
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/26245?quality=12&learn=on)
 
-## [!UICONTROL Life Cycle events] {#life-cycle-events}
+## [!UICONTROL Life-Cycle events] {#life-cycle-events}
 
 [!UICONTROL Lifecycle events] 기본 제공 [!UICONTROL events]. 다음 [!UICONTROL events] 사용 가능:
 
@@ -60,4 +60,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->[!UICONTROL Analytics events] Adobe Analytics 라이선스가 필요합니다. 를 가져오면 [[!DNL Analytics] 확장 구성됨](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) 및 이(가) 을(를) 추가함 [앱에 대한 분석](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app), 이러한 이벤트는에서 사용할 수 있습니다. [!UICONTROL In-App] acs에서 구성
+>[!UICONTROL Analytics events] Adobe Analytics 라이선스가 필요합니다. 를 가져오면 [!DNL Analytics] 확장이 구성되어 앱에 Analytics가 추가되면 다음 이벤트에서 사용할 수 있습니다. [!UICONTROL In-App] acs에서 구성

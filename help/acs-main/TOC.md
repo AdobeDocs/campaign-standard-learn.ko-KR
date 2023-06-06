@@ -2,10 +2,10 @@
 user-guide-title: Adobe Campaign Standard 자습서
 user-guide-description: 크로스 채널 고객 경험을 설계하고 시각적인 Campaign 통합 운영, 실시간 상호 작용 관리 및 크로스 채널 실행을 위한 환경을 구축할 수 있습니다.
 breadcrumb-title: Campaign Standard 자습서
-source-git-commit: 6ae9e253f99947c2515031b520d5ab029e9c4b8a
+source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '581'
+ht-degree: 96%
 
 ---
 
@@ -60,7 +60,6 @@ ht-degree: 0%
          + [다국어 푸시 알림 만들기](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
          + [튜토리얼: Android™에서 푸시 알림 시작하기](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=ko)
       + 인앱 메시지 {#in-app}
-         + [인앱 메시지 소개](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [이벤트 구성](/help/communication-channels/mobile/in-app/configure-events.md)
          + [인앱 메시지 브로드캐스트](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md)
          + [Campaign 프로필 기반 타겟 사용자](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)

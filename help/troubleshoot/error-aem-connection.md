@@ -4,12 +4,12 @@ description: Campaign Standard에서 Experience Manager로 연결 중 발생하�
 role: Admin
 level: Beginner, Experienced
 type: Troubleshooting
-kt: 8393
+jira: KT-8393
 exl-id: 85632ab3-3d07-4737-84e9-d265a769c37d
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+workflow-type: ht
+source-wordcount: '48'
+ht-degree: 100%
 
 ---
 

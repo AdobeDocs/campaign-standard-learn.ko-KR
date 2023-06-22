@@ -4,13 +4,13 @@ description: Adobe Campaign 실무자가 디지털 소비자 변화와 보다 �
 doc-type: article
 role: User
 level: Beginner
-kt: 11779
+jira: KT-11779
 last-substantial-update: 2023-01-31T00:00:00Z
 exl-id: 13180aae-15c8-42dd-97a2-86eec506f58b
-source-git-commit: 4f4ae9b19ca68737d6e9e43725db7b3ce1d7a9b8
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+workflow-type: ht
+source-wordcount: '1279'
+ht-degree: 100%
 
 ---
 

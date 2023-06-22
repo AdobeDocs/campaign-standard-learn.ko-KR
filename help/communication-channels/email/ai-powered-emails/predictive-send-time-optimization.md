@@ -2,7 +2,7 @@
 title: 예측 전송 시간 최적화
 description: Adobe Campaign과 여정 AI 모델 간의 데이터를 동기화하는 데 필요한 워크플로우를 파악할 수 있습니다. 개별 프로필 수준에서 전송 시간 점수를 보는 방법 및 전송 시간 수식을 사용하여 이메일 게재 실행 방법을 알아봅니다.
 feature: Send Time Optimization
-kt: 6274
+jira: KT-6274
 thumbnail: 40469.jpg
 doc-type: feature video
 activity: use
@@ -10,10 +10,10 @@ team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+workflow-type: ht
+source-wordcount: '203'
+ht-degree: 100%
 
 ---
 

@@ -2,17 +2,17 @@
 title: 사용자 지정 리소스 만들기 - 소개
 description: 이 튜토리얼은 여러 편으로 나뉘어 있으며, 사용자 지정 리소스를 만들고 연결하는 데 필요한 단계를 안내합니다.
 feature: Data Model
-kt: 2999
+jira: KT-2999
 thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+workflow-type: ht
+source-wordcount: '187'
+ht-degree: 100%
 
 ---
 

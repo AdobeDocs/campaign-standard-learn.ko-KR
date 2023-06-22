@@ -2,7 +2,7 @@
 title: 보고 소개
 description: Adobe Campaign Standard의 보고 기능 이해
 feature: Reporting
-kt: 3974
+jira: KT-3974
 thumbnail: 29461.jpg
 doc-type: value video
 activity: understand
@@ -10,10 +10,10 @@ team: PMM
 exl-id: 46978dbc-1716-4fc4-946e-56d703944d25
 role: User, Developer
 level: Beginner
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+workflow-type: ht
+source-wordcount: '28'
+ht-degree: 100%
 
 ---
 

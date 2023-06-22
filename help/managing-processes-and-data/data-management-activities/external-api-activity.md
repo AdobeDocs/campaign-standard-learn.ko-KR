@@ -2,7 +2,7 @@
 title: 외부 API 활동을 사용하여 워크플로우 구성 및 실행
 description: 외부 REST API 엔드포인트를 호출하여 개인화 데이터를 서드파티 시스템에서 캠페인으로 가져오는 방법을 알아봅니다.
 feature: Data Management Activity
-kt: 2764
+jira: KT-2764
 thumbnail: 28200.jpg
 doc-type: feature video
 activity: use
@@ -10,10 +10,10 @@ team: TM
 exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
 role: User, Developer
 level: Experienced
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '159'
+ht-degree: 49%
 
 ---
 

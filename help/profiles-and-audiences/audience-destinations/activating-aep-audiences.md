@@ -2,7 +2,7 @@
 title: 워크플로우에서 Adobe Experience Platform 대상자 활성화
 description: 이 비디오에서는 '대상자 읽기' 활동을 사용하여 워크플로우 내에서 Data Services 쿼리 대상자를 활성화하는 방법을 설명합니다.
 feature: People Core Service Integration
-kt: 2760
+jira: KT-2760
 thumbnail: 27647.jpg
 doc-type: feature video
 activity: using
@@ -10,10 +10,10 @@ team: PM
 exl-id: 955d063f-4709-4f56-8f39-f1b838354300
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '123'
+ht-degree: 6%
 
 ---
 

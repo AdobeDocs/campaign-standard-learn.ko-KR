@@ -2,7 +2,7 @@
 title: 랜딩 페이지 테스트 및 게시
 description: Adobe Campaign Standard에서 빌드된 랜딩 페이지를 테스트하는 방법과 게시하는 방법을 알아봅니다.
 feature: Landing Pages
-kt: 1813
+jira: KT-1813
 thumbnail: 24992.jpg
 doc-type: feature video
 activity: use
@@ -10,10 +10,10 @@ team: DOC
 exl-id: 544587f3-c273-4b1c-b5fd-65213d0c0ea3
 role: User
 level: Beginner
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '44'
+ht-degree: 27%
 
 ---
 

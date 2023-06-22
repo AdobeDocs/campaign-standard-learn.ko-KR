@@ -2,7 +2,7 @@
 title: A/B 테스트
 description: 이메일의 제목 줄을 테스트하기 위해 A/B 테스트를 구성하고 전송하는 방법에 대해 알아봅니다.
 feature: A/B Testing
-kt: 3907
+jira: KT-3907
 thumbnail: 18480.jpg
 doc-type: feature video
 activity: use
@@ -10,10 +10,10 @@ team: TM
 exl-id: f1ae414c-6b42-445b-bb33-9a28a3e854fa
 role: User
 level: Beginner
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '119'
+ht-degree: 37%
 
 ---
 

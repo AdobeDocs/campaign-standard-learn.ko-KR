@@ -2,7 +2,7 @@
 title: 테스트 보내기, 준비, 이메일 보내기
 description: "테스트 이메일을 보내고, 준비하고, 이메일 게재를 보내는 방법을 알아봅니다. "
 feature: Email, Test Profiles
-kt: 1812
+jira: KT-1812
 thumbnail: 24013.jpg
 doc-type: feature video
 activity: use
@@ -12,10 +12,10 @@ role: User
 level: Beginner
 hidefromtoc: true
 hide: true
-source-git-commit: 22048e99a99cb0796fc62054c9202603ce57d250
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '51'
+ht-degree: 31%
 
 ---
 

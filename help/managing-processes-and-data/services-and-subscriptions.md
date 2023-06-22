@@ -2,7 +2,7 @@
 title: 서비스 및 구독 관리
 description: 서비스를 만들고 구독을 관리하는 방법을 알아봅니다.
 feature: Subscriptions
-kt: 1815
+jira: KT-1815
 thumbnail: 24673.jpg
 doc-type: feature video
 activity: use
@@ -10,10 +10,10 @@ team: DOC
 exl-id: 2970db2c-b01b-4a7c-9eec-47a530209c24
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '114'
+ht-degree: 43%
 
 ---
 

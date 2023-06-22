@@ -2,15 +2,15 @@
 title: 6부 - 푸시 알림 보내기 작업 테스트
 description: 6부 - 푸시 알림 보내기 작업 테스트
 feature: Push
-kt: 4830
+jira: KT-4830
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: 10218e1f-6e85-490a-84d9-c5d42bd2321d
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '138'
+ht-degree: 2%
 
 ---
 

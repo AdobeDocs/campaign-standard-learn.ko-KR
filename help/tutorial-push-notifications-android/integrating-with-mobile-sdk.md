@@ -2,16 +2,16 @@
 title: 2단계 - Mobile SDK 통합
 description: 이 부분에서는 Android 앱을 Mobile SDK와 통합합니다. 모바일 SDK를 Android 앱과 통합하려면
 feature: Push
-kt: 4826
+jira: KT-4826
 doc-type: tutorial
 activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 0fa53536-8330-4e96-be2f-afc078609bcd
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '158'
+ht-degree: 3%
 
 ---
 

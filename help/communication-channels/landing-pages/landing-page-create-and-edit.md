@@ -2,7 +2,7 @@
 title: 랜딩 페이지 만들고 편집하기
 description: "Adobe Campaign Standard에서 랜딩 페이지를 만들고, 편집하고, 테스트하는 방법을 알아봅니다."
 feature: Landing Pages
-kt: 1808
+jira: KT-1808
 thumbnail: 24093.jpg
 doc-type: feature video
 activity: use
@@ -10,10 +10,10 @@ team: DOC
 exl-id: e93d59fc-0ad5-4fa2-a744-0f723e99eae4
 role: User
 level: Beginner
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '87'
+ht-degree: 16%
 
 ---
 

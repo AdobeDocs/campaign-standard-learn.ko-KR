@@ -2,7 +2,7 @@
 title: 인앱 게재 보고서
 description: 모바일 애플리케이션 내에서 고객의 실시간 행동에 반응하여 사용자에게 컨텍스트에 맞는 인앱 메시지를 표시하는 방법에 대해 알아봅니다.
 feature: In App, Reporting
-kt: 2558
+jira: KT-2558
 thumbnail: 26412.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: TM
 exl-id: bb587ee7-9587-44d3-8bb4-3d4e64f66749
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 9%

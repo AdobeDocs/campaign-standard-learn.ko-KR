@@ -2,15 +2,15 @@
 title: 5단계 - 알림 전파
 description: 이 부분에서는 Android Notification Manager.Firebase를 사용하여 Adobe Campaign에서 받은 메시지를 전파합니다
 feature: Push
-kt: 4829
+jira: KT-4829
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: b0e01224-4ddc-4999-b8c6-794e49245428
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '154'
+ht-degree: 2%
 
 ---
 

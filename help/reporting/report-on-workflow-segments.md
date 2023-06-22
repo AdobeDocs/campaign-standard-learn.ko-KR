@@ -2,7 +2,7 @@
 title: 워크플로우 세그먼트를 기반으로 보고서 만들기
 description: 워크플로우에서 세그먼트를 정의하고 이를 동적 보고서에 적용하는 방법을 알아봅니다.
 feature: Reporting
-kt: 3252
+jira: KT-3252
 thumbnail: 28262.jpg
 doc-type: feature video
 activity: use
@@ -10,10 +10,10 @@ team: TM
 exl-id: 2ee84302-69c3-4011-af7a-5541ca070cd8
 role: User
 level: Beginner
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '85'
+ht-degree: 16%
 
 ---
 

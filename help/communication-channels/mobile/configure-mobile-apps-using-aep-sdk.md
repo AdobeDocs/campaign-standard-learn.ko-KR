@@ -2,7 +2,7 @@
 title: Adobe Experience Platform SDK를 사용하여 모바일 애플리케이션 구성
 description: Adobe Experience Platform Launch에서 모바일 앱을 설정하는 방법과 Adobe Campaign에서 모바일 앱을 구성하는 방법에 대해 알아봅니다.
 feature: In App, Push, Channel Configuration, Mobile SDK Integration
-kt: 2501
+jira: KT-2501
 thumbnail: 26224.jpg
 doc-type: feature video
 activity: use
@@ -10,10 +10,10 @@ team: TM
 exl-id: b51d40f6-e67a-49fe-87d5-bf42a439a0e3
 role: Admin
 level: Experienced
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '102'
+ht-degree: 8%
 
 ---
 

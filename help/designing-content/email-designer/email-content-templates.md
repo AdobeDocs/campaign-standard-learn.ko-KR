@@ -2,7 +2,7 @@
 title: 이메일 콘텐츠 템플릿 소개
 description: 이메일 콘텐츠 템플릿을 만드는 방법을 알아봅니다.
 feature: Email Design
-kt: 1442
+jira: KT-1442
 thumbnail: 23106.jpg
 doc-type: feature video
 activity: use
@@ -10,10 +10,10 @@ team: TM
 exl-id: fc01caf7-959a-4f2d-af81-4f695ae45bb8
 role: User, Developer
 level: Beginner
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '69'
+ht-degree: 14%
 
 ---
 

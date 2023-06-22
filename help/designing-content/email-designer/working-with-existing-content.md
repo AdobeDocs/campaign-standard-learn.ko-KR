@@ -2,7 +2,7 @@
 title: 기존 콘텐츠로 작업
 description: 웹 사이트에서 크리에이티브 콘텐츠를 검색하고 이메일 디자이너에 로드하는 방법에 대해 알아봅니다.
 feature: Email Design
-kt: 6295
+jira: KT-6295
 thumbnail: 25926.jpg
 doc-type: feature video
 activity: use
@@ -10,10 +10,10 @@ team: TM
 exl-id: f25dd9a4-5d97-4f95-b21d-6a9eafc9e5ae
 role: User, Developer
 level: Beginner
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '103'
+ht-degree: 7%
 
 ---
 

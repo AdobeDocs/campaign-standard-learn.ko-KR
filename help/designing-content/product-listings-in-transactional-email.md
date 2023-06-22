@@ -2,7 +2,7 @@
 title: 트랜잭션 이메일의 제품 목록 구성
 description: 트랜잭션 이메일에서 제품 목록을 구성하는 데 필요한 단계를 알아봅니다.
 feature: Transactional Messaging, Email
-kt: 1728
+jira: KT-1728
 thumbnail: 25915
 doc-type: feature video
 activity: use
@@ -10,10 +10,10 @@ team: TM
 exl-id: 62d0d756-e9b9-4656-94ba-bfc113a7b5c9
 role: User, Developer
 level: Experienced
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '130'
+ht-degree: 4%
 
 ---
 

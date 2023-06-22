@@ -2,7 +2,7 @@
 title: Adobe Dreamweaver를 사용하여 콘텐츠 제작
 description: Dreamweaver 통합을 활성화하는 데 필요한 사항과 Dreamweaver을 사용하여 Adobe Campaign Standard용 콘텐츠를 만들고 편집하는 방법을 이해합니다.
 feature: Email Design
-kt: 1420
+jira: KT-1420
 thumbnail: 23121.jpg
 doc-type: feature video
 activity: use
@@ -10,10 +10,10 @@ team: TM
 exl-id: 478462d8-aa25-457d-ba7b-64ffcf1b81fb
 role: User, Developer
 level: Beginner
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '165'
+ht-degree: 67%
 
 ---
 

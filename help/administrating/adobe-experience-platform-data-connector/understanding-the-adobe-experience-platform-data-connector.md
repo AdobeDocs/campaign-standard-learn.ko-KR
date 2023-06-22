@@ -2,16 +2,16 @@
 title: Adobe Experience Platform 데이터 커넥터 이해
 description: Adobe Experience Platform Data Connector는 XTK 데이터(Campaign에서 수집된 데이터)를 Adobe Experience Platform의 XDM(Experience Data Model) 데이터에 매핑하여 기존 고객이 Adobe Experience Platform에서 데이터를 사용할 수 있도록 지원합니다.
 feature: People Core Service Integration
-kt: 2826
+jira: KT-2826
 thumbnail: 27304.jpg
 doc-type: feature video
 activity: understand
 team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '268'
+ht-degree: 4%
 
 ---
 

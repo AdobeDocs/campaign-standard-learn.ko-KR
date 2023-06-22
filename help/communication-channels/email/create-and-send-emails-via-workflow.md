@@ -2,7 +2,7 @@
 title: 워크플로우를 통해 이메일을 만들고 보내기
 description: 워크플로우를 통해 이메일을 만들고 보내는 방법을 알아봅니다.
 feature: Email,Workflows
-kt: 4319
+jira: KT-4319
 thumbnail: 31465.jpg
 role: User
 level: Beginner
@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: cc5d1bd2-a416-4df3-b12b-b1f9de4736fd
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '65'
+ht-degree: 69%
 
 ---
 

@@ -2,7 +2,7 @@
 title: 프로필 및 대상자 만들기 - 개요
 description: 기존 프로필로 이동하는 방법과 프로필 및 대상자를 생성하는 방법을 알아봅니다.
 feature: Profiles, Audiences
-kt: 3899
+jira: KT-3899
 thumbnail: 18463.jpg
 doc-type: feature video
 activity: understand
@@ -10,10 +10,10 @@ team: WWFRE
 exl-id: 5948ce53-0d12-4768-912a-9edb0b9b6f2b
 role: User
 level: Beginner
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '69'
+ht-degree: 37%
 
 ---
 

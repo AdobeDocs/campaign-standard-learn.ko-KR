@@ -2,7 +2,7 @@
 title: 이메일 및 스팸 방지 분석 미리 보기
 description: "이메일 및 스팸 방지 분석을 미리 보는 방법에 대해 알아봅니다."
 feature: Email Design
-kt: 2393
+jira: KT-2393
 thumbnail: 25921.jpg
 doc-type: feature video
 activity: use
@@ -10,10 +10,10 @@ team: TM
 exl-id: 45c6fc1b-1276-4f21-97f6-1af3929e0514
 role: User, Developer
 level: Beginner
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '36'
+ht-degree: 38%
 
 ---
 

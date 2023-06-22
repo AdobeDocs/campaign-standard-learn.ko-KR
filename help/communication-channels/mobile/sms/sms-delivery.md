@@ -2,7 +2,7 @@
 title: SMS 게재 만들기
 description: SMS 게재를 만드는 방법을 알아봅니다.
 feature: SMS
-kt: 1819
+jira: KT-1819
 thumbnail: 25265.jpg
 doc-type: feature video
 activity: use
@@ -10,14 +10,14 @@ team: DOC
 exl-id: 7184a998-a4d7-4ad8-9b29-4504088eeb4d
 role: User
 level: Beginner
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '73'
+ht-degree: 20%
 
 ---
 
-# SMS 게재 만들기 {#creating-a-sms-delivery}
+# SMS 게재 만들기{#creating-a-sms-delivery}
 
 Adobe Campaign Standard에서 SMS 게재를 만드는 방법을 알아봅니다. SMS 게재 활동을 사용하여 워크플로우에서 SMS 전송을 구성할 수도 있습니다.
 

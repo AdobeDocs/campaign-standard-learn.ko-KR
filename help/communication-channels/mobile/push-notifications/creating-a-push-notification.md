@@ -2,7 +2,7 @@
 title: 푸시 알림 만들기
 description: 푸시 알림을 만드는 방법을 알아봅니다.
 feature: Push
-kt: 1401
+jira: KT-1401
 thumbnail: 31499.jpg
 doc-type: feature video
 activity: use
@@ -10,10 +10,10 @@ team: TM
 exl-id: 7520cb4a-f277-42fa-81be-afb46b21365f
 role: User
 level: Beginner
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '119'
+ht-degree: 3%
 
 ---
 

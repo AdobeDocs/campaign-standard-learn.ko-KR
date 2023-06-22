@@ -4,12 +4,12 @@ description: 공개 리소스 URL을 http에서 https로 변경하는 방법을 
 role: Admin
 level: Beginner, Experienced
 type: Troubleshooting
-kt: 8420
+jira: KT-8420
 exl-id: a36ea881-2230-48df-b0cc-08ae3573f7f8
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+workflow-type: ht
+source-wordcount: '44'
+ht-degree: 100%
 
 ---
 

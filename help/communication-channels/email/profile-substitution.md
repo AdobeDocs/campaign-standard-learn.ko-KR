@@ -2,7 +2,7 @@
 title: 프로필 대체 - 타겟팅 프로필을 사용한 이메일 메시지 테스트
 description: 프로필 대체 기능을 사용하여 이메일 메시지를 테스트하는 방법을 알아봅니다.
 feature: Personalization, Email
-kt: 4667
+jira: KT-4667
 thumbnail: 32368.jpg
 doc-type: feature video
 activity: use
@@ -10,10 +10,10 @@ team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: User
 level: Intermediate, Experienced
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+workflow-type: ht
+source-wordcount: '167'
+ht-degree: 100%
 
 ---
 

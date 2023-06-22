@@ -2,16 +2,16 @@
 title: ACS(Adobe Campaign Standard)에서 개인 정보 요청을 위한 네임스페이스 만들기
 description: 개인 정보 요청을 위한 네임스페이스를 만드는 방법을 알아봅니다.
 feature: Privacy Tools
-kt: 1460
+jira: KT-1460
 thumbnail: 22600.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: b2d5362b-9b23-4f51-9802-19636457fab3
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+workflow-type: ht
+source-wordcount: '60'
+ht-degree: 100%
 
 ---
 

@@ -2,16 +2,16 @@
 title: ACS(Adobe Campaign Standard)를 통한 개인 정보 보호 요청 - 개요
 description: 튜토리얼에서는 Adobe Campaign Standard 인터페이스를 통해 개인 정보 요청을 만드는 방법을 설명합니다.
 feature: Privacy Tools
-kt: 1480
+jira: KT-1480
 doc-type: feature video
 activity: use
 team: TM
 recommendations: noDisplay
 exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+workflow-type: ht
+source-wordcount: '349'
+ht-degree: 100%
 
 ---
 

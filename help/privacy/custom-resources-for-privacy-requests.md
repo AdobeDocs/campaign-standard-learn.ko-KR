@@ -2,16 +2,16 @@
 title: Adobe Campaign Standard를 개인 정보 요청을 위해 설정할 때 사용자 정의 리소스 수정하기
 description: 개인 정보 요청을 처리하기 위해 Adobe Campaign Standard를 설정할 때는 프로필 삭제 시 프로필에 연결된 사용자 지정 데이터를 모두 삭제하도록 해야 합니다. 이 비디오에서는 이 요구 사항을 충족하기 위해 사용자 지정 리소스를 수정하는 방법을 설명합니다.
 feature: Privacy Tools
-kt: 1243
+jira: KT-1243
 thumbnail: 23326.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+workflow-type: ht
+source-wordcount: '198'
+ht-degree: 100%
 
 ---
 

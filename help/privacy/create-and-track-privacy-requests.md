@@ -2,16 +2,16 @@
 title: Adobe Campaign 사용자 인터페이스를 통해 개인 정보 보호 요청을 수동으로 만들기 및 추적
 description: Adobe Campaign을 사용하면 GDPR 및 CPA와 같은 개인 정보 보호 활동을 준수하며 PII 데이터의 액세스 및 삭제 요청을 만들 수 있습니다. Adobe Campaign Standard 사용자 인터페이스에서 개인 정보 요청을 수동으로 만들고 진전 상황을 추적하는 방법을 알아봅니다.
 feature: Privacy Tools
-kt: 1242
+jira: KT-1242
 thumbnail: 29235.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: 850dbab3-10b4-4a8f-b6a8-6126bc48eee5
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+workflow-type: ht
+source-wordcount: '123'
+ht-degree: 100%
 
 ---
 

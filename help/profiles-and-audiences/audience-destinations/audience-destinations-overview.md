@@ -11,9 +11,9 @@ exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
 role: User, Developer
 level: Beginner, Intermediate, Experienced
 recommendations: noDisplay
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: b7c0c39339ff89bab2c81a3d9fd31f67b8ee4d71
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '164'
 ht-degree: 4%
 
 ---
@@ -26,14 +26,14 @@ ht-degree: 4%
 >
 >이 기능은 베타 버전이며 예고 없이 자주 업데이트 및 수정될 수 있습니다. [!UICONTROL Audience Destinations] 는 Adobe Experience Platform을 기반으로 하며 특정 구성이 필요합니다.
 >
->에게 문의하십시오. [!UICONTROL Adobe Customer Support] 이 기능을 구현할 계획이라면
+>다음 대상에게 연결 [!UICONTROL Adobe Customer Support] 이 기능을 구현할 계획이라면
 >
 
 이 튜토리얼에서는 Adobe Campaign Standard의 마케팅 캠페인에 Adobe Experience Platform의 중앙 집중식 및 통합 프로필 데이터를 사용하는 방법을 설명합니다.
 
-다음 [!UICONTROL Audiences] Adobe Campaign Standard 내의 모듈을 사용하면 의 데이터를 사용하여 세그먼트를 만들 수 있습니다. [Adobe Experience Platform - 데이터 서비스](https://www.adobe.io/apis/experienceplatform/home/services.html) 다음에 있는 경우 [실시간 고객 프로필](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
+다음 [!UICONTROL Audiences] Adobe Campaign Standard 내의 모듈을 사용하면 의 데이터를 사용하여 세그먼트를 만들 수 있습니다. [Adobe Experience Platform - 데이터 서비스](https://developer.adobe.com/apis/experienceplatform/home/services.html) 다음에 있는 경우 [실시간 고객 프로필](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
 
-다음 비디오 튜토리얼은 다양한 단계를 안내합니다.
+다음 비디오 튜토리얼에서는 다양한 단계를 안내합니다.
 
 1. [통합 세그먼트 빌더를 사용하여 새 대상자 만들기](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 2. [마케팅 워크플로우에서 Experience Platform 대상자 활성화](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)

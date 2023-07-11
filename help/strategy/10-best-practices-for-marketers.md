@@ -2,12 +2,13 @@
 title: 마케터를 위한 Adobe Campaign 성공 모범 사례 10가지
 description: Adobe Campaign 실무자가 디지털 소비자 변화와 보다 우수한 고객 경험 제공을 시작하고 가속화하는 데 도움이 되는 10가지 모범 사례를 알아봅니다.
 doc-type: article
+feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11779
 last-substantial-update: 2023-01-31T00:00:00Z
 exl-id: 13180aae-15c8-42dd-97a2-86eec506f58b
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 2c3ea431fb9dc4bdd5d951445d682506403e2e37
 workflow-type: tm+mt
 source-wordcount: '1279'
 ht-degree: 100%

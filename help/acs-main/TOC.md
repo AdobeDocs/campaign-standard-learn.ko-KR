@@ -2,9 +2,9 @@
 user-guide-title: Adobe Campaign Standard 자습서
 user-guide-description: 크로스 채널 고객 경험을 설계하고 시각적인 Campaign 통합 운영, 실시간 상호 작용 관리 및 크로스 채널 실행을 위한 환경을 구축할 수 있습니다.
 breadcrumb-title: Campaign Standard 자습서
-source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
-workflow-type: ht
-source-wordcount: '581'
+source-git-commit: 3e8484650a941a3166063b8765f39a90fda6109f
+workflow-type: tm+mt
+source-wordcount: '567'
 ht-degree: 100%
 
 ---
@@ -94,7 +94,6 @@ ht-degree: 100%
    + [워크플로우 세그먼트를 기반으로 보고서 만들기](/help/reporting/report-on-workflow-segments.md)
    + [게재 모니터링](/help/reporting/monitor-a-delivery.md)
 + 다른 솔루션과 통합 {#integrations}
-   + [Campaign과 대상 통합](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html?lang=ko)
    + [Adobe Analytics에서 게재 성공 추적하기](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + 트랜잭션 메시지에 트리거 사용 {#triggers}
       + [개요](/help/integrations/using-triggers-for-transactional-messaging-overview.md)

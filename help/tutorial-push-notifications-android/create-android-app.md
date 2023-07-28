@@ -2,13 +2,15 @@
 title: 1단계 - Android 앱 만들기 및 Firebase Cloud Messaging 사용을 위한 구성
 description: 이 부분에서는 [!DNL Android] 받을 앱 [!UICONTROL Push notifications] Adobe Campaign Standard에서 보냈습니다. 푸시 알림을 받으려면 앱을 Google에 등록해야 합니다. [!DNL Firebase Cloud Service].
 feature: Push
+user: Admin
+level: Experienced
 jira: KT-4825
 doc-type: tutorial
 activity: use
 team: TM
 recommendations: noDisplay
 exl-id: f087d9f2-cce9-4903-977f-3c5b47522c06
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 0ad82fb0533ed8fc2a85c2a32c7e54deef14d05a
 workflow-type: tm+mt
 source-wordcount: '319'
 ht-degree: 3%

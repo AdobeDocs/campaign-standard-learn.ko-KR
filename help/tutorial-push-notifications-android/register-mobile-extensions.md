@@ -2,12 +2,14 @@
 title: 3단계 - 모바일 앱에 확장 등록
 description: 이 부분에서는 UserProfile, Identity, Lifecycle 및 Signal 확장을 등록하기 위한 코드를 추가합니다.
 feature: Push
+user: Admin
+level: Experienced
 jira: KT-4827
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 9be31e056800b806c49a2c5ffbf9f9f42b001d4c
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 13%

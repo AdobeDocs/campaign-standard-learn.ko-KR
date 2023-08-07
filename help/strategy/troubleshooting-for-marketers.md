@@ -9,13 +9,13 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-source-git-commit: 3da1b695d56f9deb5747cc89de023f19a5b25bad
+exl-id: 040e2e14-1e97-4deb-991c-978e89cc6bf7
+source-git-commit: ed524113f3c17ccf013438a0faef4f940dc08bfe
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '724'
+ht-degree: 2%
 
 ---
-
 
 # 마케터 문제 해결: 5가지 일반적인 워크플로우 및 게재 오류
 

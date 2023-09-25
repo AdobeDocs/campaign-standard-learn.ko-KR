@@ -10,9 +10,9 @@ team: TM
 exl-id: fc01caf7-959a-4f2d-af81-4f695ae45bb8
 role: User, Developer
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '71'
 ht-degree: 14%
 
 ---
@@ -23,4 +23,4 @@ Adobe Campaign Standard은 즉시 사용 가능한 18개의 반응형 이메일 
 
 이 비디오에서는 템플릿을 소개하고 나만의 템플릿을 만드는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23106?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23106?learn=on){transcript=true}

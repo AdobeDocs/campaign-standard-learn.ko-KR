@@ -10,9 +10,9 @@ team: DOC
 exl-id: 7184a998-a4d7-4ad8-9b29-4504088eeb4d
 role: User
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '75'
 ht-degree: 20%
 
 ---
@@ -23,4 +23,4 @@ Adobe Campaign Standard에서 SMS 게재를 만드는 방법을 알아봅니다.
 
 SMS 게재 활동은 SMS 전송을 자동화하는 데 사용됩니다. 이 활동의 구성은 비디오에 설명된 일회성 게재 구성과 동일합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25265/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25265/?learn=on){transcript=true}

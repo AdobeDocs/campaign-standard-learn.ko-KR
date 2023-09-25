@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 32100e9e-a38e-40bd-b2ee-5816b496f118
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '27'
-ht-degree: 7%
+source-wordcount: '29'
+ht-degree: 6%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 7%
 
 두 개의 사용자 지정 리소스를 연결하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27712?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27712?learn=on){transcript=true}
 
 **다음 단계**
 

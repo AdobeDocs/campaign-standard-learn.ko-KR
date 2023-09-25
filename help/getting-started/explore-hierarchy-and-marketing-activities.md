@@ -10,10 +10,10 @@ team: WWFRE
 exl-id: c5804637-804c-473f-80d8-d54263c49a5c
 role: User
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 100%
+source-wordcount: '60'
+ht-degree: 96%
 
 ---
 
@@ -21,5 +21,5 @@ ht-degree: 100%
 
 이 비디오에서는 프로그램 및 캠페인의 계층 구조, 마케팅 프로그램을 만드는 방법 및 프로그램 내에서 마케팅 캠페인을 만드는 방법에 대해 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/18465?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/18465?learn=on){transcript=true}
 

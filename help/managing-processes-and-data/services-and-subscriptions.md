@@ -10,9 +10,9 @@ team: DOC
 exl-id: 2970db2c-b01b-4a7c-9eec-47a530209c24
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '116'
 ht-degree: 43%
 
 ---
@@ -31,4 +31,4 @@ Adobe Campaign을 사용하면 일련의 서비스를 통해 뉴스레터 및 �
 
 이 비디오를 통해 서비스를 만들고 구독을 관리하는 방법을 알아볼 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/24673?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/24673?learn=on){transcript=true}

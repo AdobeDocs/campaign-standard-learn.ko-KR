@@ -10,9 +10,9 @@ team: TM
 exl-id: f54acc7f-4efe-4d7f-89f1-c4ed596a5d9e
 role: User
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 이 비디오에서는 를 구성하는 방법을 설명합니다. [!UICONTROL Direct Mail] 게재 및 프로필을에 추가하려면 어떤 설정이 필요한지 [!UICONTROL Direct Mail] 게재.
 
->[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23417?learn=on){transcript=true}
 
 ## 만들기 [!UICONTROL Direct Mail] 워크플로우 내
 

@@ -10,9 +10,9 @@ level: Experienced
 activity: set-up
 team: TM
 exl-id: c0c8bcca-9b32-461a-8126-3a59106fe6ac
-source-git-commit: d46e4c84a7d162085016722005cca4aadb4feb3c
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '84'
 ht-degree: 4%
 
 ---
@@ -27,6 +27,6 @@ ht-degree: 4%
 
 Adobe Campaign Standard과 Adobe Experience Platform 간에 다양한 데이터 유형을 매핑하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27231?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27231?learn=on){transcript=true}
 
 에 대한 자세한 내용은 제품 설명서 를 참조하세요. [매핑 정의](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)

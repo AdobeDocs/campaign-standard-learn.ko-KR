@@ -10,9 +10,9 @@ team: TM
 exl-id: 6b1f8b62-fff0-4ef4-8537-a88658e28ab2
 role: User, Developer
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 이 비디오에서는 모바일 표시에 대한 모든 스타일 옵션을 별도로 편집하여 이메일의 반응형 디자인을 세밀하게 조정하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25919?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25919?learn=on){transcript=true}

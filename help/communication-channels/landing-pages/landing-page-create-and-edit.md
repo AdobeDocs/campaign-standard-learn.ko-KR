@@ -10,10 +10,10 @@ team: DOC
 exl-id: e93d59fc-0ad5-4fa2-a744-0f723e99eae4
 role: User
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 16%
+source-wordcount: '89'
+ht-degree: 15%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 16%
 
 Adobe Campaign을 사용하면 대상에 대한 정보를 캡처하고, 서비스에 대한 구독을 제공하고, 데이터를 표시하고 데이터베이스를 확장하는 데 사용할 수 있는 온라인 양식인 랜딩 페이지를 빌드할 수 있습니다. 랜딩 페이지는 기존 프로필을 가져오거나 업데이트하는 데에도 사용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/24093?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/24093?learn=on){transcript=true}
 
 ## 추가 리소스
 

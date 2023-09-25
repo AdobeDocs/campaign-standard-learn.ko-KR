@@ -10,10 +10,10 @@ team: DOC
 exl-id: da1ba3a1-c27c-458e-ba96-5bc1aef486ba
 role: User, Developer, Admin
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 50%
+source-wordcount: '90'
+ht-degree: 48%
 
 ---
 
@@ -28,6 +28,6 @@ ht-degree: 50%
 
 이 비디오는 Adobe Campaign Standard에서 워크플로우를 만들고 편집하는 방법을 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23937?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23937?learn=on){transcript=true}
 
 에 대한 자세한 내용은 제품 설명서 를 참조하세요. [워크플로우 구축(설명서)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)

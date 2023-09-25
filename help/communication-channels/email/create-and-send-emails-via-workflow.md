@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: cc5d1bd2-a416-4df3-b12b-b1f9de4736fd
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 69%
+source-wordcount: '67'
+ht-degree: 67%
 
 ---
 
@@ -23,4 +23,4 @@ Campaign, Adobe Campaign 홈페이지 또는 마케팅 활동 목록에서 이�
 
 워크플로우를 통해 이메일을 만들고 보내는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/31465?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31465?learn=on){transcript=true}

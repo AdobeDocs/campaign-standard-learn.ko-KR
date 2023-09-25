@@ -10,9 +10,9 @@ team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '169'
 ht-degree: 9%
 
 ---
@@ -31,6 +31,6 @@ Adobe Campaign Standard에서는 Adobe Experience Cloud의 데이터를 사용�
 
 아래 비디오에서는 을 사용하여 새 대상을 만드는 방법을 설명합니다. [!UICONTROL Unified Segment Builder] Adobe Campaign Standard 내.
 
->[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27638?learn=on){transcript=true}
 
 *통합 세그먼트 빌더를 사용하여 Adobe Campaign Standard에서 대상자를 만드는 방법(분 02:47)*

@@ -10,10 +10,10 @@ team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: User
 level: Intermediate, Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 100%
+source-wordcount: '169'
+ht-degree: 98%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 개인화된 이메일 뉴스레터를 발송한다고 가정합니다. 하지만 뉴스레터를 발송하기 전에 동료가 뉴스레터를 검토하려고 증명을 요청했습니다. 타겟팅된 프로필에서 받은 메시지의 정확한 표시를 보낼 수 있으므로 [!UICONTROL Profile Substitution] 기능을 사용하여 증명을 보낼 수 있습니다. 
 
->[!VIDEO](https://video.tv.adobe.com/v/32368?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/32368?learn=on){transcript=true}
 
 자세한 내용은 자세한 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=ko)를 참조하십시오.
 

@@ -10,9 +10,9 @@ team: DOC
 exl-id: 28889ce5-7f25-41f4-8ecd-47c77b0e3c00
 role: User
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '89'
 ht-degree: 13%
 
 ---
@@ -23,7 +23,7 @@ Adobe Campaign [!UICONTROL Dynamic Reports] 는 사용자 지정 프로필 속�
 
 이 비디오에서는 사용자 지정 프로필 속성을 기반으로 보고서를 만드는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/28204?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/28204?learn=on){transcript=true}
 
 ## 추가 리소스
 

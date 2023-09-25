@@ -10,10 +10,10 @@ team: DOC
 exl-id: a2b93d8b-0d3e-4525-a334-a01701d34d85
 role: User
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 32%
+source-wordcount: '64'
+ht-degree: 31%
 
 ---
 
@@ -23,7 +23,7 @@ Adobe Campaign [!UICONTROL Dynamic Reports] 는 데이터를 탐색할 수 있�
 
 보고서를 만드는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25264/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25264/?learn=on){transcript=true}
 
 ## 추가 리소스
 

@@ -10,10 +10,10 @@ team: DOC
 exl-id: 4d9ce24e-cd01-4b81-8aee-58c58ef2f286
 role: User, Developer, Admin
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 18%
+source-wordcount: '56'
+ht-degree: 17%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 18%
 
 이 비디오에서는 [!UICONTROL Data Management] 워크플로우의 활동을 통해 프로필 데이터를 가져올 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/24993?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/24993?learn=on){transcript=true}

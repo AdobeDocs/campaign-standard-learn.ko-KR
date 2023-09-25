@@ -10,10 +10,10 @@ team: TM
 exl-id: 9d5b1769-9f04-45d0-bbce-38cd33c65bb0
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 12%
+source-wordcount: '59'
+ht-degree: 11%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 12%
 
 인앱 게재 활동을 사용하여 워크플로우에서 계산된 대상 대상자에게 인앱 메시지 전송을 자동화하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/26226?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/26226?learn=on){transcript=true}

@@ -9,10 +9,10 @@ activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '187'
-ht-degree: 100%
+source-wordcount: '189'
+ht-degree: 98%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 100%
 
 고객이 주문한 내용에 대한 추가 정보를 마케팅 및 재마케팅 용도로 사용할 수 있도록 하려면, [!DNL Campaign] 데이터 모델에 사용자 지정 테이블을 추가하여 확장해야 합니다. 이 사용 사례에서는 고객 테이블과 주문 테이블을 하나씩 만들어야 합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27715?learn=on){transcript=true}
 
 이 튜토리얼의 학습 내용:
 

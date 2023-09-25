@@ -10,9 +10,9 @@ team: TM
 exl-id: f1ae414c-6b42-445b-bb33-9a28a3e854fa
 role: User
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '121'
 ht-degree: 37%
 
 ---
@@ -23,6 +23,6 @@ ht-degree: 37%
 
 이메일의 제목 줄을 테스트하기 위해 A/B 테스트를 구성하고 전송하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/18480?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/18480?learn=on){transcript=true}
 
 다음을 참조하십시오. [제품 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html) 콘텐츠 또는 보낸 사람을 테스트하는 방법에 대한 자세한 내용을 보려면 .

@@ -10,10 +10,10 @@ team: TM
 exl-id: 478462d8-aa25-457d-ba7b-64ffcf1b81fb
 role: User, Developer
 level: Beginner
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 67%
+source-wordcount: '167'
+ht-degree: 66%
 
 ---
 
@@ -31,7 +31,7 @@ Adobe Dreamweaver와 통합된 Adobe Campaign Standard을 통해 Dreamweaver 인
 
 이 비디오에서는 Dreamweaver 통합을 구현하는 데 필요한 사항과 Dreamweaver를 사용하여 Adobe Campaign Standard용 콘텐츠를 만들고 편집하는 방법에 대해 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23121?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23121?learn=on){transcript=true}
 
 *Adobe Campaign에서 Dreamweaver 통합을 사용하는 방법(02:37분)*
 

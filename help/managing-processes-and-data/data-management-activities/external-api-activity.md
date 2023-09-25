@@ -10,10 +10,10 @@ team: TM
 exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
 role: User, Developer
 level: Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 49%
+source-wordcount: '161'
+ht-degree: 48%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 49%
 
 이 비디오에서는 [!UICONTROL External API activity]의 사용을 보여 줍니다 .
 
->[!VIDEO](https://video.tv.adobe.com/v/28200/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/28200/?learn=on){transcript=true}
 
 *[!UICONTROL External API activity](06:48분)*
 

@@ -10,9 +10,9 @@ team: TM
 exl-id: ad19a131-00c9-4063-a4ea-f1d6261ad409
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '96'
 ht-degree: 8%
 
 ---
@@ -27,4 +27,4 @@ ht-degree: 8%
 
 이 비디오에서는에 대한 게재의 타겟팅 차원을 변경하는 방법을 설명합니다. [!UICONTROL Platform Audience] Adobe Campaign Standard의 기본 프로필 테이블 외부.
 
->[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/30151?learn=on){transcript=true}

@@ -10,9 +10,9 @@ team: TM
 exl-id: d3996185-681c-4906-85f0-0543ab767519
 role: User, Developer
 level: Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ ht-degree: 0%
 
 구성 방법 알아보기 [!UICONTROL External Signal activity] 외부 시스템에서 매개 변수** 수신하려면 외부 매개 변수로 워크플로우를 사용자 지정하고, 외부 매개 변수로 워크플로우를 호출하도록 종료 활동을 구성합니다
 
->[!VIDEO](https://video.tv.adobe.com/v/27249/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27249/?learn=on){transcript=true}

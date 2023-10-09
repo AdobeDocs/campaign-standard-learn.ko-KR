@@ -3,7 +3,6 @@ title: Audience 대상 - 개요
 description: Adobe Campaign Standard에서 Adobe Experience Platform Audiences를 사용하는 방법 알아보기
 feature: People Core Service Integration
 jira: KT-2755
-thumbnail: null
 doc-type: feature video
 activity: using
 team: TM
@@ -11,10 +10,12 @@ exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
 role: User, Developer
 level: Beginner, Intermediate, Experienced
 recommendations: noDisplay
-source-git-commit: b7c0c39339ff89bab2c81a3d9fd31f67b8ee4d71
+hide: true
+hidefromtoc: true
+source-git-commit: ecd7ab2e03c38d17f2690161e19120d884c89993
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 4%
+source-wordcount: '125'
+ht-degree: 6%
 
 ---
 
@@ -29,9 +30,7 @@ ht-degree: 4%
 >다음 대상에게 연결 [!UICONTROL Adobe Customer Support] 이 기능을 구현할 계획이라면
 >
 
-이 튜토리얼에서는 Adobe Campaign Standard의 마케팅 캠페인에 Adobe Experience Platform의 중앙 집중식 및 통합 프로필 데이터를 사용하는 방법을 설명합니다.
-
-다음 [!UICONTROL Audiences] Adobe Campaign Standard 내의 모듈을 사용하면 의 데이터를 사용하여 세그먼트를 만들 수 있습니다. [Adobe Experience Platform - 데이터 서비스](https://developer.adobe.com/apis/experienceplatform/home/services.html) 다음에 있는 경우 [실시간 고객 프로필](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
+Adobe Campaign Standard 내의 대상 모듈을 사용하면 Adobe Experience Platform의 데이터를 사용하여 세그먼트를 만들 수 있습니다 [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
 
 다음 비디오 튜토리얼에서는 다양한 단계를 안내합니다.
 

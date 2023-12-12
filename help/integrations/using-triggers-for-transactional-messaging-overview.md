@@ -10,9 +10,9 @@ level: Experienced
 team: TM
 hidefromtoc: false
 exl-id: 9bc5e4e6-c943-40ca-9d99-a3fa802775f4
-source-git-commit: aaa8e506a95fdf1bf3ddab98a76b668c202a13fd
+source-git-commit: 28c9e55453e51ea5092e634ea7f06aad94636f25
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '90'
 ht-degree: 98%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 98%
 
 트랜잭션 메시지에 트리거를 사용하려면 먼저 다음을 수행해야 합니다.
 
-1. [트리거를 위한 Launch 구성](/help/integrations/configure-launch-for-triggers.md)
+1. [트리거에 사용하기 위한 Adobe Experience Platform 데이터 컬렉션 구성](/help/integrations/configure-launch-for-triggers.md)
 2. [Experience Cloud에서 트리거 만들기](https://experienceleague.adobe.com/docs/core-services/interface/triggers.html?lang=en)
 3. [Campaign Standard에서 트리거 이벤트 만들기](/help/integrations/create-a-trigger-event.md)
 

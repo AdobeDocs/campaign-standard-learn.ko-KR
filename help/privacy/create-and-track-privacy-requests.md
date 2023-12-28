@@ -11,9 +11,9 @@ level: Experienced
 team: TM
 exl-id: 850dbab3-10b4-4a8f-b6a8-6126bc48eee5
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 98%
+workflow-type: ht
+source-wordcount: '118'
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ Adobe Campaign Standard 사용자 인터페이스에서 개인 정보 요청을 
 
 >[!VIDEO](https://video.tv.adobe.com/v/29235?learn=on){transcript=true}
 
-자세한 [Campaign 일반 개인 정보 보호 지침](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-management.html?lang=ko)은 제품 설명서를 참조하세요.
+자세한 [Campaign 일반 개인 정보 보호 지침](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-management.html?lang=ko)은 제품 설명서를 참조하십시오.

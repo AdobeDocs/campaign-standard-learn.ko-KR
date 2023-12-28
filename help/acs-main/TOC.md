@@ -5,7 +5,7 @@ breadcrumb-title: Campaign Standard 자습서
 auto-video-transcripts: true
 source-git-commit: 7247b194ed8fe65b526d27ef9b76cbbad2d99fc3
 workflow-type: ht
-source-wordcount: '567'
+source-wordcount: '529'
 ht-degree: 100%
 
 ---

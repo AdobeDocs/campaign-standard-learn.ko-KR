@@ -11,8 +11,8 @@ team: TM
 recommendations: noDisplay
 exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
 source-git-commit: 9e584a8b5674c200632e92652c9bcc03b1ff2088
-workflow-type: tm+mt
-source-wordcount: '226'
+workflow-type: ht
+source-wordcount: '191'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Adobe Campaign은 GDPR(일반 데이터 보호 규정) 및 CCPA(California Consumer Privacy Act)와 같은 개인 정보 보호 법률을 준수하여 개인 정보 보호 액세스를 수행하고 PII 데이터의 요청을 삭제하는 3가지 방법을 데이터 컨트롤러에게 제공합니다.
 
-* **개인 정보 보호 핵심 서비스 통합을 통해:** 모든 Experience Cloud 솔루션 [!UICONTROL Privacy Service]으로 푸시된 개인 정보 보호 요청은 전용 워크플로우를 통해 Campaign에서 자동으로 처리됩니다.
+* **개인 정보 보호 핵심 서비스 통합을 통해:** [!UICONTROL Privacy Service]에서 모든 Experience Cloud 솔루션으로 푸시된 개인 정보 보호 요청은 전용 워크플로우를 통해 Campaign에서 자동으로 처리됩니다.
 
 * **API를 통해:** Adobe Campaign은 REST를 사용하여 개인 정보 요청을 자동 프로세스로 만들 수 있는 API를 제공합니다.
 

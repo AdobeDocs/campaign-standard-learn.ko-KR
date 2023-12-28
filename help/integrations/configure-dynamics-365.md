@@ -11,9 +11,9 @@ team: PM
 exl-id: b1eecb0f-d51d-4671-93d1-656b507c5bb6
 badgeIntegration: label="통합" type="positive"
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 97%
+workflow-type: ht
+source-wordcount: '72'
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Microsoft® Dynamics 365를 Dynamics와 Campaign Standard 통합에서 사용할
 
 >[!VIDEO](https://video.tv.adobe.com/v/27637?learn=on){transcript=true}
 
-자세한 [Microsoft® Dynamics 365 통합 시작](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/campaign-and-microsoft-dynamics-365/d365-acs-get-started.html?lang=ko) 방법은 제품 설명서를 참조하세요.
+자세한 [Microsoft® Dynamics 365 통합 시작](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/campaign-and-microsoft-dynamics-365/d365-acs-get-started.html?lang=ko) 방법은 제품 설명서를 참조하십시오.

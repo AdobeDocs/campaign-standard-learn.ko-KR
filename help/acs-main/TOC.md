@@ -1,12 +1,12 @@
 ---
 user-guide-title: Adobe Campaign Standard 튜토리얼
-user-guide-description: Adobe Campaign Standard에 대한 비디오 및 튜토리얼.
+user-guide-description: Adobe Campaign Standard에 대한 비디오 및 튜토리얼입니다.
 breadcrumb-title: Campaign Standard 자습서
 auto-video-transcripts: true
 source-git-commit: dcbc833ea7dce4821b183f231775b4d4c1eaf8d3
 workflow-type: tm+mt
 source-wordcount: '516'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 

@@ -3,9 +3,9 @@ user-guide-title: Adobe Campaign Standard 튜토리얼
 user-guide-description: Adobe Campaign Standard에 대한 비디오 및 튜토리얼입니다.
 breadcrumb-title: Campaign Standard 자습서
 auto-video-transcripts: true
-source-git-commit: dcbc833ea7dce4821b183f231775b4d4c1eaf8d3
+source-git-commit: 659a9de22dc7e160d0e484fed9aa5fcdcb7d1405
 workflow-type: tm+mt
-source-wordcount: '516'
+source-wordcount: '517'
 ht-degree: 100%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # Adobe Campaign Standard 튜토리얼 {#tutorials}
 
-+ [Adobe Campaign Standard](/help/overview.md)
++ [Adobe Campaign Standard 튜토리얼](/help/overview.md)
 + 시작 {#getting-started}
    + [Adobe Campaign Standard 소개](/help/getting-started/adobe-campaign-standard-introduction.md)
    + [UI 시작하기](/help/getting-started/getting-started-with-the-ui.md)
@@ -45,7 +45,7 @@ ht-degree: 100%
       + [증명 보내기](/help/communication-channels/email/send-a-proof.md)
       + [A/B 테스트](/help/communication-channels/email/a-b-testing.md)
       + [타겟팅된 프로필을 사용하여 이메일 메시지 테스트](/help/communication-channels/email/profile-substitution.md)
-      + [게재에 통제 그룹 추가](/help/communication-channels/email/control-groups.md)
+      + [게재에 컨트롤 그룹 추가](/help/communication-channels/email/control-groups.md)
       + [다국어 이메일 또는 SMS 게재 만들기](/help/communication-channels/create-multilingual-deliveries.md)
       + [기존 이메일, SMS 게재 또는 게재 템플릿을 다국어로 전환](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [이메일 게재 및 보고서 검토](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)

@@ -9,11 +9,11 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-exl-id: 040e2e14-1e97-4deb-991c-978e89cc6bf7
-source-git-commit: ed524113f3c17ccf013438a0faef4f940dc08bfe
+exl-id: 24a6815b-52d1-4bd6-9d27-522720a91f83
+source-git-commit: cfa097e1ea0d5ca8c97c1062ea8717c37a51530d
 workflow-type: tm+mt
-source-wordcount: '724'
-ht-degree: 2%
+source-wordcount: '715'
+ht-degree: 0%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 2%
 지난 5년 동안 Adobe Experience Cloud 제품에 대한 수석 엔지니어 및 고객 전문가로서 비즈니스 사용자 지원 [마이어](https://www.meijer.com/){target="_blank"}, ACS와 함께 복잡한 마케팅 및 트랜잭션 캠페인을 실행하기 위해 1934년에 설립된 미국 슈퍼센터 체인입니다. 제가 작업한 몇 가지 프로젝트에는 개인화를 위해 오퍼와 주문 세부 사항을 저장하는 사용자 지정 캠페인, Adobe Audience Manager과 통합 및 세그먼트 수집을 위한 고객 인사이트가 포함됩니다.
 
 
-ACS를 사용하는 동안 시간이 많이 소요되고 해결하기 어려운 오류가 발생했습니다. 가장 일반적인 오류를 파악하면 보다 빠른 문제 해결과 생산성 향상에 도움이 될 수 있습니다. 다음은 유사한 오류가 발생할 때 효과적으로 해결하는 데 도움이 되는 내 문제 해결 팁입니다.
+ACS를 사용하는 동안 오류가 발생했으며, 이로 인해 시간이 많이 소요되고 해결하기 어려운 문제가 발생할 수 있습니다. 가장 일반적인 오류를 파악하면 보다 빠른 문제 해결과 생산성 향상에 도움이 될 수 있습니다. 다음은 유사한 오류가 발생할 때 효과적으로 해결하는 데 도움이 되는 내 문제 해결 팁입니다.
 
 ## 데이터 유형 불일치 오류
 
@@ -32,12 +32,12 @@ ACS를 사용하는 동안 시간이 많이 소요되고 해결하기 어려운 
 `PGS-220000 PostgreSQL error: ERROR: operator does not exist: character varying = bigint`
 
 **원인:**
-이러한 유형의 오류는 다른 데이터 유형의 필드를 사용하여 조정하려고 할 때 워크플로우에 나타납니다. 예를 들어 문자열 필드가 있는 로드 파일을 사용하여 파일을 업로드할 때 문자열 필드를 데이터 유형이 int인 프로필 필드로 조정하려고 합니다.
+이러한 유형의 오류는 다른 데이터 유형의 필드를 사용하여 조정하려고 할 때 워크플로우에 나타납니다. 예를 들어 문자열 필드가 있는 파일 로드를 사용하여 파일을 업로드할 때 문자열 필드를 데이터 유형이 int인 프로필 필드로 조정하려고 합니다.
 
 ![data-type-mismatch-error](/help/assets/kt-13256/data-type-mismatch.png)
 
 **해결 방법:**
-&quot;파일 로드&quot; 활동에 있는 필드의 데이터 유형을 일치시키는 유형으로 변경합니다. &quot;파일 로드&quot; 활동을 엽니다. &quot;열 정의&quot; 탭으로 이동하여 원하는 필드의 데이터 유형을 변경합니다.
+&quot;파일 로드&quot; 활동에서 필드의 데이터 유형을 일치시키는 유형으로 변경합니다. &quot;파일 로드&quot; 활동을 엽니다. &quot;열 정의&quot; 탭으로 이동하여 원하는 필드의 데이터 유형을 변경합니다.
 
 
 ![data-type-mismatch-solution](/help/assets/kt-13256/data-type-mismatch-solution.png)
@@ -53,13 +53,13 @@ ACS를 사용하는 동안 시간이 많이 소요되고 해결하기 어려운 
 ![조정 활동이 있는 워크플로우](/help/assets/kt-13256/del-persn-error-wf.png)
 
 **해결 방법:**
-수신자 테이블과 함께 로드된 파일의 공통 ID가 있어야 합니다. 이 공통 키는 조정 활동 내의 수신자 테이블에 로드 파일을 조인합니다. 워크플로우 내에 이 조정 단계를 필요로 하는 수신자 테이블에 존재하지 않는 레코드에는 이메일을 보낼 수 없습니다. 이렇게 하면 들어오는 파일 로드 활동을 프로필의 이메일 ID와 같은 식별자와 함께 조정합니다. 다음 `nms:recipient` 스키마는 프로필 테이블을 참조하며 수신 레코드를 프로필과 일치시키면 이메일 준비 중에 사용할 수 있습니다.
+수신자 테이블과 함께 로드된 파일의 공통 ID가 있어야 합니다. 이 공통 키는 조정 활동 내의 수신자 테이블에 로드 파일을 조인합니다. 수신자 표에 없는 레코드에는 이메일을 보낼 수 없습니다. 이 레코드는 워크플로우 내에 이 조정 단계가 필요합니다. 이렇게 하면 들어오는 파일 로드 활동을 프로필의 이메일 ID와 같은 식별자로 조정합니다. 다음 `nms:recipient` 스키마는 프로필 테이블을 참조하며 수신 레코드를 프로필과 일치시키면 이메일 준비 중에 사용할 수 있습니다.
 
 아래 표시된 대로 조정 활동에 대한 스크린샷을 참조하십시오.
 
 ![조정 세부 정보가 포함된 워크플로우](/help/assets/kt-13256/del-persn-error-wf-solution.png)
 
-자세히 알아보기 [조정](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=en).
+자세히 알아보기 [조정](https://experienceleague.adobe.com/en/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation).
 
 ## 공통 필드 데이터 세트 오류
 
@@ -72,7 +72,7 @@ ACS를 사용하는 동안 시간이 많이 소요되고 해결하기 어려운 
 
 ![공통 필드 데이터 세트 오류](/help/assets/kt-13256/dataset-error.png)
 
-**솔루션:**
+**해결 방법:**
 
 이 오류를 해결하는 방법에는 두 가지가 있습니다.
 
@@ -97,7 +97,7 @@ ACS를 사용하는 동안 시간이 많이 소요되고 해결하기 어려운 
 
 이 문제는 활동에서 표현식 이름을 수동으로 편집할 때 발생합니다. 이 그림에서는 표현식이 다음 위치에서 수정되었음을 보여 줍니다. `name `끝 `i__name`.
 
-**솔루션:**
+**해결 방법:**
 
 다음 세 가지 방법으로 이 오류를 해결할 수 있습니다.
 

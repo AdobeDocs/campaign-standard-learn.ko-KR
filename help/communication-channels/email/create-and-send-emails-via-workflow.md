@@ -13,13 +13,13 @@ exl-id: cc5d1bd2-a416-4df3-b12b-b1f9de4736fd
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '67'
-ht-degree: 67%
+ht-degree: 53%
 
 ---
 
 # 워크플로우를 통해 이메일을 만들고 보내기
 
-Campaign, Adobe Campaign 홈페이지 또는 마케팅 활동 목록에서 이메일을 생성할 수 있습니다. 또한 작업 과정에서 한 번 전송하고 반복 이메일을 생성할 수도 있습니다.
+Campaign, Adobe Campaign 홈페이지 또는 마케팅 활동 목록에서 이메일을 생성할 수 있습니다. 워크플로우에서 한 번 전송하고 반복되는 이메일을 만들 수도 있습니다.
 
 워크플로우를 통해 이메일을 만들고 보내는 방법을 알아봅니다.
 

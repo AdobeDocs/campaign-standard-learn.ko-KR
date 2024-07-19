@@ -11,22 +11,22 @@ team: TM
 exl-id: b0e01224-4ddc-4999-b8c6-794e49245428
 source-git-commit: 200dcb4d6698c174f7fde508779609b11043d031
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '155'
 ht-degree: 2%
 
 ---
 
 # 알림을 전송할 서비스 추가
 
-이 부분에서는 를 사용하여 Adobe Campaign에서 받은 메시지를 전파합니다. [!DNL Android Notification Manager]. [!DNL Notification manager] 사용자에게 발생한 이벤트를 알리는 데 사용됩니다.
+이 부분에서는 [!DNL Android Notification Manager]을(를) 사용하여 Adobe Campaign에서 받은 메시지를 전파합니다. [!DNL Notification manager]은(는) 발생하는 이벤트를 사용자에게 알리는 데 사용됩니다.
 다음은 백그라운드에서 어떤 일이 발생했음을 사용자에게 알리는 방법입니다.
 
-* 시작 [!DNL Android Studio]
-* 열기 *[!DNL ACSPushTutorial]* 프로젝트
+* [!DNL Android Studio] 시작
+* *[!DNL ACSPushTutorial]* 프로젝트 열기
 * 프로젝트 구조 확장
-* 패키지 폴더를 마우스 오른쪽 단추로 클릭합니다([!DNL com.example.acspushtutorial]) 및 [!DNL New ->Java Class]
-* 이 클래스 이름 지정 *[!DNL MyService]* 확장되는지 확인합니다. [!DNL FirebaseMessagingService]
-* 만들기 *[!DNL sendNotification]* 이 클래스의 메서드입니다. 이 방법에서는 [!DNL NotificationCompat.Builder] 개체. 알림을 표시하려면 을 호출합니다. [!DNL NotificationManagerCompat.notify()], 알림에 대한 고유 ID 및 결과 전달 [!DNL NotificationCompat.Builder.build()].
+* 패키지 폴더([!DNL com.example.acspushtutorial])를 마우스 오른쪽 단추로 클릭하고 [!DNL New ->Java Class]
+* 이 클래스의 이름을 *[!DNL MyService]*&#x200B;로 지정하고 [!DNL FirebaseMessagingService]을(를) 확장하는지 확인하십시오.
+* 이 클래스에서 *[!DNL sendNotification]* 메서드를 만듭니다. 이 메서드에서는 [!DNL NotificationCompat.Builder] 개체를 사용하여 알림의 내용과 채널을 설정해야 합니다. 알림이 표시되도록 하려면 [!DNL NotificationManagerCompat.notify()]을(를) 호출하여 알림에 대한 고유 ID와 [!DNL NotificationCompat.Builder.build()]의 결과를 전달합니다.
 
 <!--
 Removed `{.line-numbers}` below
@@ -93,9 +93,9 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 }
 ```
 
-## 수정 [!DNL AndroidManifest.xml]
+## [!DNL AndroidManifest.xml] 수정
 
-생성된 서비스를 다음에 추가합니다. [!DNL AndroidManifest.xml]. 최종 [!DNL AndroidManifest.xml] 은(는) 다음과 같아야 합니다.
+만든 서비스를 [!DNL AndroidManifest.xml]에 추가합니다. 최종 [!DNL AndroidManifest.xml]은(는) 다음과 같아야 합니다.
 
 <!--
 Removed `{.line-numbers}` below
@@ -139,4 +139,4 @@ Removed `{.line-numbers}` below
 
 ## 앱 실행
 
-다음을 클릭하여 앱 실행 **녹색 화살표** 도구 모음 또는 [!DNL Run] 메뉴 아래의 제품에서 사용할 수 있습니다.
+도구 모음 또는 [!DNL Run] 메뉴에서 **녹색 화살표**&#x200B;를 클릭하여 앱을 실행하십시오.

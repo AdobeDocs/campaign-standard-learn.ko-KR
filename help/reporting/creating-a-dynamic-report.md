@@ -12,14 +12,14 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 31%
+source-wordcount: '55'
+ht-degree: 36%
 
 ---
 
-# 만들기 [!UICONTROL Dynamic Report]{#creating-a-report}
+# [!UICONTROL Dynamic Report] 만들기{#creating-a-report}
 
-Adobe Campaign [!UICONTROL Dynamic Reports] 는 데이터를 탐색할 수 있는 유연한 자유 형식 환경입니다. 이를 통해 차원, 지표 및 시간 범위를 무제한 분류 및 비교와 임의의 조합으로 결합할 수 있습니다.
+Adobe Campaign [!UICONTROL Dynamic Reports]은(는) 데이터를 탐색할 수 있는 유연한 자유 형식 환경입니다. 이를 통해 차원, 지표 및 시간 범위를 무제한 분류 및 비교와 임의의 조합으로 결합할 수 있습니다.
 
 보고서를 만드는 방법에 대해 알아봅니다.
 
@@ -27,4 +27,4 @@ Adobe Campaign [!UICONTROL Dynamic Reports] 는 데이터를 탐색할 수 있�
 
 ## 추가 리소스
 
-* [보고 기본 정보](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)
+* [보고 정보](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)

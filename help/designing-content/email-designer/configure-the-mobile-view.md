@@ -1,5 +1,5 @@
 ---
-title: 이메일 디자이너에서 모바일 보기 구성
+title: 이메일 Designer에서 모바일 보기 구성
 description: "모바일 표시에 대한 모든 스타일 옵션을 별도로 편집하여 이메일의 반응형 디자인을 미세 조정하는 방법을 알아봅니다."
 feature: Email Design
 jira: KT-2423
@@ -13,11 +13,11 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# 에서 모바일 보기 구성 [!UICONTROL Email Designer] {#configure-the-mobile-view}
+# [!UICONTROL Email Designer]에서 모바일 보기 구성 {#configure-the-mobile-view}
 
 이 비디오에서는 모바일 표시에 대한 모든 스타일 옵션을 별도로 편집하여 이메일의 반응형 디자인을 세밀하게 조정하는 방법을 설명합니다.
 

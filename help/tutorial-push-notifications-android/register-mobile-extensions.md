@@ -11,8 +11,8 @@ team: TM
 exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
 source-git-commit: 9be31e056800b806c49a2c5ffbf9f9f42b001d4c
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 13%
+source-wordcount: '110'
+ht-degree: 14%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 13%
 
 이 부분에서는 사용자 프로필, ID, 라이프사이클 및 신호 확장을 등록하기 위한 코드를 추가합니다. 또한 아래 코드에 표시된 대로 Adobe Campaign Standard 확장을 등록해야 합니다.
 
-에서 프로젝트를 엽니다. [!DNL Android] 스튜디오. MainApp에서 전체 코드 삭제 **패키지 문인 첫 번째 줄을 제외하고**.
+[!DNL Android] 스튜디오에서 프로젝트를 엽니다. MainApp **에서 패키지 문인 첫 번째 줄을 제외한 전체 코드를 삭제합니다**.
 
 다음 코드를 MainApp에 붙여넣기
 
@@ -70,6 +70,6 @@ try{
 }
 ```
 
-32행 다음을 입력해야 합니다.[!UICONTROL  Launch] 속성의 환경 파일 ID. 다음에서 액세스할 수 있습니다. [!UICONTROL environment tab] / [!UICONTROL Launch] 속성.
+32행 [!UICONTROL  Launch] 속성의 환경 파일 ID를 제공해야 합니다. [!UICONTROL Launch] 속성의 [!UICONTROL environment tab]에서 액세스할 수 있습니다.
 
 ![launch-id](assets/launch-id-property.PNG)

@@ -13,11 +13,11 @@ level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '45'
-ht-degree: 15%
+ht-degree: 20%
 
 ---
 
-# 타겟 사용자 기준 [!DNL Campaign] 프로필
+# [!DNL Campaign] 프로필을 기반으로 사용자를 타깃팅합니다.
 
 CRM 프로필 특성으로 개인화된 메시지로 알려진 모바일 앱 사용자를 타겟팅하는 방법을 알아봅니다.
 

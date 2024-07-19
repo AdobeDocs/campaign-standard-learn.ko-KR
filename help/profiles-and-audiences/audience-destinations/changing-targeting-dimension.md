@@ -15,18 +15,18 @@ hidefromtoc: true
 source-git-commit: 563f4440b1d9454a1976b4ba7594d8a550814de1
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 8%
+ht-degree: 6%
 
 ---
 
-# 타겟팅 차원 변경 [!UICONTROL Platform Audience]
+# 타깃팅 차원 [!UICONTROL Platform Audience] 변경
 
 >[!NOTE]
 >
->이 기능은 베타 버전이며 예고 없이 자주 업데이트 및 수정될 수 있습니다. [!UICONTROL Audience Destinations] 는 Adobe Experience Platform을 기반으로 하며 특정 구성이 필요합니다.
+>이 기능은 베타 버전이며 예고 없이 자주 업데이트 및 수정될 수 있습니다. [!UICONTROL Audience Destinations]은(는) Adobe Experience Platform을 기반으로 하며 특정 구성이 필요합니다.
 >
->에게 문의하십시오. [!UICONTROL Adobe Customer Support] 이 기능을 구현할 계획이라면
+>이 기능을 구현하려면 [!UICONTROL Adobe Customer Support]에 문의하세요.
 
-이 비디오에서는에 대한 게재의 타겟팅 차원을 변경하는 방법을 설명합니다. [!UICONTROL Platform Audience] Adobe Campaign Standard의 기본 프로필 테이블 외부.
+이 비디오는 Adobe Campaign Standard에서 기본 프로필 테이블 외부에 있는 [!UICONTROL Platform Audience]에 대한 게재 타깃팅 차원을 변경하는 방법을 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?learn=on){transcript=true}

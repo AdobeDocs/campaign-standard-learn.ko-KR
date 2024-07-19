@@ -12,16 +12,16 @@ role: User, Developer
 level: Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 4%
+source-wordcount: '139'
+ht-degree: 8%
 
 ---
 
-# 구성 [!UICONTROL product listings] 트랜잭션 이메일에서
+# 트랜잭션 전자 메일에서 [!UICONTROL product listings] 구성
 
 이메일을 디자인할 때 알 수 없는 제품 목록이 있는 리타겟팅 이메일을 구성할 수 있습니다. 이러한 제품은 런타임에 페이로드에서 추가할 수 있습니다. 예를 들어 사용자가 장바구니를 포기하기 전에 사용자의 장바구니에 있던 모든 제품을 나열한 장바구니 중단 이메일을 이미지, 가격 및 각 제품에 대한 링크와 함께 자동으로 보낼 수 있습니다.
 
-다음 비디오에서는 를 구성하는 데 필요한 단계를 설명합니다 [!UICONTROL product listings] 위치: [!UICONTROL transactional emails].
+다음 비디오에서는 [!UICONTROL transactional emails]에서 [!UICONTROL product listings]을(를) 구성하는 데 필요한 단계를 설명합니다.
 
 >[!NOTE]
 >

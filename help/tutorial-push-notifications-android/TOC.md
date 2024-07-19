@@ -3,7 +3,7 @@ user-guide-title: Adobe Campaign Standard - Android용 푸시 알림 시작하�
 user-guide-description: 이 튜토리얼에서는 Adobe Campaign에서 푸시 알림을 전송하고 Android 앱에서 이러한 알림을 받는 단계를 설명합니다.
 source-git-commit: 1b2e9a48c4e48fe07c3114976dc8c3a57ed8a1c4
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '72'
 ht-degree: 100%
 
 ---

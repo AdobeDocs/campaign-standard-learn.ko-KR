@@ -13,7 +13,7 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 36%
+ht-degree: 39%
 
 ---
 
@@ -24,7 +24,7 @@ Adobe Campaign에는 두 가지 유형 또는 프로필이 있습니다.
 * 확인된 프로필
 * 테스트 프로필
 
-하나 이상의 공통 기준에 따라 그룹화된 프로필을 호출합니다. **대상**.
+하나 이상의 공통 기준에 따라 그룹화된 프로필을 **대상**&#x200B;이라고 합니다.
 
 이 비디오에서는 Adobe Campaign Standard에서 기존 프로필로 이동하는 방법과 프로필 및 대상자를 만드는 방법을 설명합니다.
 

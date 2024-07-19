@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 66%
+source-wordcount: '153'
+ht-degree: 57%
 
 ---
 
@@ -27,12 +27,12 @@ Adobe Dreamweaver와 통합된 Adobe Campaign Standard을 통해 Dreamweaver 인
 
 >[!NOTE]
 >
->이 기능을 사용하려면 Dreamweaver 확장을 호출해야 합니다 **[!UICONTROL Adobe Campaign Integration]**. 확장은 [Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search)에서 다운로드할 수 있습니다. 설치에 대한 자세한 내용은 [Dreamweaver용 Campaign 확장](https://helpx.adobe.com/kr/dreamweaver/using/working-with-dreamweaver-and-campaign.html).
+>이 기능을 사용하려면 Dreamweaver 확장을 호출해야 합니다 **[!UICONTROL Adobe Campaign Integration]**. 확장은 [Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search)에서 다운로드할 수 있습니다. 설치에 대한 자세한 내용은 [Dreamweaver용 Campaign 확장](https://helpx.adobe.com/kr/dreamweaver/using/working-with-dreamweaver-and-campaign.html)을 참조하십시오.
 
 이 비디오에서는 Dreamweaver 통합을 구현하는 데 필요한 사항과 Dreamweaver를 사용하여 Adobe Campaign Standard용 콘텐츠를 만들고 편집하는 방법에 대해 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23121?learn=on){transcript=true}
 
-*Adobe Campaign에서 Dreamweaver 통합을 사용하는 방법(02:37분)*
+*Adobe Campaign에서 Dreamweaver 통합을 사용하는 방법(02:37)*
 
-Dreamweaver 보기 [Adobe Dreamweaver 설명서](https://helpx.adobe.com/kr/dreamweaver/using/working-with-dreamweaver-and-campaign.html) 다음에 대한 정보를 위해: [Adobe Campaign Dreamweaver 설치 문제 해결](https://helpx.adobe.com/kr/dreamweaver/kb/dreamweaver-campaign-integration-issue.html).
+[Adobe Campaign Dreamweaver 설치 문제 해결](https://helpx.adobe.com/kr/dreamweaver/kb/dreamweaver-campaign-integration-issue.html)에 대한 자세한 내용은 Dreamweaver [Adobe Dreamweaver 설명서](https://helpx.adobe.com/kr/dreamweaver/using/working-with-dreamweaver-and-campaign.html)를 참조하십시오.

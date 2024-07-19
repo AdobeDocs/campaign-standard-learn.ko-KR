@@ -12,8 +12,8 @@ team: TM
 exl-id: a6b8ec23-01a2-4333-9918-9ea13aac4068
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 7%
+source-wordcount: '85'
+ht-degree: 11%
 
 ---
 
@@ -23,10 +23,10 @@ ht-degree: 7%
 >
 >이 기능은 현재 베타 버전이며 예고 없이 자주 업데이트 및 수정될 수 있습니다.
 >
->에게 문의하십시오. [!UICONTROL Adobe Customer Support] 이 기능을 구현할 계획이라면
+>이 기능을 구현하려면 [!UICONTROL Adobe Customer Support]에 문의하세요.
 
 시드 데이터 및 테스트 프로필을 Adobe Experience Platform과 매핑하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27264?learn=on){transcript=true}
 
-에 대한 자세한 내용은 제품 설명서 를 참조하세요. [매핑 정의](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html) 및 [매핑 활성화](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)
+[매핑 정의](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html) 및 [매핑 활성화](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)에 대한 자세한 내용은 제품 설명서를 참조하세요.

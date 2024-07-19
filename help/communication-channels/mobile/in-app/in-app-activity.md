@@ -13,11 +13,11 @@ level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 11%
+ht-degree: 15%
 
 ---
 
-# 만들기 [!UICONTROL In-App] 워크플로우 내 게재
+# 워크플로우 내에서 [!UICONTROL In-App] 게재 만들기
 
 인앱 게재 활동을 사용하여 워크플로우에서 계산된 대상 대상자에게 인앱 메시지 전송을 자동화하는 방법을 알아봅니다.
 

@@ -13,11 +13,11 @@ level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '55'
-ht-degree: 9%
+ht-degree: 12%
 
 ---
 
-# 다음에 대한 보고서 [!UICONTROL In-App] 게재 {#in-app-message-reporting}
+# [!UICONTROL In-App] 게재 보고서 {#in-app-message-reporting}
 
 모바일 애플리케이션 내에서 고객의 실시간 행동에 반응하여 사용자에게 컨텍스트에 맞는 인앱 메시지를 표시하는 방법에 대해 알아봅니다.
 

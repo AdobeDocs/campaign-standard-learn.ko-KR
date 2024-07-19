@@ -14,12 +14,12 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '24'
-ht-degree: 20%
+ht-degree: 29%
 
 ---
 
-# 구성 [!UICONTROL landing page template]
+# [!UICONTROL landing page template] 구성
 
-이 비디오에서는 를 구성하는 방법을 설명합니다. [!UICONTROL landing page] 템플릿.
+이 비디오에서는 [!UICONTROL landing page] 템플릿을 구성하는 방법을 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25200/?learn=on){transcript=true}

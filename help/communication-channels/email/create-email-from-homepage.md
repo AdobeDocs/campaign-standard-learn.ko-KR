@@ -13,13 +13,13 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '63'
-ht-degree: 44%
+ht-degree: 47%
 
 ---
 
 # 이메일 게재 만들기 {#create-an-email-delivery}
 
-캠페인, Adobe Campaign 홈페이지 또는 [!UICONTROL Marketing Activity] 목록을 표시합니다. 워크플로우에서 한 번 전송하고 반복되는 이메일을 만들고 보낼 수도 있습니다.
+캠페인, Adobe Campaign 홈페이지 또는 [!UICONTROL Marketing Activity] 목록에서 독립 실행형 이메일 게재를 만들 수 있습니다. 워크플로우에서 한 번 전송하고 반복되는 이메일을 만들고 보낼 수도 있습니다.
 
 홈 페이지에서 이메일 게재를 생성하는 방법에 대해 알아봅니다.
 

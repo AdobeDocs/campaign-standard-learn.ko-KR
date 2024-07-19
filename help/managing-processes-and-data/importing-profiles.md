@@ -13,7 +13,7 @@ level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
 source-wordcount: '56'
-ht-degree: 17%
+ht-degree: 21%
 
 ---
 
@@ -21,6 +21,6 @@ ht-degree: 17%
 
 파일에서 데이터를 수집하여 처리하고 Adobe Campaign 데이터베이스로 가져올 수 있습니다.
 
-이 비디오에서는 [!UICONTROL Data Management] 워크플로우의 활동을 통해 프로필 데이터를 가져올 수 있습니다.
+이 비디오에서는 워크플로우에서 [!UICONTROL Data Management] 활동을 사용하여 프로필 데이터를 가져오는 방법을 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24993?learn=on){transcript=true}

@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,4 +27,4 @@ ht-degree: 100%
 
 * [동적 보고서 만들기](/help/reporting/creating-a-dynamic-report.md)
 * [사용자 정의 프로필 속성을 사용하여 동적 보고서 만들기](/help/reporting/custom-profile-attributes-dynamic-reports.md)
-* [워크플로우 세그먼트 기반 보고서 만들기](/help/reporting/report-on-workflow-segments.md)
+* [워크플로 세그먼트 기반 보고서 만들기](/help/reporting/report-on-workflow-segments.md)

@@ -1,5 +1,5 @@
 ---
-title: 워크플로우 세그먼트를 기반으로 보고서 만들기
+title: 워크플로 세그먼트를 기반으로 보고서 만들기
 description: 워크플로우에서 세그먼트를 정의하고 이를 동적 보고서에 적용하는 방법을 알아봅니다.
 feature: Reporting
 jira: KT-3252
@@ -12,12 +12,12 @@ role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 20%
+source-wordcount: '76'
+ht-degree: 18%
 
 ---
 
-# 워크플로우 세그먼트를 기반으로 보고서 만들기
+# 워크플로 세그먼트를 기반으로 보고서 만들기
 
 워크플로우를 만들고 모집단을 다른 타겟팅된 대상자로 필터링한 후 이 타겟팅 워크플로우에 정의된 세그먼트를 기반으로 마케팅 캠페인의 효율성을 측정할 수 있습니다.
 

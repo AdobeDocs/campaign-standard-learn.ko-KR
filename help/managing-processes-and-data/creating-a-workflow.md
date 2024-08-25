@@ -12,14 +12,14 @@ role: User, Developer, Admin
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 33%
+source-wordcount: '81'
+ht-degree: 32%
 
 ---
 
 # 워크플로 만들기 {#how-to-create-a-workflow-in-adobe-campaign-standard}
 
-워크플로우는 다음과 같이 서로 다른 컨텍스트에서 사용할 수 있습니다.
+워크플로는 다음과 같이 서로 다른 컨텍스트에서 사용할 수 있습니다.
 
 * 대상을 관리하거나 메시지를 보내기 위한 타겟팅
 * ETL(데이터 관리)을 통해 데이터 조작

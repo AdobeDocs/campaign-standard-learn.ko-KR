@@ -1,5 +1,5 @@
 ---
-title: 워크플로우 내에서 인앱 게재 만들기
+title: 워크플로 내에서 인앱 게재 만들기
 description: 인앱 게재 활동을 사용하여 워크플로우에서 계산된 대상 대상자에게 인앱 메시지 전송을 자동화하는 방법을 알아봅니다.
 feature: In App
 jira: KT-2500
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner, Intermediate
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 15%
+source-wordcount: '57'
+ht-degree: 12%
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 외부 API 활동을 사용하여 워크플로우 구성 및 실행
+title: 외부 API 활동을 사용하여 워크플로 구성 및 실행
 description: 외부 REST API 엔드포인트를 호출하여 개인화 데이터를 서드파티 시스템에서 캠페인으로 가져오는 방법을 알아봅니다.
 feature: Data Management Activity
 jira: KT-2764
@@ -12,12 +12,12 @@ role: User, Developer
 level: Experienced
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 50%
+source-wordcount: '160'
+ht-degree: 49%
 
 ---
 
-# [!UICONTROL External API activity]을(를) 사용하여 워크플로우 구성 및 실행
+# [!UICONTROL External API activity]을(를) 사용하여 워크플로 구성 및 실행
 
 [!UICONTROL External API activity]은(는) [!UICONTROL Data Management activity]입니다. 외부 REST API 엔드포인트를 호출할 수 있습니다. 이 활동의 목적은 서드파티 시스템의 개인화 데이터를 캠페인으로 가져오는 것입니다.
 

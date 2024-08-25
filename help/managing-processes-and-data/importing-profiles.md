@@ -1,5 +1,5 @@
 ---
-title: 워크플로우로 프로필 가져오기
+title: 워크플로로 프로필 가져오기
 description: 워크플로우를 사용하여 프로필 데이터를 가져오는 방법을 알아봅니다.
 feature: Data Management
 jira: KT-1818
@@ -12,12 +12,12 @@ role: User, Developer, Admin
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 21%
+source-wordcount: '54'
+ht-degree: 18%
 
 ---
 
-# 워크플로우로 프로필 가져오기{#import-profiles-with-a-workflow}
+# 워크플로로 프로필 가져오기{#import-profiles-with-a-workflow}
 
 파일에서 데이터를 수집하여 처리하고 Adobe Campaign 데이터베이스로 가져올 수 있습니다.
 

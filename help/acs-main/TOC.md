@@ -22,7 +22,7 @@ ht-degree: 100%
    + [캠페인 관리](/help/getting-started/managing-campaigns.md)
    + [프로필 및 대상자 이해](/help/getting-started/understanding-profiles-and-audiences.md)
    + [이메일 만들기](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html?lang=ko)
-   + [워크플로우 만들기](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html?lang=ko)
+   + [워크플로 만들기](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html?lang=ko)
    + [보고 소개](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Adobe Campaign을 사용한 모바일 마케팅](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Adobe Campaign을 통해 성장하기](/help/getting-started/growing-with-adobe-campaign.md)
@@ -30,12 +30,12 @@ ht-degree: 100%
    + [프로필 및 대상자 만들기 - 개요](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [프로필 만들기](/help/profiles-and-audiences/creating-a-profile.md)
    + [테스트 프로필 만들기](/help/profiles-and-audiences/test-profiles.md)
-   + [워크플로우로 프로필 가져오기](/help/managing-processes-and-data/importing-profiles.md)
+   + [워크플로로 프로필 가져오기](/help/managing-processes-and-data/importing-profiles.md)
    + [서비스 및 구독 관리](/help/managing-processes-and-data/services-and-subscriptions.md)
    + 대상자의 방문 대상(베타){#audience-destinations}
       + [개요](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
       + [통합 세그먼트 빌더를 사용하여 새 대상자 만들기](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-      + [워크플로우에서 Adobe Experience Platform 대상자 활성화](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+      + [워크플로에서 Adobe Experience Platform 대상자 활성화](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [타겟팅 차원 변경](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + 소통 채널 {#communication-channels}
    + 이메일 {#email}
@@ -49,7 +49,7 @@ ht-degree: 100%
       + [다국어 이메일 또는 SMS 게재 만들기](/help/communication-channels/create-multilingual-deliveries.md)
       + [기존 이메일, SMS 게재 또는 게재 템플릿을 다국어로 전환](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [이메일 게재 및 보고서 검토](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
-      + [워크플로우를 통해 이메일을 만들고 보내기](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
+      + [워크플로를 통해 이메일을 만들고 보내기](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
       + AI 기반 이메일 {#journey-ai}
          + [예측 전송 시간 최적화](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
          + [예측 참여 점수 책정](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
@@ -64,7 +64,7 @@ ht-degree: 100%
          + [이벤트 구성](/help/communication-channels/mobile/in-app/configure-events.md)
          + [인앱 메시지 브로드캐스트](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md)
          + [Campaign 프로필 기반 타겟 사용자](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)
-         + [워크플로우 내에서 인앱 게재 만들기](/help/communication-channels/mobile/in-app/in-app-activity.md)
+         + [워크플로 내에서 인앱 게재 만들기](/help/communication-channels/mobile/in-app/in-app-activity.md)
          + [인앱 게재 보고서](/help/communication-channels/mobile/in-app/in-app-reporting.md)
       + [Adobe Experience Platform SDK를 사용하여 모바일 애플리케이션 구성](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
    + [DM](/help/communication-channels/direct-mail/directmail.md)
@@ -83,7 +83,7 @@ ht-degree: 100%
       + [Adobe Dreamweaver를 사용하여 콘텐츠 만들기](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [트랜잭션 이메일의 제품 목록 구성](/help/designing-content/product-listings-in-transactional-email.md)
 + 프로세스 및 데이터 관리 {#managing-processes-and-data}
-   + [워크플로우 만들기](/help/managing-processes-and-data/creating-a-workflow.md)
+   + [워크플로 만들기](/help/managing-processes-and-data/creating-a-workflow.md)
    + 실행 활동{#execution-activities}
       + [외부 신호 활동](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + 데이터 관리 활동 {#data-management-activities}
@@ -92,7 +92,7 @@ ht-degree: 100%
    + [보고서 탐색](/help/getting-started/exploring-reports.md)
    + [동적 보고서 만들기](/help/reporting/creating-a-dynamic-report.md)
    + [사용자 지정 프로필 속성을 기반으로 보고서 만들기](/help/reporting/custom-profile-attributes-dynamic-reports.md)
-   + [워크플로우 세그먼트를 기반으로 보고서 만들기](/help/reporting/report-on-workflow-segments.md)
+   + [워크플로 세그먼트를 기반으로 보고서 만들기](/help/reporting/report-on-workflow-segments.md)
    + [게재 모니터링](/help/reporting/monitor-a-delivery.md)
 + 다른 솔루션과 통합 {#integrations}
    + [Adobe Analytics에서 게재 성공 추적하기](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)

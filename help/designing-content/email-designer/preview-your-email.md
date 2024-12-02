@@ -1,6 +1,6 @@
 ---
 title: 이메일 및 스팸 방지 분석 미리 보기
-description: "이메일 및 스팸 방지 분석을 미리 보는 방법에 대해 알아봅니다."
+description: 이메일 및 스팸 방지 분석을 미리 보는 방법에 대해 알아봅니다.
 feature: Email Design
 jira: KT-2393
 thumbnail: 25921.jpg

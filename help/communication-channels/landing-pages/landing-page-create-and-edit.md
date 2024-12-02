@@ -1,6 +1,6 @@
 ---
 title: 랜딩 페이지 만들고 편집하기
-description: "Adobe Campaign Standard에서 랜딩 페이지를 만들고, 편집하고, 테스트하는 방법을 알아봅니다."
+description: Adobe Campaign Standard에서 랜딩 페이지를 만들고, 편집하고, 테스트하는 방법을 알아봅니다.
 feature: Landing Pages
 jira: KT-1808
 thumbnail: 24093.jpg

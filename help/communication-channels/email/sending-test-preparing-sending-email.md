@@ -1,6 +1,6 @@
 ---
 title: 테스트 보내기, 준비, 이메일 보내기
-description: "테스트 이메일을 보내고, 준비하고, 이메일 게재를 보내는 방법을 알아봅니다. "
+description: '테스트 이메일을 보내고, 준비한 다음 이메일 게재를 보내는 방법을 알아봅니다. '
 feature: Email, Test Profiles
 jira: KT-1812
 thumbnail: 24013.jpg

@@ -1,6 +1,6 @@
 ---
 title: 이메일 Designer에서 모바일 보기 구성
-description: "모바일 표시에 대한 모든 스타일 옵션을 별도로 편집하여 이메일의 반응형 디자인을 미세 조정하는 방법을 알아봅니다."
+description: 모바일 표시에 대한 모든 스타일 옵션을 별도로 편집하여 이메일의 반응형 디자인을 미세 조정하는 방법을 알아봅니다.
 feature: Email Design
 jira: KT-2423
 thumbnail: 25919.jpg

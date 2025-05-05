@@ -70,6 +70,6 @@ try{
 }
 ```
 
-32행 [!UICONTROL  Launch] 속성의 환경 파일 ID를 제공해야 합니다. [!UICONTROL Launch] 속성의 [!UICONTROL environment tab]에서 액세스할 수 있습니다.
+32행 [!UICONTROL &#x200B; Launch] 속성의 환경 파일 ID를 제공해야 합니다. [!UICONTROL Launch] 속성의 [!UICONTROL environment tab]에서 액세스할 수 있습니다.
 
 ![launch-id](assets/launch-id-property.PNG)

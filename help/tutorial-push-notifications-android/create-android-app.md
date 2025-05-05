@@ -59,7 +59,7 @@ Firebase와 앱을 성공적으로 통합하면 아래 표시된 것과 같은 �
 
 ![[!DNL fcm-successfull]](assets/android-firebase-success.PNG)
 
-[프로젝트가  [!DNL Firebase ]콘솔](https://console.firebase.google.com/)에 나열되어 있는지 확인
+[프로젝트가  [!DNL Firebase &#x200B;]콘솔](https://console.firebase.google.com/)에 나열되어 있는지 확인
 
 ## [!UICONTROL Push Channel] 설정 구성
 

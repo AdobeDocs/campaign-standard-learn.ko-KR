@@ -19,7 +19,7 @@ ht-degree: 6%
 
 ---
 
-# [!UICONTROL Audience Destinations](BETA)- 개요
+# [!UICONTROL Audience Destinations] (BETA)- 개요
 
 ## Adobe Campaign Standard에서 Adobe Experience Platform 대상 사용
 

@@ -27,7 +27,7 @@ ht-degree: 4%
 
 ## 개요
 
-Adobe Experience Platform [!UICONTROL Data Connector]은(는) XTK 데이터(Adobe Campaign에서 수집된 데이터)를 Adobe Experience Platform의 [!DNL Experience Data Model](XDM) 데이터에 매핑하여 기존 고객이 Adobe Experience Platform에서 데이터를 사용할 수 있도록 지원합니다.
+Adobe Experience Platform [!UICONTROL Data Connector]은(는) XTK 데이터(Adobe Campaign에서 수집된 데이터)를 Adobe Experience Platform의 [!DNL Experience Data Model] (XDM) 데이터에 매핑하여 기존 고객이 Adobe Experience Platform에서 데이터를 사용할 수 있도록 지원합니다.
 
 커넥터는 단방향이며 데이터를 Adobe Campaign Standard에서 Adobe Experience Platform으로 전송합니다. 데이터는 Adobe Experience Platform에서 Adobe Campaign Standard으로 전송되지 않습니다.
 

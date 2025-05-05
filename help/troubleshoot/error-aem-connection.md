@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Campaign Standard에서 Experience Manager로 연결 중 발생하는 서비스 &#39;nms:delivery&#39;의 &#39;GetAEMContentList&#39; 오류를 해결하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335897?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436884?learn=on&captions=kor){transcript=true}

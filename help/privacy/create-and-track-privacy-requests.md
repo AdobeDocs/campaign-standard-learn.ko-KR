@@ -23,6 +23,6 @@ Adobe Campaign을 사용하면 GDPR 및 CPA와 같은 개인 정보 보호 활�
 
 Adobe Campaign Standard 사용자 인터페이스에서 개인 정보 요청을 수동으로 만들고 진전 상황을 추적하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/29235?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/340821?learn=on&captions=kor){transcript=true}
 
 자세한 [Campaign 일반 개인 정보 보호 지침](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-management.html?lang=ko)은 제품 설명서를 참조하세요.

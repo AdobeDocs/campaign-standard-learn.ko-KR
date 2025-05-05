@@ -29,12 +29,12 @@ ht-degree: 4%
 
 ## 1단계 - 이벤트 만들기 및 게시
 
->[!VIDEO](https://video.tv.adobe.com/v/25914?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34262?learn=on&captions=kor){transcript=true}
 
 ## 2단계 - 트랜잭션 메시지 템플릿에 제품 목록 추가
 
->[!VIDEO](https://video.tv.adobe.com/v/25915?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34263?learn=on&captions=kor){transcript=true}
 
 ## 3단계 - 트랜잭션 메시지 테스트
 
->[!VIDEO](https://video.tv.adobe.com/v/25916?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34264?learn=on&captions=kor){transcript=true}

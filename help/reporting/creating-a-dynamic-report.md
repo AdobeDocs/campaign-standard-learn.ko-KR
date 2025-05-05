@@ -23,7 +23,7 @@ Adobe Campaign [!UICONTROL Dynamic Reports]은(는) 데이터를 탐색할 수 �
 
 보고서를 만드는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25264/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31873/?learn=on&captions=kor){transcript=true}
 
 ## 추가 리소스
 

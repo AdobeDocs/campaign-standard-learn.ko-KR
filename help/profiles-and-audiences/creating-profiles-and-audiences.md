@@ -28,4 +28,4 @@ Adobe Campaign에는 두 가지 유형 또는 프로필이 있습니다.
 
 이 비디오에서는 Adobe Campaign Standard에서 기존 프로필로 이동하는 방법과 프로필 및 대상자를 만드는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/18463/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38371/?learn=on&captions=kor){transcript=true}

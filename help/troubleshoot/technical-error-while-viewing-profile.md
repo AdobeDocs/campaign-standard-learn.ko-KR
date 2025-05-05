@@ -18,4 +18,4 @@ ht-degree: 100%
 
 Campaign Standard에서 프로필을 보는 도중에 발생하는 기술 오류를 해결하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335890?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436603?learn=on&captions=kor){transcript=true}

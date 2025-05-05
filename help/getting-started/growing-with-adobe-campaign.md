@@ -21,4 +21,4 @@ ht-degree: 100%
 
 이 비디오에서는 진정한 크로스채널 오케스트레이션의 잠재적인 다음 단계를 중점적으로 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/29460?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/32956?learn=on&captions=kor){transcript=true}

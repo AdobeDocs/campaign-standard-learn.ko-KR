@@ -33,7 +33,7 @@ Adobe Experience Platform [!UICONTROL Data Connector]은(는) XTK 데이터(Adob
 
 Adobe Experience Platform [!UICONTROL Data Connector]은(는) Adobe Campaign Standard [!UICONTROL custom resources]을(를) 이해하고 고객의 전체 데이터 스키마가 Adobe Experience Platform 내에 어떻게 있어야 하는지 이해하는 데이터 엔지니어를 위한 것입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27304?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34353?learn=on&captions=kor){transcript=true}
 
 *이 비디오에서는 Adobe Experience Platform [!UICONTROL Data Connector]에 대한 개요를 제공합니다(09:35)*
 

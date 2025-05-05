@@ -21,4 +21,4 @@ ht-degree: 8%
 
 인앱 메시지를 트리거하는 사용자 시작 작업을 파악하고 이러한 이벤트를 구성하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/26245?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/40914?learn=on&captions=kor){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 16%
 
 CRM 프로필 특성으로 개인화된 메시지로 알려진 모바일 앱 사용자를 타겟팅하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/26200?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35403?learn=on&captions=kor){transcript=true}

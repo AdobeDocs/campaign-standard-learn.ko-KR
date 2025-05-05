@@ -21,7 +21,7 @@ ht-degree: 100%
 
 개인 정보 요청을 처리하기 위해 Adobe Campaign Standard를 설정할 때는 프로필 삭제 시 프로필에 연결된 사용자 지정 데이터를 모두 삭제하도록 해야 합니다. 이 비디오에서는 이 요구 사항을 충족하기 위해 사용자 지정 리소스를 수정하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23326?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/30938?learn=on&captions=kor){transcript=true}
 
 >[!NOTE]
 >

@@ -21,4 +21,4 @@ ht-degree: 33%
 
 Adobe Campaign Standard에서 다국어 푸시 알림을 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23304?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33207?learn=on&captions=kor){transcript=true}

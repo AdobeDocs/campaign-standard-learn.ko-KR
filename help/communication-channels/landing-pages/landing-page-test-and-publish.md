@@ -21,4 +21,4 @@ ht-degree: 27%
 
 이 비디오에서는 랜딩 페이지를 테스트하는 방법과 게시 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/24092?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33218?learn=on&captions=kor){transcript=true}

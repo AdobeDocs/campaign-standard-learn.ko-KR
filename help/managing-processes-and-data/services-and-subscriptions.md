@@ -31,4 +31,4 @@ Adobe Campaign을 사용하면 일련의 서비스를 통해 뉴스레터 및 �
 
 이 비디오를 통해 서비스를 만들고 구독을 관리하는 방법을 알아볼 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/24673?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31893?learn=on&captions=kor){transcript=true}

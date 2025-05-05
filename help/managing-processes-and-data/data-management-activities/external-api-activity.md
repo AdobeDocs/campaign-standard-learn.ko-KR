@@ -30,7 +30,7 @@ ht-degree: 49%
 
 이 비디오에서는 [!UICONTROL External API activity]의 사용을 보여 줍니다 .
 
->[!VIDEO](https://video.tv.adobe.com/v/28200/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33055/?learn=on&captions=kor){transcript=true}
 
 *[!UICONTROL External API activity] (06:48분)*
 

@@ -33,6 +33,6 @@ Adobe Campaign Standard을 사용하면 Adobe Experience Platform [!UICONTROL Un
 
 아래 비디오에서는 Adobe Campaign Standard 내에서 [!UICONTROL Unified Segment Builder]을(를) 사용하여 새 대상을 만드는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27638?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38526?learn=on&captions=kor){transcript=true}
 
 *통합 세그먼트 빌더를 사용하여 Adobe Campaign Standard에서 대상을 만드는 방법(분 02:47)*

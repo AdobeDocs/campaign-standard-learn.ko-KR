@@ -21,4 +21,4 @@ ht-degree: 100%
 
 이 비디오에서는 프로필 및 대상자를 만드는 개념과 방법에 관해 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/18464?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38379?learn=on&captions=kor){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 18%
 
 이 비디오에서는 Adobe Campaign에서 다른 사용자에게 할당된 권한을 정의하고 관리하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/24671?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36113?learn=on&captions=kor){transcript=true}

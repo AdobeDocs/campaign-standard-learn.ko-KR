@@ -23,6 +23,6 @@ Adobe Campaign의 [!UICONTROL A/B Test] 기능을 사용하면 2~3개의 이메�
 
 이메일의 제목 줄을 테스트하기 위해 A/B 테스트를 구성하고 전송하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/18480?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38310?learn=on&captions=kor){transcript=true}
 
 콘텐츠 또는 보낸 사람을 테스트하는 방법에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html?lang=ko)를 참조하세요.

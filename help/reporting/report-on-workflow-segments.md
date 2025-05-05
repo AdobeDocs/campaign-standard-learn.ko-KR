@@ -23,6 +23,6 @@ ht-degree: 18%
 
 워크플로우에서 세그먼트를 정의하고 이를 동적 보고서에 적용하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/28262?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33070?learn=on&captions=kor){transcript=true}
 
 자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=ko)를 참조하세요.

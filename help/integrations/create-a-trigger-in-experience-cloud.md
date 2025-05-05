@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Experience Cloud에서 트리거를 구성하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/332624?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446145?learn=on&captions=kor){transcript=true}

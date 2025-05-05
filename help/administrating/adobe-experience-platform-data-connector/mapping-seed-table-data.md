@@ -27,6 +27,6 @@ ht-degree: 9%
 
 시드 데이터 및 테스트 프로필을 Adobe Experience Platform과 매핑하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27264?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35565?learn=on&captions=kor){transcript=true}
 
 [매핑 정의](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html?lang=ko) 및 [매핑 활성화](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html?lang=ko)에 대한 자세한 내용은 제품 설명서를 참조하세요.

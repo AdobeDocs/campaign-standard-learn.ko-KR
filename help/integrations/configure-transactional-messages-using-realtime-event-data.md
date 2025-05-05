@@ -22,4 +22,4 @@ ht-degree: 100%
 
 트리거에서 나오는 실시간 이벤트 데이터를 사용하여 트랜잭션 메시지를 구성하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/332602?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450209?learn=on&captions=kor){transcript=true}

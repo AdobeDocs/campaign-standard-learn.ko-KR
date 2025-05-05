@@ -28,4 +28,4 @@ ht-degree: 72%
 
 개별 프로필 수준에서 참여 점수를 보고, 참여 사용자 타겟팅 및 피로도가 높은 사용자를 알아보기 위해 점수를 사용하고 분류 규칙을 만들어 고객 피로도를 관리하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/40470?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328454?learn=on&captions=kor){transcript=true}

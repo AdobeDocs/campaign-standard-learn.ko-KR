@@ -23,4 +23,4 @@ Adobe Campaign Standard은 즉시 사용 가능한 18개의 반응형 이메일 
 
 이 비디오에서는 템플릿을 소개하고 나만의 템플릿을 만드는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23106?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33217?learn=on&captions=kor){transcript=true}

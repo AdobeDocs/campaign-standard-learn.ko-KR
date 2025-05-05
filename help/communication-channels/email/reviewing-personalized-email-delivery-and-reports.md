@@ -21,4 +21,4 @@ ht-degree: 23%
 
 이 비디오에서는 개인화된 이메일 전달을 검토하고 Adobe Campaign Standard에서 사용할 수 있는 다양한 보고서를 탐색하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/21389?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38363?learn=on&captions=kor){transcript=true}

@@ -24,4 +24,4 @@ ht-degree: 0%
 
 외부 시스템에서 매개 변수를 수신하도록 [!UICONTROL External Signal activity]을(를) 구성하고** 외부 매개 변수로 워크플로우를 사용자 지정하고, 외부 매개 변수로 워크플로우를 호출하도록 종료 활동을 구성하는 방법에 대해 알아봅니다
 
->[!VIDEO](https://video.tv.adobe.com/v/27249/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34356/?learn=on&captions=kor){transcript=true}

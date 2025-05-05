@@ -29,4 +29,4 @@ ht-degree: 4%
 
 이 비디오는 Adobe Campaign Standard에서 기본 프로필 테이블 외부에 있는 [!UICONTROL Platform Audience]에 대한 게재 타깃팅 차원을 변경하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/30151?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33266?learn=on&captions=kor){transcript=true}

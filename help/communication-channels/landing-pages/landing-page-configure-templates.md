@@ -22,4 +22,4 @@ ht-degree: 22%
 
 이 비디오에서는 [!UICONTROL landing page] 템플릿을 구성하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25200/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31895/?learn=on&captions=kor){transcript=true}

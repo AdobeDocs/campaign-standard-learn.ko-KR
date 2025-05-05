@@ -22,4 +22,4 @@ ht-degree: 100%
 
 Campaign Standard에서 트리거 이벤트를 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/332625?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446416?learn=on&captions=kor){transcript=true}

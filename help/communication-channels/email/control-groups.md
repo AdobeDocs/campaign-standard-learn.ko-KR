@@ -25,4 +25,4 @@ ht-degree: 100%
 
 [!UICONTROL delivery]을(를) 위한 [!UICONTROL control group] 정의 방법 및 [!UICONTROL delivery]을(를) 보낸 후 [!UICONTROL control group]에 할당된 프로필을 추출하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/40684?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/328544?learn=on&captions=kor){transcript=true}

@@ -23,4 +23,4 @@ ht-degree: 45%
 
 홈 페이지에서 이메일 게재를 생성하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23721?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/29753?learn=on&captions=kor){transcript=true}

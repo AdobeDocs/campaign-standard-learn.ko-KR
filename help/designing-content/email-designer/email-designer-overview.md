@@ -24,7 +24,7 @@ ht-degree: 100%
 
 이 비디오에서는 Adobe Campaign Standard [!UICONTROL Email Designer]의 기능 및 사용에 대한 높은 수준의 개요를 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/22771?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/330106?learn=on&captions=kor){transcript=true}
 
 ## 자습서
 

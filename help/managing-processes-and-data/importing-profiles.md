@@ -23,4 +23,4 @@ ht-degree: 18%
 
 이 비디오에서는 워크플로우에서 [!UICONTROL Data Management] 활동을 사용하여 프로필 데이터를 가져오는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/24993?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31896?learn=on&captions=kor){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 9%
 
 모바일 애플리케이션 내에서 고객의 실시간 행동에 반응하여 사용자에게 컨텍스트에 맞는 인앱 메시지를 표시하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/26412?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34783?learn=on&captions=kor){transcript=true}

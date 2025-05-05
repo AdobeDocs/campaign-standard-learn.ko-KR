@@ -23,7 +23,7 @@ ht-degree: 0%
 
 이 비디오에서는 [!UICONTROL Direct Mail] 게재를 구성하는 방법 및 [!UICONTROL Direct Mail] 게재에 프로필을 추가하기 위해 필요한 설정을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/23417?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31876?learn=on&captions=kor){transcript=true}
 
 ## 워크플로우 내에 [!UICONTROL Direct Mail] 만들기
 

@@ -21,4 +21,4 @@ ht-degree: 8%
 
 이 비디오에서는 프로필을 만드는 방법과 해당 프로필을 대상자에 추가하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25277/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31898/?learn=on&captions=kor){transcript=true}

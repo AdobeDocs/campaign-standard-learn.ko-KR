@@ -21,7 +21,7 @@ ht-degree: 17%
 
 Adobe Campaign을 사용하면 대상에 대한 정보를 캡처하고, 서비스에 대한 구독을 제공하고, 데이터를 표시하고 데이터베이스를 확장하는 데 사용할 수 있는 온라인 양식인 랜딩 페이지를 빌드할 수 있습니다. 랜딩 페이지는 기존 프로필을 가져오거나 업데이트하는 데에도 사용할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/24093?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36318?learn=on&captions=kor){transcript=true}
 
 ## 추가 리소스
 

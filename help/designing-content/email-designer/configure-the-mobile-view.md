@@ -21,4 +21,4 @@ ht-degree: 0%
 
 이 비디오에서는 모바일 표시에 대한 모든 스타일 옵션을 별도로 편집하여 이메일의 반응형 디자인을 세밀하게 조정하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25919?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39677?learn=on&captions=kor){transcript=true}

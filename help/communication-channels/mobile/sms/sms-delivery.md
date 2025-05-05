@@ -23,4 +23,4 @@ Adobe Campaign Standard에서 SMS 게재를 만드는 방법을 알아봅니다.
 
 SMS 게재 활동은 SMS 전송을 자동화하는 데 사용됩니다. 이 활동의 구성은 비디오에 설명된 일회성 게재 구성과 동일합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25265/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31897/?learn=on&captions=kor){transcript=true}

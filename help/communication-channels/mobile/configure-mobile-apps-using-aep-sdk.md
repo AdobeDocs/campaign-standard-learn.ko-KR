@@ -24,7 +24,7 @@ Mobile SDK V5를 사용하여 인앱 메시지 또는 [!UICONTROL push notificat
 
 아래 비디오에서는 Experience Platform Launch에서 모바일 앱을 구성하는 데 필요한 단계를 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/26224?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/40907?learn=on&captions=kor){transcript=true}
 
 >[!NOTE]
 >

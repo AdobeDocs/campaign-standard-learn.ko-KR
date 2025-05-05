@@ -23,4 +23,4 @@ ht-degree: 27%
 
 이 비디오에서는 테스트 프로필을 만드는 방법을 설명합니다
 
->[!VIDEO](https://video.tv.adobe.com/v/24094?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31890?learn=on&captions=kor){transcript=true}

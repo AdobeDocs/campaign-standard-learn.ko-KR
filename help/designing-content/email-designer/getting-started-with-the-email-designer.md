@@ -21,4 +21,4 @@ ht-degree: 100%
 
 이 비디오에서는 [!UICONTROL Email Designer]의 일반 기능과 이메일을 처음부터 디자인하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25912?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327700?learn=on&captions=kor){transcript=true}

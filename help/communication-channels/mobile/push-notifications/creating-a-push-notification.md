@@ -29,4 +29,4 @@ Adobe Campaign을 사용하면 개인화되고 세그먼트화된 [!UICONTROL pu
 
 이 비디오에서는 [!DNL push notification to app subscribers]을(를) 보내는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/31499?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36322?learn=on&captions=kor){transcript=true}

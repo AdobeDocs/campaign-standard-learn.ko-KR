@@ -21,4 +21,4 @@ ht-degree: 12%
 
 인앱 게재 활동을 사용하여 워크플로우에서 계산된 대상 대상자에게 인앱 메시지 전송을 자동화하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/26226?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38575?learn=on&captions=kor){transcript=true}

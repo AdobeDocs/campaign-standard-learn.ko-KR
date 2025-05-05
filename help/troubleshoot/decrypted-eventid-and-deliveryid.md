@@ -17,4 +17,4 @@ ht-degree: 100%
 
 Campaign Standard에서 복호화된 이벤트 ID 및 게재 ID를 가져오는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/335989?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437894?learn=on&captions=kor){transcript=true}

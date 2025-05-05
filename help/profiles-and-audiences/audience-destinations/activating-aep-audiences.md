@@ -29,7 +29,7 @@ ht-degree: 6%
 
 이 비디오에서는 [!UICONTROL Read Audience] 활동을 사용하여 워크플로우 내에서 [!UICONTROL Data Services Query Audience]을(를) 활성화하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27647?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34355?learn=on&captions=kor){transcript=true}
 
 *워크플로우에서 Adobe Experience Platform 대상 활성화(02:37)*
 

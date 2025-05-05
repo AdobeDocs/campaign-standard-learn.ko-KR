@@ -31,4 +31,4 @@ ht-degree: 8%
 
 다음 링크에서 자세한 설명서를 찾을 수 있습니다.
 
-[HTML 콘텐츠를 전자 메일 Designer 템플릿으로 변환](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)
+[HTML 콘텐츠를 전자 메일 Designer 템플릿으로 변환](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=ko)

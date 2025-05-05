@@ -140,4 +140,4 @@ ht-degree: 0%
 
 이 문서의 요약 및 재참여 전략 구현에 대한 실시간 데모를 보려면 [웨비나](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/)를 시청하세요.
 
-[고객 성공](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) 허브에서 전략 및 사고 리더십에 대해 자세히 알아보세요.
+[고객 성공](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=ko) 허브에서 전략 및 사고 리더십에 대해 자세히 알아보세요.

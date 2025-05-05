@@ -25,4 +25,4 @@ Adobe Campaign의 [!UICONTROL A/B Test] 기능을 사용하면 2~3개의 이메�
 
 >[!VIDEO](https://video.tv.adobe.com/v/18480?learn=on){transcript=true}
 
-콘텐츠 또는 보낸 사람을 테스트하는 방법에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html)를 참조하세요.
+콘텐츠 또는 보낸 사람을 테스트하는 방법에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html?lang=ko)를 참조하세요.

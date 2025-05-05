@@ -33,4 +33,4 @@ ht-degree: 6%
 
 *워크플로우에서 Adobe Experience Platform 대상 활성화(02:37)*
 
-[Adobe Experience Platform 대상자를 Campaign으로 수집](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)하는 방법에 대한 제품 설명서를 참조하세요.
+[Adobe Experience Platform 대상자를 Campaign으로 수집](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html?lang=ko)하는 방법에 대한 제품 설명서를 참조하세요.

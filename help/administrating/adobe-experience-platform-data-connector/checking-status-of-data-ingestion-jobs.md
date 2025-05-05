@@ -32,6 +32,6 @@ ht-degree: 29%
 
 ## 추가 리소스
 
-* [매핑 정의](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
-* [매핑 활성화](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)
-* [API를 통한 데이터 수집 트리거](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-triggering-data-ingestion.html)
+* [매핑 정의](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html?lang=ko)
+* [매핑 활성화](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html?lang=ko)
+* [API를 통한 데이터 수집 트리거](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-triggering-data-ingestion.html?lang=ko)

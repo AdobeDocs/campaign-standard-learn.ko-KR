@@ -21,4 +21,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27714?learn=on){transcript=true}
 
-[!DNL API]을(를) 통해 사용자 지정 리소스를 채우는 방법에 대한 자세한 내용은 설명서를 참조하십시오. [사용자 지정 리소스와 상호 작용](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html).
+[!DNL API]을(를) 통해 사용자 지정 리소스를 채우는 방법에 대한 자세한 내용은 설명서를 참조하십시오. [사용자 지정 리소스와 상호 작용](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/interacting-with-custom-resources.html?lang=ko).

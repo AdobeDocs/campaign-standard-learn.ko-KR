@@ -29,4 +29,4 @@ Adobe Campaign Standard과 Adobe Experience Platform 간에 다양한 데이터 
 
 >[!VIDEO](https://video.tv.adobe.com/v/27231?learn=on){transcript=true}
 
-[매핑 정의](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)에 대한 자세한 내용은 제품 설명서를 참조하세요.
+[매핑 정의](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html?lang=ko)에 대한 자세한 내용은 제품 설명서를 참조하세요.

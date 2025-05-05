@@ -23,4 +23,4 @@ ht-degree: 31%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23251?learn=on){transcript=true}
 
-[다국어 전자 메일 만들기](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)에 대한 자세한 내용은 제품 설명서를 참조하세요.
+[다국어 전자 메일 만들기](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=ko)에 대한 자세한 내용은 제품 설명서를 참조하세요.

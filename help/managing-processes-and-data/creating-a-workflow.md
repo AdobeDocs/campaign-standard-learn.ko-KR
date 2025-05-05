@@ -30,4 +30,4 @@ ht-degree: 32%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23937?learn=on){transcript=true}
 
-[워크플로 빌드(설명서)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)에 대한 자세한 내용은 제품 설명서를 참조하세요.
+[워크플로 빌드(설명서)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html?lang=ko)에 대한 자세한 내용은 제품 설명서를 참조하세요.

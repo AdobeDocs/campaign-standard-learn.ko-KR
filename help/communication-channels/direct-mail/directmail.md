@@ -31,4 +31,4 @@ ht-degree: 0%
 
 ![워크플로 이미지](/help/assets/direct_mail_examplewf.png)
 
-자세한 내용은 제품 설명서를 참조하세요. [DM 정보](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)
+자세한 내용은 제품 설명서를 참조하세요. [DM 정보](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html?lang=ko)

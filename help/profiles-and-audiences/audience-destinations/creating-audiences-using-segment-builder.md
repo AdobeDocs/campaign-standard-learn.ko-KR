@@ -27,7 +27,7 @@ ht-degree: 10%
 >
 >이 기능을 구현하려면 [!UICONTROL Adobe Customer Support]에 문의하세요.
 
-Adobe Campaign Standard을 사용하면 Adobe Experience Platform [!UICONTROL Unified Segment Builder]을(를) 사용하여 Adobe Experience Cloud [실시간 고객 프로필](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en)의 데이터를 사용하여 대상을 구축할 수 있습니다.
+Adobe Campaign Standard을 사용하면 Adobe Experience Platform [!UICONTROL Unified Segment Builder]을(를) 사용하여 Adobe Experience Cloud [실시간 고객 프로필](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=ko)의 데이터를 사용하여 대상을 구축할 수 있습니다.
 
 [!UICONTROL Audiences] 모듈을 통해 Adobe Campaign Standard 내에서 직접 [!UICONTROL Unified Segment Builder]에 액세스할 수 있습니다. 이를 통해 [!UICONTROL Audiences] 목록 보기에서 이러한 대상을 직접 관리할 수 있으며, 여기서 Adobe Campaign 인터페이스에서 직접 Adobe Experience Platform 대상을 편집하거나 만들 수 있습니다
 

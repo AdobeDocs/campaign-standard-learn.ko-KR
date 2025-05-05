@@ -32,5 +32,5 @@ ht-degree: 2%
 
 ## 추가 리소스
 
-* [푸시 알림에 대한 자세한 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=en)
+* [푸시 알림에 대한 자세한 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html?lang=ko)
 * [푸시 알림 만들기(비디오)](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)

@@ -55,7 +55,7 @@ ht-degree: 91%
          + [예측 참여 점수 책정](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + 모바일 {#mobile}
       + SMS{#sms}
-         + [SMS 게재 만들기 ](/help/communication-channels/mobile/sms/sms-delivery.md)
+         + [SMS 게재 만들기 &#x200B;](/help/communication-channels/mobile/sms/sms-delivery.md)
       + 푸시 알림 {#push}
          + [푸시 알림 만들기](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [다국어 푸시 알림 만들기](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)

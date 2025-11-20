@@ -6,7 +6,7 @@ auto-video-transcripts: true
 source-git-commit: 659a9de22dc7e160d0e484fed9aa5fcdcb7d1405
 workflow-type: tm+mt
 source-wordcount: '517'
-ht-degree: 100%
+ht-degree: 91%
 
 ---
 
@@ -32,17 +32,17 @@ ht-degree: 100%
    + [테스트 프로필 만들기](/help/profiles-and-audiences/test-profiles.md)
    + [워크플로로 프로필 가져오기](/help/managing-processes-and-data/importing-profiles.md)
    + [서비스 및 구독 관리](/help/managing-processes-and-data/services-and-subscriptions.md)
-   + 대상자의 방문 대상(베타){#audience-destinations}
+   + Audience 대상(BETA){#audience-destinations}
       + [개요](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
       + [통합 세그먼트 빌더를 사용하여 새 대상자 만들기](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [워크플로에서 Adobe Experience Platform 대상자 활성화](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [타겟팅 차원 변경](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
-+ 소통 채널 {#communication-channels}
++ 커뮤니케이션 채널 {#communication-channels}
    + 이메일 {#email}
       + [이메일 만들기](/help/communication-channels/email/create-email-from-homepage.md)
       + [테스트 보내기, 준비, 이메일 보내기](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [메시지 예약](/help/communication-channels/email/schedule-messages.md)
-      + [증명 보내기](/help/communication-channels/email/send-a-proof.md)
+      + [교정쇄 보내기](/help/communication-channels/email/send-a-proof.md)
       + [A/B 테스트](/help/communication-channels/email/a-b-testing.md)
       + [타겟팅된 프로필을 사용하여 이메일 메시지 테스트](/help/communication-channels/email/profile-substitution.md)
       + [게재에 컨트롤 그룹 추가](/help/communication-channels/email/control-groups.md)
@@ -84,7 +84,7 @@ ht-degree: 100%
    + [트랜잭션 이메일의 제품 목록 구성](/help/designing-content/product-listings-in-transactional-email.md)
 + 프로세스 및 데이터 관리 {#managing-processes-and-data}
    + [워크플로 만들기](/help/managing-processes-and-data/creating-a-workflow.md)
-   + 실행 활동{#execution-activities}
+   + 실행 활동 {#execution-activities}
       + [외부 신호 활동](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + 데이터 관리 활동 {#data-management-activities}
       + [외부 API 활동](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
@@ -114,8 +114,8 @@ ht-degree: 100%
       + [시드 테이블 데이터 매핑](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [데이터 매핑 수정](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
       + [데이터 수집 작업 상태 확인](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
-   + Typology 규칙{#typology-rules}
-      + 피로 관리{#fatigue-management}
+   + 유형화 규칙{#typology-rules}
+      + 피로도 관리{#fatigue-management}
          + [피로도 규칙 만들기](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
 + 개인 정보 {#privacy}
    + [개요](/help/privacy/privacy-overview.md)

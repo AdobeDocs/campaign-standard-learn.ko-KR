@@ -21,4 +21,4 @@ ht-degree: 100%
 
 이 비디오에서는 Adobe Campaign Standard의 보고 기능에 대한 개요를 제공합니다
 
->[!VIDEO](https://video.tv.adobe.com/v/29461?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/32983?captions=kor&learn=on){transcript=true}

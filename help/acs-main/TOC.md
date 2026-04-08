@@ -4,9 +4,9 @@ user-guide-description: Adobe Campaign Standard에 대한 비디오 및 튜토�
 breadcrumb-title: Campaign Standard 자습서
 auto-video-transcripts: true
 source-git-commit: 659a9de22dc7e160d0e484fed9aa5fcdcb7d1405
-workflow-type: tm+mt
-source-wordcount: '517'
-ht-degree: 91%
+workflow-type: ht
+source-wordcount: '604'
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 91%
    + [테스트 프로필 만들기](/help/profiles-and-audiences/test-profiles.md)
    + [워크플로로 프로필 가져오기](/help/managing-processes-and-data/importing-profiles.md)
    + [서비스 및 구독 관리](/help/managing-processes-and-data/services-and-subscriptions.md)
-   + Audience 대상(BETA){#audience-destinations}
+   + 잠재 고객 대상(Beta){#audience-destinations}
       + [개요](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
       + [통합 세그먼트 빌더를 사용하여 새 대상자 만들기](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [워크플로에서 Adobe Experience Platform 대상자 활성화](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
@@ -55,11 +55,11 @@ ht-degree: 91%
          + [예측 참여 점수 책정](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + 모바일 {#mobile}
       + SMS{#sms}
-         + [SMS 게재 만들기 &#x200B;](/help/communication-channels/mobile/sms/sms-delivery.md)
+         + [SMS 게재 만들기](/help/communication-channels/mobile/sms/sms-delivery.md)
       + 푸시 알림 {#push}
          + [푸시 알림 만들기](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [다국어 푸시 알림 만들기](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [튜토리얼: Android™에서 푸시 알림 시작하기](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=ko)
+         + [튜토리얼: Android™의 푸시 알림 시작](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=ko)
       + 인앱 메시지 {#in-app}
          + [이벤트 구성](/help/communication-channels/mobile/in-app/configure-events.md)
          + [인앱 메시지 브로드캐스트](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md)
@@ -88,7 +88,7 @@ ht-degree: 91%
       + [외부 신호 활동](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + 데이터 관리 활동 {#data-management-activities}
       + [외부 API 활동](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
-+ 보고서 및 모니터링 {#reporting}
++ 보고 및 모니터링 {#reporting}
    + [보고서 탐색](/help/getting-started/exploring-reports.md)
    + [동적 보고서 만들기](/help/reporting/creating-a-dynamic-report.md)
    + [사용자 지정 프로필 속성을 기반으로 보고서 만들기](/help/reporting/custom-profile-attributes-dynamic-reports.md)
@@ -102,10 +102,10 @@ ht-degree: 91%
       + [Experience Cloud에서 트리거 만들기](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Campaign Standard에서 트리거 이벤트 만들기](/help/integrations/create-a-trigger-event.md)
       + [실시간 이벤트 데이터를 사용한 트랜잭션 메시지 구성](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
-   + [Microsoft 구성](/help/integrations/configure-dynamics-365.md)
+   + [Campaign Standard와의 통합을 위한 Microsoft® Dynamics 365 구성](/help/integrations/configure-dynamics-365.md)
 + 관리 {#administrating}
    + [사용자 액세스 권한 관리](/help/administrating/managing-user-access-rights.md)
-   + [사용자 지정 리소스 만들기](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=ko)
+   + [사용자 정의 리소스 만들기](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=ko)
    + [컨트롤 패널](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=ko){target="_blank"}
    + Adobe Experience Platform 데이터 커넥터 {#adobe-experience-platform-data-connector}
       + [Adobe Experience Platform 데이터 커넥터 이해](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
@@ -128,4 +128,4 @@ ht-degree: 91%
    + [마케터를 위한 Adobe Campaign 성공 모범 사례 10가지](/help/strategy/10-best-practices-for-marketers.md)
    + [마케터 문제 해결](/help/strategy/troubleshooting-for-marketers.md)
    + [구독자 재참여를 위한 이메일 ROI 및 모범 사례 극대화](/help/strategy/campaign-maximize-email-best-practices.md)
-   + [게재 가능성 모범 사례 안내서](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ko)
+   + [전달성 모범 사례 안내서](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=ko)

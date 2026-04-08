@@ -9,8 +9,8 @@ team: TM
 recommendations: noDisplay
 exl-id: 8dd772b2-b082-4e1e-842d-c5d6bcec564c
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '191'
+workflow-type: ht
+source-wordcount: '211'
 ht-degree: 100%
 
 ---
@@ -24,10 +24,10 @@ Adobe Campaign을 통해 개인화 및 세그먼트화한 푸시 알림을 iOS �
 ## 필수 구성 요소
 
 * Adobe Campaign Standard Extension으로 실행 속성을 구성해야 합니다. 아래의 온라인 도움말을 참조하십시오.
-   * [비디오 튜토리얼](https://video.tv.adobe.com/v/40907?learn=on&captions=kor){transcript=true}
+   * [비디오 튜토리얼](https://video.tv.adobe.com/v/26224?learn=on){transcript=true}
    * [설명서](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html?lang=ko)
 
-* Adobe Campaign Standard의 해당 속성 상태가 구성되어 있는지 확인합니다.
+* Adobe Campaign Standard의 해당 속성 상태가 구성되어 있는지 확인하세요.
 * [활성 Google Firebase 계정이 있음](https://firebase.google.com)
 * [Android™ Studio 최신 버전 설치 완료](https://developer.android.com/studio)
 

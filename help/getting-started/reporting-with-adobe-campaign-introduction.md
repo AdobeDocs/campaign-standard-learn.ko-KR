@@ -11,9 +11,9 @@ exl-id: 46978dbc-1716-4fc4-946e-56d703944d25
 role: User, Developer
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '28'
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 이 비디오에서는 Adobe Campaign Standard의 보고 기능에 대한 개요를 제공합니다
 
->[!VIDEO](https://video.tv.adobe.com/v/32983?learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/29461?learn=on){transcript=true}

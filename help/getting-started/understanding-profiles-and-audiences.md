@@ -11,7 +11,7 @@ exl-id: 8a11b35f-ac6b-4f63-a72e-4e676ea3d69d
 role: User, Developer, Admin
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '43'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 이 비디오에서는 프로필 및 대상자를 만드는 개념과 방법에 관해 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/38379?learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/18464?learn=on){transcript=true}

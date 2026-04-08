@@ -10,15 +10,15 @@ team: TM
 recommendations: noDisplay
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '184'
+workflow-type: ht
+source-wordcount: '198'
 ht-degree: 100%
 
 ---
 
 # 사용자 지정 리소스 &#x200B; 만들기 - 소개
 
-[!DNL Adobe Campaign]은 서로 다른 리소스를 통해 데이터를 정의하는 데이터 모델과 함께 제공됩니다. [!DNL Campaign]을 통해 기존 리소스를 확장하거나 새 리소스를 만들 수 있습니다.
+[!DNL Adobe Campaign]은(는) 서로 다른 리소스를 통해 데이터를 정의하는 사전 정의된 데이터 모델과 함께 제공됩니다. [!DNL Campaign]을(를) 통해 기존 리소스를 확장하거나 새 리소스를 만들 수 있습니다.
 
 이 튜토리얼은 여러 편으로 나뉘어 있으며, 사용자 지정 리소스를 만들고 연결하는 데 필요한 단계를 안내합니다.
 학습 내용:

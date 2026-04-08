@@ -11,7 +11,7 @@ exl-id: 298fa9c5-153b-4886-9324-82d2651060ab
 role: User, Developer
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 이 비디오에서는 [!UICONTROL Email Designer]의 일반 기능과 이메일을 처음부터 디자인하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/327700?learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25912?learn=on){transcript=true}

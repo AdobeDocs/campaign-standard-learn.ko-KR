@@ -13,7 +13,7 @@ hidefromtoc: true
 exl-id: e32c2f71-1715-4e96-9fe7-5ac9321a9522
 badgeIntegration: label="통합" type="positive"
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '31'
 ht-degree: 100%
 
@@ -23,4 +23,4 @@ ht-degree: 100%
 
 Experience Cloud에서 트리거를 구성하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446145?learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332624?learn=on){transcript=true}

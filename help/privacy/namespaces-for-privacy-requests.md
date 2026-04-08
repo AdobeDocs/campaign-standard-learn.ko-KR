@@ -11,7 +11,7 @@ level: Experienced
 team: TM
 exl-id: b2d5362b-9b23-4f51-9802-19636457fab3
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
 ht-degree: 100%
 
@@ -23,4 +23,4 @@ GDPR 또는 CCPA에서 요구하는 조건에 따라, 개인 정보 액세스 �
 
 개인 정보 요청을 위한 네임스페이스를 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/29419?learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/22600?learn=on){transcript=true}

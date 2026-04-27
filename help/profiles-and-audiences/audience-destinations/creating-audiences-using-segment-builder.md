@@ -1,6 +1,6 @@
 ---
 title: 통합 세그먼트 빌더를 사용하여 새 대상자 만들기
-description: 통합 세그먼트 빌더를 사용하여 대상자를 만드는 방법을 알아봅니다
+description: Learn how to create an audience using the Unified Segment Builder
 feature: People Core Service Integration
 jira: KT-2754
 thumbnail: 27638.jpg
@@ -12,10 +12,10 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 hide: true
 hidefromtoc: true
-source-git-commit: ecd7ab2e03c38d17f2690161e19120d884c89993
+source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 10%
+source-wordcount: '175'
+ht-degree: 9%
 
 ---
 
@@ -27,12 +27,12 @@ ht-degree: 10%
 >
 >이 기능을 구현하려면 [!UICONTROL Adobe Customer Support]에 문의하세요.
 
-Adobe Campaign Standard을 사용하면 Adobe Experience Platform [!UICONTROL Unified Segment Builder]을(를) 사용하여 Adobe Experience Cloud [실시간 고객 프로필](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=ko)의 데이터를 사용하여 대상을 구축할 수 있습니다.
+Adobe Campaign Standard allows you to build audiences using data from the Adobe Experience Cloud [Real-Time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) by using the Adobe Experience Platform [!UICONTROL Unified Segment Builder].
 
-[!UICONTROL Audiences] 모듈을 통해 Adobe Campaign Standard 내에서 직접 [!UICONTROL Unified Segment Builder]에 액세스할 수 있습니다. 이를 통해 [!UICONTROL Audiences] 목록 보기에서 이러한 대상을 직접 관리할 수 있으며, 여기서 Adobe Campaign 인터페이스에서 직접 Adobe Experience Platform 대상을 편집하거나 만들 수 있습니다
+You can access the [!UICONTROL Unified Segment Builder] directly within Adobe Campaign Standard via the [!UICONTROL Audiences] module. It allows you to manage these audiences directly in the [!UICONTROL Audiences] list view, where you can edit or create an Adobe Experience Platform audience directly from the Adobe Campaign interface
 
-아래 비디오에서는 Adobe Campaign Standard 내에서 [!UICONTROL Unified Segment Builder]을(를) 사용하여 새 대상을 만드는 방법을 설명합니다.
+The video below explains how a new audience is created using [!UICONTROL Unified Segment Builder] within Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/38526?learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27638?learn=on){transcript=true}
 
-*통합 세그먼트 빌더를 사용하여 Adobe Campaign Standard에서 대상을 만드는 방법(분 02:47)*
+*How to create an audience in Adobe Campaign Standard using the Unified Segment Builder (min 02:47)*

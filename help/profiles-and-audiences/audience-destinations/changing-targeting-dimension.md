@@ -29,4 +29,4 @@ ht-degree: 4%
 
 This video explains how to change the targeting dimension of a delivery for a [!UICONTROL Platform Audience] outside of the primary profile table in Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/30151?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33266?captions=kor&learn=on){transcript=true}

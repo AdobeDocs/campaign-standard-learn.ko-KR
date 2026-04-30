@@ -11,8 +11,7 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 recommendations: noDisplay
 hide: true
-hidefromtoc: true
-source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
+source-git-commit: 907e14a1fcd0b53b856278956d50029a1536b266
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 6%
@@ -30,7 +29,7 @@ ht-degree: 6%
 >이 기능을 구현하려면 [!UICONTROL Adobe Customer Support]에 문의하세요.
 >
 
-Adobe Campaign Standard 내의 대상 모듈을 사용하면 Adobe Experience Platform의 [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=ko)에서 가져온 데이터를 사용하여 세그먼트를 만들 수 있습니다.
+Adobe Campaign Standard 내의 대상 모듈을 사용하면 Adobe Experience Platform의 [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en)에서 가져온 데이터를 사용하여 세그먼트를 만들 수 있습니다.
 
 다음 비디오 튜토리얼에서는 다양한 단계를 안내합니다.
 

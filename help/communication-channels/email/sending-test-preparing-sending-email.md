@@ -1,6 +1,6 @@
 ---
 title: 테스트 보내기, 준비, 이메일 보내기
-description: 'Learn how to send a test email, prepare, and then send the email delivery. '
+description: '테스트 이메일을 보내고, 준비한 다음 이메일 게재를 보내는 방법을 알아봅니다. '
 feature: Email, Test Profiles
 jira: KT-1812
 thumbnail: 24013.jpg
@@ -10,9 +10,8 @@ team: DOC
 exl-id: 2cb70be4-cd27-4da3-828a-be4c07d4c951
 role: User
 level: Beginner
-hidefromtoc: true
 hide: true
-source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
+source-git-commit: 907e14a1fcd0b53b856278956d50029a1536b266
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 31%
@@ -21,6 +20,6 @@ ht-degree: 31%
 
 # 테스트 보내기, 준비, 이메일 보내기
 
-This video explains how to send a test email, prepare and then send an email delivery in Adobe Campaign Standard (ACS).
+이 비디오에서는 ACS(Adobe Campaign Standard)에서 테스트 이메일을 보내고, 준비한 다음 이메일 게재를 보내는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/31891?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/24013?learn=on){transcript=true}

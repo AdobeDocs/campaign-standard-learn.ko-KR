@@ -11,8 +11,7 @@ exl-id: 955d063f-4709-4f56-8f39-f1b838354300
 role: User, Developer
 level: Beginner, Intermediate, Experienced
 hide: true
-hidefromtoc: true
-source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
+source-git-commit: 907e14a1fcd0b53b856278956d50029a1536b266
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 5%
@@ -29,8 +28,8 @@ ht-degree: 5%
 
 이 비디오에서는 [!UICONTROL Read Audience] 활동을 사용하여 워크플로우 내에서 [!UICONTROL Data Services Query Audience]을(를) 활성화하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/34355?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27647?learn=on){transcript=true}
 
 *워크플로우에서 Adobe Experience Platform 대상 활성화(02:37분)*
 
-[Adobe Experience Platform 대상자를 Campaign으로 수집](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html?lang=ko)하는 방법에 대한 제품 설명서를 참조하세요.
+[Adobe Experience Platform 대상자를 Campaign으로 수집](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)하는 방법에 대한 제품 설명서를 참조하세요.

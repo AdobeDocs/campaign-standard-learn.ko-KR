@@ -3,10 +3,10 @@ user-guide-title: Adobe Campaign Standard 튜토리얼
 user-guide-description: Adobe Campaign Standard에 대한 비디오 및 튜토리얼입니다.
 breadcrumb-title: Campaign Standard 자습서
 auto-video-transcripts: true
-source-git-commit: 659a9de22dc7e160d0e484fed9aa5fcdcb7d1405
-workflow-type: ht
+source-git-commit: 907e14a1fcd0b53b856278956d50029a1536b266
+workflow-type: tm+mt
 source-wordcount: '604'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -33,14 +33,14 @@ ht-degree: 100%
    + [워크플로로 프로필 가져오기](/help/managing-processes-and-data/importing-profiles.md)
    + [서비스 및 구독 관리](/help/managing-processes-and-data/services-and-subscriptions.md)
    + 잠재 고객 대상(Beta){#audience-destinations}
-      + [개요](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-      + [통합 세그먼트 빌더를 사용하여 새 대상자 만들기](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-      + [워크플로에서 Adobe Experience Platform 대상자 활성화](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-      + [타겟팅 차원 변경](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+      + {hide-from-toc}[개요](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
+      + {hide-from-toc}[통합 세그먼트 빌더를 사용하여 대상 만들기](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+      + {hide-from-toc}[워크플로우에서 Adobe Experience Platform 대상 활성화](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+      + {hide-from-toc}[타겟팅 차원 변경](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + 커뮤니케이션 채널 {#communication-channels}
    + 이메일 {#email}
       + [이메일 만들기](/help/communication-channels/email/create-email-from-homepage.md)
-      + [테스트 보내기, 준비, 이메일 보내기](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+      + {hide-from-toc}[테스트 보내기, 준비, 전자 메일 보내기](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [메시지 예약](/help/communication-channels/email/schedule-messages.md)
       + [교정쇄 보내기](/help/communication-channels/email/send-a-proof.md)
       + [A/B 테스트](/help/communication-channels/email/a-b-testing.md)
@@ -99,7 +99,7 @@ ht-degree: 100%
    + 트랜잭션 메시지에 트리거 사용 {#triggers}
       + [개요](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
       + [트리거를 위한 Launch 구성](/help/integrations/configure-launch-for-triggers.md)
-      + [Experience Cloud에서 트리거 만들기](/help/integrations/create-a-trigger-in-experience-cloud.md)
+      + {hide-from-toc}[Experience Cloud에서 트리거 만들기](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Campaign Standard에서 트리거 이벤트 만들기](/help/integrations/create-a-trigger-event.md)
       + [실시간 이벤트 데이터를 사용한 트랜잭션 메시지 구성](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [Campaign Standard와의 통합을 위한 Microsoft® Dynamics 365 구성](/help/integrations/configure-dynamics-365.md)

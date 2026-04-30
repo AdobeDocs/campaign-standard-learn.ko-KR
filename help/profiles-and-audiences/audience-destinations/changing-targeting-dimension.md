@@ -1,6 +1,6 @@
 ---
 title: 타겟팅 차원 변경
-description: This video explains how to change the targeting dimension of a delivery for a Platform Audience outside of the primary profile table in Adobe Campaign Standard.
+description: 이 비디오에서는 Adobe Campaign Standard의 기본 프로필 테이블 외부에 있는 Platform 대상에 대한 게재 타깃팅 차원을 변경하는 방법을 설명합니다.
 feature: People Core Service Integration
 jira: KT-3739
 thumbnail: 30151.jpg
@@ -11,15 +11,14 @@ exl-id: ad19a131-00c9-4063-a4ea-f1d6261ad409
 role: User, Developer
 level: Beginner, Intermediate, Experienced
 hide: true
-hidefromtoc: true
-source-git-commit: 6ed6364db3a488a5bf092da155e5c257e5b42348
+source-git-commit: 907e14a1fcd0b53b856278956d50029a1536b266
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 4%
 
 ---
 
-# Change the targeting dimension [!UICONTROL Platform Audience]
+# 타깃팅 차원 [!UICONTROL Platform Audience] 변경
 
 >[!NOTE]
 >
@@ -27,6 +26,6 @@ ht-degree: 4%
 >
 >이 기능을 구현하려면 [!UICONTROL Adobe Customer Support]에 문의하세요.
 
-This video explains how to change the targeting dimension of a delivery for a [!UICONTROL Platform Audience] outside of the primary profile table in Adobe Campaign Standard.
+이 비디오는 Adobe Campaign Standard에서 기본 프로필 테이블 외부에 있는 [!UICONTROL Platform Audience]에 대한 게재 타깃팅 차원을 변경하는 방법을 설명합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33266?captions=kor&learn=on){transcript=true}

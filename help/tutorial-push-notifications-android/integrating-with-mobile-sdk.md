@@ -1,6 +1,6 @@
 ---
 title: 2단계 - Mobile SDK 통합
-description: 이 부분에서는 Android 앱을 Mobile SDK와 통합합니다. 모바일 SDK를 Android 앱과 통합하려면
+description: 이 부분에서는 Android 앱을 Mobile SDK과 통합합니다. 모바일 SDK을 Android 앱과 통합하려면
 feature: Push
 user: Admin
 level: Experienced
@@ -10,9 +10,14 @@ activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 0fa53536-8330-4e96-be2f-afc078609bcd
-source-git-commit: 913d2c08dc63e2073b3abd1de6b6b16711d817da
+TQID: https://experienceleague.adobe.com/6WL8yj7aMoS9C6l-HwQZZ3Hg0B2jmNtlmaFnsAi0Ohw
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: 164
 ht-degree: 3%
 
 ---
@@ -57,8 +62,8 @@ Removed `{.line-numbers}` below
 ```
 
 응용 프로그램 요소에서 다음 줄을 복사합니다.
-[!DNL android:name=".MainApp"]
-[!DNL AndroidManifest.xml] 저장
+[!DNL android:name=&quot;.MainApp&quot;]
+저장 [!DNL AndroidManifest.xml]
 [!DNL AndroidManifest.xml]은(는) 다음과 같아야 합니다.
 
 <!--

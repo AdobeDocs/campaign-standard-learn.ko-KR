@@ -9,9 +9,12 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: 10218e1f-6e85-490a-84d9-c5d42bd2321d
-source-git-commit: f4712dcf6dec01867414057346f8501c6e1669ec
+TQID: https://experienceleague.adobe.com/NrQc40vzqTy0fNfVT6fN0IjMKuXjilt6eZV-lgZpAcQ
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: 148
 ht-degree: 2%
 
 ---
@@ -28,7 +31,7 @@ ht-degree: 2%
 * 의미 있는 [!UICONTROL Message title] 및 [!UICONTROL Message body]을(를) 입력하고 **[!UICONTROL Create]**&#x200B;을(를) 클릭합니다.
 * **[!UICONTROL Prepare]**&#x200B;을(를) 클릭합니다. 준비가 완료되면 **[!UICONTROL Confirm]**&#x200B;을(를) 클릭하여 메시지를 보냅니다.
 
-모든 것이 잘 작동하면 에뮬레이터에서 실행 중인 Android™ 앱에 알림이 표시됩니다
+모든 것이 잘 작동하면 에뮬레이터에서 실행 중인 ™ 앱에 알림이 표시됩니다
 
 ## 추가 리소스
 

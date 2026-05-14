@@ -10,9 +10,14 @@ doc-type: feature video
 activity: understand
 team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/8z32-bArYoMN41QFSi19bXUFc617UqZvdzxaam0Xr-E
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: 273
 ht-degree: 4%
 
 ---
@@ -27,15 +32,15 @@ ht-degree: 4%
 
 ## 개요
 
-Adobe Experience Platform [!UICONTROL Data Connector]은(는) XTK 데이터(Adobe Campaign에서 수집된 데이터)를 Adobe Experience Platform의 [!DNL Experience Data Model] (XDM) 데이터에 매핑하여 기존 고객이 Adobe Experience Platform에서 데이터를 사용할 수 있도록 지원합니다.
+Adobe Experience Platform [!UICONTROL Data Connector]은(는) XTK 데이터(Adobe Campaign에서 수집된 데이터)를 Adobe Experience Platform의 [!DNL Experience Data Model]&#x200B;(XDM) 데이터에 매핑하여 기존 고객이 Adobe Experience Platform에서 데이터를 사용할 수 있도록 지원합니다.
 
 커넥터는 단방향이며 데이터를 Adobe Campaign Standard에서 Adobe Experience Platform으로 전송합니다. 데이터는 Adobe Experience Platform에서 Adobe Campaign Standard으로 전송되지 않습니다.
 
 Adobe Experience Platform [!UICONTROL Data Connector]은(는) Adobe Campaign Standard [!UICONTROL custom resources]을(를) 이해하고 고객의 전체 데이터 스키마가 Adobe Experience Platform 내에 어떻게 있어야 하는지 이해하는 데이터 엔지니어를 위한 것입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/34353?learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34353?captions=kor&learn=on){transcript=true}
 
-*이 비디오에서는 Adobe Experience Platform [!UICONTROL Data Connector]에 대한 개요를 제공합니다(09:35)*
+*이 비디오에서는 Adobe Experience Platform [!UICONTROL Data Connector]에 대한 개요를 제공합니다(09:35분)*
 
 >[!NOTE]
 >

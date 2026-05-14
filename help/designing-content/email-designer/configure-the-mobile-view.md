@@ -10,9 +10,17 @@ team: TM
 exl-id: 6b1f8b62-fff0-4ef4-8537-a88658e28ab2
 role: User, Developer
 level: Beginner
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/A5jz-AZaUuQ-6S--Wd6cS0EkQVrlv031SUamaeJJqtU
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: 56
 ht-degree: 0%
 
 ---
@@ -21,4 +29,4 @@ ht-degree: 0%
 
 이 비디오에서는 모바일 표시에 대한 모든 스타일 옵션을 별도로 편집하여 이메일의 반응형 디자인을 세밀하게 조정하는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/39677?learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39677?captions=kor&learn=on){transcript=true}

@@ -10,21 +10,27 @@ team: TM
 exl-id: b51d40f6-e67a-49fe-87d5-bf42a439a0e3
 role: Admin
 level: Experienced
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/TovG-0gCuO1pWtxjkAWKs4-UB02fv4PHGZwDukymdRI
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 9%
+source-wordcount: 108
+ht-degree: 8%
 
 ---
 
-
 # [!UICONTROL Adobe Experience Platform SDK]을(를) 사용하여 모바일 애플리케이션 구성
 
-Mobile SDK V5를 사용하여 인앱 메시지 또는 [!UICONTROL push notifications]을(를) 보내려면 모바일 앱을 [!UICONTROL Adobe Experience Platform Launch]에서 설정하고 Adobe Campaign에서 구성해야 합니다.
+모바일 SDK V5를 사용하여 인앱 메시지 또는 [!UICONTROL push notifications]을(를) 보내려면 모바일 앱을 [!UICONTROL Adobe Experience Platform Launch]에서 설정하고 Adobe Campaign에서 구성해야 합니다.
 
 아래 비디오에서는 Experience Platform Launch에서 모바일 앱을 구성하는 데 필요한 단계를 보여 줍니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/40907?learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/40907?captions=kor&learn=on){transcript=true}
 
 >[!NOTE]
 >

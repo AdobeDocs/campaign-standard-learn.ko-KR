@@ -36,4 +36,4 @@ ht-degree: 15%
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?learn=on){transcript=true}
 
-자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)를 참조하세요.
+자세한 내용은 [설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=ko)를 참조하세요.

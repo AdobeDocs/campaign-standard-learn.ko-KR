@@ -34,4 +34,4 @@ ht-degree: 8%
 
 >[!NOTE]
 >
->자세한 설명서 및 비디오에 사용된 코드 템플릿을 보려면 [응용 프로그램 구성([!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en))을 참조하십시오.
+>자세한 설명서 및 비디오에 사용된 코드 템플릿을 보려면 [응용 프로그램 구성([!UICONTROL Launch]](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=ko))을 참조하십시오.

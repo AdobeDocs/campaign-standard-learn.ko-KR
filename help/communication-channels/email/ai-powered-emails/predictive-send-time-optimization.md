@@ -10,9 +10,13 @@ team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: ht
-source-wordcount: '210'
+TQID: https://experienceleague.adobe.com/WAjSXi0waiL-r9YaCjYGOU5NQ4hiqcH0Q1q94chEv6s
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+workflow-type: tm+mt
+source-wordcount: 210
 ht-degree: 100%
 
 ---
@@ -28,6 +32,6 @@ ht-degree: 100%
 
 Adobe Campaign과 여정 AI 모델 간의 데이터를 동기화하는 데 필요한 워크플로를 파악할 수 있습니다. 개별 프로필 수준에서 전송 시간 점수를 보는 방법 및 전송 시간 수식을 사용하여 이메일 게재 실행 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/328463?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/40469?learn=on){transcript=true}
 
 이 [AI 기반의 이메일로 디자인 및 게재 최적화하기](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=ko)에 대한 자세한 내용은 제품 설명서를 참조하십시오.

@@ -10,9 +10,14 @@ team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: User
 level: Intermediate, Experienced
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: ht
-source-wordcount: '185'
+TQID: https://experienceleague.adobe.com/aD147kr3Qg0PCkmDmkirhZlc-RjwU-dkpaHwyc-u0uI
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+workflow-type: tm+mt
+source-wordcount: 185
 ht-degree: 100%
 
 ---
@@ -23,7 +28,7 @@ ht-degree: 100%
 
 개인화된 이메일 뉴스레터를 발송한다고 가정합니다. 하지만 뉴스레터를 발송하기 전에 동료가 뉴스레터를 검토하려고 교정쇄를 요청했습니다. 타기팅된 프로필에서 받은 메시지의 정확한 표시를 보낼 수 있으므로 [!UICONTROL Profile Substitution] 기능을 사용하여 교정쇄를 보낼 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/36520?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/32368?learn=on){transcript=true}
 
 자세한 내용은 자세한 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=ko)를 참조하십시오.
 

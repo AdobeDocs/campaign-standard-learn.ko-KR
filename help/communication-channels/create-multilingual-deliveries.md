@@ -10,9 +10,14 @@ team: TM
 exl-id: 4b7e4602-6d4f-4a16-bbe7-070a95511ebb
 role: User
 level: Intermediate, Experienced
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/xYTtGCBZJEgvHLd50LA-OWupnlADy9AWwwtsBgaB7bw
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+feature_v2: id: a075b2c1-7748-4328-b7f6-343aa314616a
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: 101
 ht-degree: 0%
 
 ---
@@ -23,4 +28,4 @@ Adobe Campaign을 사용하면 다국어 캠페인 보내기의 운영 복잡성
 
 이 비디오에서는 이메일 뉴스레터의 예에 있는 템플릿을 기반으로 다국어 게재를 만드는 방법을 설명합니다. 비디오에 나와 있는 접근 방식은 이메일과 SMS 게재 모두에 적용됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33205?learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/23252?learn=on){transcript=true}

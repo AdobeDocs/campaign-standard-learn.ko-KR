@@ -10,9 +10,13 @@ team: ACS
 exl-id: 7d6634ed-f6b0-4d77-9148-3f2c0e444862
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/Il4SBkPJ0d3IxWAdfoa4N-YR1QJZ6ByXYrWOC-bEQ5g
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: 188
 ht-degree: 72%
 
 ---
@@ -28,4 +32,4 @@ ht-degree: 72%
 
 개별 프로필 수준에서 참여 점수를 보고, 참여 사용자 타겟팅 및 피로도가 높은 사용자를 알아보기 위해 점수를 사용하고 분류 규칙을 만들어 고객 피로도를 관리하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/328454?learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/40470?learn=on){transcript=true}

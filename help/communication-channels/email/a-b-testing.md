@@ -10,10 +10,14 @@ team: TM
 exl-id: f1ae414c-6b42-445b-bb33-9a28a3e854fa
 role: User
 level: Beginner
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/Jof9xMwA8fKVLxBGYtBgv3BUex6DKLh5S3by3X6z8FM
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 29%
+source-wordcount: 127
+ht-degree: 35%
 
 ---
 
@@ -23,6 +27,6 @@ Adobe Campaign의 [!UICONTROL A/B Test] 기능을 사용하면 2~3개의 이메�
 
 이메일의 제목 줄을 테스트하기 위해 A/B 테스트를 구성하고 전송하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/38310?learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/18480?learn=on){transcript=true}
 
-콘텐츠 또는 보낸 사람을 테스트하는 방법에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html?lang=ko)를 참조하세요.
+콘텐츠 또는 보낸 사람을 테스트하는 방법에 대한 자세한 내용은 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html)를 참조하세요.

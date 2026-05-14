@@ -10,9 +10,12 @@ team: TM
 exl-id: 62d0d756-e9b9-4656-94ba-bfc113a7b5c9
 role: User, Developer
 level: Experienced
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/mtGhny0ec1-4VqoGHWcZzLkCg1YkrxedrO1QmOLSQDY
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: 133
 ht-degree: 4%
 
 ---
@@ -29,12 +32,12 @@ ht-degree: 4%
 
 ## 1단계 - 이벤트 만들기 및 게시
 
->[!VIDEO](https://video.tv.adobe.com/v/34262?learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25914?learn=on){transcript=true}
 
 ## 2단계 - 트랜잭션 메시지 템플릿에 제품 목록 추가
 
->[!VIDEO](https://video.tv.adobe.com/v/34263?learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25915?learn=on){transcript=true}
 
 ## 3단계 - 트랜잭션 메시지 테스트
 
->[!VIDEO](https://video.tv.adobe.com/v/34264?learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/25916?learn=on){transcript=true}

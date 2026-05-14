@@ -11,9 +11,13 @@ exl-id: ce52a988-5072-401b-9a8b-112e42504022
 role: User, Developer
 level: Beginner, Intermediate, Experienced
 hide: true
-source-git-commit: 907e14a1fcd0b53b856278956d50029a1536b266
+TQID: https://experienceleague.adobe.com/a3yq7paiue1o3DXSnmwI-M8vv6n70wZzQad2x4WIVbY
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: 175
 ht-degree: 9%
 
 ---
@@ -26,12 +30,12 @@ ht-degree: 9%
 >
 >이 기능을 구현하려면 [!UICONTROL Adobe Customer Support]에 문의하세요.
 
-Adobe Campaign Standard을 사용하면 Adobe Experience Platform [!UICONTROL Unified Segment Builder]을(를) 사용하여 Adobe Experience Cloud [실시간 고객 프로필](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=ko)의 데이터를 사용하여 대상을 구축할 수 있습니다.
+Adobe Campaign Standard을 사용하면 Adobe Experience Platform [!UICONTROL Unified Segment Builder]을(를) 사용하여 Adobe Experience Cloud [실시간 고객 프로필](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en)의 데이터를 사용하여 대상을 구축할 수 있습니다.
 
 [!UICONTROL Audiences] 모듈을 통해 Adobe Campaign Standard 내에서 직접 [!UICONTROL Unified Segment Builder]에 액세스할 수 있습니다. 이를 통해 [!UICONTROL Audiences] 목록 보기에서 이러한 대상을 직접 관리할 수 있으며, 여기서 Adobe Campaign 인터페이스에서 직접 Adobe Experience Platform 대상을 편집하거나 만들 수 있습니다
 
 아래 비디오에서는 Adobe Campaign Standard 내에서 [!UICONTROL Unified Segment Builder]을(를) 사용하여 새 대상을 만드는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/38526?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27638?learn=on){transcript=true}
 
 *통합 세그먼트 빌더를 사용하여 Adobe Campaign Standard에서 대상을 만드는 방법(분 02:47)*

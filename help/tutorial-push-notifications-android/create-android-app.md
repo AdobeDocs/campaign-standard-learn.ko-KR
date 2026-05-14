@@ -10,9 +10,12 @@ activity: use
 team: TM
 recommendations: noDisplay
 exl-id: f087d9f2-cce9-4903-977f-3c5b47522c06
-source-git-commit: 0ad82fb0533ed8fc2a85c2a32c7e54deef14d05a
+TQID: https://experienceleague.adobe.com/-r-0ZHCJNt6bwarH4I-RzA46Ho9EJgDegCnN6VJVLgk
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: 329
 ht-degree: 0%
 
 ---
@@ -42,7 +45,7 @@ ht-degree: 0%
 
    ![android-project-structure](assets/android-project-structure.PNG)
 
-8. **[!UICONTROL Tools]** > **[!UICONTROL Firebase]을(를) 클릭합니다.**(프로젝트를 [!DNL Firebase]에 추가)
+8. **[!UICONTROL Tools]** > **[!UICONTROL Firebase].**&#x200B;을(를) 클릭합니다 ([!DNL Firebase]에 프로젝트가 추가됨)
 9. **[!UICONTROL Set up Firebase Cloud Messaging].** 클릭
 
    ![firebase 설정](assets/android-project-firebase-messaging.PNG)
@@ -59,7 +62,7 @@ Firebase와 앱을 성공적으로 통합하면 아래 표시된 것과 같은 �
 
 ![[!DNL fcm-successfull]](assets/android-firebase-success.PNG)
 
-[프로젝트가  [!DNL Firebase &#x200B;]콘솔](https://console.firebase.google.com/)에 나열되어 있는지 확인
+[프로젝트가  [!DNL Firebase ]콘솔에 나열되어 있는지 확인하십시오.](https://console.firebase.google.com/)
 
 ## [!UICONTROL Push Channel] 설정 구성
 

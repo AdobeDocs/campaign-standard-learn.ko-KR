@@ -10,9 +10,13 @@ team: DOC
 exl-id: 544587f3-c273-4b1c-b5fd-65213d0c0ea3
 role: User
 level: Beginner
-source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
+TQID: https://experienceleague.adobe.com/3pmhpHUpl0-sARU-LzR5sMDUjRpVzKiXu0QuecM9h1U
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: 44
 ht-degree: 27%
 
 ---
@@ -21,4 +25,4 @@ ht-degree: 27%
 
 이 비디오에서는 랜딩 페이지를 테스트하는 방법과 게시 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/33218?learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/24092?learn=on){transcript=true}

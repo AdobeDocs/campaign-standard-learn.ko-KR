@@ -9,16 +9,19 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: 08387b84-edaa-45ee-ae66-53bcbd5c7c39
-source-git-commit: 757afce50981b96b7820c987308d639a73746c0c
+TQID: https://experienceleague.adobe.com/Sr5MNZscXvLdlEZL0nIWf1SRicemz-fu87GpB55PVGE
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: 212
 ht-degree: 0%
 
 ---
 
 # 4단계 - [!DNL pushidentifier] 설정
 
-**[!DNL pushidentifier]**&#x200B;은(는) [!DNL Push] 알림에 대한 장치 토큰을 포함하는 문자열입니다. [!DNL Firebase]이(가) 보내고 [!DNL MobileCore.setPushIdentifier] 메서드를 사용하여 SDK로 전달하는 토큰과 같습니다.
+**[!DNL pushidentifier]**&#x200B;은(는) [!DNL Push] 알림에 대한 장치 토큰을 포함하는 문자열입니다. [!DNL Firebase]이(가) 보내고 [!DNL MobileCore.setPushIdentifier] 메서드를 사용하여 SDK에 전달하는 토큰과 동일합니다.
 
 [!DNL Android™]studio에서 프로젝트를 엽니다. [!DNL MainActivity] **패키지 문인 첫 번째 줄을 제외한 전체 코드를 삭제합니다**.
 

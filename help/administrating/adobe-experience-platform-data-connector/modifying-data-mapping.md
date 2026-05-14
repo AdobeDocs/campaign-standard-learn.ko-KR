@@ -32,7 +32,7 @@ ht-degree: 6%
 
 상태를 확인하고 데이터 매핑을 수정하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27266?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/38499?captions=kor&learn=on){transcript=true}
 
 ## 추가 리소스
 

@@ -31,4 +31,4 @@ ht-degree: 27%
 
 메시지 로그, 작업 로그 및 게재 로그를 이해합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415815/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445041/?captions=kor&learn=on){transcript=true}

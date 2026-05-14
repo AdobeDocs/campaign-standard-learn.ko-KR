@@ -29,4 +29,4 @@ ht-degree: 36%
 
 이 비디오에서는 이메일과 스팸 방지 분석을 미리 보는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25921?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/39670?captions=kor&learn=on){transcript=true}

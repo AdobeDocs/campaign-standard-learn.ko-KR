@@ -30,4 +30,4 @@ ht-degree: 22%
 
 모바일 앱의 모든 사용자를 타겟팅하기 위해 브로드캐스트 템플릿을 구성하고 사용하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/26199?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/40921?captions=kor&learn=on){transcript=true}

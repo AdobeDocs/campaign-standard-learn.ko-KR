@@ -10,18 +10,29 @@ doc-type: feature video
 activity: understand
 team: TM
 exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
-TQID: https://experienceleague.adobe.com/8z32-bArYoMN41QFSi19bXUFc617UqZvdzxaam0Xr-E
+TQID: 'https://experienceleague.adobe.com/8z32-bArYoMN41QFSi19bXUFc617UqZvdzxaam0Xr-E'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+feature_v2:
+  - id: d5ef99fa-df0c-4153-bf94-105ad0724167
+    internal-label: Integrations
+subfeature_v2:
+  - id: a8512b64-d668-4084-b4f0-34baa899e306
+    internal-label: People Core Service integration
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 508c3590ce956401ccfba3a256000cbc5849a684
 workflow-type: tm+mt
-source-wordcount: 273
+source-wordcount: '274'
 ht-degree: 4%
-
 ---
-
 # Adobe Experience Platform [!UICONTROL Data Connector] 이해
 
 >[!NOTE]
@@ -38,9 +49,9 @@ Adobe Experience Platform [!UICONTROL Data Connector]은(는) XTK 데이터(Adob
 
 Adobe Experience Platform [!UICONTROL Data Connector]은(는) Adobe Campaign Standard [!UICONTROL custom resources]을(를) 이해하고 고객의 전체 데이터 스키마가 Adobe Experience Platform 내에 어떻게 있어야 하는지 이해하는 데이터 엔지니어를 위한 것입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/34353?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27304?learn=on){transcript=true}
 
-*이 비디오에서는 Adobe Experience Platform [!UICONTROL Data Connector]에 대한 개요를 제공합니다(09:35분)*
+*이 비디오에서는 Adobe Experience Platform [!UICONTROL Data Connector]에 대한 개요를 제공합니다(09:35)*
 
 >[!NOTE]
 >

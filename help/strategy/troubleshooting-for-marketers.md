@@ -9,26 +9,40 @@ last-substantial-update: 2023-05-18T00:00:00.000Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
 exl-id: 24a6815b-52d1-4bd6-9d27-522720a91f83
-TQID: https://experienceleague.adobe.com/ISwW4zu0AWc3kmK-H2kOy-r9bPvLsTCLAnk4mbgZkS0
+TQID: 'https://experienceleague.adobe.com/ISwW4zu0AWc3kmK-H2kOy-r9bPvLsTCLAnk4mbgZkS0'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
+    internal-label: Campaigns
+  - id: a658c786-869b-4194-a780-2594d663adda
+    internal-label: Data management
+subfeature_v2:
+  - id: fcb46c0f-76e1-48bc-9dd0-fcf9d97526cf
+    internal-label: Workflows
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+    internal-label: Personalization
+source-git-commit: 508c3590ce956401ccfba3a256000cbc5849a684
 workflow-type: tm+mt
-source-wordcount: 743
-ht-degree: 0%
-
+source-wordcount: '743'
+ht-degree: 1%
 ---
-
 # 마케터 문제 해결: 5가지 일반적인 워크플로우 및 게재 오류
 
 작성자: [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, 수석 컨설턴트, Meijer
@@ -71,7 +85,7 @@ ACS를 사용하는 동안 오류가 발생했으며, 이로 인해 시간이 �
 
 ![조정 세부 정보가 포함된 워크플로](/help/assets/kt-13256/del-persn-error-wf-solution.png)
 
-[조정](https://experienceleague.adobe.com/ko/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation)에 대해 자세히 알아보세요.
+[조정](https://experienceleague.adobe.com/en/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation)에 대해 자세히 알아보세요.
 
 ## 공통 필드 데이터 세트 오류
 
@@ -94,7 +108,7 @@ ACS를 사용하는 동안 오류가 발생했으며, 이로 인해 시간이 �
 
 2. JOINS 제외 방법을 사용하여 레코드를 제외할 필드를 선택합니다.
 
-![일반 필드 데이터 세트 오류 - 솔루션 &#x200B;](/help/assets/kt-13256/dataset-error-solution.png)
+![일반 필드 데이터 세트 오류 - 솔루션 ](/help/assets/kt-13256/dataset-error-solution.png)
 
 ## 필드 이름 삭제 오류
 
@@ -127,7 +141,7 @@ ACS를 사용하는 동안 오류가 발생했으며, 이로 인해 시간이 �
 **원인:**
 데이터 보강 또는 기타 활동과 관련된 복잡한 워크플로의 일반적인 오류입니다. 이는 일부 활동 워크플로우가 워크플로우를 여러 번 변경하는 동안 올바르게 저장되지 않음을 의미할 수 있습니다.
 
-![임시 테이블 삭제 오류 &#x200B;](/help/assets/kt-13256/temp-table-dropped-error.png)
+![임시 테이블 삭제 오류 ](/help/assets/kt-13256/temp-table-dropped-error.png)
 
 **솔루션:**
 이 오류가 발생할 수 있는 방법은 여러 가지가 있으므로 간단한 해결은 없습니다. 단순 워크플로우인 경우 활동을 다시 구성하는 것이 좋습니다. 복잡한 워크플로우에서는 워크플로우 활동을 새 워크플로우에 복사하고 저장한 다음 다시 실행하는 것이 좋습니다.

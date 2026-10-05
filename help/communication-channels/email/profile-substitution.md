@@ -10,30 +10,42 @@ team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: User
 level: Intermediate, Experienced
-TQID: https://experienceleague.adobe.com/aD147kr3Qg0PCkmDmkirhZlc-RjwU-dkpaHwyc-u0uI
+TQID: 'https://experienceleague.adobe.com/aD147kr3Qg0PCkmDmkirhZlc-RjwU-dkpaHwyc-u0uI'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+feature_v2:
+  - id: 13af5358-448e-5a4a-850b-0db592bb0f8f
+    internal-label: Personalization
+  - id: 50d1fd2e-0fc9-5627-bbc9-02dbc9d15e08
+    internal-label: Email
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+    internal-label: Privacy
+source-git-commit: 508c3590ce956401ccfba3a256000cbc5849a684
 workflow-type: tm+mt
-source-wordcount: 185
+source-wordcount: '185'
 ht-degree: 100%
-
 ---
-
 # [!UICONTROL Profile Substitution] - 타겟팅된 프로필을 사용하여 이메일 메시지 테스트
 
 이 비디오에서는 [!UICONTROL Profile Substitution]을(를) 사용하여 이메일 메시지를 테스트하는 방법을 설명합니다. . 다음의 사용 사례를 다룹니다.
 
 개인화된 이메일 뉴스레터를 발송한다고 가정합니다. 하지만 뉴스레터를 발송하기 전에 동료가 뉴스레터를 검토하려고 교정쇄를 요청했습니다. 타기팅된 프로필에서 받은 메시지의 정확한 표시를 보낼 수 있으므로 [!UICONTROL Profile Substitution] 기능을 사용하여 교정쇄를 보낼 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/36520?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/32368?learn=on){transcript=true}
 
 자세한 내용은 자세한 [제품 설명서](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=ko)를 참조하십시오.
 

@@ -1,6 +1,6 @@
 ---
 title: 1단계 - Android 앱 만들기 및 Firebase Cloud Messaging 사용 구성
-description: 이 부분에서는 Adobe Campaign Standard에서 보낸 [!UICONTROL Push notifications]을(를) 받을  [!DNL Android] 앱을 만듭니다. 푸시 알림을 받으려면 앱을 Google  [!DNL Firebase Cloud Service]에 등록해야 합니다.
+description: 이 부분에서는 Adobe Campaign Standard에서 보낸 [!UICONTROL Push notifications]을(를) 받을 [!DNL Android] 앱을 만듭니다. 푸시 알림을 받으려면 앱을 Google [!DNL Firebase Cloud Service]에 등록해야 합니다.
 feature: Push
 user: Admin
 level: Experienced
@@ -10,18 +10,29 @@ activity: use
 team: TM
 recommendations: noDisplay
 exl-id: f087d9f2-cce9-4903-977f-3c5b47522c06
-TQID: https://experienceleague.adobe.com/-r-0ZHCJNt6bwarH4I-RzA46Ho9EJgDegCnN6VJVLgk
+TQID: 'https://experienceleague.adobe.com/-r-0ZHCJNt6bwarH4I-RzA46Ho9EJgDegCnN6VJVLgk'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+feature_v2:
+  - id: a4671286-a59f-47e3-b97b-90627a1977d5
+    internal-label: Communication channels
+subfeature_v2:
+  - id: a4657621-810c-498b-8a27-7ced9c176dda
+    internal-label: Push notifications
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+    internal-label: Administration
+source-git-commit: 508c3590ce956401ccfba3a256000cbc5849a684
 workflow-type: tm+mt
-source-wordcount: 329
+source-wordcount: '330'
 ht-degree: 0%
-
 ---
-
 # 1단계 - [!DNL Android] 앱 만들기 및 [!DNL Firebase Cloud Messaging] 사용 구성
 
 이 부분에서는 Adobe Campaign Standard에서 보낸 [!UICONTROL Push notifications]을(를) 받을 [!DNL Android] 앱을 만듭니다. 푸시 알림을 받으려면 앱을 Google [!DNL Firebase Cloud Service]에 등록해야 합니다.
@@ -56,15 +67,15 @@ ht-degree: 0%
 11. 앱이 Firebase에 연결되면 **[!UICONTROL Add FCM to your app].**&#x200B;을(를) 클릭합니다.
 12. **[!UICONTROL Accept Changes].** 클릭
 
-   앱에 FCM을 추가하는 경우 마법사에서 프로젝트를 변경할 수 있는 권한이 필요합니다.
+    앱에 FCM을 추가하는 경우 마법사에서 프로젝트를 변경할 수 있는 권한이 필요합니다.
 
-   ![[!DNL add-fcm-to-your-app]](assets/firebase-add-fcm-to-app.PNG)
+    ![[!DNL add-fcm-to-your-app]](assets/firebase-add-fcm-to-app.PNG)
 
 Firebase와 앱을 성공적으로 통합하면 아래 표시된 것과 같은 메시지가 표시됩니다.
 
 ![[!DNL fcm-successfull]](assets/android-firebase-success.PNG)
 
-[프로젝트가  [!DNL Firebase &#x200B;]콘솔에 나열되어 있는지 확인하십시오.](https://console.firebase.google.com/)
+[프로젝트가  [!DNL Firebase ]콘솔에 나열되어 있는지 확인하십시오.](https://console.firebase.google.com/)
 
 ## [!UICONTROL Push Channel] 설정 구성
 

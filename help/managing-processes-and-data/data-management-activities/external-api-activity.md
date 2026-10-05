@@ -57,7 +57,7 @@ ht-degree: 46%
 
 >[!VIDEO](https://video.tv.adobe.com/v/28200/?learn=on){transcript=true}
 
-*[!UICONTROL External API activity](06:48분)*
+*[!UICONTROL External API activity] (06:48분)*
 
 >[!NOTE]
 >

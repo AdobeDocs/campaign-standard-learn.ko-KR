@@ -46,4 +46,4 @@ Adobe Campaign [!UICONTROL Dynamic Reports]은(는) 사용자 지정 프로필 �
 
 ## 추가 리소스
 
-* [보고 정보](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)
+* [보고 정보](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=ko)

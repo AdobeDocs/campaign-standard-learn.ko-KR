@@ -49,4 +49,4 @@ ht-degree: 23%
 
 ## 추가 리소스
 
-* [피로도 규칙(설명서)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/fatigue-rules.html)
+* [피로도 규칙(설명서)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/fatigue-rules.html?lang=ko)

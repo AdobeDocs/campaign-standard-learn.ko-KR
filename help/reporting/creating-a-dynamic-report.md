@@ -46,4 +46,4 @@ Adobe Campaign [!UICONTROL Dynamic Reports]은(는) 데이터를 탐색할 수 �
 
 ## 추가 리소스
 
-* [보고 정보](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)
+* [보고 정보](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=ko)

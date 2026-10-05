@@ -44,4 +44,4 @@ Campaign, Adobe Campaign 홈페이지 또는 마케팅 활동 목록에서 이�
 
 워크플로우를 통해 이메일을 만들고 보내는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/31465?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33271?captions=kor&learn=on){transcript=true}

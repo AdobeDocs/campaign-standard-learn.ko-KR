@@ -42,7 +42,7 @@ Adobe Campaign [!UICONTROL Dynamic Reports]은(는) 사용자 지정 프로필 �
 
 이 비디오에서는 사용자 지정 프로필 속성을 기반으로 보고서를 만드는 방법을 설명합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/28204?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/33033?captions=kor&learn=on){transcript=true}
 
 ## 추가 리소스
 

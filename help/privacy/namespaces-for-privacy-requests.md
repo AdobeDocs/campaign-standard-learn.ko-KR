@@ -42,4 +42,4 @@ GDPR 또는 CCPA에서 요구하는 조건에 따라, 개인 정보 액세스 �
 
 개인 정보 요청을 위한 네임스페이스를 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/22600?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/29419?captions=kor&learn=on){transcript=true}

@@ -8,16 +8,23 @@ activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 8dd772b2-b082-4e1e-842d-c5d6bcec564c
-TQID: https://experienceleague.adobe.com/Ov4KKtdN-uhIr-TGldJCXw3GYFNUjap-SBE227dImfw
+TQID: 'https://experienceleague.adobe.com/Ov4KKtdN-uhIr-TGldJCXw3GYFNUjap-SBE227dImfw'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
-source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+    internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+feature_v2:
+  - id: a4671286-a59f-47e3-b97b-90627a1977d5
+    internal-label: Communication channels
+subfeature_v2:
+  - id: a4657621-810c-498b-8a27-7ced9c176dda
+    internal-label: Push notifications
+source-git-commit: 508c3590ce956401ccfba3a256000cbc5849a684
 workflow-type: tm+mt
-source-wordcount: 211
+source-wordcount: '217'
 ht-degree: 100%
-
 ---
-
 # Android™ 앱 푸시 알림 시작하기
 
 Adobe Campaign을 통해 개인화 및 세그먼트화한 푸시 알림을 iOS 및 Android™ 모바일 디바이스로 보낼 수 있습니다.
@@ -27,8 +34,8 @@ Adobe Campaign을 통해 개인화 및 세그먼트화한 푸시 알림을 iOS �
 ## 필수 구성 요소
 
 * Adobe Campaign Standard Extension으로 실행 속성을 구성해야 합니다. 아래의 온라인 도움말을 참조하십시오.
-   * [비디오 튜토리얼](https://video.tv.adobe.com/v/40907?captions=kor&learn=on){transcript=true}
-   * [설명서](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html?lang=ko)
+  * [비디오 튜토리얼](https://video.tv.adobe.com/v/40907?captions=kor&learn=on){transcript=true}
+  * [설명서](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html?lang=ko)
 
 * Adobe Campaign Standard의 해당 속성 상태가 구성되어 있는지 확인하세요.
 * [활성 Google Firebase 계정이 있음](https://firebase.google.com)

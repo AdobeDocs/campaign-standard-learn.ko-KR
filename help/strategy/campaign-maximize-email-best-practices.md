@@ -6,29 +6,41 @@ role: User
 level: Beginner
 feature: Deliverability, Email
 exl-id: 4b801b77-4f96-430b-8e0a-c4dfa856b7d4
-TQID: https://experienceleague.adobe.com/V-JpsP4skrH2bH0BB1uyEpgqShcxzl6AwTbsKYmHN9M
+TQID: 'https://experienceleague.adobe.com/V-JpsP4skrH2bH0BB1uyEpgqShcxzl6AwTbsKYmHN9M'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
+    internal-label: Campaigns
+  - id: 63876777-85c3-57e1-a2da-81f02956c63c
+    internal-label: Deliverability
+  - id: 50d1fd2e-0fc9-5627-bbc9-02dbc9d15e08
+    internal-label: Email
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: addf009e-030a-4310-8534-776a3e62ed48
+    internal-label: Customer lifecycle
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+    internal-label: Email marketing
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 7d15c0a5dc01907ff529b3684eaddaca5321facc
+    internal-label: Personalization
+source-git-commit: 508c3590ce956401ccfba3a256000cbc5849a684
 workflow-type: tm+mt
-source-wordcount: 1497
+source-wordcount: '1497'
 ht-degree: 0%
-
 ---
-
 # 구독자 재참여를 위한 이메일 ROI 및 모범 사례
 
 이메일 마케팅은 브랜드 충성도를 개발하고 매출을 증대시키는 데 유용한 도구입니다. 하지만 소비하는 다른 디지털 콘텐츠는 말할 것도 없고 사람들이 매일 받는 이메일의 수가 방대하므로 컨텐츠가 많은 사람들로부터 눈에 띄는 것이 중요합니다. 그리고 대상자의 고유한 요구 사항을 충족하는 것이 중요합니다.
@@ -65,27 +77,27 @@ ht-degree: 0%
 * ISP는 IP 주소에서 보내는 평균 전송을 추적하므로 빨간 깃발을 만들어 스팸으로 전송되지 않도록 볼륨을 가능한 한 많이 배포합니다
 * 콘텐츠 달력을 미리 설정하고 콘텐츠 작성자가 전송 볼륨을 늘릴 수 있도록 준비하십시오.
 * 이메일을 예약하는 방법에 대해 생각해 보고 전송 볼륨이 크게 증가하지 않도록 합니다. 다음과 같은 몇 가지 전술을 고려하십시오.
-   * 동시에 폭발이 아니라 며칠에 걸쳐
-   * 오전 8~10시와 같이 이메일 오버로드를 수신하는 하루 중 몇 시에 전략적으로 계획을 수립합니다.
-   * 며칠 동안 확산시킬 수 없다면 몇 시간 동안 노력하세요
+  * 동시에 폭발이 아니라 며칠에 걸쳐
+  * 오전 8~10시와 같이 이메일 오버로드를 수신하는 하루 중 몇 시에 전략적으로 계획을 수립합니다.
+  * 며칠 동안 확산시킬 수 없다면 몇 시간 동안 노력하세요
 
 ### &#x200B;2. 인프라
 
 * 자체 이메일로 테스트를 수행하여 이메일 인증이 올바르게 설정되었는지 확인합니다.
 * 바운스 처리에 대해 숙지하고 ISP에서 성능을 확인합니다
-   * 특정 ISP에 잠재적인 문제나 블록이 있습니까?
-   * 불쾌한 놀라움과 낮은 캠페인 성과를 피하기 위해 많은 양을 보내기 전에 문제를 알고 있습니다.
+  * 특정 ISP에 잠재적인 문제나 블록이 있습니까?
+  * 불쾌한 놀라움과 낮은 캠페인 성과를 피하기 위해 많은 양을 보내기 전에 문제를 알고 있습니다.
 
 ### &#x200B;3. 데이터
 
 * 모든 획득 기법, 특히 등록 프로세스 및 GDPR을 식별합니다.
 * 구독자의 이메일 주소를 요청할 때 가능한 한 투명하게 알려주십시오.
-   * 어떤 콘텐츠를 전송하시겠습니까(뉴스레터, 프로모션, 이벤트)
-   * 얼마나 많은 이메일을 보낼 것인가 (매일, 매주, 매월)
+  * 어떤 콘텐츠를 전송하시겠습니까(뉴스레터, 프로모션, 이벤트)
+  * 얼마나 많은 이메일을 보낼 것인가 (매일, 매주, 매월)
 
 * 새 구독자에게 환영 이메일 보내기:
-   * 시작 이메일은 구독자가 새로운 콘텐츠에 의해 좌우되지 않고 구독을 취소하거나 스팸으로 표시되지 않도록 하는 데 도움이 됩니다.
-   * 시작 이메일은 또한 성능을 나타내는 좋은 지표입니다. 전달이나 상호 작용이 제대로 되지 않는 경우 성능이 저하되거나 데이터 수집이 제대로 되지 않는다는 징후입니다.
+  * 시작 이메일은 구독자가 새로운 콘텐츠에 의해 좌우되지 않고 구독을 취소하거나 스팸으로 표시되지 않도록 하는 데 도움이 됩니다.
+  * 시작 이메일은 또한 성능을 나타내는 좋은 지표입니다. 전달이나 상호 작용이 제대로 되지 않는 경우 성능이 저하되거나 데이터 수집이 제대로 되지 않는다는 징후입니다.
 
 ### &#x200B;4. 이메일 관리
 
@@ -112,9 +124,9 @@ ht-degree: 0%
 
 * 고객 라이프사이클에서 고객은 어디에 있습니까?
 * 그들이 이메일에 얼마나 관여하고 있습니까?
-   * 장바구니 포기 전자 메일과 뉴스레터
-   * 이메일 재활성화와 판매 출시 비교
-   * 장바구니 포기 전자 메일과 새 제품 출시 비교
+  * 장바구니 포기 전자 메일과 뉴스레터
+  * 이메일 재활성화와 판매 출시 비교
+  * 장바구니 포기 전자 메일과 새 제품 출시 비교
 * 고객이 브랜드로부터 콘텐츠를 받을 수 있는 용량은 얼마입니까?
 * 고객의 계절별 선호도는 무엇입니까?
 
@@ -156,4 +168,4 @@ ht-degree: 0%
 
 이 문서의 요약 및 재참여 전략 구현에 대한 실시간 데모를 보려면 [웨비나](https://adobecustomersuccess.adobeconnect.com/pm8goho13xuy/)를 시청하세요.
 
-[고객 성공](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=ko) 허브에서 전략 및 사고 리더십에 대해 자세히 알아보세요.
+[고객 성공](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html) 허브에서 전략 및 사고 리더십에 대해 자세히 알아보세요.

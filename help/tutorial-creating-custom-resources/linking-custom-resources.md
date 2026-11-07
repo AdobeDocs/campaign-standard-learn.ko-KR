@@ -35,7 +35,7 @@ ht-degree: 7%
 
 두 개의 사용자 지정 리소스를 연결하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27712?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507585?captions=kor&learn=on){transcript=true}
 
 **다음 단계**
 

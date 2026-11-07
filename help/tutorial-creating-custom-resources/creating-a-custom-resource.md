@@ -35,7 +35,7 @@ ht-degree: 28%
 
 이 비디오에서는 고객이라는 첫 번째 사용자 정의 리소스를 만듭니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27716?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507576?captions=kor&learn=on){transcript=true}
 
 **다음 단계**
 

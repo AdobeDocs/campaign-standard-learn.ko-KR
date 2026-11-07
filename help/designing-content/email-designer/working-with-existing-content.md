@@ -41,7 +41,7 @@ ht-degree: 7%
 
 웹 사이트에서 크리에이티브 콘텐츠를 검색하고 이메일 Designer으로 로드하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/25926?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507639?captions=kor&learn=on){transcript=true}
 
 ## 기존 HTML 콘텐츠 호환 {#making-existing-html-content-compatible}
 

@@ -43,7 +43,7 @@ ht-degree: 9%
 
 Adobe Experience Platform(AEP)에서 [!UICONTROL Experience Events]을(를) 매핑하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27265?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507395?captions=kor&learn=on){transcript=true}
 
 ## 추가 리소스
 

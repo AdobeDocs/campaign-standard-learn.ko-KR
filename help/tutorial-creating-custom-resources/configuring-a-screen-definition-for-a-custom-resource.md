@@ -35,7 +35,7 @@ ht-degree: 4%
 
 사용자 지정 리소스에 대한 화면 정의를 구성하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/27713?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507413?captions=kor&learn=on){transcript=true}
 
 **다음 단계**
 
